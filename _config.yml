@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://laskaux.github.io/"
+url: "https://laskaux-cn.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Laskauxian Diary
+  title: 山顶洞人日记
   avatar: 
   favicon: 
   gravatar: # Email MD5 hash
@@ -51,18 +51,18 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next"
-  str_previous_post: "Previous"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next_post: "下一篇"
+  str_previous_post: "上一篇"
+  str_next_page: "下一篇"
+  str_previous_page: "上一篇"
+  str_continue_reading: "继续阅读"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
   str_search_no_results: "No results found."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  #google_fonts: "Cabin:600,600i|Noto+Sans:400,400i,700,700i"
-  google_fonts: "Merriweather:400,400i,700|Lora:400,400i,700,700i"
+  google_fonts: "Cabin:600,600i|Noto+Sans:400,400i,700,700i"
+  # google_fonts: "Merriweather:400,400i,700|Lora:400,400i,700,700i"
 
   # Post navigation
   post_navigation: true
