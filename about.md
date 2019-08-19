@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About
 permalink: /about/
 feature-img: "assets/img/lascaux.jpg"
 ---
