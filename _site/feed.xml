@@ -1,189 +1,548 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laskauxian Diary</title>
+    <title>山顶洞人日记</title>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 07 Jan 2019 17:01:12 -0500</pubDate>
+    <pubDate>Thu, 19 Dec 2019 01:24:10 -0500</pubDate>
     
       <item>
-        <title>Rethink the Programmed Life</title>
-        <link>/2019/01/06/programmed-life.html</link>
-        <guid isPermaLink="true">/2019/01/06/programmed-life.html</guid>
-        <description>&lt;p&gt;It’s the first week of a new year. Looking back, historians have attached tags to the distinct epochs of modern history: the Renaissance, the Enlightenment, the Industrial Age, the Information Age, etc. While it’s premature to anticipate what’s coming next, the new millennium does reveal a few signatures, among which is the near-frictionless flow of common knowledge. “Journal” and “encyclopedia” are now more frequently denoting websites than giant volumes in libraries. Tens of languages are being taught online for free. Advanced learning is no longer confined in classrooms. Even elite universities are opening their doors to the middle class and underrepresented groups. The general public have never been so close to understanding and contributing to the frontiers of human civilization. The creativities of our species are being unleashed to an unprecedented extent.&lt;/p&gt;
+        <title>X年，Y首歌</title>
+        <link>/2019/12/18/songs.html</link>
+        <guid isPermaLink="true">/2019/12/18/songs.html</guid>
+        <description>&lt;hr /&gt;
 
-&lt;p&gt;The accessibility of knowledge, together with the improvement in life quality and social equality, should, in principle, prompt a generation-wide desire for independent thinking and pioneering ventures. Yet it is hardly being epitomized by the graduates of higher education institutions in general, including those from the most prestigious universities. Another trend is nevertheless pronounced—standardization. Among my friends pursing non-academic careers, around nine out of ten choose finance, consulting, or information technology, regardless of their backgrounds in college or graduate school. A fraction of those staying in academia—fortunately, not all of them—instead of cherishing the privilege of free inquiry and organized skepticism, seem to be more devoted to the cyclic game of grant-applying, result-producing, publishing, and advertising, to whom solid knowledge is merely a byproduct of their arduous work. Alternative options are occasionally considered as “unconventional” career paths, which may arouse curiosity, if not sympathy, among the ones in “mainstream” industries.&lt;/p&gt;
+&lt;h1 id=&quot;9-so-in-love&quot;&gt;9.	So In Love&lt;/h1&gt;
 
-&lt;p&gt;One has no reason to be disturbed if all these choices are based on clear self-awareness. In fact, a large fraction of them are not. In 1883, when addressing at the American Association for the Advancement of Science, physicist Henry A. Rowland pondered the fate of human creativity in the midst of the Second Industrial Revolution:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/vermeer.jpg&quot; alt=&quot;Kate&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Kiss Me, Kate&lt;/em&gt;  [1949] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt; &amp;amp; &lt;strong&gt;作词&lt;/strong&gt;：Cole Porter  &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=kRzrHCLlHdI&quot;&gt;Kelli O’Hara (饰 Lilli Vanessi)&lt;/a&gt;  [2019 纽约]&lt;/p&gt;
+
+&lt;p&gt;一封没有寄出的情书。第一次听到告白可以这样大气而深情。&lt;/p&gt;
+
+&lt;p&gt;好奇有没有人可以在录音棚里比 Kelli O’Hara 更美。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;8--schepen-in-de-nacht--荷兰语-&quot;&gt;8. 	Schepen in de nacht &lt;sup&gt; [荷兰语] &lt;/sup&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Elisabeth&lt;/em&gt;  (伊丽莎白)  [1992] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Sylvester Levay &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Michael Kunze &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=K0Rgn58K1T4&quot;&gt;Pia Douwes (饰 伊丽莎白皇后) &amp;amp; Jeroen Phaff (饰 弗朗茨·约瑟夫一世)&lt;/a&gt;  [1999 海牙]&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Man is a gregarious animal, and depends very much, for his happiness, on the sympathy of those around him; and it is rare to find one with the courage to pursue his own ideals in spite of his surroundings. … To-day the railroad and the telegraph, the books and the newspapers, have united each individual man with the rest of the world: instead of his mind being an individual, a thing apart by itself, and unique, it has become so influenced by the outer world, and so dependent upon it, that it has lost its originality to a great extent.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;p&gt;Ich bin erwacht in einem Kerker, &lt;br /&gt;
+我在牢中醒来&lt;/p&gt;
 
-&lt;p&gt;Rowland mourned the past ages of masters, and yet failed to foresee more great minds would emerge in the following century. However, what he pointed out as the suppression of individuality due to ubiquitous connections isn’t far from the truth. But it shouldn’t be simply attributed to the indecisive nature of human minds—through industrialization, a new “cult of progress” was formed, worshiping productivity, fortune, and competition. Followers are supposed to play according to the rules, contributing one’s time and intelligence in exchange for payment and recognition. A reward system was set up, acclaiming those outperforming their peers and elevated along the pyramid. Those reluctant to join are marginalized economically and socially. Nowadays, such systems are governing almost every sophisticated profession—business, technology, politics, law, as well as a substantial portion of academic research.&lt;/p&gt;
+  &lt;p&gt;Und Fesseln sind an meiner Hand. &lt;br /&gt;
+手上戴着锁链&lt;/p&gt;
 
-&lt;p&gt;One has to acknowledge that, in almost every aspect, the development of modern society has been greatly accelerated by the cult of progress. But I feel a bit uneasy to see it becoming autocratic—while stimulating the most vigorous minds, it imposes the pressure of abandoning originality and long-term goals for instant success, and evokes a sense of failure to those refusing to do so. Across the intellectual spectrum, pioneering accomplishments are rarely fruits of hypercompetition, opportunism, or populism. Instead, they are more likely to be crafted by genuine passion, determination, and the ability to pinpoint truly significant problems.&lt;/p&gt;
+  &lt;p&gt;Und meine Sehnsucht immer stärker— &lt;br /&gt;
+我日益渴求——&lt;/p&gt;
 
-&lt;p&gt;Decisions are left for us to make. As far as I’m concerned, the foundation of education isn’t the acquisition of professional skills, nor the so-called critical thinking and problem-solving, even if they can be well defined. It’s the formation of values—underivable yet influenceable guidelines on what we appreciate and distain, and what motivates us to think and act. If there happens to be a voice yearning for more than a programmed life, why not listen to it and see what it leads to. After all, its chance to survive, given the overall prosperity and openness of the new millennium, should exceed that at any time in the past. And we might be able to taste a pleasure not accessed by many—rather than merely winning or profiting, being how we boastfully call ourselves: &lt;em&gt;sapiens&lt;/em&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;Und Freiheit! Du, mir abgewandt! &lt;br /&gt;
+自由！你已离我而去&lt;/p&gt;
 
-</description>
-        <pubDate>Sun, 06 Jan 2019 00:00:00 -0500</pubDate>
-      </item>
-    
-      <item>
-        <title>The Turbulence of Metamorphosis</title>
-        <link>/2018/12/09/my-fair-lady.html</link>
-        <guid isPermaLink="true">/2018/12/09/my-fair-lady.html</guid>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;My Fair Lady&lt;/em&gt; isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.&lt;br /&gt;&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—Alexis Gargagliano, in &lt;em&gt;Lincoln Center Theater Review&lt;/em&gt;
+  &lt;p align=&quot;right&quot;&gt;——1854年，16岁的伊丽莎白（茜茜公主）写于新婚两周后 &lt;br /&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Indeed. For years, I’d been left the impression of &lt;em&gt;My Fair Lady&lt;/em&gt; being a fairy tale—charming, vibrant, witty, yet too miraculous to be real, too elegant to be affecting—until I walked into the Vivian Beaumont Theater, where I was showered with immense joy and pain.&lt;/p&gt;
-
-&lt;p&gt;Lerner &amp;amp; Loewe’s comedy isn’t merely about how individual lives could be reshaped by phonetics in unexpected ways, and it extends beyond a reflection on gender roles and social classes in Edwardian England. At the heart of &lt;em&gt;My Fair Lady&lt;/em&gt; are the elations and tears of the ones wishing to rewrite their fates, and the inherent intellectual strength and emotional weakness of human beings. While laughing and clapping, we might suddenly discover the bittersweet lesson behind the amusing story, the moment we start suspecting if the front curtain is just a mirror.&lt;/p&gt;
-
-&lt;p&gt;A considerable fraction of the fascination of &lt;em&gt;My Fair Lady&lt;/em&gt; originates from the straight play it is based on—George Bernard Shaw’s &lt;em&gt;Pygmalion&lt;/em&gt;. But the creativities of Alan Jay Lerner and Frederick Loewe aren’t secondary—musicalizing &lt;em&gt;Pygmalion&lt;/em&gt; without diluting its linguistic charm and dramatic tension would be a delicate task. Lerner and Loewe did it respectfully—the storyline, characters, and spoken dialogue of their musical are mostly inherited from the play. Consequently, the depth and sharpness of the Shavian classic are very well preserved.&lt;/p&gt;
-
-&lt;p&gt;However great the book is, any musical would pale without its score. “‘What is too silly to be said may be sung’—well, yes; but what is too subtle to be said, or too deeply felt, or too revealing or too mysterious—these things can also be sung and only be sung.” The remark by Kenneth Clark in his &lt;em&gt;Civilisation&lt;/em&gt; can’t be better illustrated by &lt;em&gt;My Fair Lady&lt;/em&gt;—when the dialogue takes a breath, music cuts in, amplifying the exhilaration, believes, wishes, prejudice, disdain, or confusion of the roles, then gives the floor back to words. Verbal wits and sensual pleasures constructively interfere, performing a duet that is delightfully serious and seriously delightful.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, music possesses a unique descriptive power. Songs form characters, often nearly define them—the whistling cockneys at Covent Garden, the grumbling servants at 27A Wimpole Street, the aristocratic gathering at Ascot, the mindlessly-in-love Freddy, and—the most vivid of all—Alfred P. Doolittle, the dancing and orating epicurean who can barely afford liquors but not morals. The hero and heroine, however, can’t be delineated even by five songs each. One has to go through every single line to decode the impetus of their fates.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-invincible-galatea&quot;&gt;The invincible Galatea&lt;/h2&gt;
-
-&lt;p&gt;She wasn’t noble, but had no fear. She sought from the crowd for witness to protect herself against the mistaken charge. She insisted on checking the “detective’s” notebook to ensure she’s free of accusation. She promised to call the police if being mistreated in the “boarding school.” She greeted a scorning gentleman with the spirit of a true citizen: “I’ve a right to be here if I like, same as you.”&lt;/p&gt;
-
-&lt;p&gt;She was poor, but never fell. She never drinks despite her bibulous family. She won’t be tempted by gold and diamonds. She struggled for her lodging, whereas still dreamed of warmth and love. As she constantly reminds herself and the world: “I’m a good girl, I am!”&lt;/p&gt;
-
-&lt;p&gt;It would be a huge mistake to think the pre-metamorphosis Eliza merely as a boisterous flowergirl desperate for every tuppence. Although in a less graceful condition, she lived with dignity, discipline, and hope. But nothing could match her knocking on the door of 27A Wimpole Street to negotiate the details of that mocking offer of speech training—she managed to filter out the condescendence, and seize the opportunity to learn and reform. She wouldn’t be easily hurt, but never supplicated. She reasoned that English lessons shouldn’t cost more than French lessons, and yet proposed a tuition that surprised the celebrated phoneticist, considering her limited income.&lt;/p&gt;
-
-&lt;p&gt;An experiment was launched, but yields unanticipated results: After four months, at the Ascot races, she already acquired a glorious pronunciation, yet didn’t know what to talk. Six weeks later, at the Embassy Ball, she could speak and behave like the most charming princess. The linguistic experiment per se should be called a success. Nevertheless, Eliza is transformed into not a lady but a perfect doll, who can only be manipulated and rely on the kindness of others.&lt;/p&gt;
-
-&lt;p&gt;Earlier on that cold spring night, she sat on a dustcart, picked up cabbage leaves as fans, and sang the sweetest melody in London:&lt;/p&gt;
-
 &lt;blockquote&gt;
-  &lt;p&gt;All I want is a room somewhere; &lt;br /&gt;
-Far away from the cold night air. &lt;br /&gt;
-With one enormous chair; &lt;br /&gt;
-Oh, wouldn’t be loverly? &lt;br /&gt;
-. . . &lt;br /&gt;
-Someone’s head restin’ on my knee; &lt;br /&gt;
-Warm and tender as he can be, &lt;br /&gt;
-Who takes good care of me; &lt;br /&gt;
-Oh, wouldn’t it be loverly?&lt;/p&gt;
+  &lt;p&gt;Für mich keine Liebe, &lt;br /&gt;
+我不要爱&lt;/p&gt;
+
+  &lt;p&gt;Für mich keinen Wein； &lt;br /&gt;
+我不要酒&lt;/p&gt;
+
+  &lt;p&gt;Die eine macht übel, &lt;br /&gt;
+一个令人痛苦&lt;/p&gt;
+
+  &lt;p&gt;Der andere macht spei’n! &lt;br /&gt;
+一个令人作呕&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;——30年后，伊丽莎白写下诗集《北海之歌》(1885—1887) &lt;br /&gt;
+&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Six months later, she sits in a luxurious armchair next to a fireplace, without feeling a bit of warmth. She converses with duchesses, dances with princes, yet not receiving any care. She hurls the slippers at her Professor and escapes from her private school. At Covent Garden, besides the old columns and folks, she hums her &lt;em&gt;Loverly&lt;/em&gt; tune, weeping. She now belongs to nowhere—too genteel to be a flowergirl, yet too weak to be a lady. She gets everything in her dream, but nothing is lovely.&lt;/p&gt;
+&lt;p&gt;Pia Douwes 用八种语言录过伊丽莎白。她用其他语言都是在唱歌，唯独用母语像是在倾诉。&lt;/p&gt;
 
-&lt;p&gt;It’s not the end of the transformation. It’s only the beginning, the first step in a new world.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;She leaves her egocentric and manipulative tutor. She dries her tears and moves on—this time, with an elegant speech and an indomitable heart, which has endured the pains as she learns to tell “Spain” from “Spine,” domination from care, limerence from love, and etiquette from respect. She doesn’t mind evolving into a more cultured Ms. Doolittle, and meanwhile will remain that &lt;em&gt;loverly&lt;/em&gt; Eliza.&lt;/p&gt;
+&lt;h1 id=&quot;7-wouldnt-it-be-loverly&quot;&gt;7.	Wouldn’t It Be Loverly&lt;/h1&gt;
 
-&lt;p&gt;That’s the making of the fairest lady.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/strand.jpg&quot; alt=&quot;Eliza&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;the-vulnerable-pygmalion&quot;&gt;The vulnerable Pygmalion&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;My Fair Lady&lt;/em&gt;  (窈窕淑女)  [1956] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Frederick Loewe &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Alan Jay Lerner &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=i-KvtsfyAa8&quot;&gt;Julie Andrews (饰 Eliza Doolittle)&lt;/a&gt;  [1961 纽约]&lt;/p&gt;
 
-&lt;p&gt;He lives in his profession. He invents his own universal alphabets and arranges his home like a phonetic laboratory. He can pronounce 130 different vowels and place a person by their accent within six miles in England or two miles in London. To him, an articulate speech is a divine gift from the God:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;6-i-dont-care-much&quot;&gt;6.	I Don’t Care Much&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/transport_roman_halter.jpg&quot; alt=&quot;Emcee&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Cabaret&lt;/em&gt;  [1966] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：John Kander &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Fred Ebb &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=qDS3ONRgj58&quot;&gt;Alan Cumming (饰 The Emcee)&lt;/a&gt;  [1998 纽约]&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;5-thuys-death--this-is-the-hour&quot;&gt;5.	Thuy’s Death – This Is the Hour&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/guernica_edit.jpg&quot; alt=&quot;Kim&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Miss Saigon&lt;/em&gt;  (西贡小姐)  [1989] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Claude-Michel Schönberg &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Alain Boublil &amp;amp; Richard Maltby Jr. &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=jeKoCeDIt84&quot;&gt;Lea Salonga (饰 Kim) &amp;amp; Robert Seña (饰 Thuy) &amp;amp; Leo Tavarro Valdez (饰 The Engineer)&lt;/a&gt;  [2000 马尼拉]&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;4-wishing-you-were-somehow-here-again&quot;&gt;4.	Wishing You Were Somehow Here Again&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/electra.jpg&quot; alt=&quot;Chistine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;The Phantom of the Opera&lt;/em&gt;  (歌剧魅影)  [1986] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Andrew Lloyd Webber &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Charles Hart &amp;amp; Richard Stilgoe &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.bilibili.com/video/av21476126/&quot;&gt;Sierra Boggess (饰 Christine Daaé)&lt;/a&gt;  [2011 伦敦]&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;3-not-a-day-goes-by&quot;&gt;3.	Not a Day Goes By&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/camille.jpg&quot; alt=&quot;Beth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Merrily We Roll Along&lt;/em&gt;  [1981] &lt;br /&gt;
+&lt;strong&gt;作曲／作词&lt;/strong&gt;：Stephen Sondheim  &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=5kMlQgyz834&quot;&gt;Bernadette Peters (饰 Beth)&lt;/a&gt;  [1998 伦敦]&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;2-this-nearly-was-mine&quot;&gt;2.	This Nearly Was Mine&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/arearea.jpg&quot; alt=&quot;deBacque&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;South Pacific&lt;/em&gt;  (南太平洋)  [1949] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Richard Rogers  &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Oscar Hammerstein II &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=4nihxGp6mZw&quot;&gt;Paulo Szot (饰 Emile de Becque)&lt;/a&gt;  [2010 纽约]&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;1-a-little-fall-of-rain&quot;&gt;1.	A Little Fall of Rain&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/eponine_edit.jpg&quot; alt=&quot;Eponine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Les Misérables&lt;/em&gt;  (悲惨世界)  [1985] &lt;br /&gt;
+&lt;strong&gt;作曲&lt;/strong&gt;：Claude-Michel Schönberg &lt;br /&gt;
+&lt;strong&gt;作词&lt;/strong&gt;：Alain Boublil &amp;amp; Herbert Kretzmer &lt;br /&gt;
+&lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=IyPy2Iqq-NM&quot;&gt;Lea Salonga (饰 Éponine Thénardier) &amp;amp; Michael Ball (饰 Marius Pontmercy)&lt;/a&gt;  [1995, 伦敦]&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Think what you’re dealing with. The majesty and grandeur of the English language. It’s the greatest possession we have. The noblest sentiments that ever flowed in the hearts of men are contained in its extraordinary, imaginative and musical mixtures of sounds.&lt;/p&gt;
+  &lt;p&gt;她用她那只穿了孔的手痉挛地抓住马吕斯的手，好象已不再感到疼痛了。她把马吕斯的手放在她布衫的口袋里。马吕斯果然摸到里面有一张纸。&lt;/p&gt;
+
+  &lt;p&gt;“拿去。”她说。&lt;/p&gt;
+
+  &lt;p&gt;马吕斯拿了信。她点点头，表示满意和同意。&lt;/p&gt;
+
+  &lt;p&gt;“现在为了谢谢我，请答应我……”&lt;/p&gt;
+
+  &lt;p&gt;她停住了。&lt;/p&gt;
+
+  &lt;p&gt;“答应什么？”马吕斯问。&lt;/p&gt;
+
+  &lt;p&gt;“先答应我！”&lt;/p&gt;
+
+  &lt;p&gt;“我答应您。”&lt;/p&gt;
+
+  &lt;p&gt;“答应我，等我死了，请在我的额头上吻我一下。我会感觉到的。”&lt;/p&gt;
+
+  &lt;p&gt;她让她的头重新落在马吕斯的膝上，她的眼睛也闭上了。他以为这可怜人的灵魂已经离去。爱潘妮躺着一动也不动，忽然，正当马吕斯认为她已从此长眠时，她又慢慢睁开眼睛，露出的已是非人间的那种幽深渺忽的神态，她以一种来自另一世界的凄婉语气说：&lt;/p&gt;
+
+  &lt;p&gt;“还有，听我说，马吕斯先生，我想我早就有点爱您呢。”&lt;/p&gt;
+
+  &lt;p&gt;她再一次勉力笑了笑，于是溘然长逝了。&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;——《悲惨世界》 第四部 第十四卷
+&lt;br /&gt;
+&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;He sincerely believes so.&lt;/p&gt;
-
-&lt;p&gt;The world of Henry Higgins is simple and orderly—he uses the laws of linguistics or science in general as the measure of everything. In his mind, humans are classified according to their speeches, and the attractiveness of a person is determined by either their intellectual capacity or the uniqueness of their dialect. He despises anyone who “incarnates insult to English language” regardless of their gender, look, status, or occupation. He has equally low esteem for the uneducated populace and the pretentious, empty-headed nobles. He detests all characters against rationality, independence, and serenity. He is extremely principled, and assumes his principles ought to be obeyed by the whole civilized world. Of course, they aren’t.&lt;/p&gt;
-
-&lt;p&gt;His contentious beliefs are challenged by Eliza. He can’t understand why the grand success of his experiment leads to her emotional breakdown. Moreover, he observes a strange feeling that has never existed before:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I was serenely independent and content before we met; &lt;br /&gt;
-Surely I could always be that way again—and yet &lt;br /&gt;
-I’ve grown accustomed to her looks; &lt;br /&gt;
-Accustomed to her voice; &lt;br /&gt;
-Accustomed to her face. &lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;At Mrs. Higgins’ place, he is defeated by the new Lady Eliza. He encounters his own coldness and arrogance. He is told how hurtful his words and deeds can be, and that he plays nothing but a replaceable role to any living creature. Yet he has no choice but to confess—acknowledging the truth complies with his values more than pretending to be deaf.&lt;/p&gt;
-
-&lt;p&gt;The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza enters with her voice played on a gramophone, delivers her famous last line, and exits downstage, slowly disappearing from Higgins’ sight. Note that aisles haven’t been used as exits in interior scenes throughout the show, which, in my opinion, implies Eliza’s last presence is imaginary. In reality, as she promised, she never sees him again. He bids farewell to her—a rare counterpart of him, who truly appreciates his enthusiasm, shares his perseverance, and perceives his frailty. He will start a new chapter of his life, this time, learning to be a human.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;being-transformed-who-are-we&quot;&gt;Being transformed, who are we?&lt;/h2&gt;
-
-&lt;p&gt;Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people may change their fates. Many are undergoing a metamorphosis no easier than that of Eliza, especially those pursuing higher education at a prestigious university in a foreign country.&lt;/p&gt;
-
-&lt;p&gt;I’m now a few years older than Eliza, yet still struggling to accurately pronounce the fifteen distinct vowels in American English: the near-close near-front unrounded /ɪ/, the near-close near-back rounded /ʊ/, etc. I’m rebuilding my vocabulary, using the handbooks intended for teenagers or those without a decent education. I’m assimilating a different set of attitudes and methods in scientific research. I’m resetting my knowledge, especially that on social sciences and humanities. I’m acquiring the basic skills of writing and communication. I’m overhauling my manners and values. There are nights I couldn’t put my books down, either too concentrated or too occupied. There are also “The Rain in Spain” moments, when “at once my heart took flight.” I’m surrounded by enlightening mentorships, as well as aimless zeal. I’ve be constantly encouraged, yet occasionally mocked.&lt;/p&gt;
-
-&lt;p&gt;We’re exploring a world we’ve never been to. We’re being transformed into someone we aren’t familiar with. We’re approaching thousands of new excitements, yet distanced from many simple joys. We’re gaining knowledge and achievements, but they don’t naturally bring care or love.&lt;/p&gt;
-
-&lt;p&gt;We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake.&lt;/p&gt;
-
-&lt;p&gt;Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched the transformation, and what essentially powers it. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked on the door of our 27A Wimpole Street and said:&lt;/p&gt;
-
-&lt;p&gt;“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 09 Dec 2018 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 18 Dec 2019 00:00:00 -0500</pubDate>
       </item>
     
       <item>
-        <title>The Duties of Scientists</title>
-        <link>/2018/12/01/the-duties-of-scientists.html</link>
-        <guid isPermaLink="true">/2018/12/01/the-duties-of-scientists.html</guid>
-        <description>&lt;p&gt;We are living in an era when scientific research, like trade and manufacture, has grown into a sophisticated social activity—flourishing, dynamic, and highly organized. The thrill of glancing through publications on high-profile academic journals can only be matched by that of watching fluyts sailing into and out of the 17th-century Amsterdam or Model Ts coming off the 1920s Ford assembly line. But the prosperity of science doesn’t provide straightforward answers to two classes of questions: those on the origin of science and those on its destination—namely, &lt;em&gt;why we do science&lt;/em&gt; and &lt;em&gt;what science is used for&lt;/em&gt;. We’ve been forced to reconsider the relation between science and human society by a series of disconcerting events, which are, in recent years, becoming more perplexing.&lt;/p&gt;
+        <title>重逢（一）：时钟</title>
+        <link>/2019/08/11/clock.html</link>
+        <guid isPermaLink="true">/2019/08/11/clock.html</guid>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt; &lt;b&gt; 一 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+在认知科学中，人对过去时光的追忆叫做&lt;strong&gt;自传体记忆 (autobiographical memory)&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;A few days ago, it was announced that two gene-edited babies have been born in China. Interestingly, the academia and the market reacted oppositely to this controversial leap: Scientists around the world are overwhelmingly denouncing this clinical application as irresponsible, unethical, and medically unnecessary. But investors seemed to find the smell of success—top stocks on gene-editing technology unanimously traded higher. Accessible information indicates this in-human trial is most likely to be funded by private capital and aimed at commercial interests. And the so-called “unexpected leakage” of results is in fact carefully orchestrated. Notably, this one-year-and-nine-month experiment would be impossible without an interdisciplinary team including experts in gene editing, sequencing, in vitro fertilization, animal testing, financing, and publicity, as well as the participation of an HIV care organization and the permission from medical regulation agencies. All these professionals collaborated quietly and introduced the twins to our world, without realizing the mark they would add to the timeline of human evolution.&lt;/p&gt;
+&lt;p&gt;自传体记忆是一种综合的长期外显记忆，同时涉及我们对世界的总体知识和对人物、事件的具体印象。婴幼儿或因神经系统发育不成熟，或由于沟通能力和自我意识有限，通常不能留下稳固的自传体记忆。这就是&lt;strong&gt;“童年失忆 (childhood amnesia)”&lt;/strong&gt;现象——每个人都有一个开始记事的年龄（常见为三四岁），在那之前的记忆几乎是空白。&lt;/p&gt;
 
-&lt;p&gt;But to me, the Theranos case—first revealed in 2015 and still under investigation—is even more terrifying: a nine-billion-dollar biotech unicorn could be built entirely on deception, and yet had won enormous acclaims—a charismatic young founder, a “revolutionary” blood-testing technology, over 700-million-dollar investment, a board of directors including seven eminent statesmen, and in every aspect, a new Silicon Valley miracle. Science, medicine, business, law, and media—most brilliant inventions of human beings—were maneuvered by their best practitioners to mislead doctors, endanger patients, and defraud investors in the name of ideas, innovations, and “changing the world.” The meticulously designed fraud could be continuing had it not been for an investigative reporter with &lt;em&gt;The Wall Street Journal&lt;/em&gt; and a brave young man—the grandson of a Theranos trustee and former US Secretary of State.&lt;/p&gt;
+&lt;p&gt;心理学家还发现，人在记事之初的零星记忆很多并没有真实发生过，而是根据想象或他人讲述拼接、虚构而成。这像极了古老民族在有可信历史之前那些似虚似实的传说，比如大禹治水，比如特洛伊战争。&lt;/p&gt;
 
-&lt;p&gt;Technological hypes have never appeared so frequently while being keenly applauded. What should be condemned aren’t the moral wrongs of a few individuals. It’s a culture, which most STEM students are currently immersed in, that needs to be reexamined—the one that prioritizes &lt;em&gt;what sounds cool&lt;/em&gt; and &lt;em&gt;what pays more&lt;/em&gt;, instead of finding out &lt;em&gt;what benefits the society in the long term&lt;/em&gt;. We are surrounded by the view that the ultimate goal of scientific research is commercialization. We are being indoctrinated in a narrow definition of success that puts impact, fame, and reward ahead of anything else. We might occasionally find our education distanced from the basic mission of science—to answer, to our best knowledge, &lt;em&gt;what is true&lt;/em&gt;, &lt;em&gt;what is not true&lt;/em&gt;, and &lt;em&gt;what we don’t know&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;我完全不记得三岁之前的任何事，包括那时的家与家人；我隐约记得四岁前后的一些事，可它们太过模糊和零碎，以至于我无法确定这些回忆是否真实。&lt;/p&gt;
 
-&lt;p&gt;Personally, I can foresee a tragedy if science is one day dominated by the rules of the business world and loses the values of its own. An often overlooked point is: at the most fundamental level, science reshapes the world not because it makes people more productive, creative, or competitive—though it does—but because while establishing it people learn to be respectful to truths. Outside their laboratories, scientists have to watch closely how the knowledge they created is applied to the real world. They shoulder the obligations to prevent science from being misinterpreted or misused, and to ensure that our greatest intellectual endeavor is serving the common good, or—as a tribute to an old address—of, by, and for the humanity. I say the most irreplaceable role of scientists in the modern society is that of a navigator—leading the crew to catch the ocean currents and avoid the icebergs, and sharing their unbiased information on the best routes for the ship to move on.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;能够确信的记忆始于一个特定的时间——四岁的冬天，我开始与奶奶爷爷住在一起，一直到上学前。&lt;/p&gt;
+
+&lt;p&gt;搬到奶奶爷爷家成为了我个人记忆的原点。但我在很长时间里都不理解这是为什么——莫非搬家与儿童认知发育之间有什么神秘的联系？&lt;/p&gt;
+
+&lt;p&gt;最近似乎才明白了一点。灵感来自老板一句与此毫不相关的 “格言”：“展示科学数据最最重要的&lt;strong&gt;单位&lt;/strong&gt;和&lt;strong&gt;坐标&lt;/strong&gt;。”&lt;/p&gt;
+
+&lt;p&gt;是奶奶爷爷教会了我读这个世界最基本的坐标。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 二 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+一切从时间开始。&lt;/p&gt;
+
+&lt;p&gt;餐桌旁，我常坐的椅子背对着挂历。从此我有了一项固定的餐后游戏。&lt;/p&gt;
+
+&lt;p&gt;每个数字代表一天，一行叫做一个星期，翻一页是一个月，一本挂历可以用一年。&lt;/p&gt;
+
+&lt;p&gt;那时的我，觉得第二年就是远到无法想象的将来。&lt;/p&gt;
+
+&lt;p&gt;依稀记着我会认的第一个“今天”是1月17日。之后每个月初翻日历我都必须在场，那在我幼小的心里是个庄严的仪式。&lt;/p&gt;
+
+&lt;p&gt;后来慢慢认识了小字写的农历和节气，知道了寒暑雨露、春夏秋冬。&lt;/p&gt;
+
+&lt;p&gt;爷爷退休之后继续在单位发挥余热，每天与我相处最久的人是奶奶。&lt;/p&gt;
+
+&lt;p&gt;为了解释爷爷几点下班，奶奶教会了我读表。我的世界从此有了时、分、秒。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 三 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+一天里，与时间相伴的是周而复始的阳光。&lt;/p&gt;
+
+&lt;p&gt;早晨，太阳照进卧室把我晒醒；中午，阳光挪到阳台和客厅。奶奶告诉我那是东与南。下午，隔壁邻居要被西晒；一天都见不到阳光的阴面就是北。&lt;/p&gt;
+
+&lt;p&gt;楼门和家门都朝北。当挂钟指向爷爷该下班的数字，我就趴在阳台上，看着爷爷从院子远处走到楼下，然后跑到卧室目送爷爷拐进楼门，再去客厅等爷爷上楼进屋。&lt;/p&gt;
+
+&lt;p&gt;爷爷每次在窗户上看见我，都会高兴地挥手。&lt;/p&gt;
+
+&lt;p&gt;奶奶在阳台最明媚的一角养满了花，悉心栽培了很多年。那一片枝繁叶茂，远远地从楼下都能看到。最大的一盆是刺梅，长得很高，要剪枝才能不顶到玻璃窗。到了牡丹的花期，家里就有了一年最明亮的色彩。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 四 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+在孩子心中，每个亲近的人都有一些非常伟岸的时刻。&lt;/p&gt;
+
+&lt;p&gt;奶奶最让我崇拜的是她会用家里那台老式缝纫机。&lt;/p&gt;
+
+&lt;p&gt;我还记得机器的样子：深棕色的木质台面，打开顶盖可以把黑色的机身抬起，右侧的手轮通过皮带连着脚下的踏板。&lt;/p&gt;
+
+&lt;p&gt;穿好针线，摇起手轮或踩下踏板，整齐的针脚就留在了布料上。&lt;/p&gt;
+
+&lt;p&gt;这绝对是我当时见过最神奇的操作。&lt;/p&gt;
+
+&lt;p&gt;在缝纫机旁量身用的皮尺上，我看到了一米是多长。&lt;/p&gt;
+
+&lt;p&gt;奶奶告诉我，如果没有尺子，一米就是爷爷的一大步；我再长大一点，步子也会像爷爷那样。&lt;/p&gt;
+
+&lt;p&gt;爷爷有一套组合工具，我用它拆过家里的不少东西。&lt;/p&gt;
+
+&lt;p&gt;有次一个闹钟坏了，我自告奋勇地去修，拆下来的一堆齿轮再没能装上。&lt;/p&gt;
+
+&lt;p&gt;后来再拆东西就变得小心许多。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 五 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+我觉得我小时候不是个机灵的孩子，好奇心还没有现在强。证据之一是，学会读表后十多年都没有认真关心过钟为什么会转。&lt;/p&gt;
+
+&lt;p&gt;更没问过时间是什么，或者时间都去哪了。&lt;/p&gt;
+
+&lt;p&gt;直到某天读到，&lt;strong&gt;时钟本质就是周期性运动的物理系统，被用作其它自然现象的进程参照。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所谓记录时间，就是在计数参照物的周期。运动周期最稳定的物体，就会被选作时间的标准。&lt;/p&gt;
+
+&lt;p&gt;人们最早仰望星空，不是为了深邃或浪漫。&lt;strong&gt;天体&lt;/strong&gt;的周期运动使它们成为了理想的天然时钟。人类用日月星辰定义时间，从石器时代延续到半个世纪前。&lt;/p&gt;
+
+&lt;p&gt;1657年，海牙钟表师 Salomon Coster 制出了惠更斯设计的第一只&lt;strong&gt;摆钟&lt;/strong&gt;。之后近三百年里，机械摆钟都是最精确的人造计时工具。&lt;/p&gt;
+
+&lt;p&gt;直到&lt;strong&gt;石英钟&lt;/strong&gt;在贝尔实验室问世——通过压电效应将机械振动转化为电信号的石英晶体振荡器是频率更高更稳的“钟摆”。&lt;/p&gt;
+
+&lt;p&gt;再后来，物理学家学会了用电磁波与&lt;strong&gt;原子&lt;/strong&gt;内部量子化能级的共振来计时。1967年起，“秒”被定义为铯-133原子无扰动下基态超精细能级间 9,192,631,770 次跃迁的时间。&lt;/p&gt;
+
+&lt;p&gt;今天，我的每一个量子电路实验里，都有一台便携式铷-87原子钟同步着所有的纳秒微波脉冲。它在二十年内的误差不超过两亿分之一。&lt;/p&gt;
+
+&lt;p&gt;而今最精密的光晶格原子钟可以精确到一百亿亿分之一，即平均在宇宙寿命内误差不到一秒。&lt;/p&gt;
+
+&lt;p&gt;Arthur Schawlow 用一句话总结现代精密测量：“不要测频率（时间）之外的任何物理量。”&lt;/p&gt;
+
+&lt;p&gt;2019年它被写进了自然科学的“基本法”——从此，所有基本国际单位都只通过&lt;strong&gt;时间单位&lt;/strong&gt;与&lt;strong&gt;自然基本常数&lt;/strong&gt;来定义。&lt;/p&gt;
+
+&lt;p&gt;这又是一个科技进步主义的叙事——随着小数点后更多的数位逐渐清晰，我们仿佛在离世界的真相越来越近。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 六 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+然而，测量最精确的物理量，恰恰可能是我们最不理解的物理量。&lt;/p&gt;
+
+&lt;p&gt;七千年前，史前埃及人就在 Nubian 沙漠深处的 Nabta Playa 竖起了环形的砂岩石阵。与小时候的我一样，人类在文明的童年会认的第一组自然坐标，就是用太阳方位分辨时间与季节。&lt;/p&gt;
+
+&lt;p&gt;而关于“什么是时间”的疑问，从那时就开始困扰着人们。它实在太过神秘——无法停留，无法捕捉，无声无息，却支配着一切。&lt;/p&gt;
+
+&lt;p&gt;无数思想者留下了各式的回答。直到物理学家给出了一个“标准答案”：&lt;strong&gt;时间就是时钟的读数。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这是现代科学对时间的明确定义。但它同时坦白了科学的底线：&lt;strong&gt;能够无歧义定义的只是时间的测量，而非时间本身&lt;/strong&gt; [1]。无论日晷还是原子钟都不能告诉我们时间的本质究竟是什么。&lt;/p&gt;
+
+&lt;p&gt;或者时间应该怎样过。&lt;/p&gt;
+
+&lt;p&gt;大多数人的成长都是个计时越来越细的过程。规划我们日常的，从日历，到课程表，再到手机电脑上同步的日程提示。&lt;/p&gt;
+
+&lt;p&gt;我们从大学甚至中学起就被教育，在同龄人中脱颖而出的关键是在更短的时间内做更多的事。至于做什么，遵循各种成功经验就好。其它没用的，都是浪费时间。&lt;/p&gt;
+
+&lt;p&gt;如今最受“精英阶层”欢迎的畅销书类型是时间管理。积极上进的人就应该将自己的每一分钟填满，仿佛忙碌就是生活的意义。&lt;/p&gt;
+
+&lt;p&gt;直到我们不再有心情张望世界，不再有闲暇陪伴家人、陪伴自己。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 七 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+上小学后，我回到了大城市的另一端，平时不经常见到爷爷奶奶。很长一段时间里，我几乎每天放学后都要给奶奶打电话，多数时候只是闲聊。听着她的声音，仿佛就回到了从前住在一起的日子。&lt;/p&gt;
+
+&lt;p&gt;逐渐地，我放学晚了，作业多了，能和奶奶聊天的时间变少了。我的问题，她也慢慢答不上来了。&lt;/p&gt;
+
+&lt;p&gt;奶奶只在解放初上过初中，十几岁独自来西北谋生，与爷爷一起勤劳诚实善良了一辈子，见证了家乡快进式的工业革命，一点点过上了富足的生活。&lt;/p&gt;
+
+&lt;p&gt;家里七十年代有了全院第一台电视机。爸爸是全家第一个大学生。我则飞到了更远的地方。&lt;/p&gt;
+
+&lt;p&gt;远和忙到顾不上回家。&lt;/p&gt;
+
+&lt;p&gt;上大学后，要强的我假期从不肯在家久留，与爷爷奶奶变成了一年见一两次面再加一两个电话。&lt;/p&gt;
+
+&lt;p&gt;奶奶不用缝纫机了。爷爷一步也迈不了一米了。&lt;/p&gt;
+
+&lt;p&gt;但花盆、报纸、老花镜都还是以前的样子。我的照片也一直摆在他们的书桌前。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 八 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+来美国后的第一个元宵节，我与团聚的一家人视频聊天。爷爷奶奶气色很好，笑得特别开心。我给他们看了老宿舍里的壁炉，说夏天回家看他们。&lt;/p&gt;
+
+&lt;p&gt;几天后，奶奶走了，非常突然。虽然之前也曾因冠心病多次入院，但这一次没能抢救过来。&lt;/p&gt;
+
+&lt;p&gt;收到爸爸的短信时，我刚刚下课，呆坐在物理系的教室里。&lt;/p&gt;
+
+&lt;p&gt;黑板上写着描述自然规律的方程。可第一个向我介绍世界的人，却离开了。&lt;/p&gt;
+
+&lt;p&gt;第一次觉得相隔半个地球是如此遥远，远到我来不及乘任何亚音速的交通工具赶回家。&lt;/p&gt;
+
+&lt;p&gt;几天后，我夜里梦见奶奶来美国看我，我找了张小桌子，这样她可以在宿舍的壁炉前看报纸。&lt;/p&gt;
+
+&lt;p&gt;现实中错开的时空，也许只能在梦中交汇。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 九 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+放假去爷爷家，客厅里挂着奶奶的遗像。阳台上的花还开着，还是生机盎然。&lt;/p&gt;
+
+&lt;p&gt;地球对面，我实验台上的铷原子仍在一秒钟振荡68亿次，精准地报着时。&lt;/p&gt;
+
+&lt;p&gt;那个时刻，我又开始想，什么是时间。&lt;/p&gt;
+
+&lt;p&gt;与其纠结于复杂的哲学思辨，不如暂时接受科学的简单回答：&lt;strong&gt;世上没有时间，只有时钟。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;并且世上没有标准时钟&lt;/strong&gt; [2]。我们看哪只钟，时间对我们而言就是什么。&lt;/p&gt;
+
+&lt;p&gt;一切周期都是时钟，可以是原子的跃迁、齿轮的擒纵、太阳的升落。&lt;/p&gt;
+
+&lt;p&gt;也可以是缝纫机的针脚、家人下班的身影、植物的花期，或是人的一生 [3]。&lt;/p&gt;
+
+&lt;p&gt;每个周期，都在它特有的时间尺度上，于关心它的人心中占据着不可替代的位置。&lt;/p&gt;
+
+&lt;p&gt;珍惜时间，绝不仅是填满日常最短的周期，而是要会留意对我们最重要的周期，尤其是那些并不严格、但充满惊喜的长周期。&lt;/p&gt;
+
+&lt;p&gt;比如每一次相遇、团聚、重逢，每一次启蒙、发现、领悟，或是生活中每一件美好的小事。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 十 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+回到美国后，我买了几棵竹子和一盆仙人掌，在宿舍里养着。&lt;/p&gt;
+
+&lt;p&gt;竹子枯过两棵，又换了新的。仙人掌一直绿到现在。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[1] “时间是时钟的读数”属于典型的操作定义 (operational definition)——用获取信息的具体实践流程来定义概念，而不去讨论概念的理论本质。这种定义方法看似不够严谨深刻，但因自然科学的经验属性反而成为了现代科学的准则。一切科学概念本质上都是操作定义。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[2] 当前世界的计时标准基于&lt;strong&gt;国际原子时 (temps atomique international, TAI)&lt;/strong&gt;，它由全世界七十多个实验室里五百多台原子钟的读数经国际权度局 (Bureau international des poids et mesures, BIPM) 加权平均而成。国际原子时再减去补偿地球自转变缓的闰秒 (leap second) 才是通用的&lt;strong&gt;协调世界时 (temps universel coordonné, UTC)&lt;/strong&gt;。截至2019年，协调世界时滞后国际原子时37秒。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[3] 人们在编订历法时就常把人的理想寿命作为纪年的回归单位，比如玛雅历循环的52年、中国干支循环的60年和公元世纪的100年。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 11 Aug 2019 00:00:00 -0400</pubDate>
       </item>
     
       <item>
-        <title>A Second Childhood</title>
-        <link>/2018/11/18/a-second-childhood.html</link>
-        <guid isPermaLink="true">/2018/11/18/a-second-childhood.html</guid>
-        <description>&lt;p&gt;For a while I’ve been finding myself younger than I look, sometimes almost a schoolboy:&lt;/p&gt;
+        <title>重逢：序</title>
+        <link>/2019/07/26/prologue.html</link>
+        <guid isPermaLink="true">/2019/07/26/prologue.html</guid>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt; &lt;b&gt; 一 &lt;/b&gt; &lt;/center&gt;
 
-&lt;p&gt;I’m curious about how a sewing machine stitches, how a horn pitches, and how a Space Shuttle lands.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;在一个叫德国的国家&lt;br /&gt;
+有一座城市叫柏林&lt;br /&gt;
+那里是世界的末日&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;I’m learning to better convey myself in the language I speak every day.&lt;/p&gt;
+&lt;p&gt;四年前的三月，一个阴冷的下午，我坐在纽约54街的剧场里。台上演着 &lt;em&gt;Cabaret&lt;/em&gt; 的最后一幕：年轻的美国作家克里夫靠在柏林火车站的长椅上，在日记里与这座自己生活了四年、如今令人绝望的城市告别。&lt;/p&gt;
 
-&lt;p&gt;I feel more at ease reading a history book with a dictionary, and yet, one week later, I often can’t remember the names of those heroes and cities.&lt;/p&gt;
+&lt;p&gt;时间是1933年五月。&lt;/p&gt;
 
-&lt;p&gt;Until a few months ago, I couldn’t tell a hyphen, an en dash, and an em dash apart.&lt;/p&gt;
+&lt;p&gt;现实中，克里夫的真名叫 Christopher Isherwood。那本日记后来成了《再见柏林》，它勾勒出了一个五光十色的德国首都如何在不被人察觉中一步步滑向疯狂。&lt;/p&gt;
 
-&lt;p&gt;I’m puzzled by a new foreign language—why there have to be more tenses than what seems necessary.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;我是一台不关快门的相机，被动地记录着，无暇思考…… 但总有一天，这些记录要被洗印出来，显影、定影。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;. . .&lt;/p&gt;
+&lt;p&gt;这是初到柏林的 Isherwood。&lt;/p&gt;
 
-&lt;p&gt;It is as if I were back to my childhood.&lt;/p&gt;
+&lt;p&gt;差不多也是刚到美国时的我。&lt;/p&gt;
 
-&lt;p&gt;Moving to a new country for graduate school means a lot more than pursing a degree or getting professional training. The elements of my days are different from what I was used to. I’m holding thoughts and attitudes I could never imagine. I’ve been encountering opinions that are the exact opposite of mine, yet closer to the truth. There are moments of exhilaration, as well as of unease and doubt—like what a child would experience in an exotic garden without their parents around.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’m being taught to explore science as the way nature works, instead of merely as equations and models on paper.&lt;/p&gt;
+&lt;center&gt; &lt;b&gt; 二 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+同一年，因为相似的绝望从同一座火车站离开的还有当时任教于柏林大学的薛定谔。&lt;/p&gt;
 
-&lt;p&gt;It has been implanted in my mind that in research, integrity, clarity, and originality outweigh productivity and popularity, as they should always do.&lt;/p&gt;
+&lt;p&gt;或许是巧合，薛定谔的学术生涯似乎从此转了个弯：他不再只是写下波动方程的量子力学奠基人，还成了充满想象力的提问者。&lt;/p&gt;
 
-&lt;p&gt;I’ve realized that there are more dimensions in one’s education. Science &amp;amp; Engineering is merely one of them. Test preparation isn’t really one of them.&lt;/p&gt;
+&lt;p&gt;比如，1935年，他用一只思想实验中非生非死的猫质疑量子理论能否适用于宏观世界，并从中延伸出了量子纠缠、测量甚至是智慧、自由意志的各种难题。&lt;/p&gt;
 
-&lt;p&gt;I now believe that confidence and vigor are the cornerstones of all achievements, which can only be exhausted by fear and cynicism.&lt;/p&gt;
+&lt;p&gt;再比如，1943年，他在都柏林的讲台上探讨生命存在与传承的物理基础，次年写成了那本小书——《生命是什么》。&lt;/p&gt;
 
-&lt;p&gt;I’m being shown that active communication is the expressway to pleasure, for ourselves and for others.&lt;/p&gt;
+&lt;p&gt;两颗种子后来都长成了大树，一棵是量子信息，另一棵是分子生物 [1]。&lt;/p&gt;
 
-&lt;p&gt;. . .&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The essence of childhood is neither innocence nor immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. It’s less common that an adult has to go through it again. But I am willing to. To me, it’s more fun to watch how much one can change than how much one can achieve.&lt;/p&gt;
+&lt;center&gt; &lt;b&gt; 三 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+剧终人散。我走到中央车站，乘北上的火车来到纽黑文。几天后，我决定未来六年甚至更长的时间生活在这里。&lt;/p&gt;
 
-&lt;p&gt;I kept a diary when I was a kid. Now it’s a good time to resume this habit.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;于是，研究量子电路中的“薛定谔猫态”成了我这些年的职业。但每当夜深人静，我发现自己也渐渐着迷于薛定谔的另一个问题——&lt;strong&gt;生命是什么？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大半个世纪过去，我们对分子和细胞的世界已经略知一二。但人类对于生命定义与意义的探寻，还没有经历过分子生物学式的革命。&lt;/p&gt;
+
+&lt;p&gt;蛋白、核酸、ATP…… 它们是生命的&lt;strong&gt;基础&lt;/strong&gt;，如同音素于语言，字母于文字，基本粒子于宇宙。可大多数时候，对基本元素的解析并不等于对系统&lt;strong&gt;高层次规律&lt;/strong&gt;的掌握。对生命而言，后者才是被我们直接感知的主要部分：语言、行为、认知、情感、梦境…… 可惜的是，这些与人们日常最相关的生命现象与原子、分子隔了太多物质层次。至今，科学对它们的解释相较于微观世界还很模糊。&lt;/p&gt;
+
+&lt;p&gt;生命的另一个坐标是时间。神经动作电位会在几毫秒内激发和平息；激素可以在几秒内释放；人的心情会在一天内涨落；但兴趣、性格、思维模式、价值观要在更长的时间尺度下才能形成——几个月、几年、甚至更久。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个体生命最显著的特征偏偏被编码在了最小的物质层次（碱基序列）和最长的时间尺度（人格特质）上。&lt;/strong&gt;两者如此不同，以至于我们必须用全然不一样的方式去了解它们。&lt;/p&gt;
+
+&lt;p&gt;今天，一个简单的基因测序就能让我们看到自己的不少生理密码。然而，每个人的人生历程和精神世界看似离自己很近，实际上却难懂的多。这并不奇怪——除了少量变异，基因都从受精卵起遵循严格的配对规则复制而来；而人格意义上的生命则无比开放，它在每一天的经历中逐渐沉淀而成，身边大大小小的人和事，都会对它产生或轻微、或显著的扰动。&lt;/p&gt;
+
+&lt;p&gt;正因如此，&lt;strong&gt;生命的完整意义无法单纯通过科学解析获得。&lt;/strong&gt;过去的时光中那些细碎、随机甚至非理性的片段，常常能勾勒出生命的轨迹，决定着我们后来将成为何人，行至何处。&lt;/p&gt;
+
+&lt;p&gt;十几年的科学训练让我习惯了从微观组成和逻辑规律研究世界。现在，我想换个视角，重新认识生命，认识自己。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 四 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+从剧场去火车站的路上，我的步伐无比轻快，全然不顾纽约中城令人压抑的水泥森林。&lt;/p&gt;
+
+&lt;p&gt;从17岁到现在，在每个陌生的城市，我独行的脚步都是这样。无拘无束，不知疲倦，去我想去的地方，探索我好奇的事情。&lt;/p&gt;
+
+&lt;p&gt;每到一处，我都幸运地遇到了最好的向导，但一路下来却少有真正的旅伴。&lt;/p&gt;
+
+&lt;p&gt;我从来就不是个合群的人，天然地反感一切人多的地方，无论是街道、聚会还是行业、研究领域。&lt;/p&gt;
+
+&lt;p&gt;我也不是个听话的人。过去自己做出的每次重要选择，几乎都与按常理最该听从的建议相反。&lt;/p&gt;
+
+&lt;p&gt;于是，我解锁了几个原本不属于我的空间，看了不少曾是平行世界中的风景。这种体验使人上瘾，让人感谢生命对年轻与好奇的馈赠。&lt;/p&gt;
+
+&lt;p&gt;旅途的前方仿佛愿景无限，如果我不去理会身后悄然的代价：&lt;/p&gt;
+
+&lt;p&gt;我渐渐忘记了什么是家，什么是平凡的生活和简单的幸福。&lt;/p&gt;
+
+&lt;p&gt;我开始与过去日益疏离，故乡、旧友还有曾经的自己。&lt;/p&gt;
+
+&lt;p&gt;我不得不学会用新的语言和性格生存。而我最真实的内心，很少有人熟悉，也很少有人在意。&lt;/p&gt;
+
+&lt;p&gt;包括我自己。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 五 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+卧室的茶几上躺着一本我至今也没太看懂的小书——Erik Erikson 的 &lt;em&gt;Identity and the Life Cycle&lt;/em&gt;。其中一条理论大概是：&lt;strong&gt;人的自我认同取决于个人历史 (personal history) 和社会环境；人的自我发现就是整合与反抗个人历史的过程。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;简单说，认识自己，首先要认识自己的过去。&lt;/p&gt;
+
+&lt;p&gt;我准备写的，就是我的个人历史。&lt;/p&gt;
+
+&lt;p&gt;我好奇今天的我是否已经在过去某些时刻被悄悄决定；如果是，怎样的时刻能够如此神奇。&lt;/p&gt;
+
+&lt;p&gt;我还想知道它们会怎样影响明天的我——我的兴趣，我的选择，还有我眼中的世界。&lt;/p&gt;
+
+&lt;p&gt;我将在我有限的记忆中，尽可能地寻找答案。&lt;/p&gt;
+
+&lt;p&gt;这个过程不会容易。真正的起因往往很不起眼，藏在很久之前记忆底片的某个角落。&lt;/p&gt;
+
+&lt;p&gt;是时候把底片洗出来了，看看那台不关快门的相机都记下了什么。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt; &lt;b&gt; 六 &lt;/b&gt; &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+我不想依照时间的顺序讲故事，那样似乎生命只是一场单线程的演化。&lt;/p&gt;
+
+&lt;p&gt;相反，我会在自己对世界的认知中选择一些主题，然后在每个主题下把记忆中最相关的片段织在一起。&lt;/p&gt;
+
+&lt;p&gt;这些片段可能相隔很远，却在我成长的不同阶段奇妙地重现，仿佛生命的路径在多年后与自身相交。&lt;/p&gt;
+
+&lt;p&gt;我把这些日记的总题取为《重逢》——我在旅途中与自己过去的重逢。&lt;/p&gt;
+
+&lt;p&gt;写作的过程是分享，更重要的是与我自己的交流。&lt;/p&gt;
+
+&lt;p&gt;希望随着故事被陆续写下，我能更好地回答：我对世界的认知从何而来，我想有怎样的生活，以及什么是生命。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[1] 《生命是什么》在上世纪中期对学术界产生过很大影响，尤其刺激了现代物理学与生物学的交叉。但薛定谔的专业背景限制导致书中的很多细节在科学上站不住脚。所以，它在严格意义上对分子生物学革命有多大启发，生物学家观点不一。例如，提出DNA双螺旋结构的 Francis Crick 和 James Watson 都认同《生命是什么》对他们研究思路的影响；但血红蛋白的发现者 Max Perutz 就很不客气地说：“书中正确的观点并不是薛定谔原创的，而他原创的观点大多在当时的知识背景下也都是错误的。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 26 Jul 2019 00:00:00 -0400</pubDate>
       </item>
     
   </channel>
