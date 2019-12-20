@@ -5,13 +5,15 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 19 Dec 2019 11:13:37 -0500</pubDate>
+    <pubDate>Thu, 19 Dec 2019 21:56:05 -0500</pubDate>
     
       <item>
         <title>“我想我早就有点爱您呢”</title>
         <link>/2019/12/18/songs.html</link>
         <guid isPermaLink="true">/2019/12/18/songs.html</guid>
-        <description>&lt;hr /&gt;
+        <description>&lt;p&gt;平时听歌不多，喜欢的歌更少。下面这九段声音，最为念念不忘。&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h1 id=&quot;9-so-in-love&quot;&gt;9.	So In Love&lt;/h1&gt;
 
@@ -28,12 +30,13 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;8--schepen-in-de-nacht--荷兰语-&quot;&gt;8. 	Schepen in de nacht &lt;sup&gt; [荷兰语] &lt;/sup&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/turner.jpg&quot; alt=&quot;Elisabeth&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Elisabeth&lt;/em&gt;  (伊丽莎白)  [1992] &lt;br /&gt;
 &lt;strong&gt;作曲&lt;/strong&gt;：Sylvester Levay &lt;br /&gt;
 &lt;strong&gt;作词&lt;/strong&gt;：Michael Kunze &lt;br /&gt;
 &lt;strong&gt;表演&lt;/strong&gt;：&lt;a href=&quot;https://www.youtube.com/watch?v=K0Rgn58K1T4&quot;&gt;Pia Douwes (饰 伊丽莎白皇后) &amp;amp; Jeroen Phaff (饰 弗朗茨·约瑟夫一世)&lt;/a&gt;  [1999 海牙]&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/musical/turner.jpg&quot; alt=&quot;Elisabeth&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Für mich keine Liebe, &lt;br /&gt;
@@ -57,15 +60,16 @@
 通常只有爱&lt;/p&gt;
 
   &lt;p&gt;Man küsst sich zum Scheine &lt;br /&gt;
-人们装模作样接吻&lt;/p&gt;
+人们假装接吻&lt;/p&gt;
 
-  &lt;p&gt;Und fühlt sich ein Dieb! &lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;Und fühlt sich ein Dieb! &lt;br /&gt;
+内心全是欺骗&lt;/p&gt;
 
   &lt;p align=&quot;right&quot;&gt;——伊丽莎白诗集《北海之歌》(1885–1887) &lt;br /&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Pia Douwes 用八种语言录过伊丽莎白，用其他语言都是在演唱，唯独用母语是在倾诉。&lt;/p&gt;
+&lt;p&gt;Pia Douwes 用八种语言录过伊丽莎白，其他语言都是在演唱，唯独用母语是在倾诉。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -142,8 +146,6 @@
 
 &lt;h1 id=&quot;1-a-little-fall-of-rain&quot;&gt;1.	A Little Fall of Rain&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/musical/eponine_edit.jpg&quot; alt=&quot;Eponine&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;音乐剧&lt;/strong&gt;：&lt;em&gt;Les Misérables&lt;/em&gt;  (悲惨世界)  [1985] &lt;br /&gt;
 &lt;strong&gt;作曲&lt;/strong&gt;：Claude-Michel Schönberg &lt;br /&gt;
 &lt;strong&gt;作词&lt;/strong&gt;：Alain Boublil &amp;amp; Herbert Kretzmer &lt;br /&gt;
@@ -178,6 +180,8 @@
 &lt;br /&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/musical/eponine_edit.jpg&quot; alt=&quot;Eponine&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 18 Dec 2019 00:00:00 -0500</pubDate>
