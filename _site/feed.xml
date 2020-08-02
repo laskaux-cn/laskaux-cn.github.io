@@ -5,13 +5,15 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 02 Aug 2020 15:09:07 -0400</pubDate>
+    <pubDate>Sun, 02 Aug 2020 15:13:32 -0400</pubDate>
     
       <item>
         <title>五本书（一）：什么是科学</title>
         <link>/2020/08/01/five-books-science.html</link>
         <guid isPermaLink="true">/2020/08/01/five-books-science.html</guid>
-        <description>&lt;h2 id=&quot;introduction-à-létude-de-la-médecine-expérimentale&quot;&gt;Introduction à l’étude de la médecine expérimentale&lt;/h2&gt;
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;-introduction-à-létude-de-la-médecine-expérimentale&quot;&gt;&lt;br /&gt; Introduction à l’étude de la médecine expérimentale&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：CLAUDE BERNARD［法］&lt;br /&gt;
 &lt;strong&gt;初版&lt;/strong&gt;：1865 &lt;br /&gt;
@@ -25,7 +27,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;les-atomes&quot;&gt;&lt;strong&gt;Les Atomes&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;les-atomes&quot;&gt;Les Atomes&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：JEAN PERRIN［法］&lt;br /&gt;
 &lt;strong&gt;初版&lt;/strong&gt;：1913 &lt;br /&gt;
@@ -39,7 +41,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;the-character-of-physical-law&quot;&gt;&lt;strong&gt;The Character of Physical Law&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;the-character-of-physical-law&quot;&gt;The Character of Physical Law&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：RICHARD FEYNMAN［美］&lt;br /&gt;
 &lt;strong&gt;初版&lt;/strong&gt;：1965 &lt;br /&gt;&lt;/p&gt;
@@ -51,7 +53,7 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;后记我不懂今天的科普&quot;&gt;&lt;br /&gt;&lt;strong&gt;后记：我不懂今天的科普&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;-后记我不懂今天的科普&quot;&gt;&lt;br /&gt; 后记：我不懂今天的科普&lt;/h2&gt;
 
 &lt;p&gt;这两则题记不仅标明了该书的历史价值，更使我们得以从个体史的微观视角来管窥革命史的宏大叙事——在那个三十年后以至今天看来都“颇具历史意义”的时刻，当事人在历史现场所关注的却是“国库券贬值”、“奸商抬价”这样相当琐碎的事情。这不禁引人思考——在剥去后世所层叠累加的历史意义之后，那些“伟大”的革命事件究竟如何呈现在个体的生命之中？&lt;/p&gt;
 
