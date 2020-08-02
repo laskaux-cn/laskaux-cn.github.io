@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 五本书（一）：什么是科学
+title: This is a Test Title
 
 subtitle: 附后记：我不懂今天的科普
 
@@ -9,7 +9,7 @@ excerpt:  <br />
 tags: 五本书
 ---
 
-### **Introduction à l’étude de la médecine expérimentale**
+### Introduction à l’étude de la médecine expérimentale
 
 **作者**：**CLAUDE BERNARD**［法］<br/>
 **初版**：1865 <br/>
