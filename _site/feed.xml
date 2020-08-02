@@ -5,13 +5,13 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 02 Aug 2020 15:00:06 -0400</pubDate>
+    <pubDate>Sun, 02 Aug 2020 15:06:01 -0400</pubDate>
     
       <item>
         <title>五本书（一）：什么是科学</title>
         <link>/2020/08/01/five-books-science.html</link>
         <guid isPermaLink="true">/2020/08/01/five-books-science.html</guid>
-        <description>&lt;h3 id=&quot;introduction-à-létude-de-la-médecine-expérimentale&quot;&gt;&lt;strong&gt;Introduction à l’étude de la médecine expérimentale&lt;/strong&gt;&lt;/h3&gt;
+        <description>&lt;h2 id=&quot;introduction-à-létude-de-la-médecine-expérimentale&quot;&gt;Introduction à l’étude de la médecine expérimentale&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：CLAUDE BERNARD［法］&lt;br /&gt;
 &lt;strong&gt;初版&lt;/strong&gt;：1865 &lt;br /&gt;

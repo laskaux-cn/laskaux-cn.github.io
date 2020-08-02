@@ -9,7 +9,7 @@ excerpt:  <br />
 tags: 五本书
 ---
 
-### **Introduction à l’étude de la médecine expérimentale**
+## Introduction à l’étude de la médecine expérimentale
 
 **作者**：CLAUDE BERNARD［法］<br/>
 **初版**：1865 <br/>
