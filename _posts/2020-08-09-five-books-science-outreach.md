@@ -4,7 +4,7 @@ title: 「五本书」主题一：什么是科学
 
 subtitle: 附&emsp;我不懂今天的「科普」
 
-excerpt:  Bernard (1865), <em>Introduction à l’étude de la médecine expérimentale</em>. <br/> Ebbinghaus (1885), <em>Über das Gedächtnis</em>. <br/> Perrin (1913), <em>Les Atomes</em>. <br/> Hubble (1936), <em>The Realm of the Nebulæ</em>. <br/> Gisin (2012), <em>L’impensable Hasard</em>.
+excerpt:  <br/>
 
 
 tags: 五本书
@@ -88,6 +88,5 @@ Hubble（哈勃） 1935 年耶鲁大学 Silliman Memorial Lectures 的讲稿
 
 [^hubble]: 	&nbsp;&lsquo;&lsquo;The calculus of values, if it is ever formulated, will probably have little in common with the calculus of science. Nevertheless the atmosphere of scientific research—the disinterested curiosity, controlled imagination, and passion for impersonal tests—is by no means unique. It may, and often does, produce a definite influence in those fields from which scientific technique is barred. That influence, the man of science likes to believe, is generally beneficial.'' &nbsp;(Hubble, _The Realm of the Nebulæ_, &nbsp;p. 2)
 
-![Faraday](/assets/img/book/faraday_ri.jpg)
 
 <br />

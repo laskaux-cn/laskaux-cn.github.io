@@ -5,7 +5,47 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 10 Aug 2020 14:20:48 -0400</pubDate>
+    <pubDate>Mon, 10 Aug 2020 15:36:49 -0400</pubDate>
+    
+      <item>
+        <title>「五本书」主题二：科学的逻辑</title>
+        <link>/2020/08/10/five-books-science-logic.html</link>
+        <guid isPermaLink="true">/2020/08/10/five-books-science-logic.html</guid>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-logic-of-modern-physics&quot;&gt;The Logic of Modern Physics&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：PERCY W. BRIDGMAN［美］&lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：1927 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/book/bridgman.png&quot; alt=&quot;Bridgman&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;le-hasard-et-la-nécessité-essai-sur-la-philosophie-naturelle-de-la-biologie-moderne&quot;&gt;Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：JACQUES MONOD［法］&lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：1970 &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;：&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;  (by Austryn Wainhouse, 1971)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/book/monod.png&quot; alt=&quot;Monod&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;la-fin-des-certitudes-temps-chaos-et-les-lois-de-la-nature&quot;&gt;La Fin des certitudes. Temps, chaos et les lois de la nature&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：ILYA PRIGOGINE［俄－比利时］&lt;br /&gt;
+&lt;strong&gt;合作&lt;/strong&gt;：ISABELLE STENGERS［比利时］&lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：1996 &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;：&lt;em&gt;The End of Certainty: Time, Chaos, and the New Laws of Nature&lt;/em&gt;  (by the authors, 1997)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/book/prigogine.png&quot; alt=&quot;Prigogine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 10 Aug 2020 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>「五本书」主题一：什么是科学</title>
@@ -79,8 +119,6 @@
 &lt;p&gt;科技新闻已然成为一个病态的传媒领域。&lt;/p&gt;
 
 &lt;p&gt;尤其是“无私的好奇心、有约束的想象力和对于客观检验的执着”&lt;sup id=&quot;fnref:hubble&quot;&gt;&lt;a href=&quot;#fn:hubble&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/book/faraday_ri.jpg&quot; alt=&quot;Faraday&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
@@ -186,7 +224,7 @@
       &lt;p&gt;&lt;a href=&quot;#fnref:press&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:borges&quot;&gt;
- 	 “我心里一直都在暗暗设想／天堂应该是图书馆的模样 [Yo, que me figuraba el Paraíso / Bajo la especie de una biblioteca.]”出自 &lt;em&gt;Poema de los Dones&lt;/em&gt;，表达了 Jorge Luis Borges 对阅读的热爱以及双目失明后有书不能读的遗憾。诗句纵然很有感染力，但我们不应忽视主观的情感抒发和理性思考的区别。
+ 	 「我心里一直都在暗暗设想／天堂应该是图书馆的模样」(‘‘Yo, que me figuraba el Paraíso / Bajo la especie de una biblioteca.’’) 出自 &lt;em&gt;Poema de los Dones&lt;/em&gt;，表达了 Jorge Luis Borges 对阅读的热爱以及双目失明后有书不能读的遗憾。诗句纵然很有感染力，但我们不应忽视主观的情感抒发和理性思考的区别。
       &lt;p&gt;&lt;a href=&quot;#fnref:borges&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;

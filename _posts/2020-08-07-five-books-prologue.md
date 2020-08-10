@@ -59,7 +59,7 @@ tags: 五本书
 
 我不觉得天堂就是图书馆的模样[^borges]，这样进入天堂未免太容易了些。即使我们能在其中觅得几份接近「天堂」的指南，它们一般也都散落在书架深处。
 
-[^borges]: 	&emsp;"我心里一直都在暗暗设想／天堂应该是图书馆的模样&ensp;[Yo, que me figuraba el Paraíso / Bajo la especie de una biblioteca.]"出自 _Poema de los Dones_，表达了 Jorge Luis Borges 对阅读的热爱以及双目失明后有书不能读的遗憾。诗句纵然很有感染力，但我们不应忽视主观的情感抒发和理性思考的区别。
+[^borges]: 	&nbsp;「我心里一直都在暗暗设想／天堂应该是图书馆的模样」(&lsquo;&lsquo;Yo, que me figuraba el Paraíso / Bajo la especie de una biblioteca.'') 出自 _Poema de los Dones_，表达了 Jorge Luis Borges 对阅读的热爱以及双目失明后有书不能读的遗憾。诗句纵然很有感染力，但我们不应忽视主观的情感抒发和理性思考的区别。
 
 <br />
 
