@@ -21,6 +21,19 @@ tags: 五本书
 <br/>
 
 
+## Physics and Philosophy: The Revolution in Modern Science
+
+**作者**：WERNER HEISENBERG［德］<br/>
+**初版**：1958 <br/>
+
+![Heisenberg](/assets/img/book/heisenberg.png)
+
+外部与内部世界、客观与主观之间界限的模糊
+
+<br/>
+
+
+
 ## Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne
 
 **作者**：JACQUES MONOD［法］<br/>
