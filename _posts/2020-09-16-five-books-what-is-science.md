@@ -74,7 +74,7 @@ tags: 五本书 科学
 **作者**：EDWIN HUBBLE［美］<br/>
 **初版**：1936（伦敦） <br/>
 
-[![Hubble](/assets/img/book/hubble.png)](#hubble-intro)
+[![Hubble](/assets/img/book/hubble1.png)](#hubble-intro)
 
 <br/>
 
