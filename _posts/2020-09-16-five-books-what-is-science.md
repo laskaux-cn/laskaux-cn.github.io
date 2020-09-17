@@ -74,7 +74,7 @@ tags: 五本书 科学
 **作者**：EDWIN HUBBLE［美］<br/>
 **初版**：1936（伦敦） <br/>
 
-[![Hubble](/assets/img/book/hubble3.png)](#hubble-intro)
+[![Hubble](/assets/img/book/hubble.png)](#hubble-intro)
 
 <br/>
 
@@ -93,7 +93,7 @@ tags: 五本书 科学
 
 # 本辑导读 {#intros}
 
-### <br/> I.&ensp; Claude Bernard, [_Introduction à l’étude de la médecine expérimentale_]((https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale))  &nbsp;[_(An Introduction to the Study of Experimental Medicine)_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) {#bernard-intro}
+### <br/> I.&ensp; Claude Bernard, [_Introduction à l’étude de la médecine expérimentale_](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale)  &nbsp;[_(An Introduction to the Study of Experimental Medicine)_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) {#bernard-intro}
 
 [#下一本](#ebbinghaus-intro) &nbsp;
 [#最后一本](#gisin-intro) &nbsp;
@@ -301,9 +301,5 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 [^jacob]: 	&emsp;这里安利一下 _L’impensable Hasard_ 的出版社 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
 
 <br />
-
-
-
-
 
 ----
