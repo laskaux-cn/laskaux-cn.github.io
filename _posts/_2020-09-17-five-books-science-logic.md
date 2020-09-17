@@ -33,7 +33,7 @@ tags: 五本书 科学
 **作者**：PERCY W. BRIDGMAN［美］<br/>
 **初版**：1927（纽约） <br/>
 
-[![Bridgman](/assets/img/book/bridgman.png)](#bridgman-intro)
+[![Bridgman](/assets/img/book/bridgman1.png)](#bridgman-intro)
 
 <br/>
 
@@ -43,7 +43,7 @@ tags: 五本书 科学
 **作者**：WERNER HEISENBERG［德］<br/>
 **初版**：1958（纽约） <br/>
 
-[![Heisenberg](/assets/img/book/heisenberg.png)](#heisenberg-intro)
+[![Heisenberg](/assets/img/book/heisenberg1.png)](#heisenberg-intro)
 
 外部与内部世界、客观与主观之间界限的模糊
 
