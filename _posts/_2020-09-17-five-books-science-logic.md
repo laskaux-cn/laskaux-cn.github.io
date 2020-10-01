@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「五本书」主题二：科学的逻辑
+title: 「五本书」第二辑：科学的逻辑
 
 subtitle: 
 
@@ -9,9 +9,14 @@ excerpt:  <br />
 tags: 五本书 科学
 ---
 
+> Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem percipimus. 
+>
+> [By doubting we come to questioning; by questioning we perceive the truth.]
+ > <p align="right">—Petrus Abaelardus, <a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em>, Prologus</a>
+
 <br/>
 
-> 下方书单中，点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Internet Archive](https://archive.org/), [Wikisource](https://wikisource.org/wiki/Main_Page), & [Google Books](https://books.google.com/)）
+> 点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Internet Archive](https://archive.org/), [Wikisource](https://wikisource.org/wiki/Main_Page), & [Google Books](https://books.google.com/)）
 >
 > 点击**封面**进入[导读](#intros)
 
@@ -33,7 +38,7 @@ tags: 五本书 科学
 **作者**：PERCY W. BRIDGMAN［美］<br/>
 **初版**：1927（纽约） <br/>
 
-[![Bridgman](/assets/img/book/bridgman1.png)](#bridgman-intro)
+[![Bridgman](/assets/img/book/bridgman.png)](#bridgman-intro)
 
 <br/>
 
@@ -43,7 +48,7 @@ tags: 五本书 科学
 **作者**：WERNER HEISENBERG［德］<br/>
 **初版**：1958（纽约） <br/>
 
-[![Heisenberg](/assets/img/book/heisenberg1.png)](#heisenberg-intro)
+[![Heisenberg](/assets/img/book/heisenberg2.png)](#heisenberg-intro)
 
 外部与内部世界、客观与主观之间界限的模糊
 
@@ -64,8 +69,8 @@ tags: 五本书 科学
 
 ## [La Fin des certitudes. Temps, chaos et les lois de la nature](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/fin-des-certitudes_9782738103307.php) {#prigogine-cover}
 
-**作者**：ILYA PRIGOGINE［俄－比利时］<br/>
-**合作**：ISABELLE STENGERS［比利时］ <br/>
+**作者**：ILYA PRIGOGINE［俄－比］<br/>
+**合作**：ISABELLE STENGERS［比］ <br/>
 **初版**：1996（巴黎） <br/>
 **英译**：[_The End of Certainty: Time, Chaos, and the New Laws of Nature_](https://www.simonandschuster.com/books/The-End-of-Certainty/Ilya-Prigogine/9780684837055) &nbsp;(by the authors, 1997)
 

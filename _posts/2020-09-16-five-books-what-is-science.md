@@ -13,7 +13,7 @@ tags: 五本书 科学
 >This above all: to thine own self be true, <br/>
 >And it must follow, as the night the day, <br/>
 >Thou canst not then be false to any man. 
- > <p align="right">—<em>Hamlet</em>, I.iii.78–80
+ > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em>, I.iii.78–80</a>
 
 <br/> 我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
@@ -209,7 +209,7 @@ _Les Atomes_ 与今天各种原子物理简介的最大不同在于姿态与角�
 
 [^ship]: 	&emsp;&lsquo;&lsquo;L’agitation moléculaire échappe à notre perception directe comme le mouvement des vagues de la mer à un observateur trop éloigné. Cependant, si quelque bateau se trouve alors en vue, le même observateur pourra voir un balancement qui lui révélera l’agitation qu’il ne soupçonnait pas.'' &ensp;(Perrin, [_Les Atomes_, &nbsp;sec. 50](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/142)) <br/>&emsp;&emsp;&ensp;[Direct perception of the molecules in agitation is not possible, for the same reason that the motion of the waves is not noticed by an observer at too great a distance from them. But if a ship comes in sight, he will be able to see that it is rocking, which will enable him to infer the existence of a possibly unsuspected motion of the sea's surface.] 
 
-[^visible]: 	&emsp;&lsquo;&lsquo;Deviner ainsi l’existence ou les propriétés d’objets qui sont encore au delà de notre connaissance, _expliquer du visible compliqué par de l’invisible simple_, voilà la forme d’intelligence intuitive à laquelle, grâce à des hommes tels que Dalton ou Boltzmann, nous devons l’Atomistique . . .'' &ensp;(Perrin, [_Les Atomes_, préface](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/12)) <br/>&emsp;&emsp;&ensp;[To divine in this way the existence and properties of objects that still lie outside our ken, _to explain the complications of the visible in terms of invisible simplicity_, is the function of the intuitive intelligence which, thanks to men such as Dalton and Boltzmann, has given us the doctrine of Atoms.] 
+[^visible]: 	&emsp;&lsquo;&lsquo;Deviner ainsi l’existence ou les propriétés d’objets qui sont encore au delà de notre connaissance, _expliquer du visible compliqué par de l’invisible simple_, voilà la forme d’intelligence intuitive à laquelle, grâce à des hommes tels que Dalton ou Boltzmann, nous devons l’Atomistique . . .'' &ensp;(Perrin, [_Les Atomes_, Préface](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/12)) <br/>&emsp;&emsp;&ensp;[To divine in this way the existence and properties of objects that still lie outside our ken, _to explain the complications of the visible in terms of invisible simplicity_, is the function of the intuitive intelligence which, thanks to men such as Dalton and Boltzmann, has given us the doctrine of Atoms.] 
 
 <br/>
 
@@ -235,7 +235,7 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 这种态度贯穿全书：**所有的科学宇宙模型都基于有限的间接证据；它们包含很多未经实证的假设，代表的仅仅是科学家对现有事实的暂时理解。**更何况，人类的目前可观测的范围也只是全宇宙中一个很小的样本；我们能够客观讨论的，不过是「地球附近」。现代宇宙学讲述的不是上帝视角的创世故事；它更像一份残缺凌乱的侦探笔记——在不完整的证据面前，「不确定」才是最负责任的回答。
 
-也不知道该算幸运还是遗憾，_The Realm of the Nebulæ_ 是我目前读过的唯一一本**诚实**的宇宙学科普。「诚实」的标准很简单：不混淆事实与假设、证据与推断，让读者明白关于宇宙我们知道什么、不知道什么、为什么知道/不知道，以及怎样才能知道更多——对观测天文学而言，后者的本质是获得更深更广的视野。就像证明原子存在一样，宇宙的膨胀也需要更多的一致性实验来确定。「_H_<sub>0</sub> 开会」最终比「_N_<sub>A</sub> 开会」晚了一百年——直到本世纪，比较准确的哈勃常数数值才由绕地轨道上的可见光 (Hubble Space Telescope)、X 射线 (Chandra)、γ 射线 (Fermi)、宇宙微波背景辐射 (WMAP & Planck) 和地面上的暗物质 (Dark Energy Survey)、引力波 (LIGO + Virgo) 等观测平台共同测定，但人们又发现了晚期和早期宇宙的测量结果的分歧 (Hubble tension)。这是当前宇宙标准模型的漏洞，还是测量或分析方法导致的偏差？科学家需要更多的证据才能给出判断。
+也不知道该算幸运还是遗憾，_The Realm of the Nebulæ_ 是我目前读过的唯一一本**诚实**的宇宙学科普。「诚实」的标准很简单：不混淆事实与假设、证据与推断，让读者明白关于宇宙我们知道什么、不知道什么、为什么知道/不知道，以及怎样才能知道更多——对观测天文学而言，后者的本质是获得更深更广的视野。就像证明原子存在一样，宇宙的膨胀也需要更多的一致性实验来确定。「_H_<sub>0</sub> 开会」最终比「_N_<sub>A</sub> 开会」晚了一百年——直到本世纪，比较准确的哈勃常数数值才由绕地轨道上的可见光 (Hubble Space Telescope)、X 射线 (Chandra)、γ 射线 (Fermi)、宇宙微波背景辐射 (WMAP & Planck) 和地面上的暗物质 (Dark Energy Survey)、引力波 (LIGO + Virgo) 等观测平台共同测定，但人们又发现了晚期和早期宇宙测量结果的分歧 (Hubble tension)。这是当前宇宙标准模型的漏洞，还是测量或分析方法导致的偏差？科学家需要更多的证据才能给出判断。
 
 或许，相比于我们是谁、从哪来、到哪去，「所有探索都以未知结束」才是宇宙对人更重要的启示。❏ &emsp;[#返回书单](#hubble-cover)
 
@@ -280,7 +280,7 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 所以，贝尔测试最终是一场空吗？科学实验验证的终究只是人的主观幻象吗？
 
-个人以为，这样想虽不全无道理，但太过悲观虚无——因为**自然科学揭示的从来不是绝对的客观规律，而是人对自然规律的主观描述。所有科学命题都是条件命题——这不仅指显性的「外部实验条件」，还包括人的探究方式与很多难以察觉的认知假设。**或许在自由意志之争有定论前，人类永远无法给出量子非局域性的「严格」判决；但在探索中，我们已经收获了对量子纠缠前所未有的深入认识——在一些基本假设下，我们对未知世界的疑惑已然得到了很大程度的消除；对这些假设本身的审查则属于更基本的科学问题。实验科学就是这样一步步挖掘、克服人的主观偏见，代之以更广范围内**有条件**的共识。**没有实验能告诉我们绝对知识**，因为「绝对知识」只可能在拒绝检验的信仰中生存。放下对于「绝对」的执念，正视自身的视角与局限，这是现代科学教给我最难忘的一课。
+个人以为，这样想虽不全无道理，但太过悲观虚无——因为**自然科学揭示的从来不是绝对的客观规律，而是人对自然规律的主观描述。所有科学命题都是条件命题——这不仅指显性的「外部实验条件」，还包括人的探究方式与很多难以察觉的认知假设。**或许在自由意志之争有定论前，人类永远无法给出量子非局域性的「严格」判决；但在探索中，我们已经收获了对量子纠缠前所未有的深入认识——在一些基本假设下，我们对未知世界的疑惑已然得到了很大程度的消除；对这些假设本身的审查则属于更基本的科学问题。实验科学就是这样一步步挖掘、克服人的主观偏见，代之以更广范围内**有条件**的共识。**没有实验能告诉我们绝对知识**，因为「绝对知识」只可能在拒绝检验的信仰中生存。放下对于「绝对」的执念，正视自身的视角与局限，是现代科学教给人们的难忘一课。
 
 公正地说，_L’impensable Hasard_ 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点「故作轻松」之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，另外一些对当代学术界教条的吐槽也比较欢乐（例如 _Nature_ 的编辑不许他在论文里引用亚里士多德）。把 _L’impensable Hasard_ 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。
 
