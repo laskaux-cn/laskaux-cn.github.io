@@ -15,7 +15,8 @@ tags: 五本书 科学
 >Thou canst not then be false to any man. 
  > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em>, I.iii.78–80</a>
 
-<br/> 我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
+[#跳至书单](#bernard-cover)
+<br/><br/>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
 去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。
 
@@ -42,7 +43,7 @@ tags: 五本书 科学
 **初版**：1865（巴黎） <br/>
 **英译**：[_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(by Henry Copley Greene, 1927)
 
-[![Bernard](/assets/img/book/bernard.png)](#bernard-intro)
+[<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
 
 <br/>
 
@@ -53,7 +54,7 @@ tags: 五本书 科学
 **初版**：1885（莱比锡） <br/>
 **英译**：[_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(by Henry A. Ruger & Clara E. Bussenius, 1913)
 
-[![Ebbinghaus](/assets/img/book/ebbinghaus.png)](#ebbinghaus-intro)
+[<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
 
 <br/>
 
@@ -64,7 +65,7 @@ tags: 五本书 科学
 **初版**：1913（巴黎） <br/>
 **英译**：[_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(by Dalziel Llewellyn Hammick, 1916) <br/>
 
-[![Perrin](/assets/img/book/perrin.png)](#perrin-intro)
+[<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
 
 <br/>
 
@@ -74,7 +75,7 @@ tags: 五本书 科学
 **作者**：EDWIN HUBBLE［美］<br/>
 **初版**：1936（伦敦） <br/>
 
-[![Hubble](/assets/img/book/hubble1.png)](#hubble-intro)
+[<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
 <br/>
 
@@ -85,7 +86,7 @@ tags: 五本书 科学
 **初版**：2012（巴黎）[^jacob] <br/>
 **英译**：[_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(by Stephen Lyle, 2014)
 
-[![Gisin](/assets/img/book/gisin.png)](#gisin-intro)
+[<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
 
 <br/>
 
@@ -107,7 +108,7 @@ Claude Bernard 在现代生物医学中的历史地位大致相当于伽利略�
 
 Bernard 一生工作的主线就是通过动物生理实验挑战阻碍生物医学科学化的各种认知偏见。他留下了十四大本专业讲义，而真正「出圈」的是这本 1860 年代初回乡养病放空期间开始构思、后来在巴黎完成的小册子。虽然题为「实验医学简介」，它其实是一篇关于现代科学思想与方法的综述。全书分三部分逐层展开：首先总结实验科学的一般原则；然后讨论科学方法用于生物研究的可行性和具体的实现方式，尤其是维持高等动物生理稳态的**内环境** (milieu intérieur) 如何连接了物理与生命世界；最后用十几个动物实验解释了科学思维怎样引导自己获得了各种发现，以及如何对结论去伪存真。在 Bernard 的理想中，这些努力只是长远目标的第一步：他希望在下一个时代，医学的三大基石——生理、病理和治疗都能建于完全的科学基础之上。
 
-_Médecine expérimentale_ 不属于硬核读物，只要受过完整的中学理科教育就不应该对书中的大部分概念感到陌生。但这本书独特魅力不在具体知识，而在于对价值观与方法论的提炼——**科学实验不只是一套工作规范，更是一种思维方式和价值导向。**Bernard 试图回答的核心问题是：**科学实验为何是获得客观知识最可靠的方式？**为此他一一讨论：实验科学与其它思维体系（神学、经验哲学、数学）的根本区别何在？怎样区分实验、观察和原始经验？知识与信念、分析与综合、科学与语言之间又是什么关系？等等。在论述过程中 Bernard 金句不断：
+_Médecine expérimentale_ 不属于硬核读物，只要受过完整的中学理科教育就不应该对书中的大部分概念感到陌生。但这本书独特魅力不在具体知识，而在于对价值观与方法论的提炼——**科学实验不只是一套工作规范，更是一种思维方式和价值导向。**Bernard 试图回答的核心问题是：**科学实验为何是获得客观知识最可靠的方式？**为此他一一讨论：实验科学与其它思维体系（神学、经院哲学、数学）的根本区别何在？怎样区分实验、观察和原始经验？知识与信念、分析与综合、科学与语言之间又是什么关系？等等。在论述过程中 Bernard 金句不断：
 
 「比一无所知更糟糕的是笃信理论——不断搜寻与之相符的佐证，但同时无视与之相悖的一切。」[^theory]
 
@@ -282,7 +283,7 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 个人以为，这样想虽不全无道理，但太过悲观虚无——因为**自然科学揭示的从来不是绝对的客观规律，而是人对自然规律的主观描述。所有科学命题都是条件命题——这不仅指显性的「外部实验条件」，还包括人的探究方式与很多难以察觉的认知假设。**或许在自由意志之争有定论前，人类永远无法给出量子非局域性的「严格」判决；但在探索中，我们已经收获了对量子纠缠前所未有的深入认识——在一些基本假设下，我们对未知世界的疑惑已然得到了很大程度的消除；对这些假设本身的审查则属于更基本的科学问题。实验科学就是这样一步步挖掘、克服人的主观偏见，代之以更广范围内**有条件**的共识。**没有实验能告诉我们绝对知识**，因为「绝对知识」只可能在拒绝检验的信仰中生存。放下对于「绝对」的执念，正视自身的视角与局限，是现代科学教给人们的难忘一课。
 
-公正地说，_L’impensable Hasard_ 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点「故作轻松」之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，另外一些对当代学术界教条的吐槽也比较欢乐（例如 _Nature_ 的编辑不许他在论文里引用亚里士多德）。把 _L’impensable Hasard_ 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。
+公正地说，_L’impensable Hasard_ 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点「故作轻松」之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，以及一些对当代学术圈教条的吐槽（例如 _Nature_ 的编辑不许他在论文里引用亚里士多德）。把 _L’impensable Hasard_ 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。
 
 近几年，退休的 Gisin 有更多时间来思考量子理论的基本问题。专业论文之余，他也偶尔写几篇接地气的小文章向大家汇报一下心得。比如，他今年初在 _Nature Physics_ 上发表了一篇评论 [&lsquo;&lsquo;Mathematical languages shape our understanding of time in physics''](https://www.nature.com/articles/s41567-019-0748-5)（后续 [_Quanta Magazine_](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) 上有篇不错的新闻稿），认为**直觉数学** (intuitionistic mathematics) 比正统的公理化数学更适合描述现代物理中的随机性与时间概念。喜欢更接地气风格的小伙伴可以去读他 2016 年写给 _New Scientist_ 的短文 [&lsquo;&lsquo;Time to decide''](https://www.sciencedirect.com/science/article/abs/pii/S0262407916309046?via%3Dihub)，看看能不能接受他为自由意志的辩护。这些文章也暴露了 Gisin 自己最近读了哪些书：L. E. J. Brouwer,&nbsp; François Rabelais,&nbsp; Carl Posy,&nbsp; Gregory Chaitin,&nbsp; Émile Borel,&nbsp; Jules Lequyer,&nbsp; G. E. M. Anscombe . . . &nbsp; ❏ &emsp;[#返回书单](#gisin-cover)
 
