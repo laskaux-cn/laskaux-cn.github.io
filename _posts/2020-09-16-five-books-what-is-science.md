@@ -15,7 +15,7 @@ tags: 五本书 科学
 >Thou canst not then be false to any man. 
  > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em>, I.iii.78–80</a>
 
-[#跳至书单](#bernard-cover)
+[#跳至书单](#list)
 <br/><br/>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
 去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。
@@ -30,11 +30,14 @@ tags: 五本书 科学
 
 <br/>
 
-> 下方书单中，点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
->
-> 点击**封面**进入[导读](#intros)
+----
 
-<br/>
+# 本辑书单 {#list}
+
+
+- 点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
+- 点击**封面**进入[导读](#intros) <br/><br/>
+
 
 
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
