@@ -35,7 +35,7 @@ tags: 五本书 科学
 # 本辑书单 {#list}
 
 
-- 点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
+- 点击原文或译文**标题**开始阅读（感谢在线公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
 - 点击**封面**进入[导读](#intros) 
 
 <br/>

@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 16 Nov 2020 14:49:46 -0500</pubDate>
+    <pubDate>Mon, 16 Nov 2020 14:55:22 -0500</pubDate>
     
       <item>
         <title>「五本书」第一辑：什么是科学</title>
@@ -39,7 +39,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 &lt;h1 id=&quot;list&quot;&gt;本辑书单&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;点击原文或译文&lt;strong&gt;标题&lt;/strong&gt;开始阅读（感谢在线公共图书馆：&lt;a href=&quot;https://wikisource.org/wiki/Main_Page&quot;&gt;Wikisource&lt;/a&gt;, &lt;a href=&quot;https://archive.org/&quot;&gt;Internet Archive&lt;/a&gt;, &amp;amp; &lt;a href=&quot;http://www.deutschestextarchiv.de/&quot;&gt;Deutsches Textarchiv&lt;/a&gt;）&lt;/li&gt;
+  &lt;li&gt;点击原文或译文&lt;strong&gt;标题&lt;/strong&gt;开始阅读（感谢在线公共图书馆 &lt;a href=&quot;https://wikisource.org/wiki/Main_Page&quot;&gt;Wikisource&lt;/a&gt;, &lt;a href=&quot;https://archive.org/&quot;&gt;Internet Archive&lt;/a&gt;, &amp;amp; &lt;a href=&quot;http://www.deutschestextarchiv.de/&quot;&gt;Deutsches Textarchiv&lt;/a&gt;）&lt;/li&gt;
   &lt;li&gt;点击&lt;strong&gt;封面&lt;/strong&gt;进入&lt;a href=&quot;#intros&quot;&gt;导读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
