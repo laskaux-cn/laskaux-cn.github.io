@@ -6,7 +6,7 @@ subtitle:
 
 excerpt:  <br />
 
-tags: 五本书 科学
+tags: 五本书 历史
 ---
 
 > Considerate la vostra semenza: <br/>
@@ -31,7 +31,7 @@ tags: 五本书 科学
 [^cover]: 	&emsp;封面插画：Thomas Cole, _The Course of Empire: Destruction_ (1836);&nbsp; Raffaello Sanzio, _Scuola di Atene_ (1509–1511);&nbsp; Thomas Couture, _Les Romains de la décadence_ (1847)
 
 
-## [Historische Fragmente aus dem Nachlass](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036854613) {#burckhardt-cover}
+## [Historische Fragmente aus dem Nachlass gesammelt](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036854613) {#burckhardt-cover}
 
 **作者**：JACOB BURCKHARDT［瑞士］<br/>
 **初版**：1929（斯图加特 & 柏林 & 莱比锡） <br/>
@@ -53,7 +53,7 @@ tags: 五本书 科学
 <br/>
 
 
-## [Civilisation](https://archive.org/details/civilisationpers00clar/mode/2up) {#clark-cover}
+## [Civilisation](https://archive.org/details/civilisationpers1971clar/mode/2up) {#clark-cover}
 
 **作者**：KENNETH CLARK［英］<br/>
 **初版**：1969（伦敦） <br/>
@@ -92,6 +92,8 @@ tags: 五本书 科学
 [#下一本](#braudel-intro) &nbsp;
 [#最后一本](#barzun-intro) &nbsp;
 [#返回书单](#burckhardt-cover)
+
+物质主义 (materialism) 与进步主义 (progressivism)
 
 ❏ &emsp;[#返回书单](#burckhardt-cover)
 

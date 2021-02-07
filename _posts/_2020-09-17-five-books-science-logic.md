@@ -67,7 +67,7 @@ tags: 五本书 科学
 <br/>
 
 
-## [La Fin des certitudes. Temps, chaos et les lois de la nature](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/fin-des-certitudes_9782738103307.php) {#prigogine-cover}
+## [La Fin des Certitudes. Temps, chaos et les lois de la nature](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/fin-des-certitudes_9782738103307.php) {#prigogine-cover}
 
 **作者**：ILYA PRIGOGINE［俄－比］<br/>
 **合作**：ISABELLE STENGERS［比］ <br/>
