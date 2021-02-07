@@ -2,15 +2,22 @@
 layout: post
 title: Le Grand Amour
 
-excerpt: 「愛には　癒せないことがあるの」 <br/>
+excerpt: 情人节歌单：「愛には　癒せないことがあるの」 <br/>
 
-tags: music
+tags: music theater
 ---
 
-下方歌单收录了八首视角各异、艺术性与教育意义俱佳的爱情歌曲（依创作时间由近至远为序）：
+下方歌单收录了九首视角各异、艺术性与教育意义俱佳的爱情歌曲（依创作时间由近至远为序）：
 - 点击标题开始听歌（除「夜のボート」外） 
 - 非英语歌曲由标题后的小旗标注 <br/><br/>
 
+
+### [Sama wciąż](https://www.youtube.com/watch?v=KmK9AypREQ8) &nbsp;🇵🇱
+**作曲**：Claude-Michel Schönberg <br/>
+**作词**：Daniel Wyszogrodzki <br/>
+**录音**：Malwina Kusior  &nbsp;(2012 | 华沙 Teatr Muzyczny „Roma&rsquo;&rsquo;)
+
+---
 
 ### [Inte jag](https://www.youtube.com/watch?v=SB_Ma9hXZnI) &nbsp;🇸🇪
 **作曲**：Benny Andersson & Björn Ulvaeus <br/>
