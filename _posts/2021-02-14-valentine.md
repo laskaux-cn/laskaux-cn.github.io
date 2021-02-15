@@ -15,7 +15,7 @@ tags: music theater
 ### [Sama wciąż](https://www.youtube.com/watch?v=KmK9AypREQ8) &nbsp;🇵🇱
 **作曲**：Claude-Michel Schönberg <br/>
 **作词**：Daniel Wyszogrodzki <br/>
-**录音**：Malwina Kusior  &nbsp;(2012 | 华沙 Teatr Muzyczny „Roma&rsquo;&rsquo;)
+**演出**：Malwina Kusior  &nbsp;(2012 | 华沙 Teatr Muzyczny „Roma&rsquo;&rsquo;)
 
 ---
 
