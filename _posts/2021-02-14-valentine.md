@@ -2,13 +2,13 @@
 layout: post
 title: Le Grand Amour
 
-excerpt: 情人节歌单：「愛には　癒せないことがあるの」 <br/>
+excerpt: 情人节歌单——「愛には　癒せないことがあるの」 <br/>
 
 tags: music theater
 ---
 
-下方歌单收录了九首视角各异、艺术性与教育意义俱佳的爱情歌曲（依创作时间由近至远为序）：
-- 点击标题开始听歌（除「夜のボート」外） 
+下方歌单收录了十一首角度各异、艺术性与教育意义俱佳的爱情歌曲（依创作时间由近至远为序）：
+- 点击标题开始听歌（「夜のボート」跳至 128:20 处） 
 - 非英语歌曲由标题后的小旗标注 <br/><br/>
 
 
@@ -26,7 +26,7 @@ tags: music theater
 
 ----
 
-### 夜のボート &nbsp;🇯🇵
+### [夜のボート](https://www.bilibili.com/video/BV1C5411W7zf) &nbsp;🇯🇵
 **作曲**：Sylvester Levay <br/>
 **作词**：小池 修一郎 <br/>
 **演出**：一路 真輝 &nbsp;&&nbsp; 石川 禅 &nbsp;(2012 | 東京国際フォーラム)
@@ -50,6 +50,20 @@ tags: music theater
 ### [Not a Day Goes By](https://www.youtube.com/watch?v=5kMlQgyz834) 
 **词曲**：Stephen Sondheim  <br/>
 **演出**：Bernadette Peters &nbsp;(1998 | 伦敦 Royal Festival Hall)
+
+----
+
+### [Entremetteuse](https://www.dailymotion.com/video/x587zq4) &nbsp;🇫🇷
+**作曲**：Jerry Bock <br/>
+**作词**：Maurice Vidalin <br/>
+**演出**：Sarah Manesse, Maeva Mathon, & France Renard &nbsp;(2017 | 巴黎 Studio 105 de la Maison de la Radio)
+
+----
+
+### [Married (Reprise)](https://www.youtube.com/watch?v=OuwgXL5zVcU)
+**作曲**：John Kander <br/>
+**作词**：Fred Ebb <br/>
+**演出**：Ron Rifkin & Mary Louise Wilson &nbsp;(1998 | 纽约 Henry Miller's Theatre)
 
 ----
 
