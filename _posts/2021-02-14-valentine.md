@@ -60,7 +60,7 @@ tags: music theater
 
 ----
 
-### [Entremetteuse](https://www.dailymotion.com/video/x587zq4) &nbsp;🇫🇷
+### [Entremetteuse](https://www.dailymotion.com/video/x587zq4) &nbsp;🇧🇪
 **作曲**：Jerry Bock <br/>
 **作词**：Maurice Vidalin <br/>
 **演出**：Sarah Manesse, Maeva Mathon, & France Renard &nbsp;(2017 | 巴黎 Studio 105 de la Maison de la Radio)
@@ -77,7 +77,7 @@ tags: music theater
 ### [I'm an Ordinary Man](https://www.youtube.com/watch?v=XDMxlNCuTmw) 
 **作曲**：Frederick Loewe <br/>
 **作词**：Alan Jay Lerner <br/>
-**演出**：Rex Harrison  &nbsp;(1959 | Theatre Royal, Drury Lane)
+**演出**：Rex Harrison  &nbsp;(1959 | 伦敦 Theatre Royal, Drury Lane)
 
 ----
 
