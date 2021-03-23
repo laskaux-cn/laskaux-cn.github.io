@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Le Grand Amour
-
+title: LE GRAND AMOUR
+subtitle: 愛には　癒せないことがあるの
 excerpt: 情人节歌单——「愛には　癒せないことがあるの」 <br/>
 
 tags: music theater
