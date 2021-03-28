@@ -22,7 +22,7 @@ tags: music theater
 ### [Wo bleibt da das Glück?](https://www.youtube.com/watch?v=soPnCfm0ZxU) &nbsp;🇦🇹
 **作曲**：Richard Rodgers <br/>
 **作词**：[Uncredited] <br/>
-**演出**：Franziska Becker & Max Detweiler &nbsp;(2012 | 萨尔茨堡 Salzburger Landestheater)
+**演出**：Franziska Becker & Hubert Wild &nbsp;(2012 | 萨尔茨堡 Salzburger Landestheater)
 
 ----
 
