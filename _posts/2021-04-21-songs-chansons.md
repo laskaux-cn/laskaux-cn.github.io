@@ -14,7 +14,6 @@ tags: music
 
 #### [Titine (The Nonsense Song)](https://www.youtube.com/watch?v=SIIC2yFTcNw) &nbsp;💬 
 **作曲**：Léo Daniderff <br/>
-**原词**：Bertal-Maubon & Henri Lemonnier <br/>
 **编词**：Charlie Chaplin <br/>
 **录音**：Charlie Chaplin &nbsp;(1936) 
 
@@ -112,7 +111,7 @@ tags: music
 **作曲**：Charles Dumont <br/>
 **原词**：Michel Vaucaire <br/>
 **译词**：Vera Jakovljević <br/>
-**录音**：Lola Novaković &nbsp;(1964)
+**录音**：Lola Novaković &nbsp;(1964)
 
 ---
 
