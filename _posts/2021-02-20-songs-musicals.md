@@ -134,7 +134,7 @@ tags: music theater
 
 #### c1–2.&nbsp; _My Fair Lady_ : [Wouldn't It Be Loverly?](https://www.youtube.com/watch?v=FYsPP3cIak8) &nbsp;&&nbsp; [Just You Wait](https://www.youtube.com/watch?v=12QTsK9bsi4)
 JULIE ANDREWS  &nbsp;饰&nbsp; Eliza Doolittle <br/>
-&emsp;&emsp;(1959 | 伦敦   卡司录音)
+&emsp;&emsp;(1959 | 伦敦 Theatre Royal, Drury Lane 卡司录音)
 
 ----
 
@@ -156,33 +156,33 @@ PATTI LuPONE  &nbsp;饰&nbsp; Nellie Lovett <br/>
 
 ----
 
-#### c6.&nbsp; [_Koty_ : Pamięć](https://www.youtube.com/watch?v=TgIF0ObVMyg) &nbsp;🇵🇱
-JOANNA WĘGRZYNOWSKA  &nbsp;饰&nbsp; Grizabella <br/>
-&emsp;&emsp;(2004 | 华沙 Teatr Muzyczny ROMA)
-
-----
-
-#### c7.&nbsp; [_Les Misérables_ : J'avais rêvé](https://www.youtube.com/watch?v=s6wmFeVAMZ8) &nbsp;🇫🇷  
+#### c6.&nbsp; [_Les Misérables_ : J'avais rêvé](https://www.youtube.com/watch?v=s6wmFeVAMZ8) &nbsp;🇫🇷  
 LOUISE PITRE  &nbsp;饰&nbsp; Fantine <br/>
 &emsp;&emsp;(1991 | 巴黎 Théâtre Mogador 卡司录音) 
 
 ----
 
-#### c8.&nbsp; [_Les Misérables_ : On My Own](https://youtu.be/VjfmP7h3gBw?t=28)  
+#### c7.&nbsp; [_Les Misérables_ : On My Own](https://youtu.be/VjfmP7h3gBw?t=28)  
 LEA SALONGA  &nbsp;饰&nbsp; Éponine Thénardier <br/>
 &emsp;&emsp;(1995 | 伦敦 Royal Albert Hall)
 
 ----
 
-#### c9.&nbsp; [_Les Misérables_ : Sama wciąż](https://www.youtube.com/watch?v=KmK9AypREQ8) &nbsp;🇵🇱  
+#### c8.&nbsp; [_Les Misérables_ : Sama wciąż](https://www.youtube.com/watch?v=KmK9AypREQ8) &nbsp;🇵🇱  
 MALWINA KUSIOR  &nbsp;饰&nbsp; Éponine Thénardier <br/>
-&emsp;&emsp;(2012 | 华沙 Teatr Muzyczny ROMA)
+&emsp;&emsp;(2012 | 华沙 Teatr Muzyczny Roma)
 
 ----
 
-#### c10.&nbsp; [_Les Misérables_ : J'avais rêvé](https://www.youtube.com/watch?v=tkZsjdP4lDc) &nbsp;🇫🇷 
+#### c9.&nbsp; [_Les Misérables_ : J'avais rêvé](https://www.youtube.com/watch?v=tkZsjdP4lDc) &nbsp;🇫🇷 
 ITA GRAFFIN  &nbsp;饰&nbsp; Fantine <br/>
 &emsp;&emsp;(2017 | 巴黎 Palais des Congrès de Paris)
+
+----
+
+#### c10.&nbsp; [_Koty_ : Pamięć](https://www.youtube.com/watch?v=TgIF0ObVMyg) &nbsp;🇵🇱
+JOANNA WĘGRZYNOWSKA  &nbsp;饰&nbsp; Grizabella <br/>
+&emsp;&emsp;(2004 | 华沙 Teatr Muzyczny Roma)
 
 ----
 
@@ -216,13 +216,19 @@ ELSE LUDWIG &nbsp;饰&nbsp; Sophie Friederike von Bayern <br/>
 
 ----
 
-#### c16.&nbsp; [エリザベート -愛と死の輪舞- : 最後のダンス](https://www.bilibili.com/video/BV1Ax411m7X9?from=search&seid=16131139249363253177) &nbsp;🇯🇵
-春野 寿美礼 &ensp;饰&nbsp; トート <br/>
+#### c16.&nbsp; [エリザベート -愛と死の輪舞- : 死の嘆き](https://www.bilibili.com/video/BV1qt41167kg) &nbsp;🇯🇵
+花總まり&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
+&emsp;&emsp;(2012 | 大阪 &nbsp;梅田芸術劇場 メインホール)
+
+----
+
+#### c17.&nbsp; [エリザベート -愛と死の輪舞- : 不幸の始まり／最後のダンス](https://www.bilibili.com/video/BV1Ax411m7X9?from=search&seid=16131139249363253177) &nbsp;🇯🇵
+春野寿美礼 &ensp;饰&nbsp; トート [Thoth] <br/>
 &emsp;&emsp;(2017 | 东京 Bunkamura オーチャードホール)
 
 ----
 
-#### c17.&nbsp; [_Kristina från Duvemåla_ : Du måste finnas](https://www.youtube.com/watch?v=a2idVI73ais) &nbsp;🇸🇪
+#### c18.&nbsp; [_Kristina från Duvemåla_ : Du måste finnas](https://www.youtube.com/watch?v=a2idVI73ais) &nbsp;🇸🇪
 HELEN SJÖHOLM  &nbsp;饰&nbsp; Kristina <br/>
 &emsp;&emsp;(1996 | 明尼阿波利斯 Orchestra Hall)
 
@@ -246,49 +252,43 @@ REX HARRISON  &nbsp;饰&nbsp; Henry Higgins <br/>
 
 ----
 
-#### d4.&nbsp; [_My Fair Lady_ : Csak egy iciri, csak egy piciri](https://www.youtube.com/watch?v=4KmeQZZ0NKk) &nbsp;🇭🇺 
-RÁTONYI RÓBERT &nbsp;饰&nbsp; Alfred P. Doolittle <br/>
-&emsp;&emsp;(1965 | 布达佩斯 Fővárosi Operettszínház 卡司录音)
-
-----
-
-#### d5–6.&nbsp; _My Fair Lady_ : [With a Little Bit of Luck](https://youtu.be/zpgnolyNGjQ?t=646) &nbsp;&&nbsp; [Get Me to the Church on Time](https://youtu.be/zpgnolyNGjQ?t=2199)  
+#### d4–5.&nbsp; _My Fair Lady_ : [With a Little Bit of Luck](https://youtu.be/zpgnolyNGjQ?t=646) &nbsp;&&nbsp; [Get Me to the Church on Time](https://youtu.be/zpgnolyNGjQ?t=2199)  
 WARREN MITCHELL &nbsp;饰&nbsp; Alfred P. Doolittle <br/>
 &emsp;&emsp;(1987 | 伦敦 Royal Albert Hall)
 
 ----
 
-#### d7.&nbsp; [_Un Violon sur le toit_ : Ah, si j'étais riche](https://www.youtube.com/watch?v=uOpbVl-1V68) &nbsp;🇫🇷
+#### d6.&nbsp; [_Un Violon sur le toit_ : Ah, si j'étais riche](https://www.youtube.com/watch?v=uOpbVl-1V68) &nbsp;🇫🇷
 CHRIS DE MOOR   &nbsp;饰&nbsp; Tevye <br/>
 &emsp;&emsp;(2017 | 巴黎 Studio 105 de la Maison de la Radio)
 
 ----
 
-#### d8–9.&nbsp; _Cabaret_ : [Money](https://www.youtube.com/watch?v=PXjN9UKZwLE) &nbsp;&&nbsp; [I Don't Care Much](https://www.youtube.com/watch?v=qDS3ONRgj58)  
+#### d7–8.&nbsp; _Cabaret_ : [Money](https://www.youtube.com/watch?v=PXjN9UKZwLE) &nbsp;&&nbsp; [I Don't Care Much](https://www.youtube.com/watch?v=qDS3ONRgj58)  
 ALAN CUMMING  &nbsp;饰&nbsp; Emcee <br/>
 &emsp;&emsp;(1998 | 纽约 Henry Miller's Theatre)
 
 ----
 
-#### d10.&nbsp; [_Sweeney Todd_ : Epiphany](https://youtu.be/tJNPEhXBEbQ?t=3973)  
+#### d9.&nbsp; [_Sweeney Todd_ : Epiphany](https://youtu.be/tJNPEhXBEbQ?t=3973)  
 GEORGE HEARN  &nbsp;饰&nbsp; Sweeny Todd/Benjamin Barker <br/>
 &emsp;&emsp;(2001 | 旧金山 Louise M. Davies Symphony Hall)
 
 ----
 
-#### d11.&nbsp; [_Les Misérables_ : Empty Chairs at Empty Tables](https://www.youtube.com/watch?v=POvsvbc1yC8)  
+#### d10.&nbsp; [_Les Misérables_ : Empty Chairs at Empty Tables](https://www.youtube.com/watch?v=POvsvbc1yC8)  
 MICHAEL BALL  &nbsp;饰&nbsp; Marius Pontmercy <br/>
 &emsp;&emsp;(1995 | 伦敦 Royal Albert Hall)
 
 ----
 
-#### d12.&nbsp; [_Sunset Boulevard_ : Sunset Boulevard](https://youtu.be/UofX9HMq2VY?t=43) 
+#### d11.&nbsp; [_Sunset Boulevard_ : Sunset Boulevard](https://youtu.be/UofX9HMq2VY?t=43) 
 MICHAEL BALL  &nbsp;饰&nbsp; Joe Gillis <br/>
 &emsp;&emsp;(1993 | 格拉斯哥 Glasgow Royal Concert Hall)
 
 ----
 
-#### d13.&nbsp; [_Elisabeth_ : Kitsch!](https://www.youtube.com/watch?v=AsBMeHKTNc8) &nbsp;🇩🇪
+#### d12.&nbsp; [_Elisabeth_ : Kitsch!](https://www.youtube.com/watch?v=AsBMeHKTNc8) &nbsp;🇩🇪
 SERKAN KAYA  &nbsp;饰&nbsp; Luigi Lucheni <br/>
 &emsp;&emsp;(2005 | 维也纳 Theater an der Wien)
 
@@ -385,17 +385,17 @@ ROBERT SEÑA  &nbsp;饰&nbsp; Thuy <br/>
 
 ----
 
-#### e13.&nbsp; [_Elisabeth_ : Als jij](https://www.youtube.com/watch?v=Y_HcvllA_sQ) &nbsp;🇳🇱
-PIA DOUWES  &nbsp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
-NICO SCHAAP &nbsp;饰&nbsp; Maximilian Joseph von Bayern <br/>
-&emsp;&emsp;(1999 | 海牙 Circustheater 卡司录音)
+#### e13.&nbsp; [エリザベート -愛と死の輪舞- : 闇が広がる](https://youtu.be/wf_ic7HayzA?t=30) &nbsp;🇯🇵
+一路 真輝  &ensp;饰&nbsp; トート [Thoth] <br/>
+香寿 たつき  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
+&emsp;&emsp;(1996 | 宝冢 &nbsp;宝塚大劇場)
 
 ----
 
-#### e14.&nbsp; [エリザベート -愛と死の輪舞- : 闇が広がる](https://youtu.be/wf_ic7HayzA?t=30) &nbsp;🇯🇵
-一路 真輝  &ensp;饰&nbsp; トート <br/>
-香寿 たつき  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
-&emsp;&emsp;(1996 | 宝冢 &nbsp;宝塚大劇場)
+#### e14.&nbsp; [_Elisabeth_ : Als jij](https://www.youtube.com/watch?v=Y_HcvllA_sQ) &nbsp;🇳🇱
+PIA DOUWES  &nbsp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
+NICO SCHAAP &nbsp;饰&nbsp; Maximilian Joseph von Bayern <br/>
+&emsp;&emsp;(1999 | 海牙 Circustheater 卡司录音)
 
 ----
 
@@ -536,15 +536,24 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 ----
 
-#### f14.&nbsp; [エリザベート -愛と死の輪舞- : 我ら息絶えし者ども](https://www.bilibili.com/video/BV1es41117X7) &nbsp;🇯🇵
+#### f14.&nbsp; [_Elisabeth_ : An Deck der sinkenden Welt](https://youtu.be/AsBMeHKTNc8?t=3589) &nbsp;🇩🇪
+SERKAN KAYA &nbsp;饰&nbsp; Luigi Lucheni <br/>
+ANDRÉ BAUER &nbsp;饰&nbsp; Franz Joseph I. <br/>
+KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
+&emsp;&emsp;(2005 | 维也纳 Theater an der Wien)
+
+----
+
+#### f15.&nbsp; [エリザベート -愛と死の輪舞- : 我ら息絶えし者ども](https://www.bilibili.com/video/BV1es41117X7) &nbsp;🇯🇵
+葛城 七穂  &ensp;饰&nbsp; Richter <br/>
 樹里 咲穂  &ensp;饰&nbsp; Luigi Lucheni <br/>
 美々 杏里  &ensp;饰&nbsp; Sophie Friederike von Bayern <br/>
 稔 幸  &ensp;饰&nbsp; Franz Joseph I. <br/>
 久路 あかり  &ensp;饰&nbsp; Ludovika Wilhelmine von Bayern <br/>
 月影 瞳  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn als Kind <br/>
-ちあき しん  &ensp;饰&nbsp; Maximilian Joseph von Bayern <br/>
+ちあき しん  &ensp;饰&nbsp; Maximilian Joseph in Bayern <br/>
 絵麻緒 ゆう  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
-&emsp;&emsp;(2006 | 大阪 &nbsp;梅田芸術劇場)
+&emsp;&emsp;(2006 | 大阪 &nbsp;梅田芸術劇場 メインホール)
 
 <br/>
 
@@ -561,6 +570,12 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 #### [I Could Have Danced All Night](https://youtu.be/zpgnolyNGjQ?t=1529) &nbsp;&&nbsp; [Show Me](https://youtu.be/zpgnolyNGjQ?t=2065) 
 **原剧**：_My Fair Lady_ <br/>
 **演出**：Kiri Te Kanawa &nbsp;(1987 | 伦敦 Royal Albert Hall)
+
+----
+
+#### [エニシング・ゴーズ](https://youtu.be/zHVpQfzoWr0?t=240) &nbsp;🇯🇵
+**原剧**：エニシング・ゴーズ <br/>
+**演出**：大地真央 &nbsp;(1990 | 东京 フジテレビ)
 
 ----
 
@@ -584,7 +599,7 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 #### [Do You Hear the People Sing?](https://www.youtube.com/watch?v=gpDbvlAI_A0) &nbsp;🇬🇧🇫🇷🇩🇪🇯🇵🇭🇺🇸🇪🇵🇱🇳🇱🇳🇴🇨🇿🇩🇰🇮🇸
 **原剧**：_Les Misérables_ <br/>
-**演出**：Colm Wilkinson 🇮🇪, Phil Cavill 🇬🇧, Robert Marien 🇫🇷, Jerzy Jeszke 🇩🇪, 鹿賀 丈史 🇯🇵, Vikidál Gyula 🇭🇺, Tommy Körberg 🇸🇪, Krzysztof Stasierowski 🇵🇱, Henk Poort 🇳🇱, Michael Burgess 🇨🇦, Reinhard Brussmann 🇦🇹, Rob Guest 🇦🇺, Øystein Wiik 🇳🇴, Jan Ježek 🇨🇿, Kurt Ravn 🇩🇰, Jeff Leyton 🇮🇪, Egill Ólafsson 🇮🇸, & Craig Schulman 🇺🇸 &nbsp;(1995 | 伦敦 Royal Albert Hall) 
+**演出**：Colm Wilkinson 🇮🇪, Phil Cavill 🇬🇧, Robert Marien 🇫🇷, Jerzy Jeszke 🇩🇪, 鹿賀丈史 🇯🇵, Vikidál Gyula 🇭🇺, Tommy Körberg 🇸🇪, Krzysztof Stasierowski 🇵🇱, Henk Poort 🇳🇱, Michael Burgess 🇨🇦, Reinhard Brussmann 🇦🇹, Rob Guest 🇦🇺, Øystein Wiik 🇳🇴, Jan Ježek 🇨🇿, Kurt Ravn 🇩🇰, Jeff Leyton 🇮🇪, Egill Ólafsson 🇮🇸, & Craig Schulman 🇺🇸 &nbsp;(1995 | 伦敦 Royal Albert Hall) 
 
 ----
 
@@ -597,6 +612,12 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 #### [Not a Day Goes By](https://www.youtube.com/watch?v=5kMlQgyz834)  
 **原剧**：_Merrily We Roll Along_ <br/>
 **演出**：Bernadette Peters &nbsp;(1998 | 伦敦 Royal Festival Hall)
+
+----
+
+#### [悲しみのクラウン](https://music.apple.com/jp/artist/%E4%B8%80%E8%B7%AF%E7%9C%9F%E8%BC%9D/74575087) &nbsp; 🇯🇵
+**原剧**：_A Little Night Music_ <br/>
+**演出**：一路真輝 &nbsp;(1998 | 东京 新国立劇場)
 
 ----
 
@@ -739,12 +760,6 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 ----
 
-#### [Anything Goes](https://www.youtube.com/watch?v=ph_ixSMU8ic) 
-**原剧**：_Anything Goes_ <br/>
-**录音**：Tony Bennett &nbsp;(1959) 
-
-----
-
 #### [Hello, Young Lovers](https://www.youtube.com/watch?v=Bf485I6CdiY) 
 **原剧**：_The King and I_ <br/>
 **录音**：Richard Kiley &nbsp;(1960) 
@@ -757,9 +772,21 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 ----
 
+#### [Fugue for Tinhorns](https://www.youtube.com/watch?v=0mR3ZUB_Nx8)
+**原剧**：_Guys and Dolls_ <br/>
+**录音**：Frank Sinatra, Bing Crosby, & Dean Martin &nbsp;(1963)
+
+----
+
 #### [Many a New Day](https://www.youtube.com/watch?v=WbxmJpMqo-o)
 **原剧**：_Oklahoma!_ <br/>
 **录音**：Florence Henderson &nbsp;(1964) 
+
+----
+
+#### [Csak egy iciri, csak egy piciri](https://www.youtube.com/watch?v=4KmeQZZ0NKk) &nbsp;🇭🇺 
+**原剧**：_My Fair Lady_ <br/>
+**录音**：Rátonyi Róbert &nbsp;(1965)
 
 ----
 
@@ -859,6 +886,12 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 ----
 
+#### [Przetańczyć całą noc](https://www.youtube.com/watch?v=JAiB1X5vCXs) &nbsp;🇵🇱
+**原剧**：_My Fair Lady_ <br/>
+**录音**：Grażyna Brodzińska &nbsp;(2002)
+
+----
+
 #### [So in Love](https://www.youtube.com/watch?v=8gk_ijjXGbY) &nbsp;&&nbsp; [Not While I'm Around](https://www.youtube.com/watch?v=8iQ9er-3pSo)  
 **原剧**：_Sweeney Todd_ <br/>
 **录音**：Bryn Terfel & Renée Fleming &nbsp;(2002)
@@ -880,12 +913,6 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 #### [孤单单](https://www.youtube.com/watch?v=4BbX8ajrgzo) &nbsp;🇨🇳
 **原剧**：_Les Misérables_ <br/>
 **录音**：钱琳 &nbsp;(2009)
-
-----
-
-#### [When You're Good to Mama](https://www.youtube.com/watch?v=hTeKD3I1Xuc)
-**原剧**：_Chicago_ <br/>
-**录音**：Ruthie Henshall &nbsp;(2013)
 
 ----
 
@@ -923,14 +950,14 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 #### i2.&nbsp; [Cadenza and Fantasy from Fiddler on the Roof](https://www.youtube.com/watch?v=PseBnzX4Re8) 
 **编曲 / 指挥**：John Williams <br/>
-**独奏**：Isaac Stern [小提琴] <br/>
+**小提琴**：Isaac Stern <br/>
 **录音**：1971
 
 ----
 
 #### i3.&nbsp; [West Side Story Suite](https://www.youtube.com/watch?v=B6m2RIZhhzM)
 **编曲**：William David Brohn <br/>
-**独奏**：Joshua Bell [小提琴] <br/>
+**小提琴**：Joshua Bell <br/>
 **乐团**：Philharmonia Orchestra <br/>
 **指挥**：David Zinman <br/>
 **录音**：2001
@@ -940,7 +967,8 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 #### i4.&nbsp; [Phantasia](https://www.youtube.com/watch?v=P69Z7hmCPDA)
 **原剧**：_The Phantom of the Opera_ <br/>
 **编曲**：Geoffrey Alexander <br/>
-**独奏**：Julian Lloyd Webber [大提琴] & Sarah Chang [小提琴] <br/>
+**大提琴**：Julian Lloyd Webber <br/>
+**小提琴**：Sarah Chang <br/>
 **乐团**：The London Orchestra <br/>
 **指挥**：Simon Lee <br/>
 **录音**：2005
@@ -949,7 +977,7 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 #### i5.&nbsp; [Chess](https://www.youtube.com/watch?v=ypdi0o3gNGc)
 **原剧**：_Chess_ <br/>
-**独奏**：Benny Andersson [钢琴] <br/>
+**钢琴**：Benny Andersson <br/>
 **录音**：2018
 
 <br/><br/>
@@ -974,9 +1002,13 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 [_South Pacific_](https://en.wikipedia.org/wiki/South_Pacific_(musical)) &nbsp;🇺🇸 (1949):<span style="color:gray"> ''Some Enchanted Evening'', ''Bali Ha'i'' (2),</span> ''Some Enchanted Evening (Reprise)'',<span style="color:gray"> ''You've Got to Be Carefully Taught'', &</span> ''This Nearly Was Mine'' (1+<span style="color:gray">1</span>)
 
+<span style="color:gray">
+[_Guys and Dolls_](https://en.wikipedia.org/wiki/Guys_and_Dolls) &nbsp;🇺🇸 (1950): ''Fugue for Tinhorns''
+</span>
+
 [_The King and I_](https://en.wikipedia.org/wiki/The_King_and_I) &nbsp;🇺🇸 (1951):<span style="color:gray"> ''Hello, Young Lovers'', ''Something Wonderful'', ''I Have Dreamed'', &</span> ''Shall We Dance?'' 
 
-[_My Fair Lady_](https://en.wikipedia.org/wiki/My_Fair_Lady) &nbsp;🇺🇸 (1956): ''Overture'', ''Why Can't the English?'', ''Wouldn't It Be Loverly?'', ''With a Little Bit of Luck'' (2), ''I'm an Ordinary Man'', ''Just You Wait'', <span style="color:gray"> ''I Could Have Danced All Night'',</span> ''Ascot Gavotte'',<span style="color:gray"> ''On the Street Where You Live'', </span> ''The Embassy Waltz'',<span style="color:gray"> ''Show Me'', &</span> ''Get Me to the Church on Time''
+[_My Fair Lady_](https://en.wikipedia.org/wiki/My_Fair_Lady) &nbsp;🇺🇸 (1956): ''Overture'', ''Why Can't the English?'', ''Wouldn't It Be Loverly?'', ''With a Little Bit of Luck'' (1+<span style="color:gray">1</span>), ''I'm an Ordinary Man'', ''Just You Wait'', <span style="color:gray"> ''I Could Have Danced All Night'' (2),</span> ''Ascot Gavotte'',<span style="color:gray"> ''On the Street Where You Live'', </span> ''The Embassy Waltz'',<span style="color:gray"> ''Show Me'', &</span> ''Get Me to the Church on Time''
 
 [_West Side Story_](https://en.wikipedia.org/wiki/West_Side_Story) &nbsp;🇺🇸 (1957): ''Prologue'', ''Mambo'', ''Tonight (Balcony Scene)'', ''America'',<span style="color:gray"> ''One Hand, One Heart'',</span> ''Tonight (Quintet)'',<span style="color:gray"> ''I Feel Pretty'',</span> ''Gee, Officer Krupke'', <span style="color:gray"> & ''A Boy Like That/I Have a Love'' </span>
 
@@ -990,10 +1022,9 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 [_Company_](https://en.wikipedia.org/wiki/Company_(musical)) &nbsp;🇺🇸 (1970): ''You Could Drive a Person Crazy''
 </span>
 
-[_A Little Night Music_](https://en.wikipedia.org/wiki/A_Little_Night_Music) &nbsp;🇺🇸 (1973): ''Send In the Clowns'' (1+<span style="color:gray">1</span>)
+[_A Little Night Music_](https://en.wikipedia.org/wiki/A_Little_Night_Music) &nbsp;🇺🇸 (1973): ''Send In the Clowns'' (1+<span style="color:gray">2</span>)
 
-
-[_Chicago_](https://en.wikipedia.org/wiki/Chicago_(musical)) &nbsp;🇺🇸 (1975): <span style="color:gray">''All That Jazz'', ''When You're Good to Mama'', &</span> ''We Both Reached for the Gun'' 
+[_Chicago_](https://en.wikipedia.org/wiki/Chicago_(musical)) &nbsp;🇺🇸 (1975): <span style="color:gray">''All That Jazz'' &</span> ''We Both Reached for the Gun'' 
 
 [_Sweeney Todd: The Demon Barber of Fleet Street_](https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street) &nbsp;🇺🇸 (1979): ''Prelude: The Ballad of Sweeney Todd'', ''The Worst Pies in London'', ''My Friends'', ''The Ballad of Sweeney Todd (Reprises 1–6)'', <span style="color:gray"> ''Green Finch and Linnet Bird'', </span> ''Kiss Me (Quartet)'', ''Pretty Women'', ''Epiphany'',<span style="color:gray"> ''A Little Priest'', & ''Not While I'm Around'' </span> 
 
@@ -1015,7 +1046,7 @@ HADLEY FRASER  &nbsp;饰&nbsp; Raoul, Vicomte de Chagny <br/>
 
 [_Sunset Boulevard_](https://en.wikipedia.org/wiki/Sunset_Boulevard_(musical)) &nbsp;🇬🇧 (1991/3): ''Surrender'',<span style="color:gray"> ''The Perfect Year'', &</span> ''Sunset Boulevard''
 
-[_Elisabeth_](https://en.wikipedia.org/wiki/Elisabeth_(musical)) &nbsp;🇦🇹 (1992): ''Prolog'', ''Wie du'', ''Der letzte Tanz'',<span style="color:gray"> ''Ich gehör nur mir'',</span> ''Ist das num dein Lohn (Bellaria)'', ''Die Schatten werden länger'', & ''Boote in der Nacht''
+[_Elisabeth_](https://en.wikipedia.org/wiki/Elisabeth_(musical)) &nbsp;🇦🇹 (1992): ''Prolog'', ''Wie du'', ''Der letzte Tanz'',<span style="color:gray"> ''Ich gehör nur mir'',</span> ''Kitsch!'', ''Ist das num dein Lohn (Bellaria)'', ''Die Schatten werden länger'', ''Rudolf, wo bist du? (Totenklage)'', ''Boote in der Nacht'', & ''An Deck der sinkenden Welt''
 
 [_Kristina från Duvemåla_](https://en.wikipedia.org/wiki/Kristina_fr%C3%A5n_Duvem%C3%A5la) &nbsp;🇸🇪 (1996): ''Du måste finnas''
 
