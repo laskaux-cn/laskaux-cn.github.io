@@ -71,6 +71,13 @@ tags: music
 
 ----
 
+#### [Je cherche après Titine](youtube.com/watch?v=tSO6HZ_tuCo) &nbsp;🇫🇷 
+**作曲**：Léo Daniderff <br/>
+**作词**：Bertal-Maubon & Émile Ronn <br/>
+**录音**：Andrex [André Jaubert] &nbsp;(1958)
+
+---
+
 #### [Le marchand de bonheur](https://www.youtube.com/watch?v=2uwkapU_LwQ) &nbsp;🇫🇷 
 **词曲**：Jean Broussolle & Jean-Pierre Calvet <br/>
 **录音**：Les Compagnons de la chanson &nbsp;(1959)
@@ -155,7 +162,14 @@ tags: music
 #### [エニシング・ゴーズ](https://youtu.be/zHVpQfzoWr0?t=240) &nbsp;🇯🇵 
 **词曲**：Cole Porter <br/>
 **译词**：青井陽治 <br/>
-**演出**：大地真央 &rsquo;59 &nbsp;(1990 | ミュージックフェア&nbsp; フジテレビ)
+**演出**：大地真央 &rsquo;59 &nbsp;(1990 | ミュージックフェア on FNN)
+
+---
+
+#### [Moon River](https://youtu.be/0NNuvpV3E3E?t=33) &nbsp;🇬🇧 
+**作曲**：Henry Mancini <br/>
+**作词**：Johnny Mercer <br/>
+**录音**：純名里沙 &rsquo;76 &nbsp;(1996 | ときめき夢サウンド on NBC)
 
 ---
 

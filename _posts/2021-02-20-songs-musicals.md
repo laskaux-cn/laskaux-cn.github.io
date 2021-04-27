@@ -218,12 +218,12 @@ ELSE LUDWIG &nbsp;饰&nbsp; Sophie Friederike von Bayern <br/>
 
 #### c16.&nbsp; [エリザベート -愛と死の輪舞- : 死の嘆き](https://www.bilibili.com/video/BV1qt41167kg) &nbsp;🇯🇵
 花總まり&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
-&emsp;&emsp;(2012 | 大阪 &nbsp;梅田芸術劇場 メインホール)
+&emsp;&emsp;(2012 | 大阪 &nbsp;梅田芸術劇場メインホール)
 
 ----
 
 #### c17.&nbsp; [エリザベート -愛と死の輪舞- : 不幸の始まり／最後のダンス](https://www.bilibili.com/video/BV1Ax411m7X9?from=search&seid=16131139249363253177) &nbsp;🇯🇵
-春野寿美礼 &ensp;饰&nbsp; トート [Thoth] <br/>
+春野寿美礼&ensp;饰&nbsp; トート [Thoth] <br/>
 &emsp;&emsp;(2017 | 东京 Bunkamura オーチャードホール)
 
 ----
@@ -386,8 +386,8 @@ ROBERT SEÑA  &nbsp;饰&nbsp; Thuy <br/>
 ----
 
 #### e13.&nbsp; [エリザベート -愛と死の輪舞- : 闇が広がる](https://youtu.be/wf_ic7HayzA?t=30) &nbsp;🇯🇵
-一路 真輝  &ensp;饰&nbsp; トート [Thoth] <br/>
-香寿 たつき  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
+一路真輝&ensp;饰&nbsp; トート [Thoth] <br/>
+香寿たつき&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
 &emsp;&emsp;(1996 | 宝冢 &nbsp;宝塚大劇場)
 
 ----
@@ -400,7 +400,7 @@ NICO SCHAAP &nbsp;饰&nbsp; Maximilian Joseph von Bayern <br/>
 ----
 
 #### e15.&nbsp; [エリザベート : 夜のボート](https://www.bilibili.com/video/BV1C5411W7zf) &nbsp;🇯🇵  
-一路 真輝  &ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
+一路真輝&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
 石川 禅  &ensp;饰&nbsp; Franz Joseph I. <br/>
 &emsp;&emsp;(2012 | 东京 &nbsp;東京国際フォーラム &nbsp;ホールC)
 
@@ -545,15 +545,15 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 ----
 
 #### f15.&nbsp; [エリザベート -愛と死の輪舞- : 我ら息絶えし者ども](https://www.bilibili.com/video/BV1es41117X7) &nbsp;🇯🇵
-葛城 七穂  &ensp;饰&nbsp; Richter <br/>
-樹里 咲穂  &ensp;饰&nbsp; Luigi Lucheni <br/>
-美々 杏里  &ensp;饰&nbsp; Sophie Friederike von Bayern <br/>
-稔 幸  &ensp;饰&nbsp; Franz Joseph I. <br/>
-久路 あかり  &ensp;饰&nbsp; Ludovika Wilhelmine von Bayern <br/>
+葛城七穂&ensp;饰&nbsp; Richter <br/>
+樹里咲穂&ensp;饰&nbsp; Luigi Lucheni <br/>
+美々杏里&ensp;饰&nbsp; Sophie Friederike von Bayern <br/>
+稔 幸 &ensp;饰&nbsp; Franz Joseph I. <br/>
+久路あかり&ensp;饰&nbsp; Ludovika Wilhelmine von Bayern <br/>
 月影 瞳  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn als Kind <br/>
-ちあき しん  &ensp;饰&nbsp; Maximilian Joseph in Bayern <br/>
-絵麻緒 ゆう  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
-&emsp;&emsp;(2006 | 大阪 &nbsp;梅田芸術劇場 メインホール)
+ちあきしん&ensp;饰&nbsp; Maximilian Joseph in Bayern <br/>
+絵麻緒ゆう&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
+&emsp;&emsp;(2006 | 大阪 &nbsp;梅田芸術劇場メインホール)
 
 <br/>
 
@@ -701,7 +701,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [Ich gehör nur mir](https://www.youtube.com/watch?v=S7T5rRKXqyo) &nbsp;🇩🇪🇭🇺🇯🇵🇫🇮🇰🇷🇳🇱🇸🇪
 **原剧**：_Elisabeth_ <br/>
-**演出**：Annemieke van Dam 🇳🇱, Vágó Bernadett 🇭🇺, 一路 真輝 🇯🇵, Therese Karlsson 🇫🇮, 옥주현 [玉珠鉉] 🇰🇷, Maike Boerdam 🇳🇱, Cecilie Nerfont Thorgersen 🇸🇪, Helene Fischer 🇩🇪 &nbsp;(2012 | 柏林 Velodrom)
+**演出**：Annemieke van Dam 🇳🇱, Vágó Bernadett 🇭🇺, 一路真輝 🇯🇵, Therese Karlsson 🇫🇮, 옥주현 [玉珠鉉] 🇰🇷, Maike Boerdam 🇳🇱, Cecilie Nerfont Thorgersen 🇸🇪, Helene Fischer 🇩🇪 &nbsp;(2012 | 柏林 Velodrom)
 
 ----
 
@@ -798,13 +798,13 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [君住む街角](https://www.youtube.com/watch?v=HKZ69p9Kgv4) &nbsp;🇯🇵  
 **原剧**：マイ・フェア・レディ <br/>
-**录音**：弘田 三枝子 &nbsp;(1965) 
+**录音**：弘田三枝子 &nbsp;(1965) 
 
 ----
 
 #### [魅惑の宵](https://www.youtube.com/watch?v=2zZAMV-NR-s) &nbsp;🇯🇵  
 **原剧**：南太平洋 <br/>
-**录音**：弘田 三枝子 &nbsp;(1967) 
+**录音**：弘田三枝子 &nbsp;(1967) 
 
 ----
 
@@ -906,7 +906,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [命をあげよう](https://www.youtube.com/watch?v=VA-KSJGXRBY) &nbsp;🇯🇵
 **原剧**：ミス・サイゴン <br/>
-**录音**：新妻 聖子 &nbsp;(2008) 
+**录音**：新妻聖子 &nbsp;(2008) 
 
 ----
 
