@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 听戏
+subtitle: 
 
 excerpt:   <br />
 
@@ -8,9 +9,9 @@ tags: music theater
 ---
 
 
-# 第一部分：原剧演出
+## 第一部分：原剧演出
 
-## A.&nbsp; 序曲 & 舞曲 {#prelude}
+### A.&nbsp; 序曲 & 舞曲 {#prelude}
 
 [#最后一组](#instr) &nbsp;
 [#下一组](#choir)
@@ -66,7 +67,7 @@ tags: music theater
 <br/>
 
 
-## B.&nbsp; 合唱 {#choir}
+### B.&nbsp; 合唱 {#choir}
 
 [#上一组](#prelude) &nbsp;
 [#下一组](#female-solo)
@@ -104,12 +105,12 @@ tags: music theater
 
 #### b5.&nbsp; _Sweeney Todd_ : The Ballad of Sweeney Todd (Reprises)
 
-[Reprise 1: ''Lift Your Razor High, Sweeney!''](https://youtu.be/tJNPEhXBEbQ?t=1343) <br/>
-[Reprise 2: ''Sweeney Pondered and Sweeney Planned''](https://youtu.be/tJNPEhXBEbQ?t=2491) <br/>
-[Reprise 3: ''His Hands Were Quick, His Fingers Strong''](https://youtu.be/tJNPEhXBEbQ?t=2920) <br/>
-[Reprise 4: ''Sweeney'd Waited Too Long Before''](https://youtu.be/tJNPEhXBEbQ?t=5774) <br/> 
-[Reprise 5: ''The Engine Roared, the Motor Hissed''](https://youtu.be/tJNPEhXBEbQ?t=6594) <br/> 
-[Reprise 6: ''Lift Your Razor High, Sweeney!''](https://youtu.be/tJNPEhXBEbQ?t=7228) 
+Reprise 1:[ ''Lift Your Razor High, Sweeney!''](https://youtu.be/tJNPEhXBEbQ?t=1343) <br/>
+Reprise 2:[ ''Sweeney Pondered and Sweeney Planned''](https://youtu.be/tJNPEhXBEbQ?t=2491) <br/>
+Reprise 3:[ ''His Hands Were Quick, His Fingers Strong''](https://youtu.be/tJNPEhXBEbQ?t=2920) <br/>
+Reprise 4:[ ''Sweeney'd Waited Too Long Before''](https://youtu.be/tJNPEhXBEbQ?t=5774) <br/> 
+Reprise 5:[ ''The Engine Roared, the Motor Hissed''](https://youtu.be/tJNPEhXBEbQ?t=6594) <br/> 
+Reprise 6:[ ''Lift Your Razor High, Sweeney!''](https://youtu.be/tJNPEhXBEbQ?t=7228) 
 
 **合唱**：San Francisco Symphony Chorus <br/>
 **乐团**：San Francisco Symphony <br/>
@@ -127,7 +128,7 @@ tags: music theater
 <br/>
 
 
-## C.&nbsp; 女声独唱 {#female-solo}
+### C.&nbsp; 女声独唱 {#female-solo}
 
 [#上一组](#choir) &nbsp;
 [#下一组](#male-solo) 
@@ -235,7 +236,7 @@ HELEN SJÖHOLM  &nbsp;饰&nbsp; Kristina <br/>
 <br/>
 
 
-## D.&nbsp; 男声独唱 {#male-solo}
+### D.&nbsp; 男声独唱 {#male-solo}
 
 [#上一组](#female-solo) &nbsp;
 [#下一组](#duet) 
@@ -296,7 +297,7 @@ SERKAN KAYA  &nbsp;饰&nbsp; Luigi Lucheni <br/>
 
 
 
-## E.&nbsp; 二重唱 {#duet}
+### E.&nbsp; 二重唱 {#duet}
 
 [#上一组](#male-solo) &nbsp;
 [#下一组](#chorus) 
@@ -407,7 +408,7 @@ NICO SCHAAP &nbsp;饰&nbsp; Maximilian Joseph von Bayern <br/>
 <br/>
 
 
-## F.&nbsp; 多重唱 {#chorus}
+### F.&nbsp; 多重唱 {#chorus}
 
 [#上一组](#duet) &nbsp;
 [#下一组](#stage) 
@@ -559,9 +560,9 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 
 
-# 第二部分：衍生作品
+## 第二部分：衍生作品
 
-## G.&nbsp; 舞台演出 {#stage}
+### G.&nbsp; 舞台演出 {#stage}
 
 [#上一组](#chorus) &nbsp;
 [#下一组](#disc) 
@@ -743,7 +744,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 
 
-## H.&nbsp; 唱片录音 {#disc}
+### H.&nbsp; 唱片录音 {#disc}
 
 [#上一组](#stage) &nbsp;
 [#下一组](#instr) 
@@ -935,7 +936,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 <br/>
 
 
-## I.&nbsp; 器乐改编 {#instr}
+### I.&nbsp; 器乐改编 {#instr}
 
 [#上一组](#disc) &nbsp;
 [#第一组](#prelude) 

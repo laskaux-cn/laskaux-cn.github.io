@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 27 Apr 2021 12:50:33 -0400</pubDate>
+    <pubDate>Tue, 27 Apr 2021 18:15:32 -0400</pubDate>
     
       <item>
         <title>幸福を売る人</title>
@@ -66,6 +66,12 @@
 &lt;h4 id=&quot;i-concentrate-on-you-&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gEIExUvvG5A&quot;&gt;I Concentrate on You&lt;/a&gt;  🇬🇧&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;词曲&lt;/strong&gt;：Cole Porter &lt;br /&gt;
 &lt;strong&gt;演出&lt;/strong&gt;：Perry Como  (1952 | &lt;em&gt;The Chesterfield Supper Club&lt;/em&gt; on NBC)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;youre-the-top-&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=taFvGQtmq7A&quot;&gt;You’re the Top&lt;/a&gt;  🇬🇧&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;词曲&lt;/strong&gt;：Cole Porter &lt;br /&gt;
+&lt;strong&gt;录音&lt;/strong&gt;：Bing Crosby  (1956)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -251,9 +257,9 @@
         <title>听戏</title>
         <link>/2021/02/20/songs-musicals.html</link>
         <guid isPermaLink="true">/2021/02/20/songs-musicals.html</guid>
-        <description>&lt;h1 id=&quot;第一部分原剧演出&quot;&gt;第一部分：原剧演出&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;第一部分原剧演出&quot;&gt;第一部分：原剧演出&lt;/h2&gt;
 
-&lt;h2 id=&quot;prelude&quot;&gt;A.  序曲 &amp;amp; 舞曲&lt;/h2&gt;
+&lt;h3 id=&quot;prelude&quot;&gt;A.  序曲 &amp;amp; 舞曲&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#instr&quot;&gt;#最后一组&lt;/a&gt;  
 &lt;a href=&quot;#choir&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -308,7 +314,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;choir&quot;&gt;B.  合唱&lt;/h2&gt;
+&lt;h3 id=&quot;choir&quot;&gt;B.  合唱&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#prelude&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#female-solo&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -346,12 +352,12 @@
 
 &lt;h4 id=&quot;b5-sweeney-todd--the-ballad-of-sweeney-todd-reprises&quot;&gt;b5.  &lt;em&gt;Sweeney Todd&lt;/em&gt; : The Ballad of Sweeney Todd (Reprises)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=1343&quot;&gt;Reprise 1: ‘‘Lift Your Razor High, Sweeney!’’&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=2491&quot;&gt;Reprise 2: ‘‘Sweeney Pondered and Sweeney Planned’’&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=2920&quot;&gt;Reprise 3: ‘‘His Hands Were Quick, His Fingers Strong’’&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=5774&quot;&gt;Reprise 4: ‘‘Sweeney’d Waited Too Long Before’’&lt;/a&gt; &lt;br /&gt; 
-&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=6594&quot;&gt;Reprise 5: ‘‘The Engine Roared, the Motor Hissed’’&lt;/a&gt; &lt;br /&gt; 
-&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=7228&quot;&gt;Reprise 6: ‘‘Lift Your Razor High, Sweeney!’’&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reprise 1:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=1343&quot;&gt; ‘‘Lift Your Razor High, Sweeney!’’&lt;/a&gt; &lt;br /&gt;
+Reprise 2:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=2491&quot;&gt; ‘‘Sweeney Pondered and Sweeney Planned’’&lt;/a&gt; &lt;br /&gt;
+Reprise 3:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=2920&quot;&gt; ‘‘His Hands Were Quick, His Fingers Strong’’&lt;/a&gt; &lt;br /&gt;
+Reprise 4:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=5774&quot;&gt; ‘‘Sweeney’d Waited Too Long Before’’&lt;/a&gt; &lt;br /&gt; 
+Reprise 5:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=6594&quot;&gt; ‘‘The Engine Roared, the Motor Hissed’’&lt;/a&gt; &lt;br /&gt; 
+Reprise 6:&lt;a href=&quot;https://youtu.be/tJNPEhXBEbQ?t=7228&quot;&gt; ‘‘Lift Your Razor High, Sweeney!’’&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;合唱&lt;/strong&gt;：San Francisco Symphony Chorus &lt;br /&gt;
 &lt;strong&gt;乐团&lt;/strong&gt;：San Francisco Symphony &lt;br /&gt;
@@ -368,7 +374,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;female-solo&quot;&gt;C.  女声独唱&lt;/h2&gt;
+&lt;h3 id=&quot;female-solo&quot;&gt;C.  女声独唱&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#choir&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#male-solo&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -475,7 +481,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;male-solo&quot;&gt;D.  男声独唱&lt;/h2&gt;
+&lt;h3 id=&quot;male-solo&quot;&gt;D.  男声独唱&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#female-solo&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#duet&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -534,7 +540,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;duet&quot;&gt;E.  二重唱&lt;/h2&gt;
+&lt;h3 id=&quot;duet&quot;&gt;E.  二重唱&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#male-solo&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#chorus&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -644,7 +650,7 @@ NICO SCHAAP  饰  Maximilian Joseph von Bayern &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;chorus&quot;&gt;F.  多重唱&lt;/h2&gt;
+&lt;h3 id=&quot;chorus&quot;&gt;F.  多重唱&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#duet&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#stage&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -794,9 +800,9 @@ KAMARÁS MÁTÉ  饰  Der Tod &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;第二部分衍生作品&quot;&gt;第二部分：衍生作品&lt;/h1&gt;
+&lt;h2 id=&quot;第二部分衍生作品&quot;&gt;第二部分：衍生作品&lt;/h2&gt;
 
-&lt;h2 id=&quot;stage&quot;&gt;G.  舞台演出&lt;/h2&gt;
+&lt;h3 id=&quot;stage&quot;&gt;G.  舞台演出&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#chorus&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#disc&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -975,7 +981,7 @@ KAMARÁS MÁTÉ  饰  Der Tod &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;disc&quot;&gt;H.  唱片录音&lt;/h2&gt;
+&lt;h3 id=&quot;disc&quot;&gt;H.  唱片录音&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#stage&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#instr&quot;&gt;#下一组&lt;/a&gt;&lt;/p&gt;
@@ -1166,7 +1172,7 @@ KAMARÁS MÁTÉ  饰  Der Tod &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;instr&quot;&gt;I.  器乐改编&lt;/h2&gt;
+&lt;h3 id=&quot;instr&quot;&gt;I.  器乐改编&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#disc&quot;&gt;#上一组&lt;/a&gt;  
 &lt;a href=&quot;#prelude&quot;&gt;#第一组&lt;/a&gt;&lt;/p&gt;
