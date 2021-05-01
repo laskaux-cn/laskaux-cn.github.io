@@ -113,7 +113,7 @@ tags: music
 
 ---
 
-#### [Mélancolie](https://www.youtube.com/watch?v=PDuWj1SSmoA) &nbsp;🇯🇵 
+#### [メランコリー](https://www.youtube.com/watch?v=PDuWj1SSmoA) &nbsp;🇯🇵 
 **词曲**：Alain Romans & Pierre Dudan <br/>
 **译词**：岩谷時子 <br/>
 **录音**：越路吹雪 &rsquo;27 &nbsp;(1963) 
@@ -175,7 +175,7 @@ tags: music
 #### [Moon River](https://youtu.be/0NNuvpV3E3E?t=33) &nbsp;🇬🇧 
 **作曲**：Henry Mancini <br/>
 **作词**：Johnny Mercer <br/>
-**录音**：純名里沙 &rsquo;76 &nbsp;(1996 | ときめき夢サウンド on NBC)
+**录音**：純名里沙 &rsquo;76 &nbsp;(1996 | ときめき夢サウンド on NHK)
 
 ---
 
