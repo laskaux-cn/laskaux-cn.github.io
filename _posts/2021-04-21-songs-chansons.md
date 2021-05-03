@@ -12,6 +12,13 @@ tags: music
 - **宝塚歌劇団**前团员注有生徒年级 <br/><br/>
 
 
+#### [Brother, Can You Spare a Dime?](https://www.youtube.com/watch?v=ovndTa7hQDE) &nbsp;🇬🇧 
+**作曲**：Jay Gorney <br/>
+**作词**：Yip Harburg <br/>
+**录音**：Bing Crosby &nbsp;(1932)
+
+----
+
 #### [Titine (The Nonsense Song)](https://www.youtube.com/watch?v=SIIC2yFTcNw) &nbsp;💬 
 **作曲**：Léo Daniderff <br/>
 **编词**：Charlie Chaplin <br/>
@@ -42,6 +49,13 @@ tags: music
 **作曲**：József Kozma <br/>
 **作词**：Jacques Prévert <br/>
 **录音**：Yves Montand &nbsp;(1950)
+
+---
+
+#### [Sous le ciel de Paris](https://www.youtube.com/watch?v=Wb1Qyavsx38) &nbsp;🇫🇷 
+**作曲**：Hubert Giraud <br/>
+**作词**：Jean Dréjac <br/>
+**录音**：Juliette Gréco &nbsp;(1951)
 
 ---
 
@@ -193,6 +207,13 @@ tags: music
 
 ---
 
+#### [Someone to Watch Over Me](https://www.youtube.com/watch?v=AgK8zKxRhp4) &nbsp;🇬🇧 
+**作曲**：George Gershwin <br/>
+**作词**：Ira Gershwin <br/>
+**演出**：Lea Salonga &nbsp;(2002 | 马尼拉 Plenary Hall of the Philippine International Convention Center)
+
+---
+
 #### [La foule](https://open.spotify.com/album/60gV7ZQKTsyy4sDy7CnWGJ) &nbsp;🇫🇷 
 **作曲**：Ángel Cabral <br/>
 **作词**：Michel Rivgauche <br/>
@@ -222,10 +243,10 @@ tags: music
 
 ----
 
-#### [幸福を売る人](https://www.nicovideo.jp/watch/sm27277304) &nbsp;🇯🇵 
+#### [幸福を売る人](https://www.bilibili.com/video/BV1Qs411m7vc) &nbsp;🇯🇵 
 **词曲**：Jean Broussolle & Jean-Pierre Calvet <br/>
 **译词**：高木史朗 <br/>
-**演出**：鳳蘭 &rsquo;50、安寿ミラ &rsquo;66、峰さを理 &rsquo;58、杜けあき &rsquo;65、剣幸 &rsquo;60、未沙のえる &rsquo;59、羽純るい &rsquo;78、南海まり &rsquo;85、出雲綾 &rsquo;69、初風諄 &rsquo;47、朝海ひかる &rsquo;77、湖月わたる &rsquo;75、彩輝なお &rsquo;76、安蘭けい &rsquo;77、麻路さき &rsquo;69、紫とも &rsquo;70、紫城るい &rsquo;83、星奈優里 &rsquo;76、彩乃かなみ &rsquo;83、涼風真世 &rsquo;67、大和悠河 &rsquo;81 &ensp;(2013 | 大阪 梅田芸術劇場メインホール)
+**演出**：鳳蘭 &rsquo;50、安寿ミラ &rsquo;66、峰さを理 &rsquo;58、杜けあき &rsquo;65、剣幸 &rsquo;60、未沙のえる &rsquo;59、羽純るい &rsquo;78、南海まり &rsquo;85、出雲綾 &rsquo;69、初風諄 &rsquo;47、朝海ひかる &rsquo;77、湖月わたる &rsquo;75、彩輝なお &rsquo;76、水夏希 &rsquo;79、麻路さき &rsquo;69、紫とも &rsquo;70、紫城るい &rsquo;83、星奈優里 &rsquo;76、彩乃かなみ &rsquo;83、香寿たつき &rsquo;72、紫苑ゆう &rsquo;64 &ensp;(2013 | 大阪 梅田芸術劇場メインホール)
 
 ---
 
