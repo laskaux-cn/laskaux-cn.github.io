@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 幸福を売る人 &nbsp;♬
+title: 幸福を売る人 
 subtitle: 苦しい人に　幸福の歌
-excerpt: 苦しい人に　幸福の歌 <br/>
+excerpt: ♬&nbsp; 苦しい人に　幸福の歌 <br/>
 
 tags: music
 ---
