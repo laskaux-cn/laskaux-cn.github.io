@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LE GRAND AMOUR
+title: LE GRAND AMOUR &nbsp;♬
 subtitle: 愛には　癒せないことがあるの
 excerpt: 情人节歌单——「愛には　癒せないことがあるの」 <br/>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 幸福を売る人
+title: 幸福を売る人 &nbsp;♬
 subtitle: 苦しい人に　幸福の歌
 excerpt: 苦しい人に　幸福の歌 <br/>
 

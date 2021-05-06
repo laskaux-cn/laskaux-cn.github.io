@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 听戏
+title: 听戏 &nbsp;♬
 subtitle: 
 
 excerpt:   <br />
@@ -37,7 +37,7 @@ tags: music theater
 
 ----
 
-#### a4.&nbsp; [_West Side Story_ : Prologue](https://www.youtube.com/watch?v=-JVf3trRfGI)
+#### a4.&nbsp; [_West Side Story_ : Prologue](https://www.youtube.com/watch?v=m4zw53foi2w)
 **乐团**：New York Philharmonic <br/>
 **指挥**：Leonard Bernstein  <br/>
 &emsp;&emsp;(1961 | 纽约 Manhattan Center Studios 录音)
