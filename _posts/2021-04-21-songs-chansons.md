@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 「不严肃音乐」第二单：幸福を売る人 <sup>[未完]</sup>
-subtitle: 电影院、卡巴莱与歌舞秀
+subtitle: 咖啡厅、电影院与歌舞秀
 excerpt: ♬&nbsp; 咖啡厅、电影院与歌舞秀 <br/>
 
 tags: music
