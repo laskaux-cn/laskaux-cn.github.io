@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 听戏
-subtitle: 
+title: 「不严肃音乐」第一单：听戏
+subtitle: 叙事音乐剧场内外
 
-excerpt: ♬&nbsp; <br />
+excerpt: ♬&nbsp; 叙事音乐剧场内外 <br />
 
 tags: music theater
 ---

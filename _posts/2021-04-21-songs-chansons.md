@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 幸福を売る人 
-subtitle: 苦しい人に　幸福の歌
-excerpt: ♬&nbsp; 苦しい人に　幸福の歌 <br/>
+title: 「不严肃音乐」第二单：幸福を売る人 <sup>[未完]</sup>
+subtitle: 电影院、卡巴莱与歌舞秀
+excerpt: ♬&nbsp; 咖啡厅、电影院与歌舞秀 <br/>
 
 tags: music
 ---
