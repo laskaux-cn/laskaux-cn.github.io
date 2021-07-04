@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 04 Jul 2021 02:22:29 -0400</pubDate>
+    <pubDate>Sun, 04 Jul 2021 03:27:46 -0400</pubDate>
     
       <item>
         <title>「五本书」第二辑：科学的信念</title>
@@ -32,7 +32,7 @@
 &lt;h2 id=&quot;poincare-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;La Valeur de la Science&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：HENRI POINCARÉ［法］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：1905 📍巴黎 &lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：1905 📍巴黎 🇫🇷 &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;  (by George Bruce Halsted, 1907)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/poincare.png&quot; alt=&quot;Poincaré&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -43,6 +43,15 @@
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：PERCY W. BRIDGMAN［美］&lt;br /&gt;
 &lt;strong&gt;初版&lt;/strong&gt;：1927 📍纽约 &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bridgman.png&quot; alt=&quot;Bridgman&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge: An Exploration of the Grounds for Belief in Science&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：JOHN ZIMAN［英］&lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：1978 📍剑桥、纽约、墨尔本 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bridgman.png&quot; alt=&quot;Bridgman&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2133,8 +2142,9 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;bernard-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale&quot;&gt;Introduction à l’étude de la médecine expérimentale&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：CLAUDE BERNARD［法］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：1865 📍巴黎 &lt;br /&gt;
+&lt;h4 id=&quot;法-claude-bernard&quot;&gt;[法]  Claude Bernard&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1865  &lt;img src=&quot;/assets/img/flags/fr_tri.png&quot; width=&quot;19&quot; /&gt;   Paris: J. B. Baillière et fils  &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt;  (by Henry Copley Greene, 1927)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bernard.png&quot; alt=&quot;Bernard&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2143,8 +2153,9 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;ebbinghaus-cover&quot;&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：HERMANN EBBINGHAUS［德］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：1885 📍莱比锡 &lt;br /&gt;
+&lt;h4 id=&quot;德-hermann-ebbinghaus&quot;&gt;[德]  Hermann Ebbinghaus&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1885  &lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;19&quot; /&gt;  Leipzig: Duncker &amp;amp; Humblot &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt;  (by Henry A. Ruger &amp;amp; Clara E. Bussenius, 1913)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ebbinghaus.png&quot; alt=&quot;Ebbinghaus&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2153,8 +2164,9 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;perrin-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/Les_Atomes&quot;&gt;Les Atomes&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：JEAN PERRIN［法］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：1913 📍巴黎 &lt;br /&gt;
+&lt;h4 id=&quot;法-jean-perrin&quot;&gt;[法]  Jean Perrin&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1913  &lt;img src=&quot;/assets/img/flags/fr_tri.png&quot; width=&quot;19&quot; /&gt;   Paris: Félix Alcan &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt;  (by Dalziel Llewellyn Hammick, 1916) &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/perrin.png&quot; alt=&quot;Perrin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2163,8 +2175,9 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;hubble-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up&quot;&gt;The Realm of the Nebulæ&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：EDWIN HUBBLE［美］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：1936 📍伦敦 &lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;美-edwin-hubble&quot;&gt;[美]  Edwin Hubble&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1936   &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;25&quot; /&gt;   London: Oxford Univ. Press &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/hubble.png&quot; alt=&quot;Hubble&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2173,7 +2186,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 &lt;h2 id=&quot;gisin-cover&quot;&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;作者&lt;/strong&gt;：NICOLAS GISIN［瑞士］&lt;br /&gt;
-&lt;strong&gt;初版&lt;/strong&gt;：2012 📍巴黎 &lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
+&lt;strong&gt;初版&lt;/strong&gt;：2012  &lt;img src=&quot;/assets/img/flags/fr_tri.png&quot; width=&quot;19&quot; /&gt;  Paris: Odile Jacob &lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt;  (by Stephen Lyle, 2014)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/gisin.png&quot; alt=&quot;Gisin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2323,8 +2336,7 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:jacob&quot;&gt;
- 	 这里安利一下 &lt;em&gt;L’impensable Hasard&lt;/em&gt; 的出版社 &lt;a href=&quot;https://www.odilejacob.fr/&quot;&gt;Éditions Odile Jacob&lt;/a&gt;——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 &lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php&quot;&gt;&lt;em&gt;La Lumière révélée. De la lunette de Galilée à l’étrangeté quantique&lt;/em&gt;&lt;/a&gt;（一周前刚刚出版，非常期待）。
-      &lt;p&gt;&lt;a href=&quot;#fnref:jacob&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt; 这里安利一下 &lt;a href=&quot;https://www.odilejacob.fr/&quot;&gt;Éditions Odile Jacob&lt;/a&gt;——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 &lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php&quot;&gt;&lt;em&gt;La Lumière révélée. De la lunette de Galilée à l’étrangeté quantique&lt;/em&gt;&lt;/a&gt;（一周前刚刚出版，非常期待）。 &lt;a href=&quot;#fnref:jacob&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:harpsichord&quot;&gt;
  	 ‘‘We shall not find here the pretensions to system, arrangement, and thoroughness of more elaborate treatises on scientific method. Here everything is said directly, simply, without pretentiousness or pseudo-profundity; &lt;em&gt;we can almost hear the harpsichord playing in the background.&lt;/em&gt;’’  (Max Black, ‘‘The Definition of Scientific Method’’ in &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015010450123&amp;amp;view=1up&amp;amp;seq=103&quot;&gt;&lt;em&gt;Science and Civilization&lt;/em&gt;,  p. 83&lt;/a&gt;) &lt;br /&gt;   Bernard 最著名的书粉大概是 Émile Zola（左拉）——&lt;em&gt;Médecine expérimentale&lt;/em&gt; 对 1880 年出版的自然主义文学宣言书 &lt;a href=&quot;https://fr.wikisource.org/wiki/Le_Roman_exp%C3%A9rimental&quot;&gt;&lt;em&gt;Le Roman expérimental&lt;/em&gt;&lt;/a&gt; 有着强烈影响。

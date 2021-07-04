@@ -25,7 +25,7 @@ tags: 五本书 科学
 ## [La Valeur de la Science](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science) {#poincare-cover}
 
 **作者**：HENRI POINCARÉ［法］<br/>
-**初版**：1905 📍巴黎 <br/>
+**初版**：1905 📍巴黎 🇫🇷 <br/>
 **英译**：[_The Value of Science_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) &nbsp;(by George Bruce Halsted, 1907)
 
 [![Poincaré](/assets/img/books/poincare.png)](#poincare-intro)
@@ -43,6 +43,14 @@ tags: 五本书 科学
 <br/>
 
 
+## [Reliable Knowledge: An Exploration of the Grounds for Belief in Science](https://archive.org/details/reliableknowledg00john/mode/2up) {#ziman-cover}
+
+**作者**：JOHN ZIMAN［英］<br/>
+**初版**：1978 📍剑桥、纽约、墨尔本 <br/>
+
+[![Bridgman](/assets/img/books/bridgman.png)](#bridgman-intro)
+
+<br/>
 
 
 ----

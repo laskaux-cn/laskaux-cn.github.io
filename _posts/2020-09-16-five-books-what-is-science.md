@@ -44,8 +44,9 @@ tags: 五本书 科学
 
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
 
-**作者**：CLAUDE BERNARD［法］<br/>
-**初版**：1865 📍巴黎 <br/>
+#### [法]&nbsp; Claude Bernard
+
+**初版**：1865 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp;  Paris: J. B. Baillière et fils  <br/>
 **英译**：[_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(by Henry Copley Greene, 1927)
 
 [<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
@@ -55,8 +56,9 @@ tags: 五本书 科学
 
 ## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
-**作者**：HERMANN EBBINGHAUS［德］<br/>
-**初版**：1885 📍莱比锡 <br/>
+#### [德]&nbsp; Hermann Ebbinghaus
+
+**初版**：1885 &ensp;<img src="/assets/img/flags/de_emp.png" width="19"/>&nbsp; Leipzig: Duncker & Humblot <br/>
 **英译**：[_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(by Henry A. Ruger & Clara E. Bussenius, 1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
@@ -66,8 +68,9 @@ tags: 五本书 科学
 
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
-**作者**：JEAN PERRIN［法］<br/>
-**初版**：1913 📍巴黎 <br/>
+#### [法]&nbsp; Jean Perrin
+
+**初版**：1913 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp;  Paris: Félix Alcan <br/>
 **英译**：[_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(by Dalziel Llewellyn Hammick, 1916) <br/>
 
 [<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
@@ -77,8 +80,9 @@ tags: 五本书 科学
 
 ## [The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)  {#hubble-cover}
 
-**作者**：EDWIN HUBBLE［美］<br/>
-**初版**：1936 📍伦敦 <br/>
+#### [美]&nbsp; Edwin Hubble
+
+**初版**：1936  &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp;  London: Oxford Univ. Press <br/>
 
 [<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
@@ -88,8 +92,10 @@ tags: 五本书 科学
 ## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
 
 **作者**：NICOLAS GISIN［瑞士］<br/>
-**初版**：2012 📍巴黎 [^jacob] <br/>
+**初版**：2012 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp; Paris: Odile Jacob [^jacob] <br/>
 **英译**：[_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(by Stephen Lyle, 2014)
+
+[^jacob]:   &emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
 
 [<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
 
@@ -307,8 +313,6 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 [^correlation]: 	&emsp;&lsquo;&lsquo;La science consiste essentiellement à observer des corrélations, puis à inventer des explications de ces corrélations.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 25) <br/>&emsp;&emsp;&ensp;[Science is essentially an exercise in observing correlations, then inventing explanations for them.] 
 
 [^china]: 	&emsp;不过，当前一些希望借助宣传工具来重写科技史的中国团队似乎不太愿意承认这些。
-
-[^jacob]: 	&emsp;这里安利一下 _L’impensable Hasard_ 的出版社 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
 
 <br />
 
