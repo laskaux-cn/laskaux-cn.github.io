@@ -13,7 +13,7 @@ tags: 五本书 科学
 >This above all: to thine own self be true, <br/>
 >And it must follow, as the night the day, <br/>
 >Thou canst not then be false to any man. 
- > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em>, I.iii.78–80</a>
+ > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em> : I.iii.78–80</a> (1603)
 
 [#跳至书单](#list)
 <br/><br/>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
@@ -46,7 +46,7 @@ tags: 五本书 科学
 
 #### [法]&nbsp; Claude Bernard
 
-**初版**：1865 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp;  Paris: J. B. Baillière et fils  <br/>
+**初版**：1865 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: J. B. Baillière et fils  <br/>
 **英译**：[_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(by Henry Copley Greene, 1927)
 
 [<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
@@ -58,7 +58,7 @@ tags: 五本书 科学
 
 #### [德]&nbsp; Hermann Ebbinghaus
 
-**初版**：1885 &ensp;<img src="/assets/img/flags/de_emp.png" width="19"/>&nbsp; Leipzig: Duncker & Humblot <br/>
+**初版**：1885 &nbsp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Leipzig: Duncker & Humblot <br/>
 **英译**：[_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(by Henry A. Ruger & Clara E. Bussenius, 1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
@@ -70,7 +70,7 @@ tags: 五本书 科学
 
 #### [法]&nbsp; Jean Perrin
 
-**初版**：1913 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp;  Paris: Félix Alcan <br/>
+**初版**：1913 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: Félix Alcan <br/>
 **英译**：[_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(by Dalziel Llewellyn Hammick, 1916) <br/>
 
 [<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
@@ -82,7 +82,7 @@ tags: 五本书 科学
 
 #### [美]&nbsp; Edwin Hubble
 
-**初版**：1936  &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp;  London: Oxford Univ. Press <br/>
+**初版**：1936 &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New Haven: Yale Univ. Press / &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; London: Oxford Univ. Press <br/>
 
 [<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
@@ -91,8 +91,9 @@ tags: 五本书 科学
 
 ## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
 
-**作者**：NICOLAS GISIN［瑞士］<br/>
-**初版**：2012 &ensp;<img src="/assets/img/flags/fr_tri.png" width="19"/>&nbsp; Paris: Odile Jacob [^jacob] <br/>
+#### [瑞士]&nbsp; Nicolas Gisin
+
+**初版**：2012 &nbsp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Paris: Odile Jacob [^jacob] <br/>
 **英译**：[_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(by Stephen Lyle, 2014)
 
 [^jacob]:   &emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。

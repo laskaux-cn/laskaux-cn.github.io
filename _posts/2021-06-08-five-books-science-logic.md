@@ -4,7 +4,7 @@ title: 「五本书」第二辑：科学的信念
 
 subtitle: 
 
-excerpt:  <br />
+excerpt:  <br/>
 
 tags: 五本书 科学
 ---
@@ -12,7 +12,7 @@ tags: 五本书 科学
 > Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem percipimus. 
 >
 > [By doubting we come to questioning; by questioning we perceive the truth.]
- > <p align="right">—Petrus Abaelardus (c. 1079–1142), <a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em>, Prologus</a> 
+ > <p align="right">—<a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em> : Prologus</a> (c. 1121) 
 
 <br/>
 
@@ -24,31 +24,58 @@ tags: 五本书 科学
 
 ## [La Valeur de la Science](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science) {#poincare-cover}
 
-**作者**：HENRI POINCARÉ［法］<br/>
-**初版**：1905 📍巴黎 🇫🇷 <br/>
+#### [法]&nbsp; Henri Poincaré
+
+**初版**：1905 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: Ernest Flammarion <br/>
 **英译**：[_The Value of Science_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) &nbsp;(by George Bruce Halsted, 1907)
 
-[![Poincaré](/assets/img/books/poincare.png)](#poincare-intro)
+[<img src="/assets/img/books/poincare.png" width="800"/>](#poincare-intro)
 
 <br/>
 
 
 ## [The Logic of Modern Physics](https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up) {#bridgman-cover}
 
-**作者**：PERCY W. BRIDGMAN［美］<br/>
-**初版**：1927 📍纽约 <br/>
+#### [美]&nbsp; Percy W. Bridgman
 
-[![Bridgman](/assets/img/books/bridgman.png)](#bridgman-intro)
+**初版**：1927 &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New York: Macmillan <br/>
+
+[<img src="/assets/img/books/bridgman.png" width="800"/>](#bridgman-intro)
+
+<br/>
+
+
+## [Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv](https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120) {#fleck-cover}
+
+#### [波兰]&nbsp; Ludwik Fleck 
+
+**初版**：1935 &nbsp;<img src="/assets/img/flags/sw.png" width="13"/>&nbsp; Basel: Benno Schwabe <br/>
+**英译**：[_Genesis and Development of a Scientific Fact_](https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h) &nbsp;(by Fred Bradley & Thaddeus J. Trenn, 1979)
+
+[<img src="/assets/img/books/fleck.png" width="800"/>](#fleck-intro)
+
+<br/>
+
+
+## [Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne](https://www.seuil.com/ouvrage/le-hasard-et-la-necessite-essai-sur-la-philosophie-naturelle-de-la-biologie-moderne-jacques-monod/9782020028127) {#monod-cover}
+
+#### [法]&nbsp; Jacques Monod
+
+**初版**：1970 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: Seuil <br/>
+**英译**：[_Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology_](https://archive.org/details/chancenecessity00mono/mode/2up) &nbsp;(by Austryn Wainhouse, 1971)
+
+[<img src="/assets/img/books/monod.png" width="800"/>](#monod-intro)
 
 <br/>
 
 
 ## [Reliable Knowledge: An Exploration of the Grounds for Belief in Science](https://archive.org/details/reliableknowledg00john/mode/2up) {#ziman-cover}
 
-**作者**：JOHN ZIMAN［英］<br/>
-**初版**：1978 📍剑桥、纽约、墨尔本 <br/>
+#### [英]&nbsp; John Ziman
 
-[![Bridgman](/assets/img/books/bridgman.png)](#bridgman-intro)
+**初版**：1978 &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; Cambridge / &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New York / &nbsp;<img src="/assets/img/flags/australia.png" width="26"/>&nbsp; Melbourne: Cambridge Univ. Press <br/>
+
+[<img src="/assets/img/books/ziman.png" width="800"/>](#ziman-intro)
 
 <br/>
 
@@ -57,10 +84,10 @@ tags: 五本书 科学
 
 # 本辑导读 {#intros}
 
-### <br/> I.&ensp; Henri Poincaré, [_La Valeur de la Science_](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science)  &nbsp;[_(The Value of Science)_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) {#poincare-intro}
+### <br/> I.&ensp; Henri Poincaré, [_La Valeur de la Science_](https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120)  &nbsp;[_(The Value of Science)_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) {#poincare-intro}
 
 [#下一本](#bridgman-intro) &nbsp;
-[#最后一本](#prigogine-intro) &nbsp;
+[#最后一本](#ziman-intro) &nbsp;
 [#返回书单](#poincare-cover)
 
 ❏ &emsp;[#返回书单](#poincare-cover)
@@ -71,7 +98,7 @@ tags: 五本书 科学
 ### II.&ensp; Percy Bridgman, [_The Logic of Modern Physics_](https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up) {#bridgman-intro}
 
 [#上一本](#poincare-intro) &nbsp;
-[#下一本](#heisenberg-intro) &nbsp;
+[#下一本](#fleck-intro) &nbsp;
 [#返回书单](#bridgman-cover)
 
 ❏ &emsp;[#返回书单](#bridgman-cover)
@@ -79,21 +106,21 @@ tags: 五本书 科学
 <br/>
 
 
-### III.&ensp;  {#heisenberg-intro}
+### III.&ensp; Ludwik Fleck, [_Entstehung und Entwicklung einer wissenschaftlichen Tatsache_](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science)  &nbsp;[_(Genesis and Development of a Scientific Fact)_](https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h) {#fleck-intro}
 
 [#上一本](#bridgman-intro) &nbsp;
 [#下一本](#monod-intro) &nbsp;
-[#返回书单](#heisenberg-cover)
+[#返回书单](#fleck-cover)
 
-❏ &emsp;[#返回书单](#heisenberg-cover)
+❏ &emsp;[#返回书单](#fleck-cover)
 
 <br/>
 
 
-### IV.&ensp; {#monod-intro}
+### IV.&ensp; Jacques Monod, [_Le Hasard et la Nécessité_](https://www.seuil.com/ouvrage/le-hasard-et-la-necessite-essai-sur-la-philosophie-naturelle-de-la-biologie-moderne-jacques-monod/9782020028127)  &nbsp;[_(Chance and Necessity)_](https://archive.org/details/chancenecessity00mono/mode/2up) {#monod-intro}
 
-[#上一本](#heisenberg-intro) &nbsp;
-[#下一本](#prigogine-intro) &nbsp;
+[#上一本](#fleck-intro) &nbsp;
+[#下一本](#ziman-intro) &nbsp;
 [#返回书单](#monod-cover)
 
 ❏ &emsp;[#返回书单](#monod-cover)
@@ -101,13 +128,13 @@ tags: 五本书 科学
 <br/>
 
 
-### V.&ensp;  {#prigogine-intro}
+### V.&ensp; John Ziman, [_Reliable Knowledge_](https://archive.org/details/reliableknowledg00john/mode/2up) {#ziman-intro}
 
 [#上一本](#monod-intro) &nbsp;
 [#第一本](#poincare-intro) &nbsp;
-[#返回书单](#prigogine-cover)
+[#返回书单](#ziman-cover)
 
-❏ &emsp;[#返回书单](#prigogine-cover)
+❏ &emsp;[#返回书单](#ziman-cover)
 
 <br/>
 
