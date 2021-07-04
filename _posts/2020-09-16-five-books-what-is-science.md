@@ -45,7 +45,7 @@ tags: 五本书 科学
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
 
 **作者**：CLAUDE BERNARD［法］<br/>
-**初版**：1865（巴黎） <br/>
+**初版**：1865 📍巴黎 <br/>
 **英译**：[_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(by Henry Copley Greene, 1927)
 
 [<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
@@ -56,7 +56,7 @@ tags: 五本书 科学
 ## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
 **作者**：HERMANN EBBINGHAUS［德］<br/>
-**初版**：1885（莱比锡） <br/>
+**初版**：1885 📍莱比锡 <br/>
 **英译**：[_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(by Henry A. Ruger & Clara E. Bussenius, 1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
@@ -67,7 +67,7 @@ tags: 五本书 科学
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
 **作者**：JEAN PERRIN［法］<br/>
-**初版**：1913（巴黎） <br/>
+**初版**：1913 📍巴黎 <br/>
 **英译**：[_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(by Dalziel Llewellyn Hammick, 1916) <br/>
 
 [<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
@@ -78,7 +78,7 @@ tags: 五本书 科学
 ## [The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)  {#hubble-cover}
 
 **作者**：EDWIN HUBBLE［美］<br/>
-**初版**：1936（伦敦） <br/>
+**初版**：1936 📍伦敦 <br/>
 
 [<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
@@ -88,7 +88,7 @@ tags: 五本书 科学
 ## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
 
 **作者**：NICOLAS GISIN［瑞士］<br/>
-**初版**：2012（巴黎）[^jacob] <br/>
+**初版**：2012 📍巴黎 [^jacob] <br/>
 **英译**：[_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(by Stephen Lyle, 2014)
 
 [<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
@@ -105,7 +105,7 @@ tags: 五本书 科学
 [#最后一本](#gisin-intro) &nbsp;
 [#返回书单](#bernard-cover)
 
-这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用一位知名书粉的评价：「我们仿佛能在背景中听见羽管键琴的琴声[^harpsichord]。」
+这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用书粉 Max Black 的评价：「我们仿佛能在背景中听见羽管键琴的琴声[^harpsichord]。」
 
 逐页读完后，我也相信，这本书没有被过誉。
 
@@ -125,7 +125,7 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 发表主观见解难免言多必失。这本书的绝大多数观点放到今天依然非常准确；但个别由于历史局限，与当代主流视角不完全相合。例如，Bernard 是**决定论** (determinism) 的支持者，他认为科学中一切都可以质疑，除了自然规律的客观性和因果关系的决定性——虽然所有科学研究都只能揭示局部的近似真相，但研究者仍要相信一个可以逐步接近的「真理」的存在；客观规律的确定性是自然可以理性认识的前提，否则一切实验研究都从根本上失去了意义。他坚持凡是严格的定律都不应该有特例，所谓「特例」只是其它未知因果关系的表现，统计规律不算真正的定律，等等。这些观念在当时的认知环境下堪称最开明理性、赋予科学强大信心的时代先锋，但后来随着人类认识自然的逐步深入遭到了越来越多的挑战。另外，Bernard 力主将实验科学与传统哲学划清界线，认为自然科学应且仅应关注具体现象及其因果联系，形而上的思想条框无助于认识客观世界。他在书中会不时（在解释铺垫后）来一句「实验生理学家不能唯心也不能唯物——这些陈旧的自然哲学词汇都将在科学的进步中被抛弃[^philosohy1]」「最好的哲学系统就是没有系统[^philosohy2]」之类非常实用主义的断言，哲学爱好者看到恐怕不会太高兴。不过 Bernard 在全书结尾处也向哲学家表示了敬意：虽然哲学不能产生任何可靠的客观知识，但它在鼓励人们发散思维、探索未知方面功不可没，是人类思想进步的重要推动力；哲学与科学可以共存并互相受益，前提是二者都不能擅越边界——上帝的归上帝，凯撒的归凯撒。
 
-总之，_Médecine expérimentale_ 是高教育价值与高可读性的罕见结合，个人强烈推荐。不介意法文的小伙伴也可以读读 Bernard 于 1875 年发表在人文杂志 _Revue des Deux Mondes_ 上的文章 [&lsquo;&lsquo;Définition de la vie, les théories anciennes et la science moderne''](https://fr.wikisource.org/wiki/D%C3%A9finition_de_la_vie,_les_th%C3%A9ories_anciennes_et_la_science_moderne)（生命的定义：古老理论与现代科学）——一篇非常精彩的科学思想史评论，回顾了近代西方学者怎样从机械论和活力论两种传统出发，一步步接近对生命物质基础的科学认识。最后不得不再赞一遍 Bernard 羽管键琴般的文笔：如果文如其人的话，这就是我心目中学者的理想形象。❏ &emsp;[#返回书单](#bernard-cover)
+总之，_Médecine expérimentale_ 是高教育价值与高可读性的罕见结合，个人强烈推荐。不介意法文的小伙伴也可以读读 Bernard 于 1875 年发表在 _Revue des Deux Mondes_ 上的文章 [&lsquo;&lsquo;Définition de la vie, les théories anciennes et la science moderne''](https://fr.wikisource.org/wiki/D%C3%A9finition_de_la_vie,_les_th%C3%A9ories_anciennes_et_la_science_moderne)（生命的定义：古老理论与现代科学）——一篇非常精彩的科学思想史评述，回顾了近代西方学者怎样从机械论和活力论两种传统出发，一步步接近对生命物质基础的科学认识。最后不得不再赞一遍 Bernard 羽管键琴般的文笔：如果文如其人的话，这就是我心目中学者的理想形象。❏ &emsp;[#返回书单](#bernard-cover)
 
 <br/>
 
@@ -204,7 +204,7 @@ _Les Atomes_ 与今天各种原子物理简介的最大不同在于姿态与角�
 
 最后，我推荐在看过 _Les Atomes_ 的正文之后再回去读它的序言，这样才能真正理解里面那句有名的「用不可见的简洁解释可见的繁复[^visible]」——原子物理不是一门「不可见」的抽象学问，它被创立的动机是**从简单的微观结构出发理解复杂的宏观现象**，而它与「四元素说」这类哲学理论的区别在于**现代科学家从宏观现象入手高度可靠地证明了「原子」这种假想微观结构的真实性**。这个逆推询证才是 _Les Atomes_ 的主线——帮助人们揭开原子分子面纱的，是各种可见的化学、热学、电磁、放射过程**；原子科学不只关注微观世界，更主要的是微观与宏观的联系。**正因为不可见的简洁能够解释可见的繁复，原子假设才成为整个现代物质科学的基础，「物质是由原子组成的」才经常被认为是自然科学中信息量最大的一句话[^informative]。另外，Perrin 在序言中对「归纳」与「直觉」两种研究方法的讨论也是对实证主义哲学很好的回应——与研究对象大多宏观可见的古典科学不同，**现代物质科学的问题常常深入微观尺度，研究者一般不再有条件做完备的直接观测，而经常只能根据间接、有限的证据大胆推断**。这类包含很大直觉成分的猜想尽管暂时不算科学事实，但为后续的实证研究提供了重要的方向指引——十九世纪的原子论、二十世纪的各种粒子模型，以及普朗克时代的「量子」、摩尔根时代的「基因」无不如此。_Les Atomes_ 事实上也宣告着**经验与直觉相互配合、从「可见」探知「不可见」**的研究模式开始取代传统的观察－归纳流程成为现代基础科学的主流——这是科学方法论一次深刻的扩充与转型。
 
-最近无意中发现了 Perrin 的一项业余爱好——他在 1923 年导演了两部无声电影短片，其中 [_Mouvement brownien et molécules_](https://videotheque.cnrs.fr/index.php?urlaction=doc&id_doc=2080&rang=3)（布朗运动与分子）就取材于 _Les Atomes_ 的第三章，镜头记录了实验中乳浊液的配制、手摇离心机和水平显微镜的操作，以及显微镜视野里藤黄与洋乳香颗粒的布朗运动和垂直平衡分布；动态的画面对理解书中的描述很有帮助。另外有趣的是，这部小作品的拍摄手法与现存最早的科学纪录片——摄于 1903 年的 [_The Cheese Mites_](https://www.youtube.com/watch?v=wR2DystgByQ) 有几分相似。❏ &emsp;[#返回书单](#perrin-cover)
+最近无意中发现了 Perrin 的一项业余爱好——他在 1923 年导演了两部无声电影短片，其中 [_Mouvement brownien et molécules_](https://images.cnrs.fr/video/2080)（布朗运动与分子）就取材于 _Les Atomes_ 的第三章，镜头记录了实验中乳浊液的配制、手摇离心机和水平显微镜的操作，以及显微镜视野里藤黄与洋乳香颗粒的布朗运动和垂直平衡分布；动态的画面对理解书中的描述很有帮助。另外有趣的是，这部小作品的拍摄手法与现存最早的科学纪录片——摄于 1903 年的 [_The Cheese Mites_](https://www.youtube.com/watch?v=wR2DystgByQ) 有几分相似。❏ &emsp;[#返回书单](#perrin-cover)
 
 
 [^informative]: 	&emsp;&lsquo;&lsquo;If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the _atomic hypothesis_ (or the atomic _fact_, or whatever you wish to call it) that _all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another._ In that one sentence, you will see, there is an enormous amount of information about the world . . .'' &ensp;(Richard Feynman, [_Lectures on Physics_, &nbsp;vol. 1, I.ii](https://www.feynmanlectures.caltech.edu/I_01.html#Ch1-S2)) <br/> &emsp;&emsp;&ensp;最早看 Feynman 的各种演讲时总被他的透彻视角和妙语连珠深度圈粉。后来慢慢发现，其实他的见解主要也是从前人处学来的。

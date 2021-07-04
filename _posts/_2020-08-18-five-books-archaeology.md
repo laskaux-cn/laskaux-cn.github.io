@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「五本书」主题：推开世界的门
+title: 「五本书」主题：
 
 subtitle: 
 

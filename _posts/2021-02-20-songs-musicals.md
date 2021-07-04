@@ -218,13 +218,13 @@ ELSE LUDWIG &nbsp;饰&nbsp; Sophie Friederike von Bayern <br/>
 ----
 
 #### c16.&nbsp; [エリザベート -愛と死の輪舞- : 死の嘆き](https://www.bilibili.com/video/BV1qt41167kg) &nbsp;🇯🇵
-花總まり&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
+花總まり &rsquo;77&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
 &emsp;&emsp;(2012 | 大阪 &nbsp;梅田芸術劇場メインホール)
 
 ----
 
 #### c17.&nbsp; [エリザベート -愛と死の輪舞- : 不幸の始まり／最後のダンス](https://www.bilibili.com/video/BV1Ax411m7X9?from=search&seid=16131139249363253177) &nbsp;🇯🇵
-春野寿美礼&ensp;饰&nbsp; トート [Thoth] <br/>
+春野寿美礼 &rsquo;77&ensp;饰&nbsp; トート [Thoth] <br/>
 &emsp;&emsp;(2017 | 东京 Bunkamura オーチャードホール)
 
 ----
@@ -387,8 +387,8 @@ ROBERT SEÑA  &nbsp;饰&nbsp; Thuy <br/>
 ----
 
 #### e13.&nbsp; [エリザベート -愛と死の輪舞- : 闇が広がる](https://youtu.be/wf_ic7HayzA?t=30) &nbsp;🇯🇵
-一路真輝&ensp;饰&nbsp; トート [Thoth] <br/>
-香寿たつき&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
+一路真輝 &rsquo;68&ensp;饰&nbsp; トート [Thoth] <br/>
+香寿たつき &rsquo;72&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
 &emsp;&emsp;(1996 | 宝冢 &nbsp;宝塚大劇場)
 
 ----
@@ -401,8 +401,8 @@ NICO SCHAAP &nbsp;饰&nbsp; Maximilian Joseph von Bayern <br/>
 ----
 
 #### e15.&nbsp; [エリザベート : 夜のボート](https://www.bilibili.com/video/BV1C5411W7zf) &nbsp;🇯🇵  
-一路真輝&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
-石川 禅  &ensp;饰&nbsp; Franz Joseph I. <br/>
+一路真輝 &rsquo;68&ensp;饰&nbsp; Elisabeth von Österreich-Ungarn <br/>
+石川禅 &ensp;饰&nbsp; Franz Joseph I. <br/>
 &emsp;&emsp;(2012 | 东京 &nbsp;東京国際フォーラム &nbsp;ホールC)
 
 <br/>
@@ -546,14 +546,14 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 ----
 
 #### f15.&nbsp; [エリザベート -愛と死の輪舞- : 我ら息絶えし者ども](https://www.bilibili.com/video/BV1es41117X7) &nbsp;🇯🇵
-葛城七穂&ensp;饰&nbsp; Richter <br/>
-樹里咲穂&ensp;饰&nbsp; Luigi Lucheni <br/>
-美々杏里&ensp;饰&nbsp; Sophie Friederike von Bayern <br/>
-稔 幸 &ensp;饰&nbsp; Franz Joseph I. <br/>
-久路あかり&ensp;饰&nbsp; Ludovika Wilhelmine von Bayern <br/>
-月影 瞳  &ensp;饰&nbsp; Rudolf von Österreich-Ungarn als Kind <br/>
-ちあきしん&ensp;饰&nbsp; Maximilian Joseph in Bayern <br/>
-絵麻緒ゆう&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
+葛城七穂 &rsquo;73&ensp;饰&nbsp; Richter <br/>
+樹里咲穂 &rsquo;76&ensp;饰&nbsp; Luigi Lucheni <br/>
+美々杏里 &rsquo;74&ensp;饰&nbsp; Sophie Friederike von Bayern <br/>
+稔幸 &rsquo;71&ensp;饰&nbsp; Franz Joseph I. <br/>
+久路あかり &rsquo;80&ensp;饰&nbsp; Ludovika Wilhelmine von Bayern <br/>
+月影瞳 &rsquo;76&ensp;饰&nbsp; Rudolf von Österreich-Ungarn als Kind <br/>
+ちあきしん &rsquo;69&ensp;饰&nbsp; Maximilian Joseph in Bayern <br/>
+絵麻緒ゆう &rsquo;73&ensp;饰&nbsp; Rudolf von Österreich-Ungarn <br/>
 &emsp;&emsp;(2006 | 大阪 &nbsp;梅田芸術劇場メインホール)
 
 <br/>
@@ -576,7 +576,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [エニシング・ゴーズ](https://youtu.be/zHVpQfzoWr0?t=240) &nbsp;🇯🇵
 **原剧**：エニシング・ゴーズ <br/>
-**演出**：大地真央 &nbsp;(1990 | 东京 フジテレビ)
+**演出**：大地真央 &rsquo;59 &nbsp;(1990 | 东京 フジテレビ)
 
 ----
 
@@ -618,7 +618,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [悲しみのクラウン](https://music.apple.com/jp/artist/%E4%B8%80%E8%B7%AF%E7%9C%9F%E8%BC%9D/74575087) &nbsp; 🇯🇵
 **原剧**：_A Little Night Music_ <br/>
-**演出**：一路真輝 &nbsp;(1998 | 东京 新国立劇場)
+**演出**：一路真輝 &rsquo;68 &nbsp;(1998 | 东京 新国立劇場)
 
 ----
 
@@ -702,7 +702,7 @@ KAMARÁS MÁTÉ &nbsp;饰&nbsp; Der Tod <br/>
 
 #### [Ich gehör nur mir](https://www.youtube.com/watch?v=S7T5rRKXqyo) &nbsp;🇩🇪🇭🇺🇯🇵🇫🇮🇰🇷🇳🇱🇸🇪
 **原剧**：_Elisabeth_ <br/>
-**演出**：Annemieke van Dam 🇳🇱, Vágó Bernadett 🇭🇺, 一路真輝 🇯🇵, Therese Karlsson 🇫🇮, 옥주현 [玉珠鉉] 🇰🇷, Maike Boerdam 🇳🇱, Cecilie Nerfont Thorgersen 🇸🇪, Helene Fischer 🇩🇪 &nbsp;(2012 | 柏林 Velodrom)
+**演出**：Annemieke van Dam 🇳🇱, Vágó Bernadett 🇭🇺, 一路真輝 &rsquo;68 🇯🇵, Therese Karlsson 🇫🇮, 옥주현 [玉珠鉉] 🇰🇷, Maike Boerdam 🇳🇱, Cecilie Nerfont Thorgersen 🇸🇪, Helene Fischer 🇩🇪 &nbsp;(2012 | 柏林 Velodrom)
 
 ----
 
