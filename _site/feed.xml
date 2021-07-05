@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 05 Jul 2021 00:00:14 -0400</pubDate>
+    <pubDate>Mon, 05 Jul 2021 03:48:23 -0400</pubDate>
     
       <item>
         <title>「五本书」第二辑：科学的信念</title>
@@ -31,10 +31,10 @@
 
 &lt;h2 id=&quot;poincare-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;La Valeur de la Science&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;法-henri-poincaré&quot;&gt;[法]  Henri Poincaré&lt;/h4&gt;
+&lt;h4 id=&quot;henri-poincaré&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Henri Poincaré&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1905  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Ernest Flammarion &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;, trans. George Bruce Halsted (1907)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1905  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  Ernest Flammarion &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;  (trans. George Bruce Halsted, 1907)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/poincare.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -42,41 +42,41 @@
 
 &lt;h2 id=&quot;bridgman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up&quot;&gt;The Logic of Modern Physics&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;美-percy-w-bridgman&quot;&gt;[美]  Percy W. Bridgman&lt;/h4&gt;
+&lt;h4 id=&quot;percy-w-bridgman&quot;&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;29&quot; /&gt; Percy W. Bridgman&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1927  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York : Macmillan &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1927  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24&quot; /&gt;  Macmillan &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bridgman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;fleck-cover&quot;&gt;&lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Einführung in die Lehre vom Denkstil und Denkkollektiv&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;fleck-cover&quot;&gt;&lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;波兰-ludwik-fleck&quot;&gt;[波兰]  Ludwik Fleck&lt;/h4&gt;
+&lt;h4 id=&quot;ludwik-fleck&quot;&gt;&lt;img src=&quot;/assets/img/flags/po.png&quot; width=&quot;25.2&quot; /&gt; Ludwik Fleck&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1935  &lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;13&quot; /&gt;  Basel : Benno Schwabe &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;Genesis and Development of a Scientific Fact&lt;/em&gt;&lt;/a&gt;, trans. Fred Bradley &amp;amp; Thaddeus J. Trenn (1979)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1935  &lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;14&quot; /&gt;  Basel : Benno Schwabe &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;Genesis and Development of a Scientific Fact&lt;/em&gt;&lt;/a&gt;  (trans. Fred Bradley &amp;amp; Thaddeus J. Trenn, 1979)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/fleck.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;monod-cover&quot;&gt;&lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;Le Hasard et la Nécessité&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Essai sur la philosophie naturelle de la biologie moderne&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;monod-cover&quot;&gt;&lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;法-jacques-monod&quot;&gt;[法]  Jacques Monod&lt;/h4&gt;
+&lt;h4 id=&quot;jacques-monod&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Jacques Monod&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1970  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Seuil &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;&lt;/a&gt;, trans. Austryn Wainhouse (1971)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1970  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  Seuil &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;&lt;/a&gt;  (trans. Austryn Wainhouse, 1971)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#monod-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/monod.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;An Exploration of the Grounds for Belief in Science&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge: An Exploration of the Grounds for Belief in Science&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;英-john-ziman&quot;&gt;[英]  John Ziman&lt;/h4&gt;
+&lt;h4 id=&quot;john-ziman&quot;&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;30&quot; /&gt; John Ziman&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1978  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  Cambridge /  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York /  &lt;img src=&quot;/assets/img/flags/australia.png&quot; width=&quot;26&quot; /&gt;  Melbourne : Cambridge Univ. Press &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1978  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;24.8&quot; /&gt; &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24&quot; /&gt; &lt;img src=&quot;/assets/img/flags/australia.png&quot; width=&quot;24.8&quot; /&gt;  Cambridge Univ. Press &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ziman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ziman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -86,7 +86,7 @@
 
 &lt;h1 id=&quot;intros&quot;&gt;本辑导读&lt;/h1&gt;
 
-&lt;h3 id=&quot;poincare-intro&quot;&gt;&lt;br /&gt; I.  Henri Poincaré, &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;&lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;(The Value of Science)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;poincare-intro&quot;&gt;&lt;br /&gt; I.  Henri Poincaré, &lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1905)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#ziman-intro&quot;&gt;#最后一本&lt;/a&gt;  
@@ -96,7 +96,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;bridgman-intro&quot;&gt;II.  Percy Bridgman, &lt;a href=&quot;https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up&quot;&gt;&lt;em&gt;The Logic of Modern Physics&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;bridgman-intro&quot;&gt;II.  Percy Bridgman, &lt;em&gt;The Logic of Modern Physics&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1927)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#fleck-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -106,7 +106,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;fleck-intro&quot;&gt;III.  Ludwik Fleck, &lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;&lt;em&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;(Genesis and Development of a Scientific Fact)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;fleck-intro&quot;&gt;III.  Ludwik Fleck, &lt;em&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1935)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#monod-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -116,7 +116,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;monod-intro&quot;&gt;IV.  Jacques Monod, &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;&lt;em&gt;Le Hasard et la Nécessité&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;(Chance and Necessity)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;monod-intro&quot;&gt;IV.  Jacques Monod, &lt;em&gt;Le Hasard et la Nécessité&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1970)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#ziman-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -126,7 +126,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;ziman-intro&quot;&gt;V.  John Ziman, &lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;&lt;em&gt;Reliable Knowledge&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;ziman-intro&quot;&gt;V.  John Ziman, &lt;em&gt;Reliable Knowledge&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1978)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#monod-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#poincare-intro&quot;&gt;#第一本&lt;/a&gt;  
@@ -2168,21 +2168,21 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;bernard-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale&quot;&gt;Introduction à l’étude de la médecine expérimentale&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;法-claude-bernard&quot;&gt;[法]  Claude Bernard&lt;/h4&gt;
+&lt;h4 id=&quot;claude-bernard&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Claude Bernard&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1865  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : J. B. Baillière et fils  &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt;, trans. Henry Copley Greene (1927)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1865  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  J. B. Baillière &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt;  (trans. Henry Copley Greene, 1927)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bernard.png&quot; alt=&quot;Bernard&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;ebbinghaus-cover&quot;&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Untersuchungen zur experimentellen Psychologie&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;ebbinghaus-cover&quot;&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;德-hermann-ebbinghaus&quot;&gt;[德]  Hermann Ebbinghaus&lt;/h4&gt;
+&lt;h4 id=&quot;hermann-ebbinghaus&quot;&gt;&lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;24&quot; /&gt; Hermann Ebbinghaus&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1885  &lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;19.5&quot; /&gt;  Leipzig : Duncker &amp;amp; Humblot &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt;, trans. Henry A. Ruger &amp;amp; Clara E. Bussenius (1913)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1885  &lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;19.5&quot; /&gt;  Duncker &amp;amp; Humblot &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt;  (trans. Henry A. Ruger &amp;amp; Clara E. Bussenius, 1913)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ebbinghaus.png&quot; alt=&quot;Ebbinghaus&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2190,10 +2190,10 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;perrin-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/Les_Atomes&quot;&gt;Les Atomes&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;法-jean-perrin&quot;&gt;[法]  Jean Perrin&lt;/h4&gt;
+&lt;h4 id=&quot;jean-perrin&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Jean Perrin&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1913  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Félix Alcan &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt;, trans. Dalziel Llewellyn Hammick (1916) &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1913  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  Félix Alcan &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt;  (trans. Dalziel Llewellyn Hammick, 1916) &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/perrin.png&quot; alt=&quot;Perrin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2201,20 +2201,20 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h2 id=&quot;hubble-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up&quot;&gt;The Realm of the Nebulæ&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;美-edwin-hubble&quot;&gt;[美]  Edwin Hubble&lt;/h4&gt;
+&lt;h4 id=&quot;edwin-hubble&quot;&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;29&quot; /&gt; Edwin Hubble&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1936  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New Haven : Yale Univ. Press /  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  London : Oxford Univ. Press &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1936  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24&quot; /&gt;  Yale Univ. Press  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;25&quot; /&gt;  Oxford Univ. Press &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/hubble.png&quot; alt=&quot;Hubble&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;gisin-cover&quot;&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Non-localité, téléportation et autres merveilles quantiques&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;gisin-cover&quot;&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h4 id=&quot;瑞士-nicolas-gisin&quot;&gt;[瑞士]  Nicolas Gisin&lt;/h4&gt;
+&lt;h4 id=&quot;nicolas-gisin&quot;&gt;&lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;18&quot; /&gt; Nicolas Gisin&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  2012  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; width=&quot;19.5&quot; /&gt;  Paris : Odile Jacob &lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt;, trans. Stephen Lyle (2014)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  2012  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; width=&quot;19.5&quot; /&gt;  Odile Jacob&lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt;  (trans. Stephen Lyle, 2014)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/gisin.png&quot; alt=&quot;Gisin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 

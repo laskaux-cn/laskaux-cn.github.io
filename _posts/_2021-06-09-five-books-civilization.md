@@ -30,12 +30,12 @@ tags: 五本书 历史
 
 
 
-## [Histoire générale de la civilisation en Europe<br><span style="font-size:0.8em;">Depuis la chute de l’Empire romain jusqu’à la Révolution française</span>](https://fr.wikisource.org/wiki/Histoire_g%C3%A9n%C3%A9rale_de_la_civilisation_en_Europe) {#guizot-cover}
+## [Histoire générale de la civilisation en Europe depuis la chute de l’Empire romain jusqu’à la Révolution française](https://fr.wikisource.org/wiki/Histoire_g%C3%A9n%C3%A9rale_de_la_civilisation_en_Europe) {#guizot-cover}
 
-#### [法]&nbsp; François Guizot
+#### <img src="/assets/img/flags/fr_br.png" width="24"/>&ensp;François Guizot
 
-**初版**&ensp; 1828 &nbsp;<img src="/assets/img/flags/fr_br.png" width="19.5"/>&nbsp;  Paris : Pichon et Didier <br>
-**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up), trans. Priscilla Maria Beckwith (1837); [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) (1838)
+**初版**&ensp; 1828 &ensp;<img src="/assets/img/flags/fr_br.png" width="19.5"/>&nbsp; Pichon et Didier <br>
+**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up) &nbsp;(trans. Priscilla Maria Beckwith, 1837);&nbsp; [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) &nbsp;(trans. uncredited, 1838)
 
 [<img src="/assets/img/books/guizot.png" width="800"/>](#poincare-intro)
 
@@ -45,9 +45,9 @@ tags: 五本书 历史
 
 ## [Historische Fragmente aus dem Nachlass gesammelt](https://babel.hathitrust.org/cgi/pt?id=mdp.39015036854613) {#burckhardt-cover}
 
-#### [瑞士]&nbsp; Jacob Burckhardt
+#### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Jacob Burckhardt
 
-**初版**&ensp; 1929 &nbsp;<img src="/assets/img/flags/de.png" width="19.5"/>&nbsp; Stuttgart/Berlin/Leipzig : Deutsche Verlags-Anstalt <br>
+**初版**&ensp; 1929 &ensp;<img src="/assets/img/flags/de.png" width="19.5"/>&nbsp; Deutsche Verlags-Anstalt <br>
 **英译**&ensp; [_Judgements on History and Historians_](https://babel.hathitrust.org/cgi/pt?id=mdp.39015008199401) &nbsp;(by Harry Zohn, 1958)
 
 [<img src="/assets/img/books/burckhardt_hist.png" alt="Burckhardt" width="800"/>](#burckhardt-intro)
@@ -58,25 +58,15 @@ tags: 五本书 历史
 
 ## [Civilisation](https://archive.org/details/civilisationpers1971clar/mode/2up) {#clark-cover}
 
-#### [英]&nbsp; Kenneth Clark
+#### <img src="/assets/img/flags/uk.png" width="30"/>&ensp;Kenneth Clark
 
-**初版**&ensp; 1969 &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; London: BBC & John Murray <br>
+**初版**&ensp; 1969 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/>&nbsp; London: BBC & John Murray &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Harper & Row <br>
 **导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up) &nbsp;(by the National Gallery of Art with Richard McLanathan, 1970)
 
 [<img src="/assets/img/books/clark_civi_uk.png" alt="Clark" width="800"/>](#clark-intro)
 
 <br>
 
-
-
-## [From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present](https://archive.org/details/fromdawntodecade0000barz/mode/2up)  {#barzun-cover}
-
-**作者**：JACQUES BARZUN［法－美］<br>
-**初版**：2000（纽约） <br>
-
-[<img src="/assets/img/books/barzun.png" alt="Barzun" width="800"/>](#barzun-intro)
-
-<br>
 
 ----
 

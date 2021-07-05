@@ -44,22 +44,22 @@ tags: 五本书 科学
 
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
 
-#### [法]&nbsp; Claude Bernard
+#### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Claude Bernard
 
-**初版**&ensp; 1865 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris : J. B. Baillière et fils  <br>
-**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up), trans. Henry Copley Greene (1927)
+**初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; J. B. Baillière <br>
+**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(trans. Henry Copley Greene, 1927)
 
 [<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
 
 <br>
 
 
-## [Über das Gedächtnis<br><span style="font-size:0.8em">Untersuchungen zur experimentellen Psychologie</span>](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
+## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
-#### [德]&nbsp; Hermann Ebbinghaus
+#### <img src="/assets/img/flags/de_emp.png" width="24"/>&ensp;Hermann Ebbinghaus
 
-**初版**&ensp; 1885 &nbsp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Leipzig : Duncker & Humblot <br>
-**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology), trans. Henry A. Ruger & Clara E. Bussenius (1913)
+**初版**&ensp; 1885 &ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Duncker & Humblot <br>
+**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
 
@@ -68,10 +68,10 @@ tags: 五本书 科学
 
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
-#### [法]&nbsp; Jean Perrin
+#### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Jean Perrin
 
-**初版**&ensp; 1913 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris : Félix Alcan <br>
-**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up), trans. Dalziel Llewellyn Hammick (1916) <br>
+**初版**&ensp; 1913 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Félix Alcan <br>
+**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(trans. Dalziel Llewellyn Hammick, 1916) <br>
 
 [<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
 
@@ -80,21 +80,21 @@ tags: 五本书 科学
 
 ## [The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)  {#hubble-cover}
 
-#### [美]&nbsp; Edwin Hubble
+#### <img src="/assets/img/flags/us.png" width="29"/>&ensp;Edwin Hubble
 
-**初版**&ensp; 1936 &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New Haven : Yale Univ. Press / &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; London : Oxford Univ. Press <br>
+**初版**&ensp; 1936 &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Yale Univ. Press &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Oxford Univ. Press <br>
 
 [<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
 <br>
 
 
-## [L’impensable Hasard<br><span style="font-size:0.8em">Non-localité, téléportation et autres merveilles quantiques</span>](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
+## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
 
-#### [瑞士]&nbsp; Nicolas Gisin
+#### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Nicolas Gisin
 
-**初版**&ensp; 2012 &nbsp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Paris : Odile Jacob [^jacob] <br>
-**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728), trans. Stephen Lyle (2014)
+**初版**&ensp; 2012 &ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Odile Jacob[^jacob] <br>
+**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(trans. Stephen Lyle, 2014)
 
 [<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
 
