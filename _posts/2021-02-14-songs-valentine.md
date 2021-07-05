@@ -2,7 +2,7 @@
 layout: post
 title: 「不严肃音乐」情人节特辑
 subtitle: LE GRAND AMOUR
-excerpt: ♬&nbsp; LE GRAND AMOUR <br>
+excerpt: 「薄酒岂真醉，君心非我心。今宵共愉悦，明朝隔远津。」 <br>
 
 tags: music theater
 ---

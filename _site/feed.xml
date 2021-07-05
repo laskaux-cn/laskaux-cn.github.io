@@ -5,12 +5,12 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 04 Jul 2021 05:36:12 -0400</pubDate>
+    <pubDate>Mon, 05 Jul 2021 00:00:14 -0400</pubDate>
     
       <item>
         <title>「五本书」第二辑：科学的信念</title>
-        <link>/2021/06/08/five-books-science-logic.html</link>
-        <guid isPermaLink="true">/2021/06/08/five-books-science-logic.html</guid>
+        <link>/2021/06/08/five-books-science-belief.html</link>
+        <guid isPermaLink="true">/2021/06/08/five-books-science-belief.html</guid>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem percipimus.&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;点击原文或译文&lt;strong&gt;标题&lt;/strong&gt;开始阅读（感谢在线公共图书馆：&lt;a href=&quot;https://archive.org/&quot;&gt;Internet Archive&lt;/a&gt;, &lt;a href=&quot;https://wikisource.org/wiki/Main_Page&quot;&gt;Wikisource&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://books.google.com/&quot;&gt;Google Books&lt;/a&gt;）&lt;/p&gt;
+  &lt;p&gt;点击原文或译文&lt;strong&gt;标题&lt;/strong&gt;开始阅读（感谢在线公共图书馆：&lt;a href=&quot;https://archive.org/&quot;&gt;Internet Archive&lt;/a&gt;, &lt;a href=&quot;https://www.hathitrust.org/&quot;&gt;HathiTrust&lt;/a&gt;, &lt;a href=&quot;https://wikisource.org/wiki/Main_Page&quot;&gt;Wikisource&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://books.google.com/&quot;&gt;Google Books&lt;/a&gt;）&lt;/p&gt;
 
   &lt;p&gt;点击&lt;strong&gt;封面&lt;/strong&gt;进入&lt;a href=&quot;#intros&quot;&gt;导读&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -33,8 +33,8 @@
 
 &lt;h4 id=&quot;法-henri-poincaré&quot;&gt;[法]  Henri Poincaré&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1905  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris: Ernest Flammarion &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;  (by George Bruce Halsted, 1907)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1905  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Ernest Flammarion &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;, trans. George Bruce Halsted (1907)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/poincare.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -44,39 +44,39 @@
 
 &lt;h4 id=&quot;美-percy-w-bridgman&quot;&gt;[美]  Percy W. Bridgman&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1927  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York: Macmillan &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1927  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York : Macmillan &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bridgman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;fleck-cover&quot;&gt;&lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;fleck-cover&quot;&gt;&lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Einführung in die Lehre vom Denkstil und Denkkollektiv&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4 id=&quot;波兰-ludwik-fleck&quot;&gt;[波兰]  Ludwik Fleck&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1935  &lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;13&quot; /&gt;  Basel: Benno Schwabe &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;Genesis and Development of a Scientific Fact&lt;/em&gt;&lt;/a&gt;  (by Fred Bradley &amp;amp; Thaddeus J. Trenn, 1979)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1935  &lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;13&quot; /&gt;  Basel : Benno Schwabe &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;Genesis and Development of a Scientific Fact&lt;/em&gt;&lt;/a&gt;, trans. Fred Bradley &amp;amp; Thaddeus J. Trenn (1979)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/fleck.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;monod-cover&quot;&gt;&lt;a href=&quot;https://www.seuil.com/ouvrage/le-hasard-et-la-necessite-essai-sur-la-philosophie-naturelle-de-la-biologie-moderne-jacques-monod/9782020028127&quot;&gt;Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;monod-cover&quot;&gt;&lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;Le Hasard et la Nécessité&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Essai sur la philosophie naturelle de la biologie moderne&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4 id=&quot;法-jacques-monod&quot;&gt;[法]  Jacques Monod&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1970  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris: Seuil &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;&lt;/a&gt;  (by Austryn Wainhouse, 1971)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1970  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Seuil &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;&lt;/a&gt;, trans. Austryn Wainhouse (1971)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#monod-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/monod.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge: An Exploration of the Grounds for Belief in Science&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;An Exploration of the Grounds for Belief in Science&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4 id=&quot;英-john-ziman&quot;&gt;[英]  John Ziman&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1978  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  Cambridge /  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York /  &lt;img src=&quot;/assets/img/flags/australia.png&quot; width=&quot;26&quot; /&gt;  Melbourne: Cambridge Univ. Press &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1978  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  Cambridge /  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New York /  &lt;img src=&quot;/assets/img/flags/australia.png&quot; width=&quot;26&quot; /&gt;  Melbourne : Cambridge Univ. Press &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ziman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ziman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -86,7 +86,7 @@
 
 &lt;h1 id=&quot;intros&quot;&gt;本辑导读&lt;/h1&gt;
 
-&lt;h3 id=&quot;poincare-intro&quot;&gt;&lt;br /&gt; I.  Henri Poincaré, &lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;&lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;(The Value of Science)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;poincare-intro&quot;&gt;&lt;br /&gt; I.  Henri Poincaré, &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;&lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;(The Value of Science)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#ziman-intro&quot;&gt;#最后一本&lt;/a&gt;  
@@ -106,7 +106,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;fleck-intro&quot;&gt;III.  Ludwik Fleck, &lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;&lt;em&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;(Genesis and Development of a Scientific Fact)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;fleck-intro&quot;&gt;III.  Ludwik Fleck, &lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;&lt;em&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;(Genesis and Development of a Scientific Fact)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#monod-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -116,7 +116,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;monod-intro&quot;&gt;IV.  Jacques Monod, &lt;a href=&quot;https://www.seuil.com/ouvrage/le-hasard-et-la-necessite-essai-sur-la-philosophie-naturelle-de-la-biologie-moderne-jacques-monod/9782020028127&quot;&gt;&lt;em&gt;Le Hasard et la Nécessité&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;(Chance and Necessity)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;monod-intro&quot;&gt;IV.  Jacques Monod, &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;&lt;em&gt;Le Hasard et la Nécessité&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;(Chance and Necessity)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#ziman-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -157,7 +157,8 @@
 &lt;a href=&quot;#moscow&quot;&gt;#莫斯科&lt;/a&gt;  
 &lt;a href=&quot;#nyc&quot;&gt;#纽约&lt;/a&gt;  
 &lt;a href=&quot;#la&quot;&gt;#洛杉矶&lt;/a&gt;  
-&lt;a href=&quot;#ba&quot;&gt;#布宜诺斯艾利斯&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;a href=&quot;#ba&quot;&gt;#布宜诺斯艾利斯&lt;/a&gt;  
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;paris&quot;&gt;A.  巴黎&lt;/h2&gt;
 
@@ -926,8 +927,8 @@
 &lt;strong&gt;录唱&lt;/strong&gt;：Joanna Węgrzynowska&lt;/p&gt;
 
   &lt;p&gt;[2005]  &lt;a href=&quot;https://www.youtube.com/watch?v=O9bweo6KbUs&quot;&gt;האכילו את הציפורים&lt;/a&gt; &lt;br /&gt;
-&lt;strong&gt;译词&lt;/strong&gt;：שפרירה זכאי  🇮🇱 &lt;br /&gt;
-&lt;strong&gt;录唱&lt;/strong&gt;：נינט טייב&lt;/p&gt;
+&lt;strong&gt;译词&lt;/strong&gt;：שפרירה זכאי [Safrira Zachai]  🇮🇱 &lt;br /&gt;
+&lt;strong&gt;录唱&lt;/strong&gt;：נינט טייב [Ninet Tayeb]&lt;/p&gt;
 
   &lt;p&gt;[2010]  &lt;a href=&quot;https://www.youtube.com/watch?v=ogLWYPVpyzk&quot;&gt;Vogelvoer&lt;/a&gt; &lt;br /&gt;
 &lt;strong&gt;译词&lt;/strong&gt;：Martine Bijl  🇳🇱 &lt;br /&gt;
@@ -2146,7 +2147,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;如果接着问「你觉得人类最不可思议的创造是什么？」心里不少候选答案飘过，可我还是想回答：&lt;strong&gt;自然科学&lt;/strong&gt;。原因不在于它有多么复杂深刻或普适实用——在以上任何一方面，人类都有许多其它成就足以与之比肩。但在我眼中，&lt;strong&gt;科学是人类主动发起的对自我天性最系统的扩展与修正&lt;/strong&gt;——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的「自然」产物，而是一组&lt;strong&gt;超越主观本能的刻意构造&lt;/strong&gt;。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。&lt;/p&gt;
+&lt;p&gt;如果接着问「你觉得人类最不可思议的创造是什么？」心里不少候选答案飘过，可我还是想回答：&lt;strong&gt;自然科学&lt;/strong&gt;。原因不在于它有多么复杂深刻或普适实用——在以上任何一方面，人类都有许多其它成就足以与之比肩。但在我眼中，&lt;strong&gt;科学是人类主动发起的对自我天性最系统的扩展与修正&lt;/strong&gt;——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的&lt;strong&gt;自然&lt;/strong&gt;产物，而是一组&lt;strong&gt;超越主观本能的刻意构造&lt;/strong&gt;。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。&lt;/p&gt;
 
 &lt;p&gt;面向大众的科普叙事通常会把实验科学的建立归功于早期近代 (early modern) 的科学革命，仿佛是伽俐略、开普勒、惠更斯、牛顿的出世完成了这场深刻的思想变革。可事实上，早期近代只是变革的开始——&lt;strong&gt;每当实验被引入新的学科或探索空间，科学的方法和逻辑都将遭遇严峻考验。&lt;/strong&gt;这样的关键「突围」一旦成功，通常会导致人类知识视界的重要延伸，以及对已有方法论的补充或修正。对这些发现的回顾总结，大概就是我们能在阅读中找到的对「什么是科学」最好的回答。&lt;/p&gt;
 
@@ -2169,19 +2170,19 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h4 id=&quot;法-claude-bernard&quot;&gt;[法]  Claude Bernard&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1865  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris: J. B. Baillière et fils  &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt;  (by Henry Copley Greene, 1927)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1865  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : J. B. Baillière et fils  &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt;, trans. Henry Copley Greene (1927)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bernard.png&quot; alt=&quot;Bernard&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;ebbinghaus-cover&quot;&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;ebbinghaus-cover&quot;&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Untersuchungen zur experimentellen Psychologie&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4 id=&quot;德-hermann-ebbinghaus&quot;&gt;[德]  Hermann Ebbinghaus&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1885  &lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;19.5&quot; /&gt;  Leipzig: Duncker &amp;amp; Humblot &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt;  (by Henry A. Ruger &amp;amp; Clara E. Bussenius, 1913)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1885  &lt;img src=&quot;/assets/img/flags/de_emp.png&quot; width=&quot;19.5&quot; /&gt;  Leipzig : Duncker &amp;amp; Humblot &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt;, trans. Henry A. Ruger &amp;amp; Clara E. Bussenius (1913)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ebbinghaus.png&quot; alt=&quot;Ebbinghaus&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2191,8 +2192,8 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h4 id=&quot;法-jean-perrin&quot;&gt;[法]  Jean Perrin&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1913  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris: Félix Alcan &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt;  (by Dalziel Llewellyn Hammick, 1916) &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1913  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;   Paris : Félix Alcan &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt;, trans. Dalziel Llewellyn Hammick (1916) &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/perrin.png&quot; alt=&quot;Perrin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2202,18 +2203,18 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h4 id=&quot;美-edwin-hubble&quot;&gt;[美]  Edwin Hubble&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：1936  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New Haven: Yale Univ. Press /  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  London: Oxford Univ. Press &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1936  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24.7&quot; /&gt;  New Haven : Yale Univ. Press /  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;26&quot; /&gt;  London : Oxford Univ. Press &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/hubble.png&quot; alt=&quot;Hubble&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;gisin-cover&quot;&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;gisin-cover&quot;&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard&lt;br /&gt;&lt;span style=&quot;font-size:0.8em&quot;&gt;Non-localité, téléportation et autres merveilles quantiques&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h4 id=&quot;瑞士-nicolas-gisin&quot;&gt;[瑞士]  Nicolas Gisin&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;：2012  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; width=&quot;19.5&quot; /&gt;  Paris: Odile Jacob &lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;：&lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt;  (by Stephen Lyle, 2014)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  2012  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; width=&quot;19.5&quot; /&gt;  Paris : Odile Jacob &lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;br /&gt;
+&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt;, trans. Stephen Lyle (2014)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/gisin.png&quot; alt=&quot;Gisin&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -2223,10 +2224,10 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;h1 id=&quot;intros&quot;&gt;本辑导读&lt;/h1&gt;
 
-&lt;h3 id=&quot;bernard-intro&quot;&gt;&lt;br /&gt; I.  Claude Bernard, &lt;a href=&quot;https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale&quot;&gt;&lt;em&gt;Introduction à l’étude de la médecine expérimentale&lt;/em&gt;&lt;/a&gt;   &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up&quot;&gt;&lt;em&gt;(An Introduction to the Study of Experimental Medicine)&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;bernard-intro&quot;&gt;I.  Claude Bernard, &lt;em&gt;Introduction à l’étude de la médecine expérimentale&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1865)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;#下一本&lt;/a&gt;  
-&lt;a href=&quot;#gisin-intro&quot;&gt;#最后一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;#最后一本&lt;/a&gt;  
+&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#bernard-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用书粉 Max Black 的评价：「我们仿佛能在背景中听见羽管键琴的琴声&lt;sup id=&quot;fnref:harpsichord&quot;&gt;&lt;a href=&quot;#fn:harpsichord&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。」&lt;/p&gt;
@@ -2253,7 +2254,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;ebbinghaus-intro&quot;&gt;II.  Hermann Ebbinghaus, &lt;em&gt;&lt;a href=&quot;http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9&quot;&gt;Über das Gedächtnis&lt;/a&gt; (&lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;Memory&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;ebbinghaus-intro&quot;&gt;II.  Hermann Ebbinghaus, &lt;em&gt;Über das Gedächtnis&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1885)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#perrin-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -2275,7 +2276,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;perrin-intro&quot;&gt;III.  Jean Perrin, &lt;em&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/Les_Atomes&quot;&gt;Les Atomes&lt;/a&gt; (&lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up&quot;&gt;Atoms&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;perrin-intro&quot;&gt;III.  Jean Perrin, &lt;em&gt;Les Atomes&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1913)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#hubble-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -2303,7 +2304,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;hubble-intro&quot;&gt;IV.  Edwin Hubble, &lt;em&gt;&lt;a href=&quot;https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up&quot;&gt;The Realm of the Nebulæ&lt;/a&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;hubble-intro&quot;&gt;IV.  Edwin Hubble, &lt;em&gt;The Realm of the Nebulæ&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1936)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#gisin-intro&quot;&gt;#下一本&lt;/a&gt;  
@@ -2328,7 +2329,7 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;gisin-intro&quot;&gt;V.  Nicolas Gisin, &lt;em&gt;&lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php&quot;&gt;L’impensable Hasard&lt;/a&gt;  (&lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;Quantum Chance&lt;/a&gt;)&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;gisin-intro&quot;&gt;V.  Nicolas Gisin, &lt;em&gt;L’impensable Hasard&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(2012)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;#上一本&lt;/a&gt;  
 &lt;a href=&quot;#bernard-intro&quot;&gt;#第一本&lt;/a&gt;  
@@ -2336,7 +2337,7 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 
 &lt;p&gt;在我心目中，1970 至 2010 年代间的&lt;strong&gt;贝尔测试&lt;/strong&gt; (Bell test) 代表着人类迄今已完成的用实验手段检验自然基本规律的巅峰——它研究的不是某一类特定物质或具体现象，甚至不是某些学科的通用原理，而是试图对「物理量在测量前是否客观存在」「因果关系能否超距传递」这样相当抽象、从前一直被归入「纯哲学思辨」的基本命题做出客观判定。贝尔测试的结果不仅提供了当前物理学家对&lt;strong&gt;量子纠缠&lt;/strong&gt; (quantum entanglement) 的标准认识——&lt;strong&gt;一种受量子随机性限制从而不能直接传递因果关系的超距关联&lt;/strong&gt;，对其结论的诠释和漏洞 (loophole) 的审查更在促使我们思考：&lt;strong&gt;什么是实验科学的认知极限？&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;与科学史上那些一锤定音的著名实验不同，贝尔测试从构思到逐步完善是一场近半个世纪的跨国接力：在伯克利、奥赛 (Orsay)、日内瓦、因斯布鲁克、博尔德 (Boulder, Colorado)、代尔夫特 (Delft)、慕尼黑…… 好奇又最能动手的物理学家们不断尝试逼近检验贝尔不等式 (Bell’s inequality) 的理想条件，得到的结果也与经典世界观愈发背离。在众多参与者中，最有资格为大家讲述这段故事的大概就是 Nicolas Gisin——在日内瓦带领团队玩了二十多年「量子游戏」的「老顽童」。一切缘起于 1990 年代，熟悉光通信技术的 Gisin 借用瑞士电信的光纤网络率先在距离十千米量级的城市间实现了量子密钥分发 (quantum key distribution) 和满足类空间隔的贝尔测试，让量子实验第一次走出实验室、需要借助地图来描述；同时，他也是量子保密通信 (quantum cryptography) 的重要探路人，成为了这项实验性技术初步实用化的先驱&lt;sup id=&quot;fnref:china&quot;&gt;&lt;a href=&quot;#fn:china&quot; class=&quot;footnote&quot;&gt;25&lt;/a&gt;&lt;/sup&gt;。不过相比于实际应用，Gisin 还是更沉迷于基础物理本身。他在花甲之年出版了这本一百多页的 &lt;em&gt;L’impensable Hasard&lt;/em&gt;，想把自己因量子研究收获的惊喜与大家分享。&lt;/p&gt;
+&lt;p&gt;与科学史上那些一锤定音的著名实验不同，贝尔测试从构思到逐步完善是一场近半个世纪的跨国接力：在伯克利、奥赛 (Orsay)、日内瓦、因斯布鲁克、博尔德 (Boulder, Colorado)、代尔夫特 (Delft)、慕尼黑…… 好奇又最能动手的物理学家们不断尝试逼近检验贝尔不等式 (Bell’s inequality) 的理想条件，得到的结果也与经典世界观愈发背离。在众多参与者中，最有资格为大家讲述这段故事的大概就是 Nicolas Gisin——在日内瓦带领团队玩了二十多年「量子游戏」的老顽童。一切缘起于 1990 年代，熟悉光通信技术的 Gisin 借用瑞士电信的光纤网络率先在距离十千米量级的城市间实现了量子密钥分发 (quantum key distribution) 和满足类空间隔的贝尔测试，让量子实验第一次走出实验室、需要借助地图来描述；同时，他也是量子保密通信 (quantum cryptography) 的重要探路人，成为了这项实验性技术初步实用化的先驱&lt;sup id=&quot;fnref:china&quot;&gt;&lt;a href=&quot;#fn:china&quot; class=&quot;footnote&quot;&gt;25&lt;/a&gt;&lt;/sup&gt;。不过相比于实际应用，Gisin 还是更沉迷于基础物理本身。他在花甲之年出版了这本一百多页的 &lt;em&gt;L’impensable Hasard&lt;/em&gt;，想把自己因量子研究收获的惊喜与大家分享。&lt;/p&gt;
 
 &lt;p&gt;量子物理不是一个容易科普的课题——无论理论还是实验对外行都不太友好。但 Gisin 的叙述角度不能更赞：他选择跳出具体的物理问题，从更基本的信息概念——关联 (correlation)、因果、随机性来解读量子纠缠。「&lt;strong&gt;科学的本质就是观测关联&lt;/strong&gt; ，&lt;strong&gt;然后为这些关联寻找解释&lt;/strong&gt;&lt;sup id=&quot;fnref:correlation&quot;&gt;&lt;a href=&quot;#fn:correlation&quot; class=&quot;footnote&quot;&gt;26&lt;/a&gt;&lt;/sup&gt;」；贝尔实验的实质就是一个测试空间上分隔的玩家之间关联强度的游戏，游戏的规则与具体物质无关，理解规则本身无需掌握现代物理。于是，在介绍贝尔不等式时，Gisin 首先用的是电话、杂货铺、游戏杆——这里它们不只是通俗类比，而是完全合法的测试对象。只不过相对于这些日常游戏，纠缠光子对的特别之处在于它们的&lt;strong&gt;非局域随机性&lt;/strong&gt; (nonlocal randomness)，这导致它们可以在既无相互影响也无共同历史的前提下产生关联，表现出「协同而不通信&lt;sup id=&quot;fnref:coordination&quot;&gt;&lt;a href=&quot;#fn:coordination&quot; class=&quot;footnote&quot;&gt;27&lt;/a&gt;&lt;/sup&gt;」这种经典观念无法理解的行为；但反过来，这种不包含相互影响的关联也不能被用来传递信息，故而量子物理并不支持超光速通信。Gisin 还在中间穿插了一些很有趣的讨论：比如，为什么未知量子态不能复制，由原子构成的 DNA 却可以？在书的后半部分，Gisin 终于展示了纠缠光子实验，但更精彩的是各类非理想实验条件下的结果诠释和漏洞排除，尤其是日内瓦团队在 2008 年利用 24 小时内的地球自转运动排除超光速通信影响的 Satigny–Jussy 实验 (&lt;a href=&quot;https://www.nature.com/articles/nature07121&quot;&gt;Salart, et al., ‘‘Testing the speed of ‘spooky action at a distance’ ’’&lt;/a&gt;) 简直给人一种 Léon Foucault 再世的既视感。整个过程中，Gisin 没有用到任何复杂数学，因为「量子理论的数学形式只是一种计算方法并非解释&lt;sup id=&quot;fnref:math&quot;&gt;&lt;a href=&quot;#fn:math&quot; class=&quot;footnote&quot;&gt;28&lt;/a&gt;&lt;/sup&gt;」；并且在他看来「物理的有趣之处不在数学，而在&lt;strong&gt;概念&lt;/strong&gt;；所以这本书的目的不是摆弄方程，而是&lt;strong&gt;理解&lt;/strong&gt;&lt;sup id=&quot;fnref:understand&quot;&gt;&lt;a href=&quot;#fn:understand&quot; class=&quot;footnote&quot;&gt;29&lt;/a&gt;&lt;/sup&gt;」。&lt;/p&gt;
 
@@ -2352,7 +2353,7 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 
 &lt;p&gt;个人以为，这样想虽不全无道理，但太过悲观虚无——因为&lt;strong&gt;自然科学揭示的从来不是绝对的客观规律，而是人对自然规律的主观描述。所有科学命题都是条件命题——这不仅指显性的「外部实验条件」，还包括人的探究方式与很多难以察觉的认知假设。&lt;/strong&gt;或许在自由意志之争有定论前，人类永远无法给出量子非局域性的「严格」判决；但在探索中，我们已经收获了对量子纠缠前所未有的深入认识——在一些基本假设下，我们对未知世界的疑惑已然得到了很大程度的消除；对这些假设本身的审查则属于更基本的科学问题。实验科学就是这样一步步挖掘、克服人的主观偏见，代之以更广范围内&lt;strong&gt;有条件&lt;/strong&gt;的共识。&lt;strong&gt;没有实验能告诉我们绝对知识&lt;/strong&gt;，因为「绝对知识」只可能在拒绝检验的信仰中生存。如果说近代科学让人相信「世界是有规律的，规律是可以被认识的」，「放下对绝对规律的执念，正视自身的视角与局限」大概就是现代科学留给二十世纪人类社会最核心的认知价值。&lt;/p&gt;
 
-&lt;p&gt;公正地说，&lt;em&gt;L’impensable Hasard&lt;/em&gt; 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点「故作轻松」之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，以及一些对当代学术圈教条的吐槽（例如 &lt;em&gt;Nature&lt;/em&gt; 的编辑不许他在论文里引用亚里士多德）。把 &lt;em&gt;L’impensable Hasard&lt;/em&gt; 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。&lt;/p&gt;
+&lt;p&gt;公正地说，&lt;em&gt;L’impensable Hasard&lt;/em&gt; 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点故作轻松之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，以及一些对当代学术圈教条的吐槽（例如 &lt;em&gt;Nature&lt;/em&gt; 的编辑不许他在论文里引用亚里士多德）。把 &lt;em&gt;L’impensable Hasard&lt;/em&gt; 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。&lt;/p&gt;
 
 &lt;p&gt;近几年，退休的 Gisin 有更多时间来思考量子理论的基本问题。专业论文之余，他也偶尔写几篇接地气的小文章向大家汇报一下心得。比如，他今年初在 &lt;em&gt;Nature Physics&lt;/em&gt; 上发表了一篇评论 &lt;a href=&quot;https://www.nature.com/articles/s41567-019-0748-5&quot;&gt;‘‘Mathematical languages shape our understanding of time in physics’’&lt;/a&gt;（后续 &lt;a href=&quot;https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/&quot;&gt;&lt;em&gt;Quanta Magazine&lt;/em&gt;&lt;/a&gt; 上有篇不错的新闻稿），认为&lt;strong&gt;直觉数学&lt;/strong&gt; (intuitionistic mathematics) 比正统的公理化数学更适合描述现代物理中的随机性与时间概念。喜欢更接地气风格的小伙伴可以去读他 2016 年写给 &lt;em&gt;New Scientist&lt;/em&gt; 的短文 &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0262407916309046?via%3Dihub&quot;&gt;‘‘Time to decide’’&lt;/a&gt;，看看能不能接受他为自由意志的辩护。这些文章也暴露了 Gisin 自己最近读了哪些书：L. E. J. Brouwer,  François Rabelais,  Carl Posy,  Gregory Chaitin,  Émile Borel,  Jules Lequyer,  G. E. M. Anscombe . . .   ❏  &lt;a href=&quot;#gisin-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
@@ -2362,7 +2363,8 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:jacob&quot;&gt;
-      &lt;p&gt; 这里安利一下 &lt;a href=&quot;https://www.odilejacob.fr/&quot;&gt;Éditions Odile Jacob&lt;/a&gt;——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 &lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php&quot;&gt;&lt;em&gt;La Lumière révélée. De la lunette de Galilée à l’étrangeté quantique&lt;/em&gt;&lt;/a&gt;（一周前刚刚出版，非常期待）。 &lt;a href=&quot;#fnref:jacob&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+ 	 这里安利一下 &lt;a href=&quot;https://www.odilejacob.fr/&quot;&gt;Éditions Odile Jacob&lt;/a&gt;——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 &lt;a href=&quot;https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php&quot;&gt;&lt;em&gt;La Lumière révélée. De la lunette de Galilée à l’étrangeté quantique&lt;/em&gt;&lt;/a&gt;（一周前刚刚出版，非常期待）。
+      &lt;p&gt;&lt;a href=&quot;#fnref:jacob&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:harpsichord&quot;&gt;
  	 ‘‘We shall not find here the pretensions to system, arrangement, and thoroughness of more elaborate treatises on scientific method. Here everything is said directly, simply, without pretentiousness or pseudo-profundity; &lt;em&gt;we can almost hear the harpsichord playing in the background.&lt;/em&gt;’’  (Max Black, ‘‘The Definition of Scientific Method’’ in &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015010450123&amp;amp;view=1up&amp;amp;seq=103&quot;&gt;&lt;em&gt;Science and Civilization&lt;/em&gt;,  p. 83&lt;/a&gt;) &lt;br /&gt;   Bernard 最著名的书粉大概是 Émile Zola（左拉）——&lt;em&gt;Médecine expérimentale&lt;/em&gt; 对 1880 年出版的自然主义文学宣言书 &lt;a href=&quot;https://fr.wikisource.org/wiki/Le_Roman_exp%C3%A9rimental&quot;&gt;&lt;em&gt;Le Roman expérimental&lt;/em&gt;&lt;/a&gt; 有着强烈影响。

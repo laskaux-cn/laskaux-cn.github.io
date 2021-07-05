@@ -4,31 +4,31 @@ title: 「五本书」第一辑：什么是科学
 
 subtitle: 
 
-excerpt:  在我眼中，科学是人类主动发起的对自我天性最系统的扩展与修正——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的「自然」产物，而是一组超越主观本能的刻意构造。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。 <br/> 
+excerpt:  在我眼中，科学是人类主动发起的对自我天性最系统的扩展与修正——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的「自然」产物，而是一组超越主观本能的刻意构造。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。 <br> 
 
 
 tags: 五本书 科学
 ---
 
->This above all: to thine own self be true, <br/>
->And it must follow, as the night the day, <br/>
+>This above all: to thine own self be true, <br>
+>And it must follow, as the night the day, <br>
 >Thou canst not then be false to any man. 
  > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em> : I.iii.78–80</a> (1603)
 
 [#跳至书单](#list)
-<br/><br/>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
+<br><br>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
 去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。
 
-<br/> 
+<br> 
 
-如果接着问「你觉得人类最不可思议的创造是什么？」心里不少候选答案飘过，可我还是想回答：**自然科学**。原因不在于它有多么复杂深刻或普适实用——在以上任何一方面，人类都有许多其它成就足以与之比肩。但在我眼中，**科学是人类主动发起的对自我天性最系统的扩展与修正**——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的「自然」产物，而是一组**超越主观本能的刻意构造**。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。
+如果接着问「你觉得人类最不可思议的创造是什么？」心里不少候选答案飘过，可我还是想回答：**自然科学**。原因不在于它有多么复杂深刻或普适实用——在以上任何一方面，人类都有许多其它成就足以与之比肩。但在我眼中，**科学是人类主动发起的对自我天性最系统的扩展与修正**——为了在思想的空间中描绘一幅有规律的世界图景，一些渴望「客观真相」的人们克服着视界的限制和偏见的阻力，从无到有地设计出了一套能最大程度获取可靠知识的思考与实践规则。这些规则不是物质或文化发展的**自然**产物，而是一组**超越主观本能的刻意构造**。它们校正着人性对未知的恐惧、对质疑的逃避和对绝对信念的崇拜，为人类复苏的自信心和创造力赋予了新的思维秩序——人是万物的尺度，但需要有章法地丈量世界。
 
 面向大众的科普叙事通常会把实验科学的建立归功于早期近代 (early modern) 的科学革命，仿佛是伽俐略、开普勒、惠更斯、牛顿的出世完成了这场深刻的思想变革。可事实上，早期近代只是变革的开始——**每当实验被引入新的学科或探索空间，科学的方法和逻辑都将遭遇严峻考验。**这样的关键「突围」一旦成功，通常会导致人类知识视界的重要延伸，以及对已有方法论的补充或修正。对这些发现的回顾总结，大概就是我们能在阅读中找到的对「什么是科学」最好的回答。
 
 在下面这份书单里，五位不同时代的杰出科学家从第一人称视角讲述了各自的「突围」——它们共同起源于**无边界的求知欲与有规范的实证原则的交汇**：十九世纪下半叶，科学实验被系统性地引入**生理**和**记忆**；二十世纪早期，最小的**原子**和最远的**星云**进入了科学家的视野；二十一世纪初，物理学家高度可信地完成了一度不可思议的**量子非局域性**检验。五本小册子都很简短，但高度还原了科学探索的过程和背后的方法逻辑。对我个人而言，它们不仅是科学写作和传播的典范，更是意志疲惫时的精神补给——生于大科学时代的我们也许能从中一窥前辈们守望知识原野时心中的格局与责任。
 
-<br/>
+<br>
 
 ----
 
@@ -38,7 +38,7 @@ tags: 五本书 科学
 - 点击原文或译文**标题**开始阅读（感谢在线公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
 - 点击**封面**进入[导读](#intros) 
 
-<br/>
+<br>
 
 
 
@@ -46,70 +46,70 @@ tags: 五本书 科学
 
 #### [法]&nbsp; Claude Bernard
 
-**初版**：1865 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: J. B. Baillière et fils  <br/>
-**英译**：[_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(by Henry Copley Greene, 1927)
+**初版**&ensp; 1865 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris : J. B. Baillière et fils  <br>
+**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up), trans. Henry Copley Greene (1927)
 
 [<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
 
-<br/>
+<br>
 
 
-## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
+## [Über das Gedächtnis<br><span style="font-size:0.8em">Untersuchungen zur experimentellen Psychologie</span>](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
 #### [德]&nbsp; Hermann Ebbinghaus
 
-**初版**：1885 &nbsp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Leipzig: Duncker & Humblot <br/>
-**英译**：[_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(by Henry A. Ruger & Clara E. Bussenius, 1913)
+**初版**&ensp; 1885 &nbsp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Leipzig : Duncker & Humblot <br>
+**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology), trans. Henry A. Ruger & Clara E. Bussenius (1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
 
-<br/>
+<br>
 
 
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
 #### [法]&nbsp; Jean Perrin
 
-**初版**：1913 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris: Félix Alcan <br/>
-**英译**：[_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(by Dalziel Llewellyn Hammick, 1916) <br/>
+**初版**&ensp; 1913 &nbsp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp;  Paris : Félix Alcan <br>
+**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up), trans. Dalziel Llewellyn Hammick (1916) <br>
 
 [<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
 
-<br/>
+<br>
 
 
 ## [The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)  {#hubble-cover}
 
 #### [美]&nbsp; Edwin Hubble
 
-**初版**：1936 &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New Haven: Yale Univ. Press / &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; London: Oxford Univ. Press <br/>
+**初版**&ensp; 1936 &nbsp;<img src="/assets/img/flags/us.png" width="24.7"/>&nbsp; New Haven : Yale Univ. Press / &nbsp;<img src="/assets/img/flags/uk.png" width="26"/>&nbsp; London : Oxford Univ. Press <br>
 
 [<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
 
-<br/>
+<br>
 
 
-## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
+## [L’impensable Hasard<br><span style="font-size:0.8em">Non-localité, téléportation et autres merveilles quantiques</span>](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
 
 #### [瑞士]&nbsp; Nicolas Gisin
 
-**初版**：2012 &nbsp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Paris: Odile Jacob [^jacob] <br/>
-**英译**：[_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(by Stephen Lyle, 2014)
-
-[^jacob]:   &emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
+**初版**&ensp; 2012 &nbsp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Paris : Odile Jacob [^jacob] <br>
+**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728), trans. Stephen Lyle (2014)
 
 [<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
 
-<br/>
+[^jacob]: 	&emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
+
+<br>
 
 ----
 
 # 本辑导读 {#intros}
 
-### <br/> I.&ensp; Claude Bernard, [_Introduction à l’étude de la médecine expérimentale_](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale)  &nbsp;[_(An Introduction to the Study of Experimental Medicine)_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) {#bernard-intro}
+#### I.&ensp; Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-intro}
 
-[#下一本](#ebbinghaus-intro) &nbsp;
 [#最后一本](#gisin-intro) &nbsp;
+[#下一本](#ebbinghaus-intro) &nbsp;
 [#返回书单](#bernard-cover)
 
 这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用书粉 Max Black 的评价：「我们仿佛能在背景中听见羽管键琴的琴声[^harpsichord]。」
@@ -134,25 +134,24 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 总之，_Médecine expérimentale_ 是高教育价值与高可读性的罕见结合，个人强烈推荐。不介意法文的小伙伴也可以读读 Bernard 于 1875 年发表在 _Revue des Deux Mondes_ 上的文章 [&lsquo;&lsquo;Définition de la vie, les théories anciennes et la science moderne''](https://fr.wikisource.org/wiki/D%C3%A9finition_de_la_vie,_les_th%C3%A9ories_anciennes_et_la_science_moderne)（生命的定义：古老理论与现代科学）——一篇非常精彩的科学思想史评述，回顾了近代西方学者怎样从机械论和活力论两种传统出发，一步步接近对生命物质基础的科学认识。最后不得不再赞一遍 Bernard 羽管键琴般的文笔：如果文如其人的话，这就是我心目中学者的理想形象。❏ &emsp;[#返回书单](#bernard-cover)
 
-<br/>
+<br>
 
-[^harpsichord]: 	&emsp;&lsquo;&lsquo;We shall not find here the pretensions to system, arrangement, and thoroughness of more elaborate treatises on scientific method. Here everything is said directly, simply, without pretentiousness or pseudo-profundity; _we can almost hear the harpsichord playing in the background._'' &ensp;(Max Black, &lsquo;&lsquo;The Definition of Scientific Method'' in [_Science and Civilization_, &nbsp;p. 83](https://babel.hathitrust.org/cgi/pt?id=mdp.39015010450123&view=1up&seq=103)) <br/> &emsp;&emsp;Bernard 最著名的书粉大概是 Émile Zola（左拉）——_Médecine expérimentale_ 对 1880 年出版的自然主义文学宣言书 [_Le Roman expérimental_](https://fr.wikisource.org/wiki/Le_Roman_exp%C3%A9rimental) 有着强烈影响。
+[^harpsichord]: 	&emsp;&lsquo;&lsquo;We shall not find here the pretensions to system, arrangement, and thoroughness of more elaborate treatises on scientific method. Here everything is said directly, simply, without pretentiousness or pseudo-profundity; _we can almost hear the harpsichord playing in the background._'' &ensp;(Max Black, &lsquo;&lsquo;The Definition of Scientific Method'' in [_Science and Civilization_, &nbsp;p. 83](https://babel.hathitrust.org/cgi/pt?id=mdp.39015010450123&view=1up&seq=103)) <br> &emsp;&emsp;Bernard 最著名的书粉大概是 Émile Zola（左拉）——_Médecine expérimentale_ 对 1880 年出版的自然主义文学宣言书 [_Le Roman expérimental_](https://fr.wikisource.org/wiki/Le_Roman_exp%C3%A9rimental) 有着强烈影响。
 
 [^tcm]: 	&emsp;这些观点像不像今天某些国家和地区传统医学支持者的说法？
 
-[^theory]: 	&emsp;&lsquo;&lsquo;. . . il vaut mieux ne rien savoir que d'avoir dans l'esprit des _idées fixes_ appuyées sur des théories dont on cherche toujours la confirmation en négligeant tout ce qui ne s'y rapporte pas.'' &ensp;(Bernard, [_Médecine expérimentale_, 1er.II.iii](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/72)) <br/>&emsp;&emsp;[. . . it is better to know nothing than to keep in mind _fixed ideas_ based on theories whose confirmation we constantly seek, neglecting meanwhile everything that fails to agree with them.] 
+[^theory]: 	&emsp;&lsquo;&lsquo;. . . il vaut mieux ne rien savoir que d'avoir dans l'esprit des _idées fixes_ appuyées sur des théories dont on cherche toujours la confirmation en négligeant tout ce qui ne s'y rapporte pas.'' &ensp;(Bernard, [_Médecine expérimentale_, 1er.II.iii](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/72)) <br>&emsp;&emsp;[. . . it is better to know nothing than to keep in mind _fixed ideas_ based on theories whose confirmation we constantly seek, neglecting meanwhile everything that fails to agree with them.] 
 
-[^words]: 	&emsp;&lsquo;&lsquo;. . . il faut savoir que les mots que nous employons pour exprimer les phénomènes, quand nous ignorons leurs causes, ne sont rien par eux-mêmes . . . Dans les discussions ou dans les explications de phénomènes, il faut toujours bien se garder de sortir de l’observation et de substituer un mot à la place du fait. On est même très souvent attaquable uniquement parce qu’on est sorti du fait et qu’on a conclu par un mot qui va au-delà de ce qui a été observé.'' &ensp;(Bernard, [_Médecine expérimentale_, 3e.II.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/335)) <br/>&emsp;&emsp;[. . . we must learn that the words we use to express phenomena whose cause we do not know are nothing in themselves . . . In discussing or explaining phenomena, we must be very careful never to abandon observation or put a word in place of a fact. Very often we even expose ourselves to attack, solely because we abandon facts and conclude with a word that goes beyond what we have observed.] 
+[^words]: 	&emsp;&lsquo;&lsquo;. . . il faut savoir que les mots que nous employons pour exprimer les phénomènes, quand nous ignorons leurs causes, ne sont rien par eux-mêmes . . . Dans les discussions ou dans les explications de phénomènes, il faut toujours bien se garder de sortir de l’observation et de substituer un mot à la place du fait. On est même très souvent attaquable uniquement parce qu’on est sorti du fait et qu’on a conclu par un mot qui va au-delà de ce qui a été observé.'' &ensp;(Bernard, [_Médecine expérimentale_, 3e.II.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/335)) <br>&emsp;&emsp;[. . . we must learn that the words we use to express phenomena whose cause we do not know are nothing in themselves . . . In discussing or explaining phenomena, we must be very careful never to abandon observation or put a word in place of a fact. Very often we even expose ourselves to attack, solely because we abandon facts and conclude with a word that goes beyond what we have observed.] 
 
-[^philosohy1]: 	&emsp;&lsquo;&lsquo;Pour l'expérimentateur physiologiste, il ne saurait y avoir ni spiritualisme ni matérialisme. Ces mots appartiennent à une philosophie naturelle qui a vieilli, ils tomberont en désuétude par le progrès même de la science.''  &ensp;(Bernard, [_Médecine expérimentale_, 2e.I.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/119))  <br/>&emsp;&emsp;[For physiological experimenters, neither spiritualism nor materialism can exist. These words belong to a philosophy which has grown old; they will fall into disuse through the progress of science.] 
+[^philosohy1]: 	&emsp;&lsquo;&lsquo;Pour l'expérimentateur physiologiste, il ne saurait y avoir ni spiritualisme ni matérialisme. Ces mots appartiennent à une philosophie naturelle qui a vieilli, ils tomberont en désuétude par le progrès même de la science.''  &ensp;(Bernard, [_Médecine expérimentale_, 2e.I.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/119))  <br>&emsp;&emsp;[For physiological experimenters, neither spiritualism nor materialism can exist. These words belong to a philosophy which has grown old; they will fall into disuse through the progress of science.] 
 
-[^philosohy2]: 	&emsp;&lsquo;&lsquo;. . . le meilleur système philosophique consiste à ne pas en avoir.'' &ensp;(Bernard, [_Médecine expérimentale_, 3e.IV.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/393)) <br/>&emsp;&emsp;[. . . the best philosophic system consists in not having any.] 
-
-
+[^philosohy2]: 	&emsp;&lsquo;&lsquo;. . . le meilleur système philosophique consiste à ne pas en avoir.'' &ensp;(Bernard, [_Médecine expérimentale_, 3e.IV.iv](https://fr.wikisource.org/wiki/Page%3ABernard_-_Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale%2C_Bailli%C3%A8re%2C_1865.djvu/393)) <br>&emsp;&emsp;[. . . the best philosophic system consists in not having any.] 
 
 
 
-### II.&ensp; Hermann Ebbinghaus, _[Über das Gedächtnis](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) ([Memory](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology))_ {#ebbinghaus-intro}
+
+#### II.&ensp; Hermann Ebbinghaus, _Über das Gedächtnis_<span style="font-size:0.67em">&ensp;</span>(1885) {#ebbinghaus-intro}
 
 [#上一本](#bernard-intro) &nbsp;
 [#下一本](#perrin-intro) &nbsp;
@@ -172,11 +171,11 @@ _Über das Gedächtnis_ 留给我最深的整体印象是——直率。可以�
 
 或许它还能给现实压力下的我们一丝逆势而行的勇气。❏ &emsp;[#返回书单](#ebbinghaus-cover)
 
-<br/>
+<br>
 
 [^paris]: 	&emsp;也许是担心被自己设计的无聊实验逼疯，Ebbinghaus 选择在巴黎的一间顶层阁楼里背乱码音节，用正在被 Haussmann 改造中的巴黎街景抚慰一下自己（为科学）遭受折磨的身心。
 
-[^subconscious]: 	&emsp;&lsquo;&lsquo;Jedenfalls wird derjenige, der a priori geneigt ist, den unwillkürlichen Einfluſs geheimer Wünsche auf die geistige Gesamthaltung sehr hoch zu veranschlagen, billigerweise auch berücksichtigen müssen, daſs der geheime Wunsch, sachliche Wahrheiten zu finden und nicht mit unverhältnismäſsiger Mühe Geschöpfe der eigenen Phantasie auf thönerne Füſse zu setzen.'' &ensp;(Ebbinghaus, [_Gedächtnis_, &nbsp;sec. 14](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=57)) <br/>&emsp;&emsp;[In any case he who is inclined a priori to estimate very highly the unconscious influence of secret wishes on the total mental attitude will also have to take into consideration that the secret wish to find objective truth and not with disproportionate toil to place the creation of his own fancy upon feet of clay.] <br/>&emsp;&emsp;Ebbinghaus 用的原词是「秘密愿望」。「潜意识」作为心理学词汇 1889 年才在 Pierre Janet 的博士论文 [_L'automatisme psychologique_](https://archive.org/stream/lautomatismepsyc00jane?ref=ol#page/n9/mode/2up/search/subconscient) 里被正式发明。
+[^subconscious]: 	&emsp;&lsquo;&lsquo;Jedenfalls wird derjenige, der a priori geneigt ist, den unwillkürlichen Einfluſs geheimer Wünsche auf die geistige Gesamthaltung sehr hoch zu veranschlagen, billigerweise auch berücksichtigen müssen, daſs der geheime Wunsch, sachliche Wahrheiten zu finden und nicht mit unverhältnismäſsiger Mühe Geschöpfe der eigenen Phantasie auf thönerne Füſse zu setzen.'' &ensp;(Ebbinghaus, [_Gedächtnis_, &nbsp;sec. 14](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=57)) <br>&emsp;&emsp;[In any case he who is inclined a priori to estimate very highly the unconscious influence of secret wishes on the total mental attitude will also have to take into consideration that the secret wish to find objective truth and not with disproportionate toil to place the creation of his own fancy upon feet of clay.] <br>&emsp;&emsp;Ebbinghaus 用的原词是「秘密愿望」。「潜意识」作为心理学词汇 1889 年才在 Pierre Janet 的博士论文 [_L'automatisme psychologique_](https://archive.org/stream/lautomatismepsyc00jane?ref=ol#page/n9/mode/2up/search/subconscient) 里被正式发明。
 
 [^fool]: 	&emsp;&lsquo;&lsquo;The first principle is that you must not fool yourself—and you are the easiest person to fool.'' &ensp;(Richard Feynman, [&lsquo;&lsquo;Cargo Cult Science''](http://calteches.library.caltech.edu/51/2/CargoCult.htm), 1974)
 
@@ -187,7 +186,7 @@ _Über das Gedächtnis_ 留给我最深的整体印象是——直率。可以�
 
 
 
-### III.&ensp; Jean Perrin, _[Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) ([Atoms](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up))_ {#perrin-intro}
+#### III.&ensp; Jean Perrin, _Les Atomes_<span style="font-size:0.67em">&ensp;</span>(1913) {#perrin-intro}
 
 [#上一本](#ebbinghaus-intro) &nbsp;
 [#下一本](#hubble-intro) &nbsp;
@@ -214,26 +213,26 @@ _Les Atomes_ 与今天各种原子物理简介的最大不同在于姿态与角�
 最近无意中发现了 Perrin 的一项业余爱好——他在 1923 年导演了两部无声电影短片，其中 [_Mouvement brownien et molécules_](https://images.cnrs.fr/video/2080)（布朗运动与分子）就取材于 _Les Atomes_ 的第三章，镜头记录了实验中乳浊液的配制、手摇离心机和水平显微镜的操作，以及显微镜视野里藤黄与洋乳香颗粒的布朗运动和垂直平衡分布；动态的画面对理解书中的描述很有帮助。另外有趣的是，这部小作品的拍摄手法与现存最早的科学纪录片——摄于 1903 年的 [_The Cheese Mites_](https://www.youtube.com/watch?v=wR2DystgByQ) 有几分相似。❏ &emsp;[#返回书单](#perrin-cover)
 
 
-[^informative]: 	&emsp;&lsquo;&lsquo;If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the _atomic hypothesis_ (or the atomic _fact_, or whatever you wish to call it) that _all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another._ In that one sentence, you will see, there is an enormous amount of information about the world . . .'' &ensp;(Richard Feynman, [_Lectures on Physics_, &nbsp;vol. 1, I.ii](https://www.feynmanlectures.caltech.edu/I_01.html#Ch1-S2)) <br/> &emsp;&emsp;&ensp;最早看 Feynman 的各种演讲时总被他的透彻视角和妙语连珠深度圈粉。后来慢慢发现，其实他的见解主要也是从前人处学来的。
+[^informative]: 	&emsp;&lsquo;&lsquo;If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the _atomic hypothesis_ (or the atomic _fact_, or whatever you wish to call it) that _all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another._ In that one sentence, you will see, there is an enormous amount of information about the world . . .'' &ensp;(Richard Feynman, [_Lectures on Physics_, &nbsp;vol. 1, I.ii](https://www.feynmanlectures.caltech.edu/I_01.html#Ch1-S2)) <br> &emsp;&emsp;&ensp;最早看 Feynman 的各种演讲时总被他的透彻视角和妙语连珠深度圈粉。后来慢慢发现，其实他的见解主要也是从前人处学来的。
 
 [^atom]: 	&emsp;事实上已经有人写过了，比如 Bernard Pullman 的 [_L'atome dans l'histoire de la pensée humaine_](https://www.fayard.fr/sciences-humaines/latome-dans-lhistoire-de-la-pensee-humaine-9782213594637) &nbsp;(英译: [_The Atom in the History of Human Thought_](https://books.google.com/books?id=IQs5hur-BpgC&printsec=frontcover#v=onepage&q&f=false) )
 
 [^marx]: 	&emsp;很多人大概想不到（反正我没想到）马克思的博士论文课题竟然是关于古希腊原子论——[_Differenz der demokritischen und epikureischen Naturphilosophie_](http://www.zeno.org/Philosophie/M/Marx,+Karl/Differenz+der+demokritischen+und+epikureischen+Naturphilosophie) &nbsp;(英译: [_The Difference Between the Democritean and Epicurean Philosophy of Nature_](https://web.archive.org/web/20180420103907/http://www.marxistsfr.org/archive/marx/works/1841/dr-theses/) )
 
-[^avogadro]: 	&emsp;实际上，阿伏伽德罗常数的命名者就是 Perrin——他最早把它定义为 2 克氢气中氢分子的数量：<br/>&emsp;&emsp;&ensp;&lsquo;&lsquo;_Deux molécules-gramme quelconques contiennent le même nombre de molécules._ Ce nombre invariable N est une constante universelle qu'il semble juste d'appeler _constante d'Avogadro_.'' &ensp;(Perrin, [&lsquo;&lsquo;Mouvement brownien et réalité moléculaire'', &nbsp;sec. 6](https://fr.wikisource.org/wiki/Page%3AAnnales_de_chimie_et_de_physique%2C_8%C3%A8_s%C3%A9rie%2C_Tome_18%2C_1909.djvu/16)) <br/>&emsp;&emsp;&ensp;[_Any two gram-molecules contain the same number of molecules._ This invariable number N is a universal constant, which may appropriately be designated _Avogadro's Constant_.] <br/>&emsp;&emsp;&ensp;在 2019 年改革后的最新国际单位制中，阿伏加德多常数被直接定为 _N_<sub>A</sub> = 6.02214076 × 10<sup>23</sup> 并被用于定义**物质的量**的基本单位**摩尔** (mol)；从此 _N_<sub>A</sub> 的数值不再需要测量。
+[^avogadro]: 	&emsp;实际上，阿伏伽德罗常数的命名者就是 Perrin——他最早把它定义为 2 克氢气中氢分子的数量：<br>&emsp;&emsp;&ensp;&lsquo;&lsquo;_Deux molécules-gramme quelconques contiennent le même nombre de molécules._ Ce nombre invariable N est une constante universelle qu'il semble juste d'appeler _constante d'Avogadro_.'' &ensp;(Perrin, [&lsquo;&lsquo;Mouvement brownien et réalité moléculaire'', &nbsp;sec. 6](https://fr.wikisource.org/wiki/Page%3AAnnales_de_chimie_et_de_physique%2C_8%C3%A8_s%C3%A9rie%2C_Tome_18%2C_1909.djvu/16)) <br>&emsp;&emsp;&ensp;[_Any two gram-molecules contain the same number of molecules._ This invariable number N is a universal constant, which may appropriately be designated _Avogadro's Constant_.] <br>&emsp;&emsp;&ensp;在 2019 年改革后的最新国际单位制中，阿伏加德多常数被直接定为 _N_<sub>A</sub> = 6.02214076 × 10<sup>23</sup> 并被用于定义**物质的量**的基本单位**摩尔** (mol)；从此 _N_<sub>A</sub> 的数值不再需要测量。
 
 [^microscope]: 	&emsp;二十世纪初的实验室里可没有扫描隧穿显微镜 (scanning tunneling microscope)、单原子共振荧光成像 (single-atom resonance fluorescence imaging) 这类能给单个原子「拍照」的神器。
 
-[^ship]: 	&emsp;&lsquo;&lsquo;L’agitation moléculaire échappe à notre perception directe comme le mouvement des vagues de la mer à un observateur trop éloigné. Cependant, si quelque bateau se trouve alors en vue, le même observateur pourra voir un balancement qui lui révélera l’agitation qu’il ne soupçonnait pas.'' &ensp;(Perrin, [_Les Atomes_, &nbsp;sec. 50](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/142)) <br/>&emsp;&emsp;&ensp;[Direct perception of the molecules in agitation is not possible, for the same reason that the motion of the waves is not noticed by an observer at too great a distance from them. But if a ship comes in sight, he will be able to see that it is rocking, which will enable him to infer the existence of a possibly unsuspected motion of the sea's surface.] 
+[^ship]: 	&emsp;&lsquo;&lsquo;L’agitation moléculaire échappe à notre perception directe comme le mouvement des vagues de la mer à un observateur trop éloigné. Cependant, si quelque bateau se trouve alors en vue, le même observateur pourra voir un balancement qui lui révélera l’agitation qu’il ne soupçonnait pas.'' &ensp;(Perrin, [_Les Atomes_, &nbsp;sec. 50](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/142)) <br>&emsp;&emsp;&ensp;[Direct perception of the molecules in agitation is not possible, for the same reason that the motion of the waves is not noticed by an observer at too great a distance from them. But if a ship comes in sight, he will be able to see that it is rocking, which will enable him to infer the existence of a possibly unsuspected motion of the sea's surface.] 
 
-[^visible]: 	&emsp;&lsquo;&lsquo;Deviner ainsi l’existence ou les propriétés d’objets qui sont encore au delà de notre connaissance, _expliquer du visible compliqué par de l’invisible simple_, voilà la forme d’intelligence intuitive à laquelle, grâce à des hommes tels que Dalton ou Boltzmann, nous devons l’Atomistique . . .'' &ensp;(Perrin, [_Les Atomes_, Préface](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/12)) <br/>&emsp;&emsp;&ensp;[To divine in this way the existence and properties of objects that still lie outside our ken, _to explain the complications of the visible in terms of invisible simplicity_, is the function of the intuitive intelligence which, thanks to men such as Dalton and Boltzmann, has given us the doctrine of Atoms.] 
+[^visible]: 	&emsp;&lsquo;&lsquo;Deviner ainsi l’existence ou les propriétés d’objets qui sont encore au delà de notre connaissance, _expliquer du visible compliqué par de l’invisible simple_, voilà la forme d’intelligence intuitive à laquelle, grâce à des hommes tels que Dalton ou Boltzmann, nous devons l’Atomistique . . .'' &ensp;(Perrin, [_Les Atomes_, Préface](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/12)) <br>&emsp;&emsp;&ensp;[To divine in this way the existence and properties of objects that still lie outside our ken, _to explain the complications of the visible in terms of invisible simplicity_, is the function of the intuitive intelligence which, thanks to men such as Dalton and Boltzmann, has given us the doctrine of Atoms.] 
 
-<br/>
-
-
+<br>
 
 
-### IV.&ensp; Edwin Hubble, _[The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)_ {#hubble-intro}
+
+
+#### IV.&ensp; Edwin Hubble, _The Realm of the Nebulæ_<span style="font-size:0.67em">&ensp;</span>(1936) {#hubble-intro}
 
 [#上一本](#perrin-intro) &nbsp;
 [#下一本](#gisin-intro) &nbsp;
@@ -256,7 +255,7 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 或许，相比于我们是谁、从哪来、到哪去，「所有探索都以未知结束」才是宇宙对人更重要的启示。❏ &emsp;[#返回书单](#hubble-cover)
 
-<br/>
+<br>
 
 [^redshift]: 	&emsp;&lsquo;&lsquo;Nebular red-shifts, however, are on a very large scale, quite new in our experience, and empirical confirmation of their provisional interpretation as familiar velocity-shifts, is highly desirable. . . . The necessary investigations are beset with difficulties and uncertainties, and conclusions from data now available are rather dubious. They are mentioned here in order to emphasize the fact that the interpretation of red-shifts is at least partially within the range of empirical investigation. For this reason the attitude of the observer is somewhat different from that of the theoretical investigator. Because the telescopic resources are not yet exhausted, judgment may be suspended until it is known from observations whether or not red-shifts do actually represent motion.'' &ensp;(Hubble, [_The Realm of the Nebulæ_, &nbsp;p. 122](https://archive.org/details/TheRealmOfTheNebulae/page/n145/mode/2up))
 
@@ -268,14 +267,14 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 [^note]: 	&emsp;&lsquo;&lsquo;Thus the explorations of space end on a note of uncertainty. And necessarily so.'' &ensp;(Hubble, [_The Realm of the Nebulæ_, &nbsp;p. 201](https://archive.org/details/TheRealmOfTheNebulae/page/n229/mode/2up))
 
-[^nebulae]: 	&emsp;巧合的是，Perrin 恰好选择用星云为 _Les Atomes_ 结尾：<br/>&emsp;&emsp;&ensp;&lsquo;&lsquo;La Nature déploie la même splendeur sans limites dans l’atome ou dans la nébuleuse, et tout moyen nouveau de connaissance la montre plus vaste et diverse, plus féconde, plus imprévue, plus belle, plus riche d’insondable immensité.'' &ensp;([_Les Atomes_, &nbsp;sec. 119](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/314)) <br/>&emsp;&emsp;&ensp;[Nature reveals the same wide grandeur in the atom and the nebula, and each new aid to knowledge shows her vaster and more diverse, more fruitful and more unexpected, and, above all, unfathomably immense.] 
+[^nebulae]: 	&emsp;巧合的是，Perrin 恰好选择用星云为 _Les Atomes_ 结尾：<br>&emsp;&emsp;&ensp;&lsquo;&lsquo;La Nature déploie la même splendeur sans limites dans l’atome ou dans la nébuleuse, et tout moyen nouveau de connaissance la montre plus vaste et diverse, plus féconde, plus imprévue, plus belle, plus riche d’insondable immensité.'' &ensp;([_Les Atomes_, &nbsp;sec. 119](https://fr.wikisource.org/wiki/Page%3APerrin%2C_Jean_-_Les_Atomes%2C_F%C3%A9lix_Alcan%2C_1913.djvu/314)) <br>&emsp;&emsp;&ensp;[Nature reveals the same wide grandeur in the atom and the nebula, and each new aid to knowledge shows her vaster and more diverse, more fruitful and more unexpected, and, above all, unfathomably immense.] 
 
 [^lemaitre]: 	&emsp;「遥远星系的退行速度正比于它们到地球的距离」以前一直被称为「哈勃定律」。2018 年，国际天文学联合会决定将这条定律更早的理论提出人——Georges Lemaître 加入到命名中。
 
 
 
 
-### V.&ensp; Nicolas Gisin, _[L’impensable Hasard](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) &nbsp;([Quantum Chance](https://www.springer.com/gp/book/9783319054728))_ {#gisin-intro}
+#### V.&ensp; Nicolas Gisin, _L’impensable Hasard_<span style="font-size:0.67em">&ensp;</span>(2012) {#gisin-intro}
 
 [#上一本](#hubble-intro) &nbsp;
 [#第一本](#bernard-intro) &nbsp;
@@ -283,7 +282,7 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 在我心目中，1970 至 2010 年代间的**贝尔测试** (Bell test) 代表着人类迄今已完成的用实验手段检验自然基本规律的巅峰——它研究的不是某一类特定物质或具体现象，甚至不是某些学科的通用原理，而是试图对「物理量在测量前是否客观存在」「因果关系能否超距传递」这样相当抽象、从前一直被归入「纯哲学思辨」的基本命题做出客观判定。贝尔测试的结果不仅提供了当前物理学家对**量子纠缠** (quantum entanglement) 的标准认识——**一种受量子随机性限制从而不能直接传递因果关系的超距关联**，对其结论的诠释和漏洞 (loophole) 的审查更在促使我们思考：**什么是实验科学的认知极限？**
 
-与科学史上那些一锤定音的著名实验不同，贝尔测试从构思到逐步完善是一场近半个世纪的跨国接力：在伯克利、奥赛 (Orsay)、日内瓦、因斯布鲁克、博尔德 (Boulder, Colorado)、代尔夫特 (Delft)、慕尼黑...... 好奇又最能动手的物理学家们不断尝试逼近检验贝尔不等式 (Bell's inequality) 的理想条件，得到的结果也与经典世界观愈发背离。在众多参与者中，最有资格为大家讲述这段故事的大概就是 Nicolas Gisin——在日内瓦带领团队玩了二十多年「量子游戏」的「老顽童」。一切缘起于 1990 年代，熟悉光通信技术的 Gisin 借用瑞士电信的光纤网络率先在距离十千米量级的城市间实现了量子密钥分发 (quantum key distribution) 和满足类空间隔的贝尔测试，让量子实验第一次走出实验室、需要借助地图来描述；同时，他也是量子保密通信 (quantum cryptography) 的重要探路人，成为了这项实验性技术初步实用化的先驱[^china]。不过相比于实际应用，Gisin 还是更沉迷于基础物理本身。他在花甲之年出版了这本一百多页的 _L’impensable Hasard_，想把自己因量子研究收获的惊喜与大家分享。
+与科学史上那些一锤定音的著名实验不同，贝尔测试从构思到逐步完善是一场近半个世纪的跨国接力：在伯克利、奥赛 (Orsay)、日内瓦、因斯布鲁克、博尔德 (Boulder, Colorado)、代尔夫特 (Delft)、慕尼黑...... 好奇又最能动手的物理学家们不断尝试逼近检验贝尔不等式 (Bell's inequality) 的理想条件，得到的结果也与经典世界观愈发背离。在众多参与者中，最有资格为大家讲述这段故事的大概就是 Nicolas Gisin——在日内瓦带领团队玩了二十多年「量子游戏」的老顽童。一切缘起于 1990 年代，熟悉光通信技术的 Gisin 借用瑞士电信的光纤网络率先在距离十千米量级的城市间实现了量子密钥分发 (quantum key distribution) 和满足类空间隔的贝尔测试，让量子实验第一次走出实验室、需要借助地图来描述；同时，他也是量子保密通信 (quantum cryptography) 的重要探路人，成为了这项实验性技术初步实用化的先驱[^china]。不过相比于实际应用，Gisin 还是更沉迷于基础物理本身。他在花甲之年出版了这本一百多页的 _L’impensable Hasard_，想把自己因量子研究收获的惊喜与大家分享。
 
 量子物理不是一个容易科普的课题——无论理论还是实验对外行都不太友好。但 Gisin 的叙述角度不能更赞：他选择跳出具体的物理问题，从更基本的信息概念——关联 (correlation)、因果、随机性来解读量子纠缠。「**科学的本质就是观测关联** ，**然后为这些关联寻找解释**[^correlation]」；贝尔实验的实质就是一个测试空间上分隔的玩家之间关联强度的游戏，游戏的规则与具体物质无关，理解规则本身无需掌握现代物理。于是，在介绍贝尔不等式时，Gisin 首先用的是电话、杂货铺、游戏杆——这里它们不只是通俗类比，而是完全合法的测试对象。只不过相对于这些日常游戏，纠缠光子对的特别之处在于它们的**非局域随机性** (nonlocal randomness)，这导致它们可以在既无相互影响也无共同历史的前提下产生关联，表现出「协同而不通信[^coordination]」这种经典观念无法理解的行为；但反过来，这种不包含相互影响的关联也不能被用来传递信息，故而量子物理并不支持超光速通信。Gisin 还在中间穿插了一些很有趣的讨论：比如，为什么未知量子态不能复制，由原子构成的 DNA 却可以？在书的后半部分，Gisin 终于展示了纠缠光子实验，但更精彩的是各类非理想实验条件下的结果诠释和漏洞排除，尤其是日内瓦团队在 2008 年利用 24 小时内的地球自转运动排除超光速通信影响的 Satigny–Jussy 实验 ([Salart, et al., &lsquo;&lsquo;Testing the speed of ‘spooky action at a distance’ ’’](https://www.nature.com/articles/nature07121)) 简直给人一种 Léon Foucault 再世的既视感。整个过程中，Gisin 没有用到任何复杂数学，因为「量子理论的数学形式只是一种计算方法并非解释[^math]」；并且在他看来「物理的有趣之处不在数学，而在**概念**；所以这本书的目的不是摆弄方程，而是**理解**[^understand]」。
 
@@ -299,19 +298,22 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 个人以为，这样想虽不全无道理，但太过悲观虚无——因为**自然科学揭示的从来不是绝对的客观规律，而是人对自然规律的主观描述。所有科学命题都是条件命题——这不仅指显性的「外部实验条件」，还包括人的探究方式与很多难以察觉的认知假设。**或许在自由意志之争有定论前，人类永远无法给出量子非局域性的「严格」判决；但在探索中，我们已经收获了对量子纠缠前所未有的深入认识——在一些基本假设下，我们对未知世界的疑惑已然得到了很大程度的消除；对这些假设本身的审查则属于更基本的科学问题。实验科学就是这样一步步挖掘、克服人的主观偏见，代之以更广范围内**有条件**的共识。**没有实验能告诉我们绝对知识**，因为「绝对知识」只可能在拒绝检验的信仰中生存。如果说近代科学让人相信「世界是有规律的，规律是可以被认识的」，「放下对绝对规律的执念，正视自身的视角与局限」大概就是现代科学留给二十世纪人类社会最核心的认知价值。
 
-公正地说，_L’impensable Hasard_ 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点「故作轻松」之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，以及一些对当代学术圈教条的吐槽（例如 _Nature_ 的编辑不许他在论文里引用亚里士多德）。把 _L’impensable Hasard_ 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。
+公正地说，_L’impensable Hasard_ 的语言风格不算严整——也许是为了贴近当代的科普潮流，Gisin 行文有点故作轻松之态，口语化表达比较多，个别有必要更细致解释的地方也略显潦草。但总体而言，这本小册子在轻松的外表下有个相当严肃的内核，视角很高且科学内容非常准确，即使是专业的研究者读完也收获颇多。有兴趣的小伙伴一定不要略过每章最后的备注，里面包括不少细节讨论、参考文献，以及一些对当代学术圈教条的吐槽（例如 _Nature_ 的编辑不许他在论文里引用亚里士多德）。把 _L’impensable Hasard_ 与前四本早很多的书列在一起，是因为它继承了 Bernard、Perrin 时代的严肃科普传统——这在科学传播高度流行化和商业化的今天尤其难得。
 
 近几年，退休的 Gisin 有更多时间来思考量子理论的基本问题。专业论文之余，他也偶尔写几篇接地气的小文章向大家汇报一下心得。比如，他今年初在 _Nature Physics_ 上发表了一篇评论 [&lsquo;&lsquo;Mathematical languages shape our understanding of time in physics''](https://www.nature.com/articles/s41567-019-0748-5)（后续 [_Quanta Magazine_](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) 上有篇不错的新闻稿），认为**直觉数学** (intuitionistic mathematics) 比正统的公理化数学更适合描述现代物理中的随机性与时间概念。喜欢更接地气风格的小伙伴可以去读他 2016 年写给 _New Scientist_ 的短文 [&lsquo;&lsquo;Time to decide''](https://www.sciencedirect.com/science/article/abs/pii/S0262407916309046?via%3Dihub)，看看能不能接受他为自由意志的辩护。这些文章也暴露了 Gisin 自己最近读了哪些书：L. E. J. Brouwer,&nbsp; François Rabelais,&nbsp; Carl Posy,&nbsp; Gregory Chaitin,&nbsp; Émile Borel,&nbsp; Jules Lequyer,&nbsp; G. E. M. Anscombe . . . &nbsp; ❏ &emsp;[#返回书单](#gisin-cover)
 
 
+[^understand]: 	&emsp;&lsquo;&lsquo;Car ce qui est intéressant en physique, ce ne sont pas les mathématiques, mais les concepts. Il ne s'agit pas ici de faire fonctionner les équations, mais de _comprendre_.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 13) <br>&emsp;&emsp;&ensp;[For what is interesting in physics is not the mathematics but the concepts. So my purpose here is not to manipulate equations, but to _understand_.]
 
-[^understand]: 	&emsp;&lsquo;&lsquo;Car ce qui est intéressant en physique, ce ne sont pas les mathématiques, mais les concepts. Il ne s'agit pas ici de faire fonctionner les équations, mais de _comprendre_.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 13) <br/>&emsp;&emsp;&ensp;[For what is interesting in physics is not the mathematics but the concepts. So my purpose here is not to manipulate equations, but to _understand_.]
 
-[^math]: 	&emsp;&lsquo;&lsquo;. . . le formalisme mathématique de la théorie quantique ne fournit aucune explication, il permet seulement de calculer.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 82) <br/>&emsp;&emsp;&ensp;[. . . the mathematical formalism of quantum theory provides no explanation, only a way of doing calculations.] 
+[^understan]:  &emsp;&lsquo;&lsquo;Car ce qui est intéressant en physique, ce ne sont pas les mathématiques, mais les concepts. Il ne s'agit pas ici de faire fonctionner les équations, mais de _comprendre_.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 13) <br>&emsp;&emsp;&ensp;[For what is interesting in physics is not the mathematics but the concepts. So my purpose here is not to manipulate equations, but to _understand_.]
 
-[^coordination]: 	&emsp;&lsquo;&lsquo;Coordonner n'est pas communiquer.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 55) <br/>&emsp;&emsp;&ensp;[Coordination is not communication.] 
 
-[^correlation]: 	&emsp;&lsquo;&lsquo;La science consiste essentiellement à observer des corrélations, puis à inventer des explications de ces corrélations.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 25) <br/>&emsp;&emsp;&ensp;[Science is essentially an exercise in observing correlations, then inventing explanations for them.] 
+[^math]: 	&emsp;&lsquo;&lsquo;. . . le formalisme mathématique de la théorie quantique ne fournit aucune explication, il permet seulement de calculer.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 82) <br>&emsp;&emsp;&ensp;[. . . the mathematical formalism of quantum theory provides no explanation, only a way of doing calculations.] 
+
+[^coordination]: 	&emsp;&lsquo;&lsquo;Coordonner n'est pas communiquer.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 55) <br>&emsp;&emsp;&ensp;[Coordination is not communication.] 
+
+[^correlation]: 	&emsp;&lsquo;&lsquo;La science consiste essentiellement à observer des corrélations, puis à inventer des explications de ces corrélations.'' &ensp;(Gisin, _L’impensable Hasard_, &nbsp;p. 25) <br>&emsp;&emsp;&ensp;[Science is essentially an exercise in observing correlations, then inventing explanations for them.] 
 
 [^china]: 	&emsp;不过，当前一些希望借助宣传工具来重写科技史的中国团队似乎不太愿意承认这些。
 

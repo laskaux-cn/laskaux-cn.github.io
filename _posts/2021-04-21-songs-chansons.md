@@ -2,7 +2,7 @@
 layout: post
 title: 「不严肃音乐」第二单：幸福を売る人 <sup>[未完]</sup>
 subtitle: 电影院、卡巴莱与歌舞秀
-excerpt: ♬&nbsp; 电影院、卡巴莱与歌舞秀 <br>
+excerpt: 「思い出すはあの日のこと／暖かい恋の夢／春の風と鳥の歌と／やさしいあなたがいた」<br>
 
 tags: music
 ---
@@ -18,7 +18,8 @@ tags: music
 [#莫斯科](#moscow) &nbsp;
 [#纽约](#nyc) &nbsp;
 [#洛杉矶](#la) &nbsp;
-[#布宜诺斯艾利斯](#ba) <br><br>
+[#布宜诺斯艾利斯](#ba) &nbsp;
+<br><br>
 
 
 ## A.&nbsp; 巴黎 {#paris}
@@ -868,8 +869,8 @@ tags: music
 >
 >
 > [2005]&nbsp; [האכילו את הציפורים](https://www.youtube.com/watch?v=O9bweo6KbUs) <br>
-> **译词**：שפרירה זכאי &nbsp;🇮🇱 <br>
-> **录唱**：נינט טייב
+> **译词**：שפרירה זכאי [Safrira Zachai] &nbsp;🇮🇱 <br>
+> **录唱**：נינט טייב [Ninet Tayeb]
 >
 >
 > [2010]&nbsp; [Vogelvoer](https://www.youtube.com/watch?v=ogLWYPVpyzk) <br>
@@ -914,7 +915,6 @@ tags: music
 >
 > [2004]&nbsp; [Han som försvann](https://www.youtube.com/watch?v=DSs_RMaOWWc)  
 > **译词/录唱**：Rikard Wolff &nbsp;🇸🇪
-
 
 
 <br>
