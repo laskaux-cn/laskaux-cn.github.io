@@ -12,15 +12,23 @@ tags: 五本书 科学
 > Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem percipimus. 
 >
 > [By doubting we come to questioning; by questioning we perceive the truth.]
- > <p align="right">—<a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em> : Prologus</a> (c. 1121) 
+ > <p align="right">—<a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em><span style="font-size:0.5em">&nbsp;</span>: Prologus</a> (c. 1121) 
+
+[#本辑书单](#list) &nbsp;
+[#第一辑: 什么是科学](/2020/09/16/five-books-what-is-science.html)
 
 <br>
+
+----
+
+# 本辑书单 {#list}
 
 > 点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Internet Archive](https://archive.org/), [HathiTrust](https://www.hathitrust.org/), [Wikisource](https://wikisource.org/wiki/Main_Page), & [Google Books](https://books.google.com/)）
 >
 > 点击**封面**进入[导读](#intros)
 
 <br>
+
 
 ## [La Valeur de la Science](https://fr.wikisource.org/wiki/La_Valeur_de_la_Science) {#poincare-cover}
 
@@ -47,9 +55,9 @@ tags: 五本书 科学
 
 ## [Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv](https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120) {#fleck-cover}
 
-#### <img src="/assets/img/flags/po.png" width="25.2"/>&ensp;Ludwik Fleck 
+#### <img src="/assets/img/flags/po_2r.png" width="25.2"/>&ensp;Ludwik Fleck 
 
-**初版**&ensp; 1935 &nbsp;<img src="/assets/img/flags/sw.png" width="14"/>&nbsp; Basel : Benno Schwabe <br>
+**初版**&ensp; 1935 &ensp;<img src="/assets/img/flags/sw.png" width="14"/>&nbsp; Benno Schwabe <br>
 **英译**&ensp; [_Genesis and Development of a Scientific Fact_](https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h) &nbsp;(trans. Fred Bradley & Thaddeus J. Trenn, 1979)
 
 [<img src="/assets/img/books/fleck.png" width="800"/>](#fleck-intro)
@@ -84,7 +92,7 @@ tags: 五本书 科学
 
 # 本辑导读 {#intros}
 
-#### <br> I.&ensp; Henri Poincaré, _La Valeur de la Science_<span style="font-size:0.67em">&ensp;</span>(1905) {#poincare-intro}
+#### I.&ensp; Henri Poincaré, _La Valeur de la Science_<span style="font-size:0.67em">&ensp;</span>(1905) {#poincare-intro}
 
 [#下一本](#bridgman-intro) &nbsp;
 [#最后一本](#ziman-intro) &nbsp;
@@ -135,8 +143,6 @@ tags: 五本书 科学
 [#返回书单](#ziman-cover)
 
 ❏ &emsp;[#返回书单](#ziman-cover)
-
-[^china]:   &emsp;不过，当前一些希望借助宣传工具来重写科技史的中国团队似乎不太愿意承认这些。
 
 <br>
 

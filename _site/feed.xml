@@ -5,140 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 05 Jul 2021 03:48:23 -0400</pubDate>
-    
-      <item>
-        <title>「五本书」第二辑：科学的信念</title>
-        <link>/2021/06/08/five-books-science-belief.html</link>
-        <guid isPermaLink="true">/2021/06/08/five-books-science-belief.html</guid>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem percipimus.&lt;/p&gt;
-
-  &lt;p&gt;[By doubting we come to questioning; by questioning we perceive the truth.]&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—&lt;a href=&quot;https://la.wikisource.org/wiki/Sic_et_non&quot;&gt;&lt;em&gt;Sic et non&lt;/em&gt; : Prologus&lt;/a&gt; (c. 1121) 
-&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;点击原文或译文&lt;strong&gt;标题&lt;/strong&gt;开始阅读（感谢在线公共图书馆：&lt;a href=&quot;https://archive.org/&quot;&gt;Internet Archive&lt;/a&gt;, &lt;a href=&quot;https://www.hathitrust.org/&quot;&gt;HathiTrust&lt;/a&gt;, &lt;a href=&quot;https://wikisource.org/wiki/Main_Page&quot;&gt;Wikisource&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://books.google.com/&quot;&gt;Google Books&lt;/a&gt;）&lt;/p&gt;
-
-  &lt;p&gt;点击&lt;strong&gt;封面&lt;/strong&gt;进入&lt;a href=&quot;#intros&quot;&gt;导读&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;poincare-cover&quot;&gt;&lt;a href=&quot;https://fr.wikisource.org/wiki/La_Valeur_de_la_Science&quot;&gt;La Valeur de la Science&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h4 id=&quot;henri-poincaré&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Henri Poincaré&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1905  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  Ernest Flammarion &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&amp;amp;gbpv=1&amp;amp;dq=poincare+the+value+of+science&amp;amp;printsec=frontcover&quot;&gt;&lt;em&gt;The Value of Science&lt;/em&gt;&lt;/a&gt;  (trans. George Bruce Halsted, 1907)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/poincare.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bridgman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up&quot;&gt;The Logic of Modern Physics&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h4 id=&quot;percy-w-bridgman&quot;&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;29&quot; /&gt; Percy W. Bridgman&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1927  &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24&quot; /&gt;  Macmillan &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bridgman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fleck-cover&quot;&gt;&lt;a href=&quot;https://www.suhrkamp.de/buch/ludwik-fleck-entstehung-und-entwicklung-einer-wissenschaftlichen-tatsache-t-9783518279120&quot;&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache. Einführung in die Lehre vom Denkstil und Denkkollektiv&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h4 id=&quot;ludwik-fleck&quot;&gt;&lt;img src=&quot;/assets/img/flags/po.png&quot; width=&quot;25.2&quot; /&gt; Ludwik Fleck&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1935  &lt;img src=&quot;/assets/img/flags/sw.png&quot; width=&quot;14&quot; /&gt;  Basel : Benno Schwabe &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h&quot;&gt;&lt;em&gt;Genesis and Development of a Scientific Fact&lt;/em&gt;&lt;/a&gt;  (trans. Fred Bradley &amp;amp; Thaddeus J. Trenn, 1979)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/fleck.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;monod-cover&quot;&gt;&lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936&quot;&gt;Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h4 id=&quot;jacques-monod&quot;&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;24&quot; /&gt; Jacques Monod&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1970  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  Seuil &lt;br /&gt;
-&lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/chancenecessity00mono/mode/2up&quot;&gt;&lt;em&gt;Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology&lt;/em&gt;&lt;/a&gt;  (trans. Austryn Wainhouse, 1971)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#monod-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/monod.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;ziman-cover&quot;&gt;&lt;a href=&quot;https://archive.org/details/reliableknowledg00john/mode/2up&quot;&gt;Reliable Knowledge: An Exploration of the Grounds for Belief in Science&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h4 id=&quot;john-ziman&quot;&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;30&quot; /&gt; John Ziman&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1978  &lt;img src=&quot;/assets/img/flags/uk.png&quot; width=&quot;24.8&quot; /&gt; &lt;img src=&quot;/assets/img/flags/us.png&quot; width=&quot;24&quot; /&gt; &lt;img src=&quot;/assets/img/flags/australia.png&quot; width=&quot;24.8&quot; /&gt;  Cambridge Univ. Press &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#ziman-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ziman.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;intros&quot;&gt;本辑导读&lt;/h1&gt;
-
-&lt;h4 id=&quot;poincare-intro&quot;&gt;&lt;br /&gt; I.  Henri Poincaré, &lt;em&gt;La Valeur de la Science&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1905)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#下一本&lt;/a&gt;  
-&lt;a href=&quot;#ziman-intro&quot;&gt;#最后一本&lt;/a&gt;  
-&lt;a href=&quot;#poincare-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;❏  &lt;a href=&quot;#poincare-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;bridgman-intro&quot;&gt;II.  Percy Bridgman, &lt;em&gt;The Logic of Modern Physics&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1927)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;#poincare-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#fleck-intro&quot;&gt;#下一本&lt;/a&gt;  
-&lt;a href=&quot;#bridgman-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;❏  &lt;a href=&quot;#bridgman-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;fleck-intro&quot;&gt;III.  Ludwik Fleck, &lt;em&gt;Entstehung und Entwicklung einer wissenschaftlichen Tatsache&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1935)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;#bridgman-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#monod-intro&quot;&gt;#下一本&lt;/a&gt;  
-&lt;a href=&quot;#fleck-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;❏  &lt;a href=&quot;#fleck-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;monod-intro&quot;&gt;IV.  Jacques Monod, &lt;em&gt;Le Hasard et la Nécessité&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1970)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;#fleck-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#ziman-intro&quot;&gt;#下一本&lt;/a&gt;  
-&lt;a href=&quot;#monod-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;❏  &lt;a href=&quot;#monod-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ziman-intro&quot;&gt;V.  John Ziman, &lt;em&gt;Reliable Knowledge&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1978)&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;#monod-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#poincare-intro&quot;&gt;#第一本&lt;/a&gt;  
-&lt;a href=&quot;#ziman-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;❏  &lt;a href=&quot;#ziman-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Jun 2021 00:00:00 -0400</pubDate>
-      </item>
+    <pubDate>Tue, 06 Jul 2021 12:08:20 -0400</pubDate>
     
       <item>
         <title>「不严肃音乐」第二单：幸福を売る人 &lt;sup&gt;[未完]&lt;/sup&gt;</title>
@@ -2136,11 +2003,12 @@ KAMARÁS MÁTÉ  饰  Der Tod &lt;br /&gt;
   &lt;p&gt;This above all: to thine own self be true, &lt;br /&gt;
 And it must follow, as the night the day, &lt;br /&gt;
 Thou canst not then be false to any man.&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—&lt;a href=&quot;https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house.&quot;&gt;&lt;em&gt;Hamlet&lt;/em&gt; : I.iii.78–80&lt;/a&gt; (1603)
+  &lt;p align=&quot;right&quot;&gt;—&lt;a href=&quot;https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house.&quot;&gt;&lt;em&gt;Hamlet&lt;/em&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;: I.iii.78–80&lt;/a&gt; (1603)
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;#list&quot;&gt;#跳至书单&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;#list&quot;&gt;#本辑书单&lt;/a&gt;  
+&lt;a href=&quot;/2021/06/08/five-books-science-belief.html&quot;&gt;#第二辑: 科学的信念&lt;/a&gt;
 &lt;br /&gt;&lt;br /&gt;我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。&lt;/p&gt;
 
 &lt;p&gt;去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。&lt;/p&gt;
