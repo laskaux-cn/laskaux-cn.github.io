@@ -36,7 +36,7 @@ tags: 五本书 科学
 
 
 - 点击原文或译文**标题**开始阅读（感谢在线公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
-- 点击**封面**进入[导读](#intros) 
+- 点击**封面**进入[书评](#intros) 
 
 <br>
 
@@ -104,7 +104,7 @@ tags: 五本书 科学
 
 ----
 
-# 本辑导读 {#intros}
+# 本辑书评 {#intros}
 
 #### I.&ensp; Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-intro}
 
