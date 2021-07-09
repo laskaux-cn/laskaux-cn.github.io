@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「五本书」第二辑：科学的信念
+title: 「五本书」第二辑：科学的原则
 
 subtitle: 
 
@@ -35,20 +35,9 @@ tags: 五本书 科学
 #### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Henri Poincaré
 
 **初版**&ensp; 1905 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Ernest Flammarion <br>
-**英译**&ensp; [_The Value of Science_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) &nbsp;(trans. George Bruce Halsted, 1907)
+**英译**&ensp; [_The Value of Science_](https://www.google.com/books/edition/The_Value_of_Science/NNQEAAAAYAAJ?hl=en&gbpv=1&dq=poincare+the+value+of+science&printsec=frontcover) <span style="font-size:0.5em">&nbsp;</span>(trans. George Bruce Halsted, 1907)
 
 [<img src="/assets/img/books/poincare.png" width="800"/>](#poincare-intro)
-
-<br>
-
-
-## [The Logic of Modern Physics](https://archive.org/details/logicofmodernphy00brid/page/n3/mode/2up) {#bridgman-cover}
-
-#### <img src="/assets/img/flags/us.png" width="29"/>&ensp;Percy W. Bridgman
-
-**初版**&ensp; 1927 &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Macmillan <br>
-
-[<img src="/assets/img/books/bridgman.png" width="800"/>](#bridgman-intro)
 
 <br>
 
@@ -58,30 +47,21 @@ tags: 五本书 科学
 #### <img src="/assets/img/flags/po_2r.png" width="25.2"/>&ensp;Ludwik Fleck 
 
 **初版**&ensp; 1935 &ensp;<img src="/assets/img/flags/sw.png" width="14"/>&nbsp; Benno Schwabe <br>
-**英译**&ensp; [_Genesis and Development of a Scientific Fact_](https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h) &nbsp;(trans. Fred Bradley & Thaddeus J. Trenn, 1979)
+**英译**&ensp; [_Genesis and Development of a Scientific Fact_](https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h26688x0h) <span style="font-size:0.5em">&nbsp;</span>(trans. Fred Bradley & Thaddeus J. Trenn, 1979)
 
 [<img src="/assets/img/books/fleck.png" width="800"/>](#fleck-intro)
 
 <br>
 
 
-## [Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne](https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936) {#monod-cover}
 
-#### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Jacques Monod
-
-**初版**&ensp; 1970 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Seuil <br>
-**英译**&ensp; [_Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology_](https://archive.org/details/chancenecessity00mono/mode/2up) &nbsp;(trans. Austryn Wainhouse, 1971)
-
-[<img src="/assets/img/books/monod.png" width="800"/>](#monod-intro)
-
-<br>
 
 
 ## [Reliable Knowledge: An Exploration of the Grounds for Belief in Science](https://archive.org/details/reliableknowledg00john/mode/2up) {#ziman-cover}
 
 #### <img src="/assets/img/flags/uk.png" width="30"/>&ensp;John Ziman
 
-**初版**&ensp; 1978 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/> <img src="/assets/img/flags/us.png" width="24"/> <img src="/assets/img/flags/australia.png" width="24.8"/>&nbsp; Cambridge Univ. Press <br>
+**初版**&ensp; 1978 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/> <img src="/assets/img/flags/us.png" width="23.7"/> <img src="/assets/img/flags/australia.png" width="24.8"/>&nbsp; Cambridge University Press <br>
 
 [<img src="/assets/img/books/ziman.png" width="800"/>](#ziman-intro)
 

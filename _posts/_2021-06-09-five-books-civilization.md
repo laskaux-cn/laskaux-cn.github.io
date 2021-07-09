@@ -29,13 +29,25 @@ tags: 五本书 历史
 <br>
 
 
+## [Esquisse d'un tableau historique des progrès de l'esprit humain](https://fr.wikisource.org/wiki/Esquisse_d%E2%80%99un_tableau_historique_des_progr%C3%A8s_de_l%E2%80%99esprit_humain) {#condorcet-cover}
+
+#### <img src="/assets/img/flags/fr_1r.png" width="24"/>&ensp;Nicolas de Condorcet
+
+**原稿**&ensp; 1793 <br>
+**初版**&ensp; 1795 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Henri Agasse <br>
+**英译**&ensp; [_Outlines of an Historical View of the Progress of the Human Mind_](https://oll.libertyfund.org/title/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind) <span style="font-size:0.5em">&nbsp;</span>(1795);<span style="font-size:0.5em">&nbsp;</span> [_Sketch for a Historical Picture of the Progress of the Human Mind_](https://babel.hathitrust.org/cgi/pt?id=uc1.32106000048782) <span style="font-size:0.5em">&nbsp;</span>(trans. June Barraclough, 1955)
+
+[<img src="/assets/img/books/condorcet.png" width="800"/>](#poincare-intro)
+
+<br>
+
 
 ## [Histoire générale de la civilisation en Europe depuis la chute de l’Empire romain jusqu’à la Révolution française](https://fr.wikisource.org/wiki/Histoire_g%C3%A9n%C3%A9rale_de_la_civilisation_en_Europe) {#guizot-cover}
 
 #### <img src="/assets/img/flags/fr_br.png" width="25"/>&ensp;François Guizot
 
 **初版**&ensp; 1828 &ensp;<img src="/assets/img/flags/fr_br.png" width="20.5"/>&nbsp; Pichon et Didier <br>
-**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up) &nbsp;(trans. Priscilla Maria Beckwith, 1837);&nbsp; [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) (1838)
+**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Priscilla Maria Beckwith, 1837);<span style="font-size:0.5em">&nbsp;</span> [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) <span style="font-size:0.5em">&nbsp;</span>(1838)
 
 [<img src="/assets/img/books/guizot.png" width="800"/>](#poincare-intro)
 
@@ -49,7 +61,7 @@ tags: 五本书 历史
 
 **原稿**&ensp; 1865–1885 <br>
 **初版**&ensp; 1929 &ensp;<img src="/assets/img/flags/de.png" width="19.5"/>&nbsp; Deutsche Verlags-Anstalt <br>
-**英译**&ensp; [_Judgements on History and Historians_](https://babel.hathitrust.org/cgi/pt?id=mdp.39015008199401) &nbsp;(trans. Harry Zohn, 1958)
+**英译**&ensp; [_Judgements on History and Historians_](https://babel.hathitrust.org/cgi/pt?id=mdp.39015008199401) <span style="font-size:0.5em">&nbsp;</span>(trans. Harry Zohn, 1958)
 
 [<img src="/assets/img/books/burckhardt_hist.png" alt="Burckhardt" width="800"/>](#burckhardt-intro)
 
@@ -57,12 +69,24 @@ tags: 五本书 历史
 
 
 
-## [Civilisation](https://archive.org/details/civilisationpers1971clar/mode/2up) {#clark-cover}
+## [The Mind in the Making: The Relation of Intelligence to Social Reform](https://www.gutenberg.org/ebooks/8077) {#robinson-cover}
+
+#### <img src="/assets/img/flags/us.png" width="29"/>&ensp;James Harvey Robinson
+
+**初版**&ensp; 1921 &ensp;<img src="/assets/img/flags/us.png" width="24"/> <img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Harper & Brothers <br>
+
+[<img src="/assets/img/books/robinson.png" width="800"/>](#hubble-intro)
+
+<br>
+
+
+
+## [Civilisation: A Personal View](https://archive.org/details/civilisationpers1971clar/mode/2up) {#clark-cover}
 
 #### <img src="/assets/img/flags/uk.png" width="30"/>&ensp;Kenneth Clark
 
-**初版**&ensp; 1969 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/>&nbsp; BBC & John Murray &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Harper & Row <br>
-**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up) &nbsp;(National Gallery of Art with Richard McLanathan, 1970)
+**初版**&ensp; 1969 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/>&nbsp; BBC & John Murray &ensp;<img src="/assets/img/flags/us.png" width="23.7"/>&nbsp; Harper & Row <br>
+**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up) <span style="font-size:0.5em">&nbsp;</span>(National Gallery of Art with Richard McLanathan, 1970)
 
 [<img src="/assets/img/books/clark_civi_uk.png" alt="Clark" width="800"/>](#clark-intro)
 

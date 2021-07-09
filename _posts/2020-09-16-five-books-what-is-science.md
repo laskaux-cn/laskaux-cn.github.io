@@ -15,8 +15,7 @@ tags: 五本书 科学
 >Thou canst not then be false to any man. 
  > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em><span style="font-size:0.5em">&nbsp;</span>: I.iii.78–80</a> (1603)
 
-[#本辑书单](#list) &nbsp;
-[#第二辑: 科学的信念](/2021/06/08/five-books-science-belief.html)
+[#跳至书单](#list)
 <br><br>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
 去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。
@@ -47,10 +46,10 @@ tags: 五本书 科学
 
 #### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Claude Bernard 
 
-**初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; J. B. Baillière <br>
-**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) &nbsp;(trans. Henry Copley Greene, 1927)
+**初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; J. B. Baillière et fils <br>
+**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
 
-[<img src="/assets/img/books/bernard.png" alt="Bernard" width="800"/>](#bernard-intro)
+[<img src="/assets/img/books/bernard.png" width="800"/>](#bernard-intro)
 
 <br>
 
@@ -60,9 +59,9 @@ tags: 五本书 科学
 #### <img src="/assets/img/flags/de_emp.png" width="24"/>&ensp;Hermann Ebbinghaus
 
 **初版**&ensp; 1885 &ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Duncker & Humblot <br>
-**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) &nbsp;(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
+**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) <span style="font-size:0.5em">&nbsp;</span>(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
 
-[<img src="/assets/img/books/ebbinghaus.png" alt="Ebbinghaus" width="800"/>](#ebbinghaus-intro)
+[<img src="/assets/img/books/ebbinghaus.png" width="800"/>](#ebbinghaus-intro)
 
 <br>
 
@@ -72,9 +71,9 @@ tags: 五本书 科学
 #### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Jean Perrin
 
 **初版**&ensp; 1913 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Félix Alcan <br>
-**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) &nbsp;(trans. Dalziel Llewellyn Hammick, 1916) <br>
+**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Dalziel Llewellyn Hammick, 1916) <br>
 
-[<img src="/assets/img/books/perrin.png" alt="Perrin" width="800"/>](#perrin-intro)
+[<img src="/assets/img/books/perrin.png" width="800"/>](#perrin-intro)
 
 <br>
 
@@ -83,9 +82,9 @@ tags: 五本书 科学
 
 #### <img src="/assets/img/flags/us.png" width="29"/>&ensp;Edwin Hubble
 
-**初版**&ensp; 1936 &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Yale Univ. Press &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Oxford Univ. Press <br>
+**初版**&ensp; 1936 &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Yale University Press &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Oxford University Press <br>
 
-[<img src="/assets/img/books/hubble.png" alt="Hubble" width="800"/>](#hubble-intro)
+[<img src="/assets/img/books/hubble.png" width="800"/>](#hubble-intro)
 
 <br>
 
@@ -95,9 +94,9 @@ tags: 五本书 科学
 #### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Nicolas Gisin
 
 **初版**&ensp; 2012 &ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Odile Jacob[^jacob] <br>
-**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) &nbsp;(trans. Stephen Lyle, 2014)
+**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) <span style="font-size:0.5em">&nbsp;</span>(trans. Stephen Lyle, 2014)
 
-[<img src="/assets/img/books/gisin.png" alt="Gisin" width="800"/>](#gisin-intro)
+[<img src="/assets/img/books/gisin.png" width="800"/>](#gisin-intro)
 
 [^jacob]: 	&emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
 
