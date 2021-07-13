@@ -35,7 +35,7 @@ tags: 五本书 科学
 # 本辑书单 {#list}
 
 
-- 点击原文或译文**标题**开始阅读（感谢在线公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [Internet Archive](https://archive.org/), & [Deutsches Textarchiv](http://www.deutschestextarchiv.de/)）
+- 点击原文或译文**标题**开始阅读（链接至网络公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [Deutsches Textarchiv](http://www.deutschestextarchiv.de/), & [Internet Archive](https://archive.org/)）
 - 点击**封面**进入[书评](#intros) 
 
 <br>
@@ -44,10 +44,14 @@ tags: 五本书 科学
 
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
 
-#### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Claude Bernard 
+#### <img src="/assets/img/flags/fr_da.png" width="23.5"/>&ensp;Claude Bernard 
 
-**初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; J. B. Baillière et fils <br>
-**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
+**初版**&ensp; 1865 
+&ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; 
+J. B. Baillière
+<br>
+**英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up?view=theater) 
+<span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
 
 [<img src="/assets/img/books/bernard.png" width="800"/>](#bernard-intro)
 
@@ -56,10 +60,13 @@ tags: 五本书 科学
 
 ## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
-#### <img src="/assets/img/flags/de_emp.png" width="24"/>&ensp;Hermann Ebbinghaus
+#### <img src="/assets/img/flags/de_emp.png" width="23.5"/>&ensp;Hermann Ebbinghaus
 
-**初版**&ensp; 1885 &ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; Duncker & Humblot <br>
-**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) <span style="font-size:0.5em">&nbsp;</span>(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
+**初版**&ensp; 1885 
+&ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; 
+Duncker & Humblot <br>
+**英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) 
+<span style="font-size:0.5em">&nbsp;</span>(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
 
 [<img src="/assets/img/books/ebbinghaus.png" width="800"/>](#ebbinghaus-intro)
 
@@ -68,23 +75,32 @@ tags: 五本书 科学
 
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
-#### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Jean Perrin
+#### <img src="/assets/img/flags/fr_da.png" width="23.5"/>&ensp;Jean Perrin
 
-**初版**&ensp; 1913 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Félix Alcan <br>
-**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Dalziel Llewellyn Hammick, 1916) <br>
+**初版**&ensp; 1913 
+&ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; 
+Félix Alcan 
+<br>
+**英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up?view=theater) 
+<span style="font-size:0.5em">&nbsp;</span>(trans. Dalziel Llewellyn Hammick, 1916) <br>
 
 [<img src="/assets/img/books/perrin.png" width="800"/>](#perrin-intro)
 
 <br>
 
 
-## [The Realm of the Nebulæ](https://archive.org/details/TheRealmOfTheNebulae/page/n3/mode/2up)  {#hubble-cover}
+## [The Realm of the Nebulæ](https://archive.org/details/in.ernet.dli.2015.210893/page/n5/mode/2up?view=theater)  {#hubble-cover}
 
-#### <img src="/assets/img/flags/us.png" width="29"/>&ensp;Edwin Hubble
+#### <img src="/assets/img/flags/us_48.png" width="29"/>&ensp;Edwin Hubble
 
-**初版**&ensp; 1936 &ensp;<img src="/assets/img/flags/us.png" width="24"/>&nbsp; Yale University Press &ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Oxford University Press <br>
+**初版**&ensp; 1936 
+&ensp;<img src="/assets/img/flags/us_48.png" width="24"/>&nbsp; 
+Yale University Press 
+&ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; 
+Oxford University Press 
+<br>
 
-[<img src="/assets/img/books/hubble.png" width="800"/>](#hubble-intro)
+[<img src="/assets/img/books/hubble_yale.png" width="800"/>](#hubble-intro)
 
 <br>
 
@@ -93,8 +109,12 @@ tags: 五本书 科学
 
 #### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Nicolas Gisin
 
-**初版**&ensp; 2012 &ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Odile Jacob[^jacob] <br>
-**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) <span style="font-size:0.5em">&nbsp;</span>(trans. Stephen Lyle, 2014)
+**初版**&ensp; 2012 
+&ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; 
+Odile Jacob[^jacob] 
+<br>
+**英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) 
+<span style="font-size:0.5em">&nbsp;</span>(trans. Stephen Lyle, 2014)
 
 [<img src="/assets/img/books/gisin.png" width="800"/>](#gisin-intro)
 
@@ -161,13 +181,13 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 这些难题到了十九世纪中期才慢慢开始有解：第一代实验心理学者选择从感知过程入手，探究外界物理刺激与感官响应之间的定量关系。不过很明显，这类心理物理学 (psychophysics) 测量涉及的认知功能都非常基础。直到 1880 年代，Hermann Ebbinghaus（艾宾浩斯）终于将一类复杂得多的认知过程——**记忆**纳入了实验心理学的范畴。他以自己作为对象，亲身完成了一个史上有名的枯燥实验——在两轮各自超过一年的时间里，每天四个小时、定时定点雷打不动地记忆随机音节序列，通过测试记忆保留程度随时间的变化得到了著名的**遗忘曲线**[^visualize] (forgetting curve)。1885 年，这本汇报世界首个科学记忆实验的 _Über das Gedächtnis_ 在当时实验心理学的学术中心——莱比锡出版。
 
-_Über das Gedächtnis_ 留给我最深的整体印象是——直率。可以说，这篇开创性的工作假如放在今天投稿知名期刊，极大概率将被拒回，因为它和当下最流行的论文写作风格「亮点吹吹打打、问题遮遮掩掩、细节不了了之」完全相反：在介绍自己的工作之前先总结了实验方法进入心理学的主要困难，尤其是**如何保证条件恒定从而使得实验可重复**——在一个多变量的实验系统里，结果相同并不确保所有条件变量都相同，后者需要通过统计结果的误差分布来确定；接下来耐心解释了记忆材料、重复规律、考核方式的设计——它们怎样让记忆实验尽可能接近条件可控；然后列举了实验中潜在的致错因素，比如潜意识的干扰、计时误差等等。总之，**还未展示任何结果，就把各种可能的问题先自曝一遍**，并坦言它们在哪组实验中基本可以被排除，在哪组实验中不能确定——
+**直率**是 _Gedächtnis_ 留给我最深的整体印象。可以说，这篇开创性的工作假如放在今天投稿知名期刊，极大概率将被拒回，因为它和当下最流行的论文写作风格「亮点吹吹打打、问题遮遮掩掩、细节不了了之」完全相反：在介绍自己的工作之前先总结了实验方法进入心理学的主要困难，尤其是**如何保证条件恒定从而使得实验可重复**——在一个多变量的实验系统里，结果相同并不确保所有条件变量都相同，后者需要通过统计结果的误差分布来确定；接下来耐心解释了记忆材料、重复规律、考核方式的设计——它们怎样让记忆实验尽可能接近条件可控；然后列举了实验中潜在的致错因素，比如潜意识的干扰、计时误差等等。总之，**在展示结果前，先把各种可能的问题先自曝一遍**，并坦言它们在哪组实验中基本可以被排除，在哪组实验中不能确定——
 
 「那些希望事先准确估计潜意识对思维影响的人也必须考虑到人对客观真相的潜意识偏向，而不要把过多的关注投到自我创造的幻觉上。」[^subconscious]
 
 这句话的通俗版本就是——「不要骗自己，你是最容易被你自己欺骗的人。」[^fool]
 
-个人觉得，Ebbinghaus 的记忆研究是实验科学的绝佳科普素材，因为它极简到了几乎除了方法外别无他物——整个实验貌似不需要超过小学算术的任何特殊知识或技能（甚至不需要识字，会认字母即可）；如果不要求计时精度，理论上连腓尼基人都有能力完成。它的关键是**将日常语言中记忆的保留、加强、覆盖、关联这些主观概念翻译成可记录的具体现象**，并设计出尽量免受复杂环境干扰的学习过程。从另一个角度说，_Über das Gedächtnis_ 的独特价值在于在相对模糊的条件下对科学原则的坚守——**书的重点不是宣传哪一条新颖结论，而是解释这些结论为什么是相对客观的科学结果，同时并不回避有可能降低结论可靠性的待定因素。**今天，认知科学对于记忆的认识已经远远超过了 Ebbinghaus 时代的唯象描述水平，但这本旧书或许能帮我们重温一些正在逐渐被边缘化的学术传统——当「筛选数据证明目标结论」成为越来越多领域的操作常规，当新闻价值取代知识价值成为不少知名学术期刊挑选稿件的首要标准，当「漏洞不被发现就当不存在」「问题解决不了就闭口不谈」被越来越多「做学问」的人默认接受，遗忘曲线的发现过程在向后人示范着科学家应有的、最大化的诚实与尽责。
+个人觉得，Ebbinghaus 的记忆研究是实验科学的绝佳科普素材，因为它极简到了几乎除了方法外别无他物——整个实验貌似不需要超过小学算术的任何特殊知识或技能（甚至不需要识字，会认字母即可）；如果不要求计时精度，理论上连腓尼基人都有能力完成。它的关键是**将日常语言中记忆的保留、加强、覆盖、关联这些主观概念翻译成可记录的具体现象**，并设计出尽量免受复杂环境干扰的学习过程。从另一个角度说，_Gedächtnis_ 的独特价值在于在相对模糊的条件下对科学原则的坚守——**书的重点不是宣传哪一条新颖结论，而是解释这些结论为什么是相对客观的科学结果，同时并不回避有可能降低结论可靠性的待定因素。**今天，认知科学对于记忆的认识已经远远超过了 Ebbinghaus 时代的唯象描述水平，但这本旧书或许能帮我们重温一些正在逐渐被边缘化的学术传统——当「筛选数据证明目标结论」成为越来越多领域的操作常规，当新闻价值取代知识价值成为不少知名学术期刊挑选稿件的首要标准，当「漏洞不被发现就当不存在」「问题解决不了就闭口不谈」被越来越多「做学问」的人默认接受，遗忘曲线的发现过程在向后人示范着科学家应有的、最大化的诚实与尽责。
 
 或许它还能给现实压力下的我们一丝逆势而行的勇气。❏ &emsp;[#返回书单](#ebbinghaus-cover)
 

@@ -18,13 +18,16 @@ tags: 五本书 历史
 > But for pursuit of virtue and of knowledge.]
 > <p align="right">—<a href="https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVI"><em>Inferno</em><span style="font-size:0.5em">&nbsp;</span>: XXVI.118–120</a> (1320)
 
-[#跳至书单](#burckhardt-cocver)
+[#跳至书单](#list)
 
 <br>
 
-> 点击原文或译文**标题**开始阅读（感谢在线公共图书馆：[Internet Archive](https://archive.org/) & [HathiTrust Digital Library](https://www.hathitrust.org/)）
->
-> 点击**封面**进入[导读](#intros)
+----
+
+# 本辑书单 {#list}
+
+- 点击原文或译文**标题**开始阅读（链接至网络公共图书馆 [Wikisource](https://wikisource.org/wiki/Main_Page), [HathiTrust](https://www.hathitrust.org/), [Project Gutenberg](https://archive.org/), [Internet Archive](https://archive.org/), & [Online Library of Liberty](https://oll.libertyfund.org/)）
+- 点击**封面**进入[书评](#reviews)
 
 <br>
 
@@ -33,11 +36,11 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/fr_1r.png" width="24"/>&ensp;Nicolas de Condorcet
 
-**原稿**&ensp; 1793 <br>
+**遗稿**&ensp; 1793 <br>
 **初版**&ensp; 1795 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Henri Agasse <br>
 **英译**&ensp; [_Outlines of an Historical View of the Progress of the Human Mind_](https://oll.libertyfund.org/title/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind) <span style="font-size:0.5em">&nbsp;</span>(1795);<span style="font-size:0.5em">&nbsp;</span> [_Sketch for a Historical Picture of the Progress of the Human Mind_](https://babel.hathitrust.org/cgi/pt?id=uc1.32106000048782) <span style="font-size:0.5em">&nbsp;</span>(trans. June Barraclough, 1955)
 
-[<img src="/assets/img/books/condorcet.png" width="800"/>](#poincare-intro)
+[<img src="/assets/img/books/condorcet.png" width="800"/>](#condorcet-review)
 
 <br>
 
@@ -46,10 +49,10 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/fr_br.png" width="25"/>&ensp;François Guizot
 
-**初版**&ensp; 1828 &ensp;<img src="/assets/img/flags/fr_br.png" width="20.5"/>&nbsp; Pichon et Didier <br>
-**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Priscilla Maria Beckwith, 1837);<span style="font-size:0.5em">&nbsp;</span> [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) <span style="font-size:0.5em">&nbsp;</span>(1838)
+**初版**&ensp; 1828 &ensp;<img src="/assets/img/flags/fr_br.png" width="20.5"/>&nbsp; Pichon & Didier <br>
+**英译**&ensp; [_Lectures on European Civilization_](https://archive.org/details/lecturesoneurop00guizgoog/page/n4/mode/2up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(trans. Priscilla Maria Beckwith, 1837);<span style="font-size:0.5em">&nbsp;</span> [_General History of Civilization in Europe: From the Fall of the Roman Empire to the French Revolution_](https://oll.libertyfund.org/title/knight-general-history-of-civilization-in-europe#lf1509_label_019) <span style="font-size:0.5em">&nbsp;</span>(1838)
 
-[<img src="/assets/img/books/guizot.png" width="800"/>](#poincare-intro)
+[<img src="/assets/img/books/guizot.png" width="800"/>](#guizot-review)
 
 <br>
 
@@ -59,11 +62,11 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Jacob Burckhardt
 
-**原稿**&ensp; 1865–1885 <br>
+**遗稿**&ensp; 1865–1885 <br>
 **初版**&ensp; 1929 &ensp;<img src="/assets/img/flags/de.png" width="19.5"/>&nbsp; Deutsche Verlags-Anstalt <br>
 **英译**&ensp; [_Judgements on History and Historians_](https://babel.hathitrust.org/cgi/pt?id=mdp.39015008199401) <span style="font-size:0.5em">&nbsp;</span>(trans. Harry Zohn, 1958)
 
-[<img src="/assets/img/books/burckhardt_hist.png" alt="Burckhardt" width="800"/>](#burckhardt-intro)
+[<img src="/assets/img/books/burckhardt_hist.png" alt="Burckhardt" width="800"/>](#burckhardt-review)
 
 <br>
 
@@ -73,81 +76,81 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/us.png" width="29"/>&ensp;James Harvey Robinson
 
-**初版**&ensp; 1921 &ensp;<img src="/assets/img/flags/us.png" width="24"/> <img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Harper & Brothers <br>
+**初版**&ensp; 1921 &ensp;<img src="/assets/img/flags/us.png" width="24"/> <img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Harper <br>
 
-[<img src="/assets/img/books/robinson.png" width="800"/>](#hubble-intro)
+[<img src="/assets/img/books/robinson.png" width="800"/>](#robinson-review)
 
 <br>
 
 
 
-## [Civilisation: A Personal View](https://archive.org/details/civilisationpers1971clar/mode/2up) {#clark-cover}
+## [Civilisation: A Personal View](https://archive.org/details/civilisationpers1971clar/mode/2up?view=theater) {#clark-cover}
 
 #### <img src="/assets/img/flags/uk.png" width="30"/>&ensp;Kenneth Clark
 
 **初版**&ensp; 1969 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/>&nbsp; BBC & John Murray &ensp;<img src="/assets/img/flags/us.png" width="23.7"/>&nbsp; Harper & Row <br>
-**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up) <span style="font-size:0.5em">&nbsp;</span>(National Gallery of Art with Richard McLanathan, 1970)
+**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(National Gallery of Art with Richard McLanathan, 1970)
 
-[<img src="/assets/img/books/clark_civi_uk.png" alt="Clark" width="800"/>](#clark-intro)
+[<img src="/assets/img/books/clark_civi_uk.png" alt="Clark" width="800"/>](#clark-review)
 
 <br>
 
 
 ----
 
-# 本辑导读 {#intros}
+# 本辑导读 {#reviews}
 
-#### <br> I.&ensp; Henri Poincaré, _La Valeur de la Science_<span style="font-size:0.67em">&ensp;</span>(1905) {#poincare-intro}
+#### I.&ensp; Nicolas de Condorcet, _Esquisse d’un tableau historique des progrès de l’esprit humain_<span style="font-size:0.67em">&ensp;</span>(1793) {#condorcet-review}
 
-[#下一本](#bridgman-intro) &nbsp;
-[#最后一本](#ziman-intro) &nbsp;
-[#返回书单](#poincare-cover)
+[#最后一本](#clark-review) &nbsp;
+[#下一本](#guizot-review) &nbsp;
+[#返回书单](#condorcet-cover)
 
-❏ &emsp;[#返回书单](#poincare-cover)
-
-<br>
-
-
-#### II.&ensp; Percy Bridgman, _The Logic of Modern Physics_<span style="font-size:0.67em">&ensp;</span>(1927) {#bridgman-intro}
-
-[#上一本](#poincare-intro) &nbsp;
-[#下一本](#fleck-intro) &nbsp;
-[#返回书单](#bridgman-cover)
-
-❏ &emsp;[#返回书单](#bridgman-cover)
+❏ &emsp;[#返回书单](#condorcet-cover)
 
 <br>
 
 
-#### III.&ensp; Ludwik Fleck, _Entstehung und Entwicklung einer wissenschaftlichen Tatsache_<span style="font-size:0.67em">&ensp;</span>(1935) {#fleck-intro}
+#### II.&ensp; François Guizot, _Histoire générale de la civilisation en Europe_<span style="font-size:0.67em">&ensp;</span>(1828) {#guizot-review}
 
-[#上一本](#bridgman-intro) &nbsp;
-[#下一本](#monod-intro) &nbsp;
-[#返回书单](#fleck-cover)
+[#上一本](#condorcet-review) &nbsp;
+[#下一本](#burckhardt-review) &nbsp;
+[#返回书单](#guizot-cover)
 
-❏ &emsp;[#返回书单](#fleck-cover)
-
-<br>
-
-
-#### IV.&ensp; Jacques Monod, _Le Hasard et la Nécessité_<span style="font-size:0.67em">&ensp;</span>(1970) {#monod-intro}
-
-[#上一本](#fleck-intro) &nbsp;
-[#下一本](#ziman-intro) &nbsp;
-[#返回书单](#monod-cover)
-
-❏ &emsp;[#返回书单](#monod-cover)
+❏ &emsp;[#返回书单](#guizot-cover)
 
 <br>
 
 
-#### V.&ensp; John Ziman, _Reliable Knowledge_<span style="font-size:0.67em">&ensp;</span>(1978) {#ziman-intro}
+#### III.&ensp; Jacob Burckhardt, _Historische Fragmente aus dem Nachlass gesammelt_<span style="font-size:0.67em">&ensp;</span>(1865–85) {#burckhardt-review}
 
-[#上一本](#monod-intro) &nbsp;
-[#第一本](#poincare-intro) &nbsp;
-[#返回书单](#ziman-cover)
+[#上一本](#guizot-review) &nbsp;
+[#下一本](#robinson-review) &nbsp;
+[#返回书单](#burckhardt-cover)
 
-❏ &emsp;[#返回书单](#ziman-cover)
+❏ &emsp;[#返回书单](#burckhardt-cover)
+
+<br>
+
+
+#### IV.&ensp; James Harvey Robinson, _The Mind in the Making_<span style="font-size:0.67em">&ensp;</span>(1921) {#robinson-review}
+
+[#上一本](#burckhardt-review) &nbsp;
+[#下一本](#clark-review) &nbsp;
+[#返回书单](#robinson-cover)
+
+❏ &emsp;[#返回书单](#robinson-cover)
+
+<br>
+
+
+#### V.&ensp; Kenneth Clark, _Civilisation_<span style="font-size:0.67em">&ensp;</span>(1969) {#clark-review}
+
+[#上一本](#robinson-review) &nbsp;
+[#第一本](#condorcet-review) &nbsp;
+[#返回书单](#clark-cover)
+
+❏ &emsp;[#返回书单](#clark-cover)
 
 <br>
 

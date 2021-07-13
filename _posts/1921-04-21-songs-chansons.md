@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 「不严肃音乐」第二单：幸福を売る人 <sup>[未完]</sup>
+title: 「不严肃音乐」第二单：幸福を売る人
 subtitle: 电影院、卡巴莱与歌舞秀
-excerpt: 「思い出すはあの日のこと／暖かい恋の夢／春の風と鳥の歌と／やさしいあなたがいた」<br>
+excerpt: ♬&nbsp; 电影院、卡巴莱与歌舞秀<br>
 
 tags: music
 ---
