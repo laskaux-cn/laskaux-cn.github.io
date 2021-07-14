@@ -15,7 +15,7 @@ tags: 五本书 科学
 >Thou canst not then be false to any man. 
  > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em><span style="font-size:0.5em">&nbsp;</span>: I.iii.78–80</a> (1603)
 
-[#跳至书单](#list)
+[#跳至书单](#list) &nbsp; [#跳至书评](#reviews)
 <br><br>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
 
 去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。
@@ -48,12 +48,12 @@ tags: 五本书 科学
 
 **初版**&ensp; 1865 
 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; 
-J. B. Baillière
+Jean-Baptiste Baillière
 <br>
 **英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up?view=theater) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
 
-[<img src="/assets/img/books/bernard.png" width="800"/>](#bernard-intro)
+[<img src="/assets/img/books/bernard.png" width="800"/>](#bernard-review)
 
 <br>
 
@@ -68,7 +68,7 @@ Duncker & Humblot <br>
 **英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
 
-[<img src="/assets/img/books/ebbinghaus.png" width="800"/>](#ebbinghaus-intro)
+[<img src="/assets/img/books/ebbinghaus.png" width="800"/>](#ebbinghaus-review)
 
 <br>
 
@@ -84,7 +84,7 @@ Félix Alcan
 **英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up?view=theater) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Dalziel Llewellyn Hammick, 1916) <br>
 
-[<img src="/assets/img/books/perrin.png" width="800"/>](#perrin-intro)
+[<img src="/assets/img/books/perrin.png" width="800"/>](#perrin-review)
 
 <br>
 
@@ -100,7 +100,7 @@ Yale University Press
 Oxford University Press 
 <br>
 
-[<img src="/assets/img/books/hubble_yale.png" width="800"/>](#hubble-intro)
+[<img src="/assets/img/books/hubble_yale.png" width="800"/>](#hubble-review)
 
 <br>
 
@@ -116,7 +116,7 @@ Odile Jacob[^jacob]
 **英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Stephen Lyle, 2014)
 
-[<img src="/assets/img/books/gisin.png" width="800"/>](#gisin-intro)
+[<img src="/assets/img/books/gisin.png" width="800"/>](#gisin-review)
 
 [^jacob]: 	&emsp;这里安利一下 [Éditions Odile Jacob](https://www.odilejacob.fr/)——一家创立于上世纪八十年代，主打科学、人文、社科、传记等非虚构类的法、英双语出版社。它的创始人 Odile Jacob 是 François Jacob 的女儿，在家学渊源的影响下与精英学术圈联系甚密，选题与签约作者的平均水准相当高。她家最近一本新书是 Serge Haroche 的 [_La Lumière révélée. De la lunette de Galilée à l'étrangeté quantique_](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/lumiere-revelee_9782738151711.php)（一周前刚刚出版，非常期待）。
 
@@ -124,12 +124,12 @@ Odile Jacob[^jacob]
 
 ----
 
-# 本辑书评 {#intros}
+# 本辑书评 {#reviews}
 
-#### I.&ensp; Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-intro}
+#### I.&ensp; Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-review}
 
-[#最后一本](#gisin-intro) &nbsp;
-[#下一本](#ebbinghaus-intro) &nbsp;
+[#最后一本](#gisin-review) &nbsp;
+[#下一本](#ebbinghaus-review) &nbsp;
 [#返回书单](#bernard-cover)
 
 这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用书粉 Max Black 的评价：「我们仿佛能在背景中听见羽管键琴的琴声[^harpsichord]。」
@@ -171,10 +171,10 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 
 
-#### II.&ensp; Hermann Ebbinghaus, _Über das Gedächtnis_<span style="font-size:0.67em">&ensp;</span>(1885) {#ebbinghaus-intro}
+#### II.&ensp; Hermann Ebbinghaus, _Über das Gedächtnis_<span style="font-size:0.67em">&ensp;</span>(1885) {#ebbinghaus-review}
 
-[#上一本](#bernard-intro) &nbsp;
-[#下一本](#perrin-intro) &nbsp;
+[#上一本](#bernard-review) &nbsp;
+[#下一本](#perrin-review) &nbsp;
 [#返回书单](#ebbinghaus-cover)
 
 既然科学和哲学需要恪守分工，那么它们的边界究竟在哪里？十九世纪的头脑即使进步如 Bernard 也认为心理是科学的禁区——实验方法只能用于探究客观事实，而对受主观意志影响的思维意识无能为力。这种想法在当时的知识背景下不无道理：刚刚起步的、以电生理为主的神经科学还远不能揭示高级心理活动的物质基础；对人内心世界的探索还明确地属于主观思想的范围，是哲学的核心任务之一。若想把科学实验引入心理研究，至少要先解决两大难题：第一，心理过程作为内在的意识活动，很少有明确的外部可观测量，甚至想给出无歧义的客观定义都很困难；第二，心理的多变难控又不知比生理现象高出几个量级，怎样才能对人的内心活动做单一变量对照实验？如若不能，则所有结果的科学性将无从谈起。
@@ -206,10 +206,10 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 
 
-#### III.&ensp; Jean Perrin, _Les Atomes_<span style="font-size:0.67em">&ensp;</span>(1913) {#perrin-intro}
+#### III.&ensp; Jean Perrin, _Les Atomes_<span style="font-size:0.67em">&ensp;</span>(1913) {#perrin-review}
 
-[#上一本](#ebbinghaus-intro) &nbsp;
-[#下一本](#hubble-intro) &nbsp;
+[#上一本](#ebbinghaus-review) &nbsp;
+[#下一本](#hubble-review) &nbsp;
 [#返回书单](#perrin-cover)
 
 这本书应该有个副标题——「如何终结一场持续二十五个世纪的辩论」。
@@ -252,10 +252,10 @@ _Les Atomes_ 与今天各种原子物理简介的最大不同在于姿态与角�
 
 
 
-#### IV.&ensp; Edwin Hubble, _The Realm of the Nebulæ_<span style="font-size:0.67em">&ensp;</span>(1936) {#hubble-intro}
+#### IV.&ensp; Edwin Hubble, _The Realm of the Nebulæ_<span style="font-size:0.67em">&ensp;</span>(1936) {#hubble-review}
 
-[#上一本](#perrin-intro) &nbsp;
-[#下一本](#gisin-intro) &nbsp;
+[#上一本](#perrin-review) &nbsp;
+[#下一本](#gisin-review) &nbsp;
 [#返回书单](#hubble-cover)
 
 观测天文学 (observational astronomy) 是一门几乎与人类文明同龄的古老科学。日月星辰的升落除了帮助人们计时、定位和导航外，还一直被赋予着一层解释宇宙构造和起源的形而上含义。当然，在绝大多数历史时间里，各种文化传统孕育的宇宙理论都绕不开神与灵、创世与造物、推演与辩证这些宗教或哲学命题。直到近代天文学革命后，学会用数理方法推演天体运行的人们意识到：宇宙是什么，首先取决于我们能看多远。
@@ -294,10 +294,10 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 
 
-#### V.&ensp; Nicolas Gisin, _L’impensable Hasard_<span style="font-size:0.67em">&ensp;</span>(2012) {#gisin-intro}
+#### V.&ensp; Nicolas Gisin, _L’impensable Hasard_<span style="font-size:0.67em">&ensp;</span>(2012) {#gisin-review}
 
-[#上一本](#hubble-intro) &nbsp;
-[#第一本](#bernard-intro) &nbsp;
+[#上一本](#hubble-review) &nbsp;
+[#第一本](#bernard-review) &nbsp;
 [#返回书单](#gisin-cover)
 
 在我心目中，1970 至 2010 年代间的**贝尔测试** (Bell test) 代表着人类迄今已完成的用实验手段检验自然基本规律的巅峰——它研究的不是某一类特定物质或具体现象，甚至不是某些学科的通用原理，而是试图对「物理量在测量前是否客观存在」「因果关系能否超距传递」这样相当抽象、从前一直被归入「纯哲学思辨」的基本命题做出客观判定。贝尔测试的结果不仅提供了当前物理学家对**量子纠缠** (quantum entanglement) 的标准认识——**一种受量子随机性限制从而不能直接传递因果关系的超距关联**，对其结论的诠释和漏洞 (loophole) 的审查更在促使我们思考：**什么是实验科学的认知极限？**

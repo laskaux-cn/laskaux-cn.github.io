@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 13 Jul 2021 00:34:52 -0400</pubDate>
+    <pubDate>Wed, 14 Jul 2021 13:37:13 -0400</pubDate>
     
       <item>
         <title>「五本书」第一辑：什么是科学</title>
@@ -19,7 +19,7 @@ Thou canst not then be false to any man.&lt;/p&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;#list&quot;&gt;#跳至书单&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;#list&quot;&gt;#跳至书单&lt;/a&gt;   &lt;a href=&quot;#reviews&quot;&gt;#跳至书评&lt;/a&gt;
 &lt;br /&gt;&lt;br /&gt;我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。&lt;/p&gt;
 
 &lt;p&gt;去年冬天，我开始想这样一个问题：假若未来的人生不如过去那般顺遂，我还能不能像现在这样乐观努力地生活？考虑了大半年后，我觉得我可以，因为我热爱这个世界——尽管在可见的将来人类社会还将长期与偏见、短视、虚伪、软弱为伴，虽然今天有比我们想象中更多的人仍过着没有太多光亮的生活，但无论从前还是当下，总有一些摸得着的实物、看得见的文字、看不见的秩序和说不清的萌动，让我们确信这个世界终究不同于一片只有生命循环的原野。我想接近这些不平凡的创造，融入它们所依托的文化传统，并梦想有一天自己也能成为故事的一部分。无论未来发生什么，只要自己还有思考和行动的自由、还能与向往的传统保持连接，我的生活都不会迷失方向——因为我相信，个体存在的意义可以被关联至一种生命力更强大的群体追求。&lt;/p&gt;
@@ -51,12 +51,12 @@ Thou canst not then be false to any man.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;初版&lt;/strong&gt;  1865 
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; width=&quot;19.5&quot; /&gt;  
-J. B. Baillière
+Jean-Baptiste Baillière
 &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.463298/mode/2up?view=theater&quot;&gt;&lt;em&gt;An Introduction to the Study of Experimental Medicine&lt;/em&gt;&lt;/a&gt; 
 &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;(trans. Henry Copley Greene, 1927)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/bernard.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#bernard-review&quot;&gt;&lt;img src=&quot;/assets/img/books/bernard.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -70,7 +70,7 @@ Duncker &amp;amp; Humblot &lt;br /&gt;
 &lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology&quot;&gt;&lt;em&gt;Memory: A Contribution to Experimental Psychology&lt;/em&gt;&lt;/a&gt; 
 &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;(trans. Henry A. Ruger &amp;amp; Clara E. Bussenius, 1913)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/ebbinghaus.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#ebbinghaus-review&quot;&gt;&lt;img src=&quot;/assets/img/books/ebbinghaus.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -85,7 +85,7 @@ Félix Alcan
 &lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://archive.org/details/atoms00perrgoog/page/n8/mode/2up?view=theater&quot;&gt;&lt;em&gt;Atoms&lt;/em&gt;&lt;/a&gt; 
 &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;(trans. Dalziel Llewellyn Hammick, 1916) &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/perrin.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#perrin-review&quot;&gt;&lt;img src=&quot;/assets/img/books/perrin.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -100,7 +100,7 @@ Yale University Press
 Oxford University Press 
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/hubble_yale.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#hubble-review&quot;&gt;&lt;img src=&quot;/assets/img/books/hubble_yale.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -115,18 +115,18 @@ Odile Jacob&lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot
 &lt;strong&gt;英译&lt;/strong&gt;  &lt;a href=&quot;https://www.springer.com/gp/book/9783319054728&quot;&gt;&lt;em&gt;Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels&lt;/em&gt;&lt;/a&gt; 
 &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;(trans. Stephen Lyle, 2014)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;&lt;img src=&quot;/assets/img/books/gisin.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#gisin-review&quot;&gt;&lt;img src=&quot;/assets/img/books/gisin.png&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;intros&quot;&gt;本辑书评&lt;/h1&gt;
+&lt;h1 id=&quot;reviews&quot;&gt;本辑书评&lt;/h1&gt;
 
-&lt;h4 id=&quot;bernard-intro&quot;&gt;I.  Claude Bernard, &lt;em&gt;Introduction à l’étude de la médecine expérimentale&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1865)&lt;/h4&gt;
+&lt;h4 id=&quot;bernard-review&quot;&gt;I.  Claude Bernard, &lt;em&gt;Introduction à l’étude de la médecine expérimentale&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1865)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#gisin-intro&quot;&gt;#最后一本&lt;/a&gt;  
-&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;#下一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#gisin-review&quot;&gt;#最后一本&lt;/a&gt;  
+&lt;a href=&quot;#ebbinghaus-review&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#bernard-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这是一篇通俗地阐述科学实验方法的名作，内容准确清晰，并且语言极其整洁流畅。引用书粉 Max Black 的评价：「我们仿佛能在背景中听见羽管键琴的琴声&lt;sup id=&quot;fnref:harpsichord&quot;&gt;&lt;a href=&quot;#fn:harpsichord&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。」&lt;/p&gt;
@@ -153,10 +153,10 @@ Odile Jacob&lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;ebbinghaus-intro&quot;&gt;II.  Hermann Ebbinghaus, &lt;em&gt;Über das Gedächtnis&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1885)&lt;/h4&gt;
+&lt;h4 id=&quot;ebbinghaus-review&quot;&gt;II.  Hermann Ebbinghaus, &lt;em&gt;Über das Gedächtnis&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1885)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#bernard-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#perrin-intro&quot;&gt;#下一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#bernard-review&quot;&gt;#上一本&lt;/a&gt;  
+&lt;a href=&quot;#perrin-review&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#ebbinghaus-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;既然科学和哲学需要恪守分工，那么它们的边界究竟在哪里？十九世纪的头脑即使进步如 Bernard 也认为心理是科学的禁区——实验方法只能用于探究客观事实，而对受主观意志影响的思维意识无能为力。这种想法在当时的知识背景下不无道理：刚刚起步的、以电生理为主的神经科学还远不能揭示高级心理活动的物质基础；对人内心世界的探索还明确地属于主观思想的范围，是哲学的核心任务之一。若想把科学实验引入心理研究，至少要先解决两大难题：第一，心理过程作为内在的意识活动，很少有明确的外部可观测量，甚至想给出无歧义的客观定义都很困难；第二，心理的多变难控又不知比生理现象高出几个量级，怎样才能对人的内心活动做单一变量对照实验？如若不能，则所有结果的科学性将无从谈起。&lt;/p&gt;
@@ -175,10 +175,10 @@ Odile Jacob&lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;perrin-intro&quot;&gt;III.  Jean Perrin, &lt;em&gt;Les Atomes&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1913)&lt;/h4&gt;
+&lt;h4 id=&quot;perrin-review&quot;&gt;III.  Jean Perrin, &lt;em&gt;Les Atomes&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1913)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#ebbinghaus-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#hubble-intro&quot;&gt;#下一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#ebbinghaus-review&quot;&gt;#上一本&lt;/a&gt;  
+&lt;a href=&quot;#hubble-review&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#perrin-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;这本书应该有个副标题——「如何终结一场持续二十五个世纪的辩论」。&lt;/p&gt;
@@ -203,10 +203,10 @@ Odile Jacob&lt;sup id=&quot;fnref:jacob&quot;&gt;&lt;a href=&quot;#fn:jacob&quot
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;hubble-intro&quot;&gt;IV.  Edwin Hubble, &lt;em&gt;The Realm of the Nebulæ&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1936)&lt;/h4&gt;
+&lt;h4 id=&quot;hubble-review&quot;&gt;IV.  Edwin Hubble, &lt;em&gt;The Realm of the Nebulæ&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(1936)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#perrin-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#gisin-intro&quot;&gt;#下一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#perrin-review&quot;&gt;#上一本&lt;/a&gt;  
+&lt;a href=&quot;#gisin-review&quot;&gt;#下一本&lt;/a&gt;  
 &lt;a href=&quot;#hubble-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;观测天文学 (observational astronomy) 是一门几乎与人类文明同龄的古老科学。日月星辰的升落除了帮助人们计时、定位和导航外，还一直被赋予着一层解释宇宙构造和起源的形而上含义。当然，在绝大多数历史时间里，各种文化传统孕育的宇宙理论都绕不开神与灵、创世与造物、推演与辩证这些宗教或哲学命题。直到近代天文学革命后，学会用数理方法推演天体运行的人们意识到：宇宙是什么，首先取决于我们能看多远。&lt;/p&gt;
@@ -228,10 +228,10 @@ Vesto Slipher、Carl Wilhelm Wirtz、Milton Humason 等人的星云光谱红移 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;gisin-intro&quot;&gt;V.  Nicolas Gisin, &lt;em&gt;L’impensable Hasard&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(2012)&lt;/h4&gt;
+&lt;h4 id=&quot;gisin-review&quot;&gt;V.  Nicolas Gisin, &lt;em&gt;L’impensable Hasard&lt;/em&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;(2012)&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;#hubble-intro&quot;&gt;#上一本&lt;/a&gt;  
-&lt;a href=&quot;#bernard-intro&quot;&gt;#第一本&lt;/a&gt;  
+&lt;p&gt;&lt;a href=&quot;#hubble-review&quot;&gt;#上一本&lt;/a&gt;  
+&lt;a href=&quot;#bernard-review&quot;&gt;#第一本&lt;/a&gt;  
 &lt;a href=&quot;#gisin-cover&quot;&gt;#返回书单&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;在我心目中，1970 至 2010 年代间的&lt;strong&gt;贝尔测试&lt;/strong&gt; (Bell test) 代表着人类迄今已完成的用实验手段检验自然基本规律的巅峰——它研究的不是某一类特定物质或具体现象，甚至不是某些学科的通用原理，而是试图对「物理量在测量前是否客观存在」「因果关系能否超距传递」这样相当抽象、从前一直被归入「纯哲学思辨」的基本命题做出客观判定。贝尔测试的结果不仅提供了当前物理学家对&lt;strong&gt;量子纠缠&lt;/strong&gt; (quantum entanglement) 的标准认识——&lt;strong&gt;一种受量子随机性限制从而不能直接传递因果关系的超距关联&lt;/strong&gt;，对其结论的诠释和漏洞 (loophole) 的审查更在促使我们思考：&lt;strong&gt;什么是实验科学的认知极限？&lt;/strong&gt;&lt;/p&gt;

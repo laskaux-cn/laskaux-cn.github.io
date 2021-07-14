@@ -36,10 +36,10 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/ru.png" width="24"/>&ensp;Wassily Kandinsky <span style="font-size:0.33em">&nbsp;</span><span style="font-size:0.83em">[Василий Кандинский]</span>
 
-**初版**&ensp; 1912 &ensp;<img src="/assets/img/flags/de.png" width="19.5"/>&nbsp; 	Reinhard Piper <br>
-**英译**&ensp; [_The Art of Spiritual Harmony_](https://archive.org/details/artofspiritualha00kandrich/page/n3/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Michael Thomas Harvey Sadler, 1914);<span style="font-size:0.5em">&nbsp;</span> [_On the Spiritual in Art_](https://archive.org/details/onspiritualinart00kand/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(ed. Hilla von Rebay, 1946)
+**初版**&ensp; 1912 &ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; 	Reinhard Piper <br>
+**英译**&ensp; [_The Art of Spiritual Harmony_](https://archive.org/details/artofspiritualha00kandrich/page/n3/mode/2up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(trans. Michael Thomas Harvey Sadler, 1914);<span style="font-size:0.5em">&nbsp;</span> [_On the Spiritual in Art_](https://archive.org/details/onspiritualinart00kand/mode/2up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(trans. Hilla von Rebay, 1946)
 
-[<img src="/assets/img/books/kandinsky.png" width="800"/>](#condorcet-review)
+[<img src="/assets/img/books/kandinsky.png" width="800"/>](#kandinsky-review)
 
 <br>
 
@@ -48,10 +48,23 @@ tags: 五本书 历史
 
 #### <img src="/assets/img/flags/fr_da.png" width="24"/>&ensp;Igor Stravinsky <span style="font-size:0.33em">&nbsp;</span><span style="font-size:0.83em">[Игорь Стравинский]</span>
 
-**初版**&ensp; 1942 &ensp;<img src="/assets/img/flags/us.png" width="23.7"/>&nbsp; Harvard University Press <br>
-**英译**&ensp; [_Poetics of Music in the Form of Six Lessons_](https://archive.org/details/poeticsofmusicin0000stra/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Arthur Knodel & Ingolf Dahl, 1947)
+**初版**&ensp; 1942 &ensp;<img src="/assets/img/flags/us_48.png" width="23.7"/>&nbsp; Harvard University Press <br>
+**英译**&ensp; [_Poetics of Music in the Form of Six Lessons_](https://archive.org/details/poeticsofmusicin0000stra/mode/2up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(trans. Arthur Knodel & Ingolf Dahl, 1947)
 
-[<img src="/assets/img/books/stravinsky.png" width="800"/>](#guizot-review)
+[<img src="/assets/img/books/stravinsky.png" width="800"/>](#stravinsky-review)
+
+<br>
+
+
+
+## [Vision in Motion](https://archive.org/details/visioninmotion00moho?view=theater) {#moholy-nagy-cover}
+
+#### <img src="/assets/img/flags/hu_king.png" width="24"/>&ensp;László Moholy-Nagy
+
+**遗稿**&ensp; 1943–1946 <br>
+**初版**&ensp; 1947 &ensp;<img src="/assets/img/flags/us_48.png" width="23.7"/>&nbsp; Paul Theobald <br>
+
+[<img src="/assets/img/books/moholy-nagy1.png" width="800"/>](#monoly-nagy-review)
 
 <br>
 

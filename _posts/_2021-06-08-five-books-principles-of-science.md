@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「五本书」第二辑：科学的准则
+title: 「五本书」第二辑：科学的原则
 
 subtitle: 
 
@@ -14,8 +14,7 @@ tags: 五本书 科学
 > [By doubting we come to questioning; by questioning we perceive the truth.]
  > <p align="right">—<a href="https://la.wikisource.org/wiki/Sic_et_non"><em>Sic et non</em><span style="font-size:0.5em">&nbsp;</span>: Prologus</a> (c. 1121) 
 
-[#跳至书单](#list)
-
+[#跳至书单](#list) &nbsp; [#跳至书评](#reviews)
 <br>
 
 ----
@@ -96,7 +95,7 @@ Macmillan
 
 ----
 
-# 本辑导读 {#reviews}
+# 本辑书评 {#reviews}
 
 #### I.&ensp; Henri Poincaré, _La Valeur de la Science_<span style="font-size:0.67em">&ensp;</span>(1905) {#poincare-review}
 

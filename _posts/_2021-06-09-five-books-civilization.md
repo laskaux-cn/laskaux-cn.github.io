@@ -18,8 +18,7 @@ tags: 五本书 历史
 > But for pursuit of virtue and of knowledge.]
 > <p align="right">—<a href="https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_XXVI"><em>Inferno</em><span style="font-size:0.5em">&nbsp;</span>: XXVI.118–120</a> (1320)
 
-[#跳至书单](#list)
-
+[#跳至书单](#list) &nbsp; [#跳至书评](#reviews)
 <br>
 
 ----
@@ -74,9 +73,9 @@ tags: 五本书 历史
 
 ## [The Mind in the Making: The Relation of Intelligence to Social Reform](https://www.gutenberg.org/ebooks/8077) {#robinson-cover}
 
-#### <img src="/assets/img/flags/us.png" width="29"/>&ensp;James Harvey Robinson
+#### <img src="/assets/img/flags/us_48.png" width="29"/>&ensp;James Harvey Robinson
 
-**初版**&ensp; 1921 &ensp;<img src="/assets/img/flags/us.png" width="24"/> <img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Harper <br>
+**初版**&ensp; 1921 &ensp;<img src="/assets/img/flags/us_48.png" width="24"/> <img src="/assets/img/flags/uk.png" width="25"/>&nbsp; Harper <br>
 
 [<img src="/assets/img/books/robinson.png" width="800"/>](#robinson-review)
 
@@ -89,7 +88,7 @@ tags: 五本书 历史
 #### <img src="/assets/img/flags/uk.png" width="30"/>&ensp;Kenneth Clark
 
 **初版**&ensp; 1969 &ensp;<img src="/assets/img/flags/uk.png" width="24.8"/>&nbsp; BBC & John Murray &ensp;<img src="/assets/img/flags/us.png" width="23.7"/>&nbsp; Harper & Row <br>
-**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(National Gallery of Art with Richard McLanathan, 1970)
+**导读**&ensp; [_A Guide to Civilisation_](https://archive.org/details/guidetocivilisat00time/mode/1up?view=theater) <span style="font-size:0.5em">&nbsp;</span>(National Gallery of Art, 1970)
 
 [<img src="/assets/img/books/clark_civi_uk.png" alt="Clark" width="800"/>](#clark-review)
 
@@ -98,7 +97,7 @@ tags: 五本书 历史
 
 ----
 
-# 本辑导读 {#reviews}
+# 本辑书评 {#reviews}
 
 #### I.&ensp; Nicolas de Condorcet, _Esquisse d’un tableau historique des progrès de l’esprit humain_<span style="font-size:0.67em">&ensp;</span>(1793) {#condorcet-review}
 
