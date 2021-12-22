@@ -13,7 +13,7 @@ tags: 五本书 科学
 >This above all: to thine own self be true, <br>
 >And it must follow, as the night the day, <br>
 >Thou canst not then be false to any man. 
- > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em><span style="font-size:0.5em">&nbsp;</span>: I.iii.78–80</a> (1603)
+ > <p align="right">—<a href="https://en.wikisource.org/wiki/The_Tragedy_of_Hamlet,_Prince_of_Denmark/Act_1#Scene_3._A_room_in_Polonius'_house."><em>Hamlet</em><span style="font-size:0.5em">&nbsp;</span>: I.iii.78–80</a>
 
 [#跳至书单](#list) &nbsp; [#跳至书评](#reviews)
 <br><br>我很喜欢收藏朋友们分享的书单，既因为对新知识的好奇，也出于对从新视角看世界的期待。在我看来，书单的真正主角与其说是书，不如说是人——筛选与比较的结果，映射出的更多是推荐人自身的经历与思考。正由于此，我们每次整理之前的所读所记，都是一次对自己知识体系和价值导向的重新审视——此时此刻，我们懂得什么、相信什么、向往什么。
@@ -40,16 +40,11 @@ tags: 五本书 科学
 
 <br>
 
-
-
 ## [Introduction à l’étude de la médecine expérimentale](https://fr.wikisource.org/wiki/Introduction_%C3%A0_l%E2%80%99%C3%A9tude_de_la_m%C3%A9decine_exp%C3%A9rimentale) {#bernard-cover}
 
-#### <img src="/assets/img/flags/fr_da.png" width="23.5"/>&ensp;Claude Bernard 
+#### <img src="/assets/img/flags/fr_da.png" height="16"/>&ensp;Claude Bernard 
 
-**初版**&ensp; 1865 
-&ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; 
-Jean-Baptiste Baillière
-<br>
+**初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" height="13"/>&nbsp; Jean-Baptiste Baillière <br>
 **英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up?view=theater) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
 
@@ -60,10 +55,10 @@ Jean-Baptiste Baillière
 
 ## [Über das Gedächtnis. Untersuchungen zur experimentellen Psychologie](http://www.deutschestextarchiv.de/book/view/ebbinghaus_gedaechtnis_1885?p=9) {#ebbinghaus-cover}
 
-#### <img src="/assets/img/flags/de_emp.png" width="23.5"/>&ensp;Hermann Ebbinghaus
+#### <img src="/assets/img/flags/de_emp.png" height="16"/>&ensp;Hermann Ebbinghaus
 
 **初版**&ensp; 1885 
-&ensp;<img src="/assets/img/flags/de_emp.png" width="19.5"/>&nbsp; 
+&ensp;<img src="/assets/img/flags/de_emp.png" height="13"/>&nbsp; 
 Duncker & Humblot <br>
 **英译**&ensp; [_Memory: A Contribution to Experimental Psychology_](https://en.wikisource.org/wiki/Memory:_A_Contribution_to_Experimental_Psychology) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Henry A. Ruger & Clara E. Bussenius, 1913)
@@ -73,14 +68,13 @@ Duncker & Humblot <br>
 <br>
 
 
+
 ## [Les Atomes](https://fr.wikisource.org/wiki/Les_Atomes) {#perrin-cover}
 
-#### <img src="/assets/img/flags/fr_da.png" width="23.5"/>&ensp;Jean Perrin
+#### <img src="/assets/img/flags/fr_da.png" height="16"/>&ensp;Jean Perrin
 
 **初版**&ensp; 1913 
-&ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; 
-Félix Alcan 
-<br>
+&ensp;<img src="/assets/img/flags/fr_da.png" height="13"/>&nbsp; Félix Alcan <br>
 **英译**&ensp; [_Atoms_](https://archive.org/details/atoms00perrgoog/page/n8/mode/2up?view=theater) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Dalziel Llewellyn Hammick, 1916) <br>
 
@@ -89,20 +83,19 @@ Félix Alcan
 <br>
 
 
+
 ## [The Realm of the Nebulæ](https://archive.org/details/in.ernet.dli.2015.210893/page/n5/mode/2up?view=theater)  {#hubble-cover}
 
-#### <img src="/assets/img/flags/us_48.png" width="29"/>&ensp;Edwin Hubble
+#### <img src="/assets/img/flags/us_48.png" height="15"/>&ensp;Edwin Hubble
 
 **初版**&ensp; 1936 
-&ensp;<img src="/assets/img/flags/us_48.png" width="24"/>&nbsp; 
-Yale University Press 
-&ensp;<img src="/assets/img/flags/uk.png" width="25"/>&nbsp; 
-Oxford University Press 
-<br>
+&ensp;<img src="/assets/img/flags/us_48.png" height="12.5"/>&nbsp; Yale University Press 
+&ensp;<img src="/assets/img/flags/uk.png" height="12.5"/>&nbsp; Oxford University Press <br>
 
 [<img src="/assets/img/books/hubble_yale.png" width="800"/>](#hubble-review)
 
 <br>
+
 
 
 ## [L’impensable Hasard. Non-localité, téléportation et autres merveilles quantiques](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/impensable-hasard_9782738128317.php) {#gisin-cover}
@@ -110,9 +103,7 @@ Oxford University Press
 #### <img src="/assets/img/flags/sw.png" width="18"/>&ensp;Nicolas Gisin
 
 **初版**&ensp; 2012 
-&ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; 
-Odile Jacob[^jacob] 
-<br>
+&ensp;<img src="/assets/img/flags/fr_li.png" height="13"/>&nbsp; Odile Jacob[^jacob] <br>
 **英译**&ensp; [_Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels_](https://www.springer.com/gp/book/9783319054728) 
 <span style="font-size:0.5em">&nbsp;</span>(trans. Stephen Lyle, 2014)
 
@@ -126,7 +117,9 @@ Odile Jacob[^jacob]
 
 # 本辑书评 {#reviews}
 
-#### I.&ensp; Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-review}
+<p align="center"> <span style="font-size:1.5em"> ❶ </span> </p>
+
+#### Claude Bernard, _Introduction à l’étude de la médecine expérimentale_<span style="font-size:0.67em">&ensp;</span>(1865) {#bernard-review}
 
 [#最后一本](#gisin-review) &nbsp;
 [#下一本](#ebbinghaus-review) &nbsp;
@@ -170,8 +163,9 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 
 
+<p align="center"> <span style="font-size:1.5em"> ❷ </span> </p>
 
-#### II.&ensp; Hermann Ebbinghaus, _Über das Gedächtnis_<span style="font-size:0.67em">&ensp;</span>(1885) {#ebbinghaus-review}
+#### Hermann Ebbinghaus, _Über das Gedächtnis_<span style="font-size:0.67em">&ensp;</span>(1885) {#ebbinghaus-review}
 
 [#上一本](#bernard-review) &nbsp;
 [#下一本](#perrin-review) &nbsp;
@@ -205,8 +199,9 @@ Bernard 毫不掩饰自己对实验方法的推崇。他把人类的思维进化
 
 
 
+<p align="center"> <span style="font-size:1.5em"> ❸ </span> </p>
 
-#### III.&ensp; Jean Perrin, _Les Atomes_<span style="font-size:0.67em">&ensp;</span>(1913) {#perrin-review}
+#### Jean Perrin, _Les Atomes_<span style="font-size:0.67em">&ensp;</span>(1913) {#perrin-review}
 
 [#上一本](#ebbinghaus-review) &nbsp;
 [#下一本](#hubble-review) &nbsp;
@@ -251,8 +246,9 @@ _Les Atomes_ 与今天各种原子物理简介的最大不同在于姿态与角�
 
 
 
+<p align="center"> <span style="font-size:1.5em"> ❹ </span> </p>
 
-#### IV.&ensp; Edwin Hubble, _The Realm of the Nebulæ_<span style="font-size:0.67em">&ensp;</span>(1936) {#hubble-review}
+#### Edwin Hubble, _The Realm of the Nebulæ_<span style="font-size:0.67em">&ensp;</span>(1936) {#hubble-review}
 
 [#上一本](#perrin-review) &nbsp;
 [#下一本](#gisin-review) &nbsp;
@@ -293,8 +289,9 @@ _The Realm of the Nebulæ_ 的基础是 Hubble 在 1935 年耶鲁大学 Silliman
 
 
 
+<p align="center"> <span style="font-size:1.5em"> ❺ </span> </p>  
 
-#### V.&ensp; Nicolas Gisin, _L’impensable Hasard_<span style="font-size:0.67em">&ensp;</span>(2012) {#gisin-review}
+#### Nicolas Gisin, _L’impensable Hasard_<span style="font-size:0.67em">&ensp;</span>(2012) {#gisin-review}
 
 [#上一本](#hubble-review) &nbsp;
 [#第一本](#bernard-review) &nbsp;

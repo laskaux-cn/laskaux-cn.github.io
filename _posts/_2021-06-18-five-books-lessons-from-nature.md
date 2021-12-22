@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 「五本书」第 X 辑：以科学为业
+title: 「五本书」第 Y 辑：自然的启示
 
 subtitle: 
 
@@ -27,18 +27,30 @@ tags: 五本书
 <br>
 
 
-## [Petit point. Un scientifique croque ses pairs](https://www.eyrolles.com/Sciences/Livre/petit-point-9782746501119/) {#degennes-cover}
+## [Le Hasard et la Nécessité. Essai sur la philosophie naturelle de la biologie moderne](https://babel.hathitrust.org/cgi/pt?id=mdp.39015004155936) {#monod-cover}
 
-#### <img src="/assets/img/flags/fr_li.png" width="24"/>&ensp;Pierre-Gilles de Gennes <br/>
+#### <img src="/assets/img/flags/fr_da.png" width="23.5"/>&ensp;Jacques Monod
 
-**初版**&ensp; 2002 &ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; Le Pommier <br>
-**英译**&ensp; [_Petit Point: A Candid Portrait on the Aberrations of Science_](https://ebookcentral-proquest-com.yale.idm.oclc.org/lib/yale-ebooks/detail.action?docID=1681181) <span style="font-size:0.5em">&nbsp;</span>(2004)
+**初版**&ensp; 1970 &ensp;<img src="/assets/img/flags/fr_da.png" width="19.5"/>&nbsp; Seuil <br>
+**英译**&ensp; [_Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology_](https://archive.org/details/chancenecessity00mono/mode/2up) <span style="font-size:0.5em">&nbsp;</span>(trans. Austryn Wainhouse, 1971)
 
-[<img src="/assets/img/books/de-gennes.png" alt="Burckhardt" width="800"/>](#degennes-intro)
+[<img src="/assets/img/books/monod.png" width="800"/>](#monod-review)
 
 <br/>
 
 
+## [La Fin des Certitudes. Temps, chaos et les lois de la nature](https://www.odilejacob.fr/catalogue/sciences/physique-chimie/fin-des-certitudes_9782738103307.php) {#prigogine-cover}
+
+#### <img src="/assets/img/flags/be.png" width="20.5"/>&ensp;Ilya Prigogine
+
+**合作**：Isabelle Stengers <br/>
+**初版**：1996 &ensp;<img src="/assets/img/flags/fr_li.png" width="19.5"/>&nbsp; 
+Odile Jacob <br/>
+**英译**：[_The End of Certainty: Time, Chaos, and the New Laws of Nature_](https://www.simonandschuster.com/books/The-End-of-Certainty/Ilya-Prigogine/9780684837055) <span style="font-size:0.5em">&nbsp;</span>(1997)
+
+[<img src="/assets/img/books/prigogine.png" width="800"/>](#prigogine-review)
+
+<br/>
 
 
 ----

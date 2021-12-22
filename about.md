@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 本站
 permalink: /about/
 feature-img: "assets/img/lascaux.jpg"
 ---

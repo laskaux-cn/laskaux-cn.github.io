@@ -62,7 +62,7 @@ tags: music
 
 > [1927]&nbsp; [モン・パリ](https://www.bilibili.com/video/BV18E411H7ff?p=11) <br>
 > **译词**：岸田辰彌 &nbsp;🇯🇵 <br>
-> **演出**：霧矢大夢 &rsquo;80、遠野あすか &rsquo;84、桜乃彩音 &rsquo;88、白羽ゆり &rsquo;84、彩乃かなみ &rsquo;83&ensp;等&ensp;(2007) 📍宝塚: 宝塚大劇場
+> **演出**：<img src="/assets/img/symbols/cir_y.png" height="12"/> 霧矢大夢 &rsquo;80、<img src="/assets/img/symbols/cir_b.png" height="12"/> 遠野あすか &rsquo;84、<img src="/assets/img/symbols/cir_r.png" height="12"/> 桜乃彩音 &rsquo;88、<img src="/assets/img/symbols/cir_g.png" height="12"/> 白羽ゆり &rsquo;84、<img src="/assets/img/symbols/cir_y.png" height="12"/> 彩乃かなみ &rsquo;83&ensp;等&ensp;(2007) 📍宝塚: 宝塚大劇場
 
 ----
 
@@ -94,8 +94,8 @@ tags: music
 >
 >
 > [1956]&nbsp; [Осенние листья](https://www.youtube.com/watch?v=9G_9l5zUJ-o) <br>
-> **作词**：Николай Константинович Доризо &nbsp;🇷🇺 <br>
-> **录唱**：Гелена Марцелиевна Великанова
+> **作词**：Доризо, Николай Константинович &nbsp;🇷🇺 <br>
+> **录唱**：Великанова, Гелена Марцелиевна 
 >
 >
 > [1959]&nbsp; [Las hojas muertas](https://www.youtube.com/watch?v=HoacLTDEizg) <br>
@@ -105,8 +105,8 @@ tags: music
 >
 > [1963]&nbsp; [枯葉](https://www.youtube.com/watch?v=RAGEe9ximkQ) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵 <br>
-> **录唱**：[越路吹雪 &rsquo;27](https://www.youtube.com/watch?v=RAGEe9ximkQ)  
-> **演出**：[春野寿美礼 &rsquo;77 &nbsp;(2010)](https://www.bilibili.com/video/BV1uE411q7iZ?from=search&seid=9161183278145047228) 📍東京: 中野サンプラザホール
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [越路吹雪](https://www.youtube.com/watch?v=RAGEe9ximkQ) &rsquo;27 <br>
+> **演出**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [春野寿美礼](https://www.bilibili.com/video/BV1uE411q7iZ?from=search&seid=9161183278145047228)  &rsquo;77 &nbsp;(2010) 📍東京: 中野サンプラザホール
 >
 >
 > [1964]&nbsp; [Hulló levelek](https://www.youtube.com/watch?v=bCnwH9WEjYw) <br>
@@ -142,7 +142,7 @@ tags: music
 >
 > [1968]&nbsp; [バラ色の人生](https://www.youtube.com/watch?v=EsgHtFfa0-M) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵 <br>
-> **录唱**：越路吹雪 &rsquo;27 
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 越路吹雪 &rsquo;27 
 >
 >
 > [1974]&nbsp; [Ruusuinen hetki](https://www.youtube.com/watch?v=EQLOEEKuDOw) <br>
@@ -158,7 +158,7 @@ tags: music
 
 > [1962]&nbsp; [メランコリー](https://www.youtube.com/watch?v=PDuWj1SSmoA) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵 <br>
-> **录唱**：越路吹雪 &rsquo;27 
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 越路吹雪 &rsquo;27 
 
 ---
 
@@ -180,12 +180,29 @@ tags: music
 >
 > [1954]&nbsp; [愛の讃歌](https://www.youtube.com/watch?v=SyMeOtZbMKw) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵<br>
-> **录唱**：越路吹雪 &rsquo;27 &nbsp;(1960)
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 越路吹雪 &rsquo;27 &nbsp;(1960)
 >
 >
 > [1967]&nbsp; [Гимн любви](https://www.youtube.com/watch?v=mHHEimZm778) <br>
-> **译词**：Наталья Петровна Кончаловская &nbsp;🇷🇺 <br>
-> **录唱**：Гелена Марцелиевна Великанова 📍Москва: Моско́вский госуда́рственный теа́тр эстра́ды
+> **译词**：Кончаловская, Наталья Петровна &nbsp;🇷🇺 <br>
+> **录唱**：Великанова, Гелена Марцелиевна 📍Москва: Моско́вский госуда́рственный теа́тр эстра́ды
+
+---
+
+#### [1951]&nbsp; [Padam, padam...](https://www.youtube.com/watch?v=GCCzxbBNqvc)
+**作曲**：Norbert Glanzberg <br>
+**作词**：Henri Contet &nbsp;🇫🇷<br>
+**录唱**：Jacqueline François
+
+
+> [1952]&nbsp; [Padam... Padam...](https://www.youtube.com/watch?v=1Xb4I5yQjxA) <br>
+> **译词**：Mann Holiner & Alberta Nichols &nbsp;🇺🇸<br>
+> **录唱**：Vera Lynn
+>
+>
+> [1973]&nbsp; [パダム・パダム](https://www.youtube.com/watch?v=LanWOSUix8s) <br>
+> **译词**：岩谷時子 &nbsp;🇯🇵<br>
+> **录唱**：<img src="/assets/img/symbols/cir_y.png" height="12"/> 久世星佳 &rsquo;69 &nbsp;(2016)
 
 ---
 
@@ -209,7 +226,7 @@ tags: music
 >
 > [1965]&nbsp; [水に流して](https://youtu.be/dMl9ZVqR60g?t=119) <br>
 > **译词**：薩摩忠 &nbsp;🇯🇵<br>
-> **演出**：一路真輝 &rsquo;68、香寿たつき &rsquo;72、真琴つばさ &rsquo;71 &nbsp;(2020) &nbsp;📡 BS 朝日: 人生、歌がある
+> **演出**：<img src="/assets/img/symbols/cir_g.png" height="12"/> 一路真輝 &rsquo;68、<img src="/assets/img/symbols/cir_b.png" height="12"/> 香寿たつき &rsquo;72、<img src="/assets/img/symbols/cir_y.png" height="12"/> 真琴つばさ &rsquo;71 &nbsp;(2020) &nbsp;📡 BS 朝日: 人生、歌がある
 
 
 ---
@@ -219,14 +236,20 @@ tags: music
 **录唱**：Les Compagnons de la chanson
 
 
-> [1960]&nbsp; [Er war ein Troubadour](https://www.amazon.fr/Er-war-ein-Troubadour/dp/B005I80FAE) <br>
+> [1960]&nbsp; [Er war ein Troubadour](https://www.youtube.com/watch?v=qertH6WpGOU) <br>
 >**译词**：Peter Göhler &nbsp;🇩🇪<br>
->**录唱**：Lys Assia
+>**录唱**：Les Compagnons de la chanson
 >
 >
-> [1960]&nbsp; [幸福を売る人 \[A](https://www.nicovideo.jp/watch/sm27277304)[/B\]](https://www.bilibili.com/video/BV1Qs411m7vc) <br>
+> [1960]&nbsp; [幸福を売る男](https://www.youtube.com/watch?v=B_CQloyX9VM) <br>
+> **译词**：岩谷時子 &nbsp;🇯🇵<br>
+> **演出**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 越路吹雪 &rsquo;27 &nbsp;&&nbsp; デューク・エイセス &nbsp;(1965) &nbsp;📡 NHK: 夢であいましょう
+>
+>
+> [1960]&nbsp; [幸福を売る人](https://www.youtube.com/watch?v=dyKdbVztVp4) <br>
 > **译词**：高木史朗 &nbsp;🇯🇵<br>
-> **演出**：鳳蘭 &rsquo;50、安寿ミラ &rsquo;66、峰さを理 &rsquo;58、杜けあき &rsquo;65、剣幸 &rsquo;60、未沙のえる &rsquo;59、羽純るい &rsquo;78、南海まり &rsquo;85、出雲綾 &rsquo;69、初風諄 &rsquo;47、朝海ひかる &rsquo;77、湖月わたる &rsquo;75、彩輝なお &rsquo;76、安蘭けい &rsquo;77/水夏希 &rsquo;79、麻路さき &rsquo;69、紫とも &rsquo;70、紫城るい &rsquo;83、星奈優里 &rsquo;76、彩乃かなみ &rsquo;83、涼風真世 &rsquo;67/香寿たつき &rsquo;72、大和悠河 &rsquo;81/紫苑ゆう &rsquo;64&ensp;等&ensp;(2013) 📍大阪: 梅田芸術劇場メインホール <br>
+> **录唱**：<img src="/assets/img/symbols/cir_b.png" height="12"/> 寿美花代 &rsquo;35、<img src="/assets/img/symbols/cir_b.png" height="12"/> 槇克己 &rsquo;35、<img src="/assets/img/symbols/cir_y.png" height="12"/> 内重のぼる &rsquo;41、<img src="/assets/img/symbols/cir_y.png" height="12"/> 那智わたる &rsquo;40、<img src="/assets/img/symbols/cir_b.png" height="12"/> 如月美和子 &rsquo;40 <br>
+> **演出**：<img src="/assets/img/symbols/cir_b.png" height="12"/> 鳳蘭 &rsquo;50、<img src="/assets/img/symbols/cir_r.png" height="12"/> 安寿ミラ &rsquo;66、<img src="/assets/img/symbols/cir_b.png" height="12"/> 峰さを理 &rsquo;58、<img src="/assets/img/symbols/cir_g.png" height="12"/> 杜けあき &rsquo;65、<img src="/assets/img/symbols/cir_y.png" height="12"/> 剣幸 &rsquo;60、<img src="/assets/img/symbols/cir_w.png" height="12"/> 未沙のえる &rsquo;59、<img src="/assets/img/symbols/cir_b.png" height="12"/> 羽純るい &rsquo;78、<img src="/assets/img/symbols/cir_b.png" height="12"/> 南海まり &rsquo;85、<img src="/assets/img/symbols/cir_w.png" height="12"/> 出雲綾 &rsquo;69、<img src="/assets/img/symbols/cir_b.png" height="12"/> <img src="/assets/img/symbols/cir_y.png" height="12"/> 初風諄 &rsquo;47、<img src="/assets/img/symbols/cir_g.png" height="12"/> 朝海ひかる &rsquo;77、<img src="/assets/img/symbols/cir_b.png" height="12"/> 湖月わたる &rsquo;75、<img src="/assets/img/symbols/cir_y.png" height="12"/> 彩輝なお &rsquo;76、<img src="/assets/img/symbols/cir_b.png" height="12"/> 安蘭けい &rsquo;77 / <img src="/assets/img/symbols/cir_g.png" height="12"/> 水夏希 &rsquo;79、<img src="/assets/img/symbols/cir_b.png" height="12"/> 麻路さき &rsquo;69、<img src="/assets/img/symbols/cir_g.png" height="12"/> 紫とも &rsquo;70、<img src="/assets/img/symbols/cir_p.png" height="12"/> 紫城るい &rsquo;83、<img src="/assets/img/symbols/cir_b.png" height="12"/> 星奈優里 &rsquo;76、<img src="/assets/img/symbols/cir_y.png" height="12"/> 彩乃かなみ &rsquo;83、<img src="/assets/img/symbols/cir_y.png" height="12"/> 涼風真世 &rsquo;67 / <img src="/assets/img/symbols/cir_b.png" height="12"/> 香寿たつき &rsquo;72、<img src="/assets/img/symbols/cir_p.png" height="12"/> 大和悠河 &rsquo;81 / <img src="/assets/img/symbols/cir_b.png" height="12"/> 紫苑ゆう &rsquo;64&ensp;等&ensp;(2013) 📍大阪: 梅田芸術劇場メインホール [\[A/](https://www.nicovideo.jp/watch/sm27277304)[B\]](https://www.bilibili.com/video/BV1Qs411m7vc)<br>
 
 ---
 
@@ -253,7 +276,7 @@ tags: music
 >
 > [1964]&nbsp; [ミロール](https://www.youtube.com/watch?v=0rKrfA9YluM) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵<br>
-> **录唱**：越路吹雪 &rsquo;27
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 越路吹雪 &rsquo;27
 
 ---
 
@@ -271,9 +294,9 @@ tags: music
 #### [1962]&nbsp; [La vie s'en va](https://www.youtube.com/watch?v=XDeOJT2Qr9s)  
 **词曲/录唱**：Joël Holmès &nbsp;🇫🇷<br>
 
->[1960s]&nbsp; [人生は過ぎゆく](https://www.bilibili.com/video/BV17W411j7G2) <br> 
+>[1969]&nbsp; [人生は過ぎゆく](https://www.bilibili.com/video/BV17W411j7G2) <br> 
 >**译词**：岩谷時子 &nbsp;🇯🇵<br>
->**演出**：真琴つばさ &rsquo;71 &nbsp;(2017) 📍東京: 日生劇場
+>**演出**：<img src="/assets/img/symbols/cir_y.png" height="12"/> 真琴つばさ &rsquo;71 &nbsp;(2017) 📍東京: 日生劇場
 
 <br>
 
@@ -304,7 +327,7 @@ tags: music
 >
 > [1994]&nbsp; [ウィーンわが夢のまち](https://www.bilibili.com/video/BV1ps411t7zm)  
 > **译词**：あらかは ひろし &nbsp;🇯🇵<br>
-> **录唱**：一路真輝 &rsquo;68
+> **录唱**：<img src="/assets/img/symbols/cir_g.png" height="12"/> 一路真輝 &rsquo;68
 
 ---
 
@@ -330,7 +353,8 @@ tags: music
 >
 > [1930]&nbsp; [すみれの花咲く頃](https://www.youtube.com/watch?v=pTF85r2AJus) <br>
 > **译词**：白井鐵造 &nbsp;🇯🇵 <br>
-> **演出**：初風諄 &rsquo;47、鳳蘭 &rsquo;50、安奈淳 &rsquo;51、杜けあき &rsquo;65、麻路さき &rsquo;69、風花舞 &rsquo;76、春野寿美礼 &rsquo;77、大鳥れい &rsquo;79、出雲綾 &rsquo;69&ensp;等&ensp;(2001) 📍東京: 青山劇場
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [越路吹雪](https://www.youtube.com/watch?v=ZP81goteJts) &rsquo;27 &nbsp;(1960) <br>
+> **演出**：<img src="/assets/img/symbols/cir_b.png" height="12"/> <img src="/assets/img/symbols/cir_y.png" height="12"/> 初風諄 &rsquo;47、<img src="/assets/img/symbols/cir_b.png" height="12"/> 鳳蘭 &rsquo;50、<img src="/assets/img/symbols/cir_b.png" height="12"/> <img src="/assets/img/symbols/cir_r.png" height="12"/> 安奈淳 &rsquo;51、<img src="/assets/img/symbols/cir_g.png" height="12"/> 杜けあき &rsquo;65、<img src="/assets/img/symbols/cir_b.png" height="12"/> 麻路さき &rsquo;69、<img src="/assets/img/symbols/cir_y.png" height="12"/> 風花舞 &rsquo;76、<img src="/assets/img/symbols/cir_r.png" height="12"/> 春野寿美礼 &rsquo;77、<img src="/assets/img/symbols/cir_r.png" height="12"/> 大鳥れい &rsquo;79、<img src="/assets/img/symbols/cir_w.png" height="12"/> 出雲綾 &rsquo;69&ensp;等&ensp;(2001) 📍東京: 青山劇場
 >
 >
 > [1954]&nbsp; [Vill ni se en stjärna](https://www.youtube.com/watch?v=P37ljHBdBvg) <br>
@@ -349,9 +373,9 @@ tags: music
 ## 莫斯科 {#moscow}
 
 #### [1924]&nbsp; [Дорогой длинною](https://www.youtube.com/watch?v=Rsl9TIUFUSA)
-**作曲**：Борис Иванович Фомин <br>
-**作词**：Константин Николаевич Подревский &nbsp;🇷🇺<br>
-**演出**：Александр Николаевич Малинин (2003) 📍Москва: Большой зал Московской Государственной Консерватории им. Чайковского
+**作曲**：Фомин, Борис Иванович <br>
+**作词**：Подревский, Константин Николаевич &nbsp;🇷🇺<br>
+**演出**：Малинин, Александр Николаевич [(2003/](https://www.youtube.com/watch?v=Rsl9TIUFUSA)[2007)](https://www.youtube.com/watch?v=mYQm0nB51_k) 📍Москва: Большой зал Московской Государственной Консерватории им. Чайковского / Московский международный Дом музыки
 
 
 > [1962]&nbsp; [Those Were the Days](https://www.youtube.com/watch?v=ozwOqIMAPxk) <br>
@@ -391,8 +415,6 @@ tags: music
 > [1969]&nbsp; [Mládí už je to tam](https://www.youtube.com/watch?v=JwUb43F3fho) <br>
 > **译词**：Jiří Štaidl &nbsp;🇨🇿 <br>
 > **录唱**：Yvetta Simonová 
->
->
 >
 >
 > [2012]&nbsp; [Die dag ging nooit voorbij](https://www.youtube.com/watch?v=3IwxdMXGITE) <br>
@@ -464,7 +486,8 @@ tags: music
 
 #### [1931]&nbsp; [As Time Goes By](https://www.youtube.com/watch?v=AlDuNqWKDak)
 **词曲**：Herman Hupfeld &nbsp;🇺🇸 <br>
-**录唱**：Dooley Wilson (1942) &nbsp;🎞 _Casablanca_
+**录唱**：[Dooley Wilson](https://www.youtube.com/watch?v=AlDuNqWKDak) (1942) &nbsp;🎞 _Casablanca_ <br>
+**演出**：[鄧麗君](https://youtu.be/UV9qX7qkQAE?t=510) (1986) &nbsp;📡 フジ: ミュージックフェア
 
 
 > [1943]&nbsp; [O amor é sempre o amor](https://www.youtube.com/watch?v=XWd9QsjVNrA) <br>
@@ -552,7 +575,7 @@ tags: music
 >
 > [1989]&nbsp; [エニシング・ゴーズ](https://youtu.be/zHVpQfzoWr0?t=240)  
 > **译词**：青井陽治 &nbsp;🇯🇵<br>
-> **演出**：大地真央 &rsquo;59 &nbsp;(1990) &nbsp;📡 フジ: ミュージックフェア
+> **演出**：<img src="/assets/img/symbols/cir_y.png" height="12"/> 大地真央 &rsquo;59 &nbsp;(1990) &nbsp;📡 フジ: ミュージックフェア
 
 ---
 
@@ -738,8 +761,8 @@ tags: music
 #### [1960]&nbsp; [Moon River](https://www.youtube.com/watch?v=05hCMyubRG8) 
 **作曲**：Henry Mancini <br>
 **作词**：Johnny Mercer &nbsp;🇺🇸<br>
-**录唱**：[Patty Griffin (2006)](https://www.youtube.com/watch?v=05hCMyubRG8)<br>
-**演出**：[純名里沙 &rsquo;76 &nbsp;(1996)](https://youtu.be/0NNuvpV3E3E?t=33) &nbsp;📡 NHK: ときめき夢サウンド
+**录唱**：[Patty Griffin](https://www.youtube.com/watch?v=05hCMyubRG8) (2006)<br>
+**演出**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [純名里沙](https://youtu.be/0NNuvpV3E3E?t=33) &rsquo;76 &nbsp;(1996) &nbsp;📡 NHK: ときめき夢サウンド
 
 
 
@@ -790,7 +813,7 @@ tags: music
 >
 > [2007]&nbsp; [ムーン・リヴァー](https://www.youtube.com/watch?v=n2-JdvuLkWc) <br>
 > **译词**：森雪之丞 &nbsp;🇯🇵 <br>
-> **录唱**：純名里沙 &rsquo;76
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> 純名里沙 &rsquo;76
 >
 >
 > [2015]&nbsp; [Luz de Luna](https://www.youtube.com/watch?v=BbNScp1Xqik) <br>
@@ -859,8 +882,8 @@ tags: music
 >
 >
 > [2005]&nbsp; [Покормите птиц](https://www.youtube.com/watch?v=Hgdu8-Egqc4) <br>
-> **译词**：Пётр Александрович Климов & Алексей Игоревич Иващенко &nbsp;🇷🇺 <br>
-> **录唱**：Ирина Викторовна Линдт
+> **译词**：Климов, Пётр Александрович & Иващенко, Алексей Игоревич &nbsp;🇷🇺 <br>
+> **录唱**：Линдт, Ирина Викторовна 
 >
 >
 > [2005]&nbsp; [Choćby i pens](https://www.youtube.com/watch?v=PFjKQnV9_mY) <br>
@@ -896,7 +919,8 @@ tags: music
 >
 > [1964]&nbsp; [群衆](https://www.bilibili.com/video/BV17W411j7G2) <br>
 > **译词**：岩谷時子 &nbsp;🇯🇵<br>
-> **演出**：春野寿美礼 &rsquo;77 &nbsp;(2017) 📍東京: 日生劇場
+> **录唱**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [大浦みずき](https://www.youtube.com/watch?v=l0eft5qiP3s) &rsquo;60 &nbsp;(1999) <br>
+> **演出**：<img src="/assets/img/symbols/cir_r.png" height="12"/> [春野寿美礼](https://www.bilibili.com/video/BV17W411j7G2) &rsquo;77 &nbsp;(2017) 📍東京: 日生劇場
 >
 >
 > [1973]&nbsp; [Liksom ett rö för vinden](https://www.youtube.com/watch?v=Tfj5UWQKizc) <br>
