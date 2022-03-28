@@ -46,7 +46,7 @@ tags: 五本书 科学
 
 **初版**&ensp; 1865 &ensp;<img src="/assets/img/flags/fr_da.png" height="13"/>&nbsp; Jean-Baptiste Baillière <br>
 **英译**&ensp; [_An Introduction to the Study of Experimental Medicine_](https://archive.org/details/in.ernet.dli.2015.463298/mode/2up?view=theater) 
-<span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1927)
+<span style="font-size:0.5em">&nbsp;</span>(trans. Henry Copley Greene, 1922)
 
 [<img src="/assets/img/books/bernard.png" width="800"/>](#bernard-review)
 
