@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 「不严肃音乐」第一单：听戏
-subtitle: 叙事音乐剧场内外
+subtitle: 叙事音乐及衍生作品
 
-excerpt: ♬&nbsp; 叙事音乐剧场内外 <br>
+excerpt: ♬&nbsp; 叙事音乐及衍生作品 <br>
 
 tags: music theater
 ---
