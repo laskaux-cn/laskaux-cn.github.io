@@ -14,10 +14,12 @@ tags: music
 
 🎬 &nbsp; André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
 🎼 &nbsp; Camille Saint-Saëns <br>
-📽️ &nbsp; 1908-11-17 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Neuilly, Hauts-de-Seine
+📽️ &nbsp; 1908-11-17 
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Neuilly
 
 >[L'Assassinat du duc de Guise, Op. 128](https://youtu.be/FuUC_QysVxw) <br>
->🎙️&nbsp; Ensemble Musique Oblique &nbsp;(1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines)
+> 🎻&nbsp; Ensemble Musique Oblique <br> 
+> 🎙️&nbsp; 1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines
 
 <br>
 
@@ -35,23 +37,22 @@ tags: music
 
 🎬 &nbsp; René Clair <br>
 🎼 &nbsp; Erik Satie <br>
-**上映**：1924 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+📽️ &nbsp; 1924-12-04
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
 
 >[Cinéma, entr'acte symphonique de &lsquo;&lsquo;Relâche''](https://youtu.be/mdURohWzFKQ) <br>
->**乐团**：Ensemble Ars Nova <br>
->**指挥**：Marius Constant <br>
->**录音**：1980 年 2 月 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12.5" width="20"/>&nbsp; Notre-Dame-du-Liban, Paris
+>🎻&nbsp; Ensemble Ars Nova | Marius Constant <br>
+>🎙️&nbsp; 1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris
 
 <br>
 
 
-#### [La P'tite Lili](https://youtu.be/K3B-0oqroHs)
+#### [La p'tite Lili](https://youtu.be/K3B-0oqroHs)
 
 🎬 &nbsp; Alberto Cavalcanti <br>
 🎼 &nbsp; Darius Milhaud <br>
-**上映**：1927 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+📽️ &nbsp; 1927-10-01
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
 
 <br>
 
@@ -60,7 +61,7 @@ tags: music
 
 🎬 &nbsp; Jean Arroy <br>
 🎼 &nbsp; Jacques Ibert <br>
-**上映**：1931 年
+📽️ &nbsp; 1931 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
@@ -76,7 +77,7 @@ tags: music
 
 🎬 &nbsp; William Coldstream <br>
 🎼 &nbsp; Benjamin Britten <br>
-**上映**：1935 年
+📽️ &nbsp; 1935 年
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -86,8 +87,8 @@ tags: music
 
 🎬 &nbsp; Ralph Steiner<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Willard Van Dyke <br>
 🎼 &nbsp; Aaron Copland <br>
-**上映**：1939 年
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>
+📽️ &nbsp; 1939
+&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; New York
 
 <br>
 
@@ -96,7 +97,7 @@ tags: music
 
 🎬 &nbsp; Михаил Цехановский <span style="color:grey">/ Mikhail Tsekhanovsky</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
-**上映**：1940 年
+📽️ &nbsp; 1940 年
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 <br>
@@ -106,7 +107,7 @@ tags: music
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Arthur Honegger <br>
-**上映**：1949 年
+📽️ &nbsp; 1949 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 >[Pacific 231, ou Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
@@ -121,7 +122,7 @@ tags: music
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Pierre Boulez <br>
-**上映**：1955 年
+📽️ &nbsp; 1955 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 <br>
@@ -131,7 +132,7 @@ tags: music
 
 🎬 &nbsp; Alain Resnais <br>
 🎼 &nbsp; Hanns Eisler <br>
-**上映**：1956 年
+📽️ &nbsp; 1956 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 <br>
@@ -141,7 +142,7 @@ tags: music
 
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
-**上映**：1959 年 
+📽️ &nbsp; 1959 年 
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
 
 <br>
@@ -151,7 +152,7 @@ tags: music
 
 🎬 &nbsp; Harrison Engle <br>
 🎼 &nbsp; Philip Glass <br>
-**上映**：1968 年
+📽️ &nbsp; 1968 年
 &nbsp;<img src="/assets/img/flags/us.png" height="12.5" width="20"/>
 
 <br>
@@ -163,8 +164,8 @@ tags: music
 
 🎬 &nbsp; Arnold Fanck <br>
 🎼 &nbsp; Paul Hindemith <br>
-**上映**：1921 年
-&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12.5" width="20"/>
+📽️ &nbsp; 1921-09-22
+&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/>&nbsp; Berlin
 
 <br>
 
@@ -173,8 +174,8 @@ tags: music
 
 🎬 &nbsp; Walther Ruttmann <br>
 🎼 &nbsp; Edmund Meisel <br>
-**上映**：1927 年
-&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12.5" width="20"/>
+📽️ &nbsp; 1927-09-23
+&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/>&nbsp; Berlin
 
 <br>
 
@@ -184,8 +185,8 @@ tags: music
 🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span> <br>
 <span style="color:white">🎬 &nbsp; </span>Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
-**上映**：1929 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+📽️ &nbsp; 1929-03-18
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Ленинград <span style="color:grey">/ Leningrad</span>
 
 <br>
 
@@ -194,7 +195,7 @@ tags: music
 
 🎬 &nbsp; Jean Renoir <br>
 🎼 &nbsp; Darius Milhaud <br>
-**上映**：1933 年
+📽️ &nbsp; 1933 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 <br>
@@ -204,7 +205,7 @@ tags: music
 
 🎬 &nbsp; Александр Файнциммер <span style="color:grey">/ Aleksandr Faintsimmer</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
-**上映**：1934 年 
+📽️ &nbsp; 1934 年 
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
@@ -219,7 +220,7 @@ tags: music
 
 🎬 &nbsp; Emilio Gómez Muriel & Fred Zinnemann <br>
 🎼 &nbsp; Silvestre Revueltas <br>
-**上映**：1936 年
+📽️ &nbsp; 1936 年
 &nbsp;<img src="/assets/img/flags/mx_1934.png" height="12.5" width="20"/>
 
 <br>
@@ -229,7 +230,7 @@ tags: music
 
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
-**上映**：1937 年
+📽️ &nbsp; 1937 年
 &nbsp;<img src="/assets/img/flags/br_21.png" height="12.5" width="20"/>
 
 <br>
@@ -239,7 +240,7 @@ tags: music
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
-**上映**：1938 年 
+📽️ &nbsp; 1938 年 
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
@@ -255,7 +256,7 @@ tags: music
 
 🎬 &nbsp; Chano Urueta <br>
 🎼 &nbsp; Silvestre Revueltas <br>
-**上映**：1939 年
+📽️ &nbsp; 1939 年
 &nbsp;<img src="/assets/img/flags/mx_1934.png" height="12.5" width="20"/>
 
 <br>
@@ -265,7 +266,7 @@ tags: music
 
 🎬 &nbsp; Laurence Olivier <br>
 🎼 &nbsp; William Walton <br>
-**上映**：1944 年 
+📽️ &nbsp; 1944 年 
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -275,7 +276,7 @@ tags: music
 
 🎬 &nbsp; Orson Welles <br>
 🎼 &nbsp; Jacques Ibert <br>
-**上映**：1948 年 
+📽️ &nbsp; 1948 年 
 &nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>
 
 <br>
@@ -285,7 +286,7 @@ tags: music
 
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
-**上映**：1948 年 
+📽️ &nbsp; 1948 年 
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -295,7 +296,7 @@ tags: music
 
 🎬 &nbsp; Elia Kazan <br>
 🎼 &nbsp; Leonard Bernstein <br>
-**上映**：1954 年 
+📽️ &nbsp; 1954 年 
 &nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>
 
 <br>
@@ -305,7 +306,7 @@ tags: music
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
-**上映**：1956 年 
+📽️ &nbsp; 1956 年 
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
 
 <br>
@@ -315,7 +316,7 @@ tags: music
 
 🎬 &nbsp; Alfred Hitchcock <br>
 🎼 &nbsp; Bernard Herrmann <br>
-**上映**：1960 年 
+📽️ &nbsp; 1960 年 
 &nbsp;<img src="/assets/img/flags/us_49.png" height="12.5" width="20"/>
 
 <br>
@@ -325,7 +326,7 @@ tags: music
 
 🎬 &nbsp; Lindsay Anderson <br>
 🎼 &nbsp; Robert Gerhard <br>
-**上映**：1963 年 
+📽️ &nbsp; 1963 年 
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -335,7 +336,7 @@ tags: music
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
-**上映**：1965 年 
+📽️ &nbsp; 1965 年 
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
 
 <br>
@@ -346,7 +347,7 @@ tags: music
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <br>
 <span style="color:white">🎬 &nbsp; </span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
-**上映**：1965 年
+📽️ &nbsp; 1965 年
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 <br>
@@ -356,7 +357,7 @@ tags: music
 
 🎬 &nbsp; Андрей Тарковский <span style="color:grey">/ 	Andrei Tarkovsky</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-**上映**：1966 年 
+📽️ &nbsp; 1966 年 
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 <br>
@@ -366,7 +367,7 @@ tags: music
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-**上映**：1966–1967 年 
+📽️ &nbsp; 1966–1967 年 
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
 
 <br>
@@ -379,7 +380,7 @@ tags: music
 
 🎬 &nbsp; Giovanni Pastrone <br>
 **作曲**：Ildebrando Pizzetti <br>
-**上映**：1914 年 
+📽️ &nbsp; 1914 年 
 &nbsp;<img src="/assets/img/flags/it_king.png" height="12.5" width="20"/>
 
 <br>
@@ -389,7 +390,7 @@ tags: music
 
 🎬 &nbsp; Guy Hamilton <br>
 🎼 &nbsp; William Walton <br>
-**上映**：1969 年
+📽️ &nbsp; 1969 年
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -403,7 +404,7 @@ tags: music
 🎬 &nbsp; Lotte Reiniger <br>
 **原曲**：Gioachino Rossini <br>
 **编曲**：Benjamin Britten <br>
-**上映**：1938 年
+📽️ &nbsp; 1938 年
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>
@@ -414,7 +415,7 @@ tags: music
 🎬 &nbsp; Guy Hamilton <br>
 **原曲**：Cole Porter <br>
 **编曲**：John Lanchbery <br>
-**上映**：1982 年
+📽️ &nbsp; 1982 年
 &nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
 
 <br>

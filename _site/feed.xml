@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 23 Aug 2022 23:57:37 -0400</pubDate>
+    <pubDate>Wed, 24 Aug 2022 00:30:01 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -17,11 +17,13 @@
 
 &lt;p&gt;🎬   André Calmettes&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt; &amp;amp; &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;Charles Le Bargy &lt;br /&gt;
 🎼   Camille Saint-Saëns &lt;br /&gt;
-📽️   1908-11-17  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Neuilly, Hauts-de-Seine&lt;/p&gt;
+📽️   1908-11-17 
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Neuilly&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/FuUC_QysVxw&quot;&gt;L’Assassinat du duc de Guise, Op. 128&lt;/a&gt; &lt;br /&gt;
-🎙️  Ensemble Musique Oblique  (1993-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Théâtre de Poissy, Yvelines)&lt;/p&gt;
+🎻  Ensemble Musique Oblique &lt;br /&gt; 
+🎙️  1993-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Théâtre de Poissy, Yvelines&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -38,24 +40,23 @@
 
 &lt;p&gt;🎬   René Clair &lt;br /&gt;
 🎼   Erik Satie &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1924 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1924-12-04
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Paris&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/mdURohWzFKQ&quot;&gt;Cinéma, entr’acte symphonique de ‘‘Relâche’’&lt;/a&gt; &lt;br /&gt;
-&lt;strong&gt;乐团&lt;/strong&gt;：Ensemble Ars Nova &lt;br /&gt;
-&lt;strong&gt;指挥&lt;/strong&gt;：Marius Constant &lt;br /&gt;
-&lt;strong&gt;录音&lt;/strong&gt;：1980 年 2 月  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;  Notre-Dame-du-Liban, Paris&lt;/p&gt;
+🎻  Ensemble Ars Nova | Marius Constant &lt;br /&gt;
+🎙️  1980-02  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Notre-Dame-du-Liban, Paris&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;la-ptite-lili&quot;&gt;&lt;a href=&quot;https://youtu.be/K3B-0oqroHs&quot;&gt;La P’tite Lili&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;la-ptite-lili&quot;&gt;&lt;a href=&quot;https://youtu.be/K3B-0oqroHs&quot;&gt;La p’tite Lili&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Alberto Cavalcanti &lt;br /&gt;
 🎼   Darius Milhaud &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1927 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1927-10-01
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Paris&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -63,7 +64,7 @@
 
 &lt;p&gt;🎬   Jean Arroy &lt;br /&gt;
 🎼   Jacques Ibert &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1931 年
+📽️   1931 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -79,7 +80,7 @@
 
 &lt;p&gt;🎬   William Coldstream &lt;br /&gt;
 🎼   Benjamin Britten &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1935 年
+📽️   1935 年
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -88,8 +89,8 @@
 
 &lt;p&gt;🎬   Ralph Steiner&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt; &amp;amp; &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;Willard Van Dyke &lt;br /&gt;
 🎼   Aaron Copland &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1939 年
- &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1939
+ &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  New York&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -97,7 +98,7 @@
 
 &lt;p&gt;🎬   Михаил Цехановский &lt;span style=&quot;color:grey&quot;&gt;/ Mikhail Tsekhanovsky&lt;/span&gt; &lt;br /&gt;
 🎼   Дмитрий Шостакович &lt;span style=&quot;color:grey&quot;&gt;/ Dmitri Shostakovich&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1940 年
+📽️   1940 年
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -106,7 +107,7 @@
 
 &lt;p&gt;🎬   Jean Mitry &lt;br /&gt;
 🎼   Arthur Honegger &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1949 年
+📽️   1949 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -122,7 +123,7 @@
 
 &lt;p&gt;🎬   Jean Mitry &lt;br /&gt;
 🎼   Pierre Boulez &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1955 年
+📽️   1955 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -131,7 +132,7 @@
 
 &lt;p&gt;🎬   Alain Resnais &lt;br /&gt;
 🎼   Hanns Eisler &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1956 年
+📽️   1956 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -140,7 +141,7 @@
 
 &lt;p&gt;🎬   勅使河原宏 &lt;span style=&quot;color:grey&quot;&gt;/ Hiroshi Teshigahara&lt;/span&gt; &lt;br /&gt;
 🎼   武満徹 &lt;span style=&quot;color:grey&quot;&gt;/ Toru Takemitsu&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1959 年 
+📽️   1959 年 
  &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -149,7 +150,7 @@
 
 &lt;p&gt;🎬   Harrison Engle &lt;br /&gt;
 🎼   Philip Glass &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1968 年
+📽️   1968 年
  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -160,8 +161,8 @@
 
 &lt;p&gt;🎬   Arnold Fanck &lt;br /&gt;
 🎼   Paul Hindemith &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1921 年
- &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1921-09-22
+ &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Berlin&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -169,8 +170,8 @@
 
 &lt;p&gt;🎬   Walther Ruttmann &lt;br /&gt;
 🎼   Edmund Meisel &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1927 年
- &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1927-09-23
+ &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Berlin&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -179,8 +180,8 @@
 &lt;p&gt;🎬   Григорий Козинцев &lt;span style=&quot;color:grey&quot;&gt;/ Grigori Kozintsev&lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;color:white&quot;&gt;🎬   &lt;/span&gt;Леонид Трауберг &lt;span style=&quot;color:grey&quot;&gt;/ Leonid Trauberg&lt;/span&gt; &lt;br /&gt;
 🎼   Дмитрий Шостакович &lt;span style=&quot;color:grey&quot;&gt;/ Dmitri Shostakovich&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1929 年 
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1929-03-18
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Ленинград &lt;span style=&quot;color:grey&quot;&gt;/ Leningrad&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -188,7 +189,7 @@
 
 &lt;p&gt;🎬   Jean Renoir &lt;br /&gt;
 🎼   Darius Milhaud &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1933 年
+📽️   1933 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -197,7 +198,7 @@
 
 &lt;p&gt;🎬   Александр Файнциммер &lt;span style=&quot;color:grey&quot;&gt;/ Aleksandr Faintsimmer&lt;/span&gt; &lt;br /&gt;
 🎼   Сергей Прокофьев &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Prokofiev&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1934 年 
+📽️   1934 年 
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -213,7 +214,7 @@
 
 &lt;p&gt;🎬   Emilio Gómez Muriel &amp;amp; Fred Zinnemann &lt;br /&gt;
 🎼   Silvestre Revueltas &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1936 年
+📽️   1936 年
  &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -222,7 +223,7 @@
 
 &lt;p&gt;🎬   Humberto Mauro &lt;br /&gt;
 🎼   Heitor Villa-Lobos &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1937 年
+📽️   1937 年
  &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -231,7 +232,7 @@
 
 &lt;p&gt;🎬   Сергей Эйзенштейн &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Eisenstein&lt;/span&gt; &lt;br /&gt;
 🎼   Сергей Прокофьев &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Prokofiev&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1938 年 
+📽️   1938 年 
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -248,7 +249,7 @@
 
 &lt;p&gt;🎬   Chano Urueta &lt;br /&gt;
 🎼   Silvestre Revueltas &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1939 年
+📽️   1939 年
  &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -257,7 +258,7 @@
 
 &lt;p&gt;🎬   Laurence Olivier &lt;br /&gt;
 🎼   William Walton &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1944 年 
+📽️   1944 年 
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -266,7 +267,7 @@
 
 &lt;p&gt;🎬   Orson Welles &lt;br /&gt;
 🎼   Jacques Ibert &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1948 年 
+📽️   1948 年 
  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -275,7 +276,7 @@
 
 &lt;p&gt;🎬   Charles Frend &lt;br /&gt;
 🎼   Ralph Vaughan Williams &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1948 年 
+📽️   1948 年 
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -284,7 +285,7 @@
 
 &lt;p&gt;🎬   Elia Kazan &lt;br /&gt;
 🎼   Leonard Bernstein &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1954 年 
+📽️   1954 年 
  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -293,7 +294,7 @@
 
 &lt;p&gt;🎬   溝口健二 &lt;span style=&quot;color:grey&quot;&gt;/ Kenji Mizoguchi&lt;/span&gt; &lt;br /&gt;
 🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshiro Mayuzumi&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1956 年 
+📽️   1956 年 
  &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -302,7 +303,7 @@
 
 &lt;p&gt;🎬   Alfred Hitchcock &lt;br /&gt;
 🎼   Bernard Herrmann &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1960 年 
+📽️   1960 年 
  &lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -311,7 +312,7 @@
 
 &lt;p&gt;🎬   Lindsay Anderson &lt;br /&gt;
 🎼   Robert Gerhard &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1963 年 
+📽️   1963 年 
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -320,7 +321,7 @@
 
 &lt;p&gt;🎬   市川崑 &lt;span style=&quot;color:grey&quot;&gt;/ Kon Ichikawa&lt;/span&gt; &lt;br /&gt;
 🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshiro Mayuzumi&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1965 年 
+📽️   1965 年 
  &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -330,7 +331,7 @@
 &lt;p&gt;🎬   Михаил Швейцер &lt;span style=&quot;color:grey&quot;&gt;/ Mikhail Schweitzer&lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;color:white&quot;&gt;🎬   &lt;/span&gt;Sofiya Milkina &lt;span style=&quot;color:grey&quot;&gt;/ Leonid Trauberg&lt;/span&gt; &lt;br /&gt;
 🎼   Георгий Свиридов &lt;span style=&quot;color:grey&quot;&gt;/ 	Georgy Sviridov&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1965 年
+📽️   1965 年
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -339,7 +340,7 @@
 
 &lt;p&gt;🎬   Андрей Тарковский &lt;span style=&quot;color:grey&quot;&gt;/ 	Andrei Tarkovsky&lt;/span&gt; &lt;br /&gt;
 🎼   Вячеслав Овчинников &lt;span style=&quot;color:grey&quot;&gt;/ Vyacheslav Ovchinnikov&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1966 年 
+📽️   1966 年 
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -348,7 +349,7 @@
 
 &lt;p&gt;🎬   Сергей Бондарчук &lt;span style=&quot;color:grey&quot;&gt;/ 	Sergei Bondarchuk&lt;/span&gt; &lt;br /&gt;
 🎼   Вячеслав Овчинников &lt;span style=&quot;color:grey&quot;&gt;/ Vyacheslav Ovchinnikov&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1966–1967 年 
+📽️   1966–1967 年 
  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -359,7 +360,7 @@
 
 &lt;p&gt;🎬   Giovanni Pastrone &lt;br /&gt;
 &lt;strong&gt;作曲&lt;/strong&gt;：Ildebrando Pizzetti &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1914 年 
+📽️   1914 年 
  &lt;img src=&quot;/assets/img/flags/it_king.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -368,7 +369,7 @@
 
 &lt;p&gt;🎬   Guy Hamilton &lt;br /&gt;
 🎼   William Walton &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1969 年
+📽️   1969 年
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -380,7 +381,7 @@
 &lt;p&gt;🎬   Lotte Reiniger &lt;br /&gt;
 &lt;strong&gt;原曲&lt;/strong&gt;：Gioachino Rossini &lt;br /&gt;
 &lt;strong&gt;编曲&lt;/strong&gt;：Benjamin Britten &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1938 年
+📽️   1938 年
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -390,7 +391,7 @@
 &lt;p&gt;🎬   Guy Hamilton &lt;br /&gt;
 &lt;strong&gt;原曲&lt;/strong&gt;：Cole Porter &lt;br /&gt;
 &lt;strong&gt;编曲&lt;/strong&gt;：John Lanchbery &lt;br /&gt;
-&lt;strong&gt;上映&lt;/strong&gt;：1982 年
+📽️   1982 年
  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
