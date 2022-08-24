@@ -5,50 +5,13 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 23 Aug 2022 20:14:52 -0400</pubDate>
+    <pubDate>Tue, 23 Aug 2022 20:30:50 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
         <link>/2022/08/18/film_music.html</link>
         <guid isPermaLink="true">/2022/08/18/film_music.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   L’Assassinat du duc de Guise  (1908)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Ballet mécanique  (1924)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Entr’acte  (1924)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La P’tite Lili  (1927)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   S.O.S. Foch  (1931)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   The King’s Stamp  (1935)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   The City  (1939)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Сказка о глупом мышонке &lt;span style=&quot;color:grey&quot;&gt;/ The Silly Little Mouse&lt;/span&gt;  (1940)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231  (1949)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Symphonie mécanique  (1955)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Nuit et brouillard  (1956)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt;   ホゼー・トレス &lt;span style=&quot;color:grey&quot;&gt;/ José Torres&lt;/span&gt;  (1959)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Railroaded  (1968)&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Im Kampf mit dem Berge  (1921)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Berlin: Die Sinfonie der Großstadt  (1927)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Новый Вавилон &lt;span style=&quot;color:grey&quot;&gt;/ The New Babylon&lt;/span&gt;  (1929)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Madame Bovary  (1933)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Поручик Киже &lt;span style=&quot;color:grey&quot;&gt;/ Lieutenant Kijé&lt;/span&gt;  (1934)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Redes  (1936)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   O Descobrimento do Brasil  (1937)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Александр Невский &lt;span style=&quot;color:grey&quot;&gt;/ Alexander Nevsky&lt;/span&gt;  (1938)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La noche de los mayas  (1939)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Henry V  (1944)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Macbeth  (1948)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Scott of the Antarctic  (1948)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   On the Waterfront  (1954)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt;   赤線地帯 &lt;span style=&quot;color:grey&quot;&gt;/ Street of Shame&lt;/span&gt;  (1956)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Psycho  (1960)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   This Sporting Life  (1963)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt;   東京オリンピック &lt;span style=&quot;color:grey&quot;&gt;/ Tokyo Olympiad&lt;/span&gt;  (1965)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Время, вперёд! &lt;span style=&quot;color:grey&quot;&gt;/ Time, Forward!&lt;/span&gt;  (1965)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Андрей Рублёв &lt;span style=&quot;color:grey&quot;&gt;/ Andrei Rublev&lt;/span&gt;  (1966)&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Война и мир &lt;span style=&quot;color:grey&quot;&gt;/ War and Peace&lt;/span&gt;  (1966–1967)&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;一--短片&quot;&gt;一  |  短片&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;一--短片&quot;&gt;一  |  短片&lt;/h2&gt;
 
 &lt;h4 id=&quot;11--lassassinat-du-duc-de-guise&quot;&gt;1.1  |  &lt;a href=&quot;https://youtu.be/bh0tonXPEKQ&quot;&gt;L’Assassinat du duc de Guise&lt;/a&gt;&lt;/h4&gt;
 
@@ -148,6 +111,13 @@
 &lt;strong&gt;音乐&lt;/strong&gt;：Arthur Honegger &lt;br /&gt;
 &lt;strong&gt;上映&lt;/strong&gt;：1949 年
  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/UVF5RAeaTTE&quot;&gt;Pacific 231, ou Mouvement symphonique № 1, H. 53&lt;/a&gt; &lt;br /&gt;
+&lt;strong&gt;乐团&lt;/strong&gt;：Tonhalle-Orchester Zürich &lt;br /&gt;
+&lt;strong&gt;指挥&lt;/strong&gt;：David Zinman &lt;br /&gt;
+&lt;strong&gt;录音&lt;/strong&gt;：1996 年 5 月  &lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;13&quot; width=&quot;13&quot; /&gt;  Tonhalle, Zürich&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

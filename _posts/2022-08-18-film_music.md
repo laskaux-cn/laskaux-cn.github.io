@@ -7,44 +7,6 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; L'Assassinat du duc de Guise &nbsp;(1908)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Ballet mécanique &nbsp;(1924)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Entr'acte &nbsp;(1924)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La P'tite Lili &nbsp;(1927)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; S.O.S. Foch &nbsp;(1931)<br>
-<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; The King's Stamp &nbsp;(1935)<br>
-<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; The City &nbsp;(1939)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке <span style="color:grey">/ The Silly Little Mouse</span> &nbsp;(1940)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 &nbsp;(1949)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Symphonie mécanique &nbsp;(1955)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Nuit et brouillard &nbsp;(1956)<br>
-<img src="/assets/img/flags/jp_old.png" height="13" width="18"/> &nbsp; ホゼー・トレス <span style="color:grey">/ José Torres</span> &nbsp;(1959)<br>
-<img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; Railroaded &nbsp;(1968)<br>
-
-<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; Im Kampf mit dem Berge &nbsp;(1921)<br>
-<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; Berlin: Die Sinfonie der Großstadt &nbsp;(1927)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Новый Вавилон <span style="color:grey">/ The New Babylon</span> &nbsp;(1929)<br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Madame Bovary &nbsp;(1933)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span> &nbsp;(1934)<br>
-<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; Redes &nbsp;(1936)<br>
-<img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; O Descobrimento do Brasil &nbsp;(1937)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Александр Невский <span style="color:grey">/ Alexander Nevsky</span> &nbsp;(1938)<br>
-<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; La noche de los mayas &nbsp;(1939)<br>
-<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Henry V &nbsp;(1944)<br>
-<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; Macbeth &nbsp;(1948)<br>
-<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Scott of the Antarctic &nbsp;(1948)<br>
-<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; On the Waterfront &nbsp;(1954)<br>
-<img src="/assets/img/flags/jp_old.png" height="13" width="18"/> &nbsp; 赤線地帯 <span style="color:grey">/ Street of Shame</span> &nbsp;(1956)<br>
-<img src="/assets/img/flags/us_49.png" height="12" width="18"/> &nbsp; Psycho &nbsp;(1960)<br>
-<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; This Sporting Life &nbsp;(1963)<br>
-<img src="/assets/img/flags/jp_old.png" height="13" width="18"/> &nbsp; 東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span> &nbsp;(1965)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Время, вперёд! <span style="color:grey">/ Time, Forward!</span> &nbsp;(1965)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Андрей Рублёв <span style="color:grey">/ Andrei Rublev</span> &nbsp;(1966)<br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Война и мир <span style="color:grey">/ War and Peace</span> &nbsp;(1966–1967)<br>
-
-<br>
-
-
 ## 一 &nbsp;|&nbsp; 短片
 
 #### 1.1 &nbsp;|&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
@@ -148,6 +110,11 @@ tags: music
 **音乐**：Arthur Honegger <br>
 **上映**：1949 年
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+
+>[Pacific 231, ou Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
+>**乐团**：Tonhalle-Orchester Zürich <br>
+>**指挥**：David Zinman <br>
+>**录音**：1996 年 5 月 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich
 
 <br>
 
