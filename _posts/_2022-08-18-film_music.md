@@ -97,7 +97,7 @@ tags: music
 
 🎬 &nbsp; Михаил Цехановский <span style="color:grey">/ Mikhail Tsekhanovsky</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
-📽️ &nbsp; 1940 年
+📽️ &nbsp; 1940-07-12
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 <br>
