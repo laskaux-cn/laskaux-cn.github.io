@@ -62,12 +62,12 @@ tags: music
 🎬 &nbsp; Jean Arroy <br>
 🎼 &nbsp; Jacques Ibert <br>
 📽️ &nbsp; 1931 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
 >**乐团**：Orchestra des Concerts Lamoureux <br>
 >**指挥**：佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> <br>
->**录音**：1996 年 4 月 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12.5" width="20"/>&nbsp; Salle Pleyel, Paris
+>**录音**：1996 年 4 月 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris
 
 <br>
 
@@ -78,7 +78,7 @@ tags: music
 🎬 &nbsp; William Coldstream <br>
 🎼 &nbsp; Benjamin Britten <br>
 📽️ &nbsp; 1935 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
 
 <br>
 
@@ -98,7 +98,7 @@ tags: music
 🎬 &nbsp; Михаил Цехановский <span style="color:grey">/ Mikhail Tsekhanovsky</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 📽️ &nbsp; 1940 年
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 <br>
 
@@ -108,7 +108,7 @@ tags: music
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Arthur Honegger <br>
 📽️ &nbsp; 1949 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
 >[Pacific 231, ou Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
 >**乐团**：Tonhalle-Orchester Zürich <br>
@@ -123,7 +123,7 @@ tags: music
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Pierre Boulez <br>
 📽️ &nbsp; 1955 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
 <br>
 
@@ -133,7 +133,7 @@ tags: music
 🎬 &nbsp; Alain Resnais <br>
 🎼 &nbsp; Hanns Eisler <br>
 📽️ &nbsp; 1956 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
 <br>
 
@@ -143,7 +143,7 @@ tags: music
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
 📽️ &nbsp; 1959 年 
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
+&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
 <br>
 
@@ -153,7 +153,7 @@ tags: music
 🎬 &nbsp; Harrison Engle <br>
 🎼 &nbsp; Philip Glass <br>
 📽️ &nbsp; 1968 年
-&nbsp;<img src="/assets/img/flags/us.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>
 
 <br>
 
@@ -195,8 +195,8 @@ tags: music
 
 🎬 &nbsp; Jean Renoir <br>
 🎼 &nbsp; Darius Milhaud <br>
-📽️ &nbsp; 1933 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
+📽️ &nbsp; 1933-01-12
+&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
 
 <br>
 
@@ -205,13 +205,13 @@ tags: music
 
 🎬 &nbsp; Александр Файнциммер <span style="color:grey">/ Aleksandr Faintsimmer</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
-📽️ &nbsp; 1934 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+📽️ &nbsp; 1934-03-07 
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
 >**乐团**：Chicago Symphony Orchestra <br>
 >**指挥**：Fritz Reiner <br>
->**录音**：1959 年 3 月 &nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>&nbsp; Orchestra Hall, Chicago
+>**录音**：1959 年 3 月 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago
 
 <br>
 
@@ -221,7 +221,7 @@ tags: music
 🎬 &nbsp; Emilio Gómez Muriel & Fred Zinnemann <br>
 🎼 &nbsp; Silvestre Revueltas <br>
 📽️ &nbsp; 1936 年
-&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/>
 
 <br>
 
@@ -231,7 +231,7 @@ tags: music
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 📽️ &nbsp; 1937 年
-&nbsp;<img src="/assets/img/flags/br_21.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/br_21.png" height="12" width="18"/>
 
 <br>
 
@@ -241,13 +241,13 @@ tags: music
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 📽️ &nbsp; 1938 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
 >**乐团**：Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> <br>
 >**合唱**：Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <br>
 >**指挥**：Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> <br>
->**录音**：2002 年 7 月 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12.5" width="20"/>&nbsp; Martti Talvela -sali, Mikkeli
+>**录音**：2002 年 7 月 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli
 
 <br>
 
@@ -257,7 +257,7 @@ tags: music
 🎬 &nbsp; Chano Urueta <br>
 🎼 &nbsp; Silvestre Revueltas <br>
 📽️ &nbsp; 1939 年
-&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/>
 
 <br>
 
@@ -266,8 +266,8 @@ tags: music
 
 🎬 &nbsp; Laurence Olivier <br>
 🎼 &nbsp; William Walton <br>
-📽️ &nbsp; 1944 年 
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+📽️ &nbsp; 1944-11-22
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
 
 <br>
 
@@ -276,8 +276,8 @@ tags: music
 
 🎬 &nbsp; Orson Welles <br>
 🎼 &nbsp; Jacques Ibert <br>
-📽️ &nbsp; 1948 年 
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>
+📽️ &nbsp; 1948-10-09 
+&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Boston
 
 <br>
 
@@ -286,8 +286,8 @@ tags: music
 
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
-📽️ &nbsp; 1948 年 
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+📽️ &nbsp; 1948-11-29
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
 
 <br>
 
@@ -296,8 +296,8 @@ tags: music
 
 🎬 &nbsp; Elia Kazan <br>
 🎼 &nbsp; Leonard Bernstein <br>
-📽️ &nbsp; 1954 年 
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12.5" width="20"/>
+📽️ &nbsp; 1954-07-28 
+&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; New York
 
 <br>
 
@@ -306,8 +306,8 @@ tags: music
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
-📽️ &nbsp; 1956 年 
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
+📽️ &nbsp; 1956-03-18 
+&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
 <br>
 
@@ -316,8 +316,8 @@ tags: music
 
 🎬 &nbsp; Alfred Hitchcock <br>
 🎼 &nbsp; Bernard Herrmann <br>
-📽️ &nbsp; 1960 年 
-&nbsp;<img src="/assets/img/flags/us_49.png" height="12.5" width="20"/>
+📽️ &nbsp; 1960-06-16
+&nbsp;<img src="/assets/img/flags/us_49.png" height="12" width="18"/>&nbsp; New York
 
 <br>
 
@@ -326,8 +326,8 @@ tags: music
 
 🎬 &nbsp; Lindsay Anderson <br>
 🎼 &nbsp; Robert Gerhard <br>
-📽️ &nbsp; 1963 年 
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+📽️ &nbsp; 1963-02-07 
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
 
 <br>
 
@@ -336,8 +336,8 @@ tags: music
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
-📽️ &nbsp; 1965 年 
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="14"/>
+📽️ &nbsp; 1965-03-20
+&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
 <br>
 
@@ -347,8 +347,8 @@ tags: music
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <br>
 <span style="color:white">🎬 &nbsp; </span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
-📽️ &nbsp; 1965 年
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+📽️ &nbsp; 1965-11-22
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 <br>
 
@@ -357,8 +357,8 @@ tags: music
 
 🎬 &nbsp; Андрей Тарковский <span style="color:grey">/ 	Andrei Tarkovsky</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-📽️ &nbsp; 1966 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+📽️ &nbsp; 1966-12-16 
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Ленинград <span style="color:grey">/ Leningrad</span>
 
 <br>
 
@@ -367,8 +367,8 @@ tags: music
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-📽️ &nbsp; 1966–1967 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12.5" width="20"/>
+📽️ &nbsp; 1966-03-14
+&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 <br>
 
@@ -381,7 +381,7 @@ tags: music
 🎬 &nbsp; Giovanni Pastrone <br>
 **作曲**：Ildebrando Pizzetti <br>
 📽️ &nbsp; 1914 年 
-&nbsp;<img src="/assets/img/flags/it_king.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/it_king.png" height="12" width="18"/>
 
 <br>
 
@@ -391,7 +391,7 @@ tags: music
 🎬 &nbsp; Guy Hamilton <br>
 🎼 &nbsp; William Walton <br>
 📽️ &nbsp; 1969 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
 
 <br>
 
@@ -405,7 +405,7 @@ tags: music
 **原曲**：Gioachino Rossini <br>
 **编曲**：Benjamin Britten <br>
 📽️ &nbsp; 1938 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
 
 <br>
 
@@ -416,7 +416,7 @@ tags: music
 **原曲**：Cole Porter <br>
 **编曲**：John Lanchbery <br>
 📽️ &nbsp; 1982 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12.5" width="20"/>
+&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
 
 <br>
 

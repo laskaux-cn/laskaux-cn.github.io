@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 24 Aug 2022 00:30:01 -0400</pubDate>
+    <pubDate>Wed, 24 Aug 2022 00:54:43 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -65,13 +65,13 @@
 &lt;p&gt;🎬   Jean Arroy &lt;br /&gt;
 🎼   Jacques Ibert &lt;br /&gt;
 📽️   1931 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UaOok1zyAG0&quot;&gt;Symphonie marine&lt;/a&gt; &lt;br /&gt;
 &lt;strong&gt;乐团&lt;/strong&gt;：Orchestra des Concerts Lamoureux &lt;br /&gt;
 &lt;strong&gt;指挥&lt;/strong&gt;：佐渡裕 &lt;span style=&quot;color:darkgrey&quot;&gt;/ Yutaka Sado&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;录音&lt;/strong&gt;：1996 年 4 月  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;  Salle Pleyel, Paris&lt;/p&gt;
+&lt;strong&gt;录音&lt;/strong&gt;：1996 年 4 月  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Salle Pleyel, Paris&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -81,7 +81,7 @@
 &lt;p&gt;🎬   William Coldstream &lt;br /&gt;
 🎼   Benjamin Britten &lt;br /&gt;
 📽️   1935 年
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -99,7 +99,7 @@
 &lt;p&gt;🎬   Михаил Цехановский &lt;span style=&quot;color:grey&quot;&gt;/ Mikhail Tsekhanovsky&lt;/span&gt; &lt;br /&gt;
 🎼   Дмитрий Шостакович &lt;span style=&quot;color:grey&quot;&gt;/ Dmitri Shostakovich&lt;/span&gt; &lt;br /&gt;
 📽️   1940 年
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -108,7 +108,7 @@
 &lt;p&gt;🎬   Jean Mitry &lt;br /&gt;
 🎼   Arthur Honegger &lt;br /&gt;
 📽️   1949 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/UVF5RAeaTTE&quot;&gt;Pacific 231, ou Mouvement symphonique № 1, H. 53&lt;/a&gt; &lt;br /&gt;
@@ -124,7 +124,7 @@
 &lt;p&gt;🎬   Jean Mitry &lt;br /&gt;
 🎼   Pierre Boulez &lt;br /&gt;
 📽️   1955 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -133,7 +133,7 @@
 &lt;p&gt;🎬   Alain Resnais &lt;br /&gt;
 🎼   Hanns Eisler &lt;br /&gt;
 📽️   1956 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -142,7 +142,7 @@
 &lt;p&gt;🎬   勅使河原宏 &lt;span style=&quot;color:grey&quot;&gt;/ Hiroshi Teshigahara&lt;/span&gt; &lt;br /&gt;
 🎼   武満徹 &lt;span style=&quot;color:grey&quot;&gt;/ Toru Takemitsu&lt;/span&gt; &lt;br /&gt;
 📽️   1959 年 
- &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -151,7 +151,7 @@
 &lt;p&gt;🎬   Harrison Engle &lt;br /&gt;
 🎼   Philip Glass &lt;br /&gt;
 📽️   1968 年
- &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -189,8 +189,8 @@
 
 &lt;p&gt;🎬   Jean Renoir &lt;br /&gt;
 🎼   Darius Milhaud &lt;br /&gt;
-📽️   1933 年
- &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1933-01-12
+ &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Paris&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -198,14 +198,14 @@
 
 &lt;p&gt;🎬   Александр Файнциммер &lt;span style=&quot;color:grey&quot;&gt;/ Aleksandr Faintsimmer&lt;/span&gt; &lt;br /&gt;
 🎼   Сергей Прокофьев &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Prokofiev&lt;/span&gt; &lt;br /&gt;
-📽️   1934 年 
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1934-03-07 
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/EK9mOTugCxk&quot;&gt;Lieutenant Kijé (suite), Op. 60&lt;/a&gt; &lt;br /&gt;
 &lt;strong&gt;乐团&lt;/strong&gt;：Chicago Symphony Orchestra &lt;br /&gt;
 &lt;strong&gt;指挥&lt;/strong&gt;：Fritz Reiner &lt;br /&gt;
-&lt;strong&gt;录音&lt;/strong&gt;：1959 年 3 月  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;  Orchestra Hall, Chicago&lt;/p&gt;
+&lt;strong&gt;录音&lt;/strong&gt;：1959 年 3 月  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Orchestra Hall, Chicago&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -215,7 +215,7 @@
 &lt;p&gt;🎬   Emilio Gómez Muriel &amp;amp; Fred Zinnemann &lt;br /&gt;
 🎼   Silvestre Revueltas &lt;br /&gt;
 📽️   1936 年
- &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -224,7 +224,7 @@
 &lt;p&gt;🎬   Humberto Mauro &lt;br /&gt;
 🎼   Heitor Villa-Lobos &lt;br /&gt;
 📽️   1937 年
- &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -233,14 +233,14 @@
 &lt;p&gt;🎬   Сергей Эйзенштейн &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Eisenstein&lt;/span&gt; &lt;br /&gt;
 🎼   Сергей Прокофьев &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Prokofiev&lt;/span&gt; &lt;br /&gt;
 📽️   1938 年 
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/rINpR1VCRrk&quot;&gt;Alexander Nevsky (cantata), Op. 78&lt;/a&gt; &lt;br /&gt;
 &lt;strong&gt;乐团&lt;/strong&gt;：Симфонический оркестр Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Orchestra&lt;/span&gt; &lt;br /&gt;
 &lt;strong&gt;合唱&lt;/strong&gt;：Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;br /&gt;
 &lt;strong&gt;指挥&lt;/strong&gt;：Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt; &lt;br /&gt;
-&lt;strong&gt;录音&lt;/strong&gt;：2002 年 7 月  &lt;img src=&quot;/assets/img/flags/fi_bd2.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;  Martti Talvela -sali, Mikkeli&lt;/p&gt;
+&lt;strong&gt;录音&lt;/strong&gt;：2002 年 7 月  &lt;img src=&quot;/assets/img/flags/fi_bd2.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Martti Talvela -sali, Mikkeli&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -250,7 +250,7 @@
 &lt;p&gt;🎬   Chano Urueta &lt;br /&gt;
 🎼   Silvestre Revueltas &lt;br /&gt;
 📽️   1939 年
- &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -258,8 +258,8 @@
 
 &lt;p&gt;🎬   Laurence Olivier &lt;br /&gt;
 🎼   William Walton &lt;br /&gt;
-📽️   1944 年 
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1944-11-22
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  London&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -267,8 +267,8 @@
 
 &lt;p&gt;🎬   Orson Welles &lt;br /&gt;
 🎼   Jacques Ibert &lt;br /&gt;
-📽️   1948 年 
- &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1948-10-09 
+ &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Boston&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -276,8 +276,8 @@
 
 &lt;p&gt;🎬   Charles Frend &lt;br /&gt;
 🎼   Ralph Vaughan Williams &lt;br /&gt;
-📽️   1948 年 
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1948-11-29
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  London&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -285,8 +285,8 @@
 
 &lt;p&gt;🎬   Elia Kazan &lt;br /&gt;
 🎼   Leonard Bernstein &lt;br /&gt;
-📽️   1954 年 
- &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1954-07-28 
+ &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  New York&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -294,8 +294,8 @@
 
 &lt;p&gt;🎬   溝口健二 &lt;span style=&quot;color:grey&quot;&gt;/ Kenji Mizoguchi&lt;/span&gt; &lt;br /&gt;
 🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshiro Mayuzumi&lt;/span&gt; &lt;br /&gt;
-📽️   1956 年 
- &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
+📽️   1956-03-18 
+ &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -303,8 +303,8 @@
 
 &lt;p&gt;🎬   Alfred Hitchcock &lt;br /&gt;
 🎼   Bernard Herrmann &lt;br /&gt;
-📽️   1960 年 
- &lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1960-06-16
+ &lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  New York&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -312,8 +312,8 @@
 
 &lt;p&gt;🎬   Lindsay Anderson &lt;br /&gt;
 🎼   Robert Gerhard &lt;br /&gt;
-📽️   1963 年 
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1963-02-07 
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  London&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -321,8 +321,8 @@
 
 &lt;p&gt;🎬   市川崑 &lt;span style=&quot;color:grey&quot;&gt;/ Kon Ichikawa&lt;/span&gt; &lt;br /&gt;
 🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshiro Mayuzumi&lt;/span&gt; &lt;br /&gt;
-📽️   1965 年 
- &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;14&quot; /&gt;&lt;/p&gt;
+📽️   1965-03-20
+ &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -331,8 +331,8 @@
 &lt;p&gt;🎬   Михаил Швейцер &lt;span style=&quot;color:grey&quot;&gt;/ Mikhail Schweitzer&lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;color:white&quot;&gt;🎬   &lt;/span&gt;Sofiya Milkina &lt;span style=&quot;color:grey&quot;&gt;/ Leonid Trauberg&lt;/span&gt; &lt;br /&gt;
 🎼   Георгий Свиридов &lt;span style=&quot;color:grey&quot;&gt;/ 	Georgy Sviridov&lt;/span&gt; &lt;br /&gt;
-📽️   1965 年
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1965-11-22
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -340,8 +340,8 @@
 
 &lt;p&gt;🎬   Андрей Тарковский &lt;span style=&quot;color:grey&quot;&gt;/ 	Andrei Tarkovsky&lt;/span&gt; &lt;br /&gt;
 🎼   Вячеслав Овчинников &lt;span style=&quot;color:grey&quot;&gt;/ Vyacheslav Ovchinnikov&lt;/span&gt; &lt;br /&gt;
-📽️   1966 年 
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1966-12-16 
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Ленинград &lt;span style=&quot;color:grey&quot;&gt;/ Leningrad&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -349,8 +349,8 @@
 
 &lt;p&gt;🎬   Сергей Бондарчук &lt;span style=&quot;color:grey&quot;&gt;/ 	Sergei Bondarchuk&lt;/span&gt; &lt;br /&gt;
 🎼   Вячеслав Овчинников &lt;span style=&quot;color:grey&quot;&gt;/ Vyacheslav Ovchinnikov&lt;/span&gt; &lt;br /&gt;
-📽️   1966–1967 年 
- &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+📽️   1966-03-14
+ &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -361,7 +361,7 @@
 &lt;p&gt;🎬   Giovanni Pastrone &lt;br /&gt;
 &lt;strong&gt;作曲&lt;/strong&gt;：Ildebrando Pizzetti &lt;br /&gt;
 📽️   1914 年 
- &lt;img src=&quot;/assets/img/flags/it_king.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/it_king.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -370,7 +370,7 @@
 &lt;p&gt;🎬   Guy Hamilton &lt;br /&gt;
 🎼   William Walton &lt;br /&gt;
 📽️   1969 年
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -382,7 +382,7 @@
 &lt;strong&gt;原曲&lt;/strong&gt;：Gioachino Rossini &lt;br /&gt;
 &lt;strong&gt;编曲&lt;/strong&gt;：Benjamin Britten &lt;br /&gt;
 📽️   1938 年
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -392,7 +392,7 @@
 &lt;strong&gt;原曲&lt;/strong&gt;：Cole Porter &lt;br /&gt;
 &lt;strong&gt;编曲&lt;/strong&gt;：John Lanchbery &lt;br /&gt;
 📽️   1982 年
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.5&quot; width=&quot;20&quot; /&gt;&lt;/p&gt;
+ &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
