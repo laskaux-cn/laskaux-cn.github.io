@@ -11,14 +11,13 @@ tags: music
 
 #### 1.1 &nbsp;|&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
 
-**导演**：André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
-**音乐**：Camille Saint-Saëns <br>
-**上映**：1908 年
+🎬 &nbsp; André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
+🎼 &nbsp; Camille Saint-Saëns <br>
+📽️ &nbsp; 1908 
 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12.5" width="20"/>
 
 >[L'Assassinat du duc de Guise, Op. 128](https://youtu.be/FuUC_QysVxw) <br>
->**乐团**：Ensemble Musique Oblique <br>
->**录音**：1993 年 4 月 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12.5" width="20"/>&nbsp; Théâtre de Poissy, Yvelines
+>🎙️ &nbsp; Ensemble Musique Oblique &nbsp;(1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12.5" width="20"/>&nbsp; Théâtre de Poissy, Yvelines)
 
 <br>
 
