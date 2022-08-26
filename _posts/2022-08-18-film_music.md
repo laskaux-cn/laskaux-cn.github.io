@@ -14,60 +14,59 @@ tags: music
 
 🎬 &nbsp; André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
 🎼 &nbsp; Camille Saint-Saëns <br>
-📽️ &nbsp; 1908-11-17 
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Neuilly
 
 >[L'Assassinat du duc de Guise, Op. 128](https://youtu.be/FuUC_QysVxw) <br>
-> 🎻&nbsp; Ensemble Musique Oblique <br> 
-> 🎙️&nbsp; 1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines
+> Ensemble Musique Oblique 
+&nbsp;(1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines)
 
 <br>
 
 
-#### [Ballet mécanique](https://youtu.be/oMnZgykH1Bk)
+#### [1924]&nbsp; [Ballet mécanique](https://youtu.be/oMnZgykH1Bk)
 
 🎬 &nbsp; Fernand Léger<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Dudley Murphy <br>
 🎼 &nbsp; Georges Antheil <br>
-📽️ &nbsp; 1924-09-24 &nbsp;<img src="/assets/img/flags/at.png" height="12" width="18"/>&nbsp; Wien
+
+>[Ballet pour instruments mécaniques et percussion](https://youtu.be/tX8UHrFZzO8) <br>
+> Boston Modern Orchestra Project·Gil Rose
+&nbsp;(2009-11 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Jordan Hall, Boston)
+
 
 <br>
 
 
-#### [Entr'acte](https://vimeo.com/488844088)
+#### [1924]&nbsp; [Entr'acte](https://vimeo.com/488844088)
 
 🎬 &nbsp; René Clair <br>
 🎼 &nbsp; Erik Satie <br>
-📽️ &nbsp; 1924-12-04
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
 
 >[Cinéma, entr'acte symphonique de &lsquo;&lsquo;Relâche''](https://youtu.be/mdURohWzFKQ) <br>
->🎻&nbsp; Ensemble Ars Nova | Marius Constant <br>
->🎙️&nbsp; 1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris
+> Ensemble Ars Nova·Marius Constant 
+&nbsp;(1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris)
 
 <br>
 
 
-#### [La p'tite Lili](https://youtu.be/K3B-0oqroHs)
+#### [1927]&nbsp; [La p'tite Lili](https://youtu.be/K3B-0oqroHs)
 
 🎬 &nbsp; Alberto Cavalcanti <br>
 🎼 &nbsp; Darius Milhaud <br>
-📽️ &nbsp; 1927-10-01
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
+
+>[La p'tite Lili](https://youtu.be/_js46T-ynNQ) <br>
+> Orquesta de la Comunidad de Madrid·Roberto Pálmer
+&nbsp;(2011-05 &nbsp;<img src="/assets/img/flags/es.png" height="12" width="18"/>&nbsp; Residencia de Estudiantes, Madrid)
 
 <br>
 
 
-#### [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
+#### [1939]&nbsp; [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
 
 🎬 &nbsp; Jean Arroy <br>
 🎼 &nbsp; Jacques Ibert <br>
-📽️ &nbsp; 1931 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
->**乐团**：Orchestra des Concerts Lamoureux <br>
->**指挥**：佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> <br>
->**录音**：1996 年 4 月 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris
+> Orchestra des Concerts Lamoureux·佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> 
+&nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris)
 
 <br>
 
@@ -83,145 +82,154 @@ tags: music
 <br>
 
 
-#### [The City](https://youtu.be/7nuvcpnysjU)
+#### [1939]&nbsp; [The City](https://youtu.be/7nuvcpnysjU)
 
 🎬 &nbsp; Ralph Steiner<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Willard Van Dyke <br>
 🎼 &nbsp; Aaron Copland <br>
-📽️ &nbsp; 1939
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; New York
+
+>[The City (suite)](https://youtu.be/L_QcktclTwg) <br>
+> Eos Orchestra·Jonathan Sheffer
+&nbsp;(2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase)
+
+>[Music for Movies](https://youtu.be/klCSKcdw5Kw) <br>
+> New Philharmonia Orchestra·Aaron Copland
+&nbsp;(1970-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
 
 
-#### [Сказка о глупом мышонке <span style="color:grey">/ The Silly Little Mouse</span>](https://youtu.be/gk7il1GZx-g)
+#### [1940]&nbsp; [Сказка о глупом мышонке <span style="color:grey">/ The Silly Little Mouse</span>](https://youtu.be/gk7il1GZx-g)
 
 🎬 &nbsp; Михаил Цехановский <span style="color:grey">/ Mikhail Tsekhanovsky</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
-📽️ &nbsp; 1940-07-12
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
+
+>[The Silly Little Mouse, Op. 56](https://youtu.be/YzCucJb35Ao) <br>
+> Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span>·Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>
+&nbsp;(1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск <span style="color:darkgrey">/ Minsk</span>)
+
+
+>[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
+> Concertgebouworkest·Riccardo Chailly
+&nbsp;(1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam)
 
 <br>
 
 
-#### [Pacific 231](https://youtu.be/rKRCJhLU7rs)
+#### [1949]&nbsp; [Pacific 231](https://youtu.be/rKRCJhLU7rs)
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Arthur Honegger <br>
-📽️ &nbsp; 1949 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
 
->[Pacific 231, ou Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
->**乐团**：Tonhalle-Orchester Zürich <br>
->**指挥**：David Zinman <br>
->**录音**：1996 年 5 月 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich
+>[Pacific 231 / Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
+>Tonhalle-Orchester Zürich·David Zinman 
+&nbsp;(1996-05 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich)
 
 <br>
 
 
-#### [Symphonie mécanique](https://youtu.be/ltWMF-YA5Mc)
+#### [1955]&nbsp; [Symphonie mécanique](https://youtu.be/ltWMF-YA5Mc)
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Pierre Boulez <br>
-📽️ &nbsp; 1955 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
+
 
 <br>
 
 
-#### [Nuit et brouillard](https://youtu.be/3_BY5nzcb2E)
+#### [1956]&nbsp; [Nuit et brouillard](https://youtu.be/3_BY5nzcb2E)
 
 🎬 &nbsp; Alain Resnais <br>
 🎼 &nbsp; Hanns Eisler <br>
-📽️ &nbsp; 1956 年
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>
+
+>[Nuit et brouillard](https://youtube.com/playlist?list=PLWgTE7o3WcFO) <br>
+>Kammersymphonie Berlin·Jürgen Bruns 
+&nbsp;(2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus, Berlin)
 
 <br>
 
 
-#### [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
+#### [1958]&nbsp; [Glas](https://youtu.be/d3QEpQ9ozVU)
+
+🎬 &nbsp; Bert Haanstra <br>
+🎼 &nbsp; Pim Jacobs<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Tom Dissevelt <br>
+
+
+<br>
+
+
+#### [1959]&nbsp; [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
 
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
-🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
-📽️ &nbsp; 1959 年 
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
+🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
+
+>[三つの映画音楽 / Three Film Scores](https://youtu.be/Dh4egWqT0NA) <br>
+>London Sinfonietta·John Adams 
+&nbsp;(1995-12 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
 
 
-#### [Railroaded](https://youtu.be/vtYHrFbzlvk)
+#### [1968]&nbsp; [Railroaded](https://youtu.be/vtYHrFbzlvk)
 
 🎬 &nbsp; Harrison Engle <br>
 🎼 &nbsp; Philip Glass <br>
-📽️ &nbsp; 1968 年
-&nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>
 
 <br>
 
 
 ## 二 &nbsp;|&nbsp; 长片
 
-#### 2.1 &nbsp;|&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
+#### [1921]&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
 
 🎬 &nbsp; Arnold Fanck <br>
 🎼 &nbsp; Paul Hindemith <br>
-📽️ &nbsp; 1921-09-22
-&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/>&nbsp; Berlin
 
 <br>
 
 
-#### 2.2 &nbsp;|&nbsp; [Berlin: Die Sinfonie der Großstadt](https://youtu.be/MBCGTp3egbc)
+#### [1927]&nbsp; [Berlin: Die Sinfonie der Großstadt](https://youtu.be/MBCGTp3egbc)
 
 🎬 &nbsp; Walther Ruttmann <br>
 🎼 &nbsp; Edmund Meisel <br>
-📽️ &nbsp; 1927-09-23
-&nbsp;<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/>&nbsp; Berlin
 
 <br>
 
 
-#### [Новый Вавилон <span style="color:grey">/ The New Babylon</span>](https://youtu.be/cyOhcTuFYe0)
+#### [1929]&nbsp; [Новый Вавилон <span style="color:grey">/ The New Babylon</span>](https://youtu.be/cyOhcTuFYe0)
 
-🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span> <br>
-<span style="color:white">🎬 &nbsp; </span>Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
+🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
-📽️ &nbsp; 1929-03-18
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Ленинград <span style="color:grey">/ Leningrad</span>
 
 <br>
 
 
-#### [Madame Bovary](https://vk.com/video295803366_456239760)
+#### [1934]&nbsp; [Madame Bovary](https://vk.com/video295803366_456239760)
 
 🎬 &nbsp; Jean Renoir <br>
 🎼 &nbsp; Darius Milhaud <br>
-📽️ &nbsp; 1933-01-12
-&nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Paris
+
 
 <br>
 
 
-#### [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/Nbb539QZZXo)
+#### [1934]&nbsp; [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/Nbb539QZZXo)
 
 🎬 &nbsp; Александр Файнциммер <span style="color:grey">/ Aleksandr Faintsimmer</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
-📽️ &nbsp; 1934-03-07 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
->**乐团**：Chicago Symphony Orchestra <br>
->**指挥**：Fritz Reiner <br>
->**录音**：1959 年 3 月 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago
+>Chicago Symphony Orchestra·Fritz Reiner &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago)
 
 <br>
 
 
-#### [Redes](https://youtu.be/_bK54w6hkuY)
+#### [1936]&nbsp; [Redes](https://youtu.be/_bK54w6hkuY)
 
-🎬 &nbsp; Emilio Gómez Muriel & Fred Zinnemann <br>
+🎬 &nbsp; Emilio Gómez Muriel<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Fred Zinnemann <br>
 🎼 &nbsp; Silvestre Revueltas <br>
-📽️ &nbsp; 1936 年
-&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/>
+
+>[Redes (suite)](https://youtu.be/IQxdzbvAk6M) <br>
+>Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Orchestra Hall, Ciudad de México)
 
 <br>
 
@@ -236,18 +244,13 @@ tags: music
 <br>
 
 
-#### [Александр Невский <span style="color:grey">/ Alexander Nevsky</span>](https://youtu.be/LpVtoUFKZ7w)
+#### [1938]&nbsp; [Александр Невский <span style="color:grey">/ Alexander Nevsky</span>](https://youtu.be/LpVtoUFKZ7w)
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
-📽️ &nbsp; 1938 年 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
->**乐团**：Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> <br>
->**合唱**：Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <br>
->**指挥**：Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> <br>
->**录音**：2002 年 7 月 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli
+>Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span>·Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span>·Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli)
 
 <br>
 
@@ -344,8 +347,7 @@ tags: music
 
 #### [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
 
-🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <br>
-<span style="color:white">🎬 &nbsp; </span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
+🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
 📽️ &nbsp; 1965-11-22
 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
