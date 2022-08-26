@@ -9,7 +9,7 @@ tags: music
 
 ## 一 &nbsp;|&nbsp; 短片
 
-#### 1.1 &nbsp;|&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
+#### [1908]&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
 
 
 🎬 &nbsp; André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
