@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 26 Aug 2022 06:48:19 -0400</pubDate>
+    <pubDate>Fri, 26 Aug 2022 21:35:29 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -95,7 +95,7 @@ Orchestra des Concerts Lamoureux·佐渡裕 &lt;span style=&quot;color:darkgrey&
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/L_QcktclTwg&quot;&gt;The City (suite)&lt;/a&gt; &lt;br /&gt;
 Eos Orchestra·Jonathan Sheffer
- (2000-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  The Performing Arts Center, Purchase)&lt;/p&gt;
+ (2000-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  The Performing Arts Center, Purchase College, New York)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -114,7 +114,7 @@ New Philharmonia Orchestra·Aaron Copland
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/YzCucJb35Ao&quot;&gt;The Silly Little Mouse, Op. 56&lt;/a&gt; &lt;br /&gt;
 Российский государственный симфонический оркестр кинематографии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Russian State Cinematographic Symphony Orchestra&lt;/span&gt;·Вальтер Мнацаканов&lt;span style=&quot;color:darkgrey&quot;&gt; / Walter Mnatsakanov&lt;/span&gt;
- (1997-02  &lt;img src=&quot;/assets/img/flags/by.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Минск &lt;span style=&quot;color:darkgrey&quot;&gt;/ Minsk&lt;/span&gt;)&lt;/p&gt;
+ (1997-02  &lt;img src=&quot;/assets/img/flags/by.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Минск&lt;span style=&quot;color:darkgrey&quot;&gt;/Minsk&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -153,7 +153,7 @@ Tonhalle-Orchester Zürich·David Zinman
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLWgTE7o3WcFO&quot;&gt;Nuit et brouillard&lt;/a&gt; &lt;br /&gt;
 Kammersymphonie Berlin·Jürgen Bruns 
- (2016-11  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzerthaus, Berlin)&lt;/p&gt;
+ (2016-11  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzerthaus Berlin)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -194,10 +194,29 @@ London Sinfonietta·John Adams
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;1927-metropolis&quot;&gt;[1927]  &lt;a href=&quot;https://youtu.be/5BBnMCAIuQg&quot;&gt;Metropolis&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Fritz Lang &lt;br /&gt;
+🎼   Gottfried Huppertz &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLkAUJkbhd-RgBwLwuVhU0QW_tLcEvu_fk&quot;&gt;Metropolis, Op. 29&lt;/a&gt; &lt;br /&gt;
+Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
+ (2010-06/09  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Saal 1, Haus des Rundfunks, Berlin)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;1927-berlin-die-sinfonie-der-großstadt&quot;&gt;[1927]  &lt;a href=&quot;https://youtu.be/MBCGTp3egbc&quot;&gt;Berlin: Die Sinfonie der Großstadt&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Walther Ruttmann &lt;br /&gt;
 🎼   Edmund Meisel &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN&quot;&gt;Berlin: Die Sinfonie der Grosstadt&lt;/a&gt; &lt;br /&gt;
+Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
+ (2007-09  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzertsaal Hardenbergstraße, Berlin)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -234,17 +253,20 @@ Chicago Symphony Orchestra·Fritz Reiner  (1959-03  &lt;img src=&quot;/assets/
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/IQxdzbvAk6M&quot;&gt;Redes (suite)&lt;/a&gt; &lt;br /&gt;
-Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz  (1959-03  &lt;img src=&quot;/assets/img/flags/mx.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Orchestra Hall, Ciudad de México)&lt;/p&gt;
+Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz  (1980s  &lt;img src=&quot;/assets/img/flags/mx.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;o-descobrimento-do-brasil&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RibykMldK1U&quot;&gt;O Descobrimento do Brasil&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1937-o-descobrimento-do-brasil&quot;&gt;[1937]  &lt;a href=&quot;https://www.youtube.com/watch?v=RibykMldK1U&quot;&gt;O Descobrimento do Brasil&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Humberto Mauro &lt;br /&gt;
-🎼   Heitor Villa-Lobos &lt;br /&gt;
-📽️   1937 年
- &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
+🎼   Heitor Villa-Lobos &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=OLAK5uy_nuIVr5zY-Q6hINRYCZdc--Z2ZmuSUBmPk&quot;&gt;O Descobrimento do Brasil, Suites № 1–4&lt;/a&gt; &lt;br /&gt;
+Orchestre National de la Radiodiffusion France·Heitor Villa-Lobos  (1956-05/06  &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maison de la Mutualité, Paris)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -260,66 +282,82 @@ Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz  (1959-03  &lt;i
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;la-noche-de-los-mayas&quot;&gt;&lt;a href=&quot;https://youtu.be/A9sfaM1D2PM&quot;&gt;La noche de los mayas&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1939-la-noche-de-los-mayas&quot;&gt;[1939]  &lt;a href=&quot;https://youtu.be/A9sfaM1D2PM&quot;&gt;La noche de los mayas&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Chano Urueta &lt;br /&gt;
-🎼   Silvestre Revueltas &lt;br /&gt;
-📽️   1939 年
- &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
+🎼   Silvestre Revueltas &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/uenaA6djuzQ&quot;&gt;La noche de los mayas (suite)&lt;/a&gt; &lt;br /&gt;
+Orchestre de Paris·Alondra de la Parra 
+ (2015-06  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Philharmonie de Paris)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;henry-v&quot;&gt;&lt;a href=&quot;https://youtu.be/5BLBQIwZ_h4&quot;&gt;Henry V&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1944-henry-v&quot;&gt;[1944]  &lt;a href=&quot;https://youtu.be/5BLBQIwZ_h4&quot;&gt;Henry V&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Laurence Olivier &lt;br /&gt;
-🎼   William Walton &lt;br /&gt;
-📽️   1944-11-22
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  London&lt;/p&gt;
+🎼   William Walton &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD&quot;&gt;Henry V: A Shakespeare Scenario&lt;/a&gt; &lt;br /&gt;
+Academy of St Martin in the Fields·Choristers of Westminster Cathedral·Neville Marriner 
+ (1990-05  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;macbeth&quot;&gt;&lt;a href=&quot;https://youtu.be/96ZIo6IH_Qg&quot;&gt;Macbeth&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1948-macbeth&quot;&gt;[1948]  &lt;a href=&quot;https://youtu.be/96ZIo6IH_Qg&quot;&gt;Macbeth&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Orson Welles &lt;br /&gt;
-🎼   Jacques Ibert &lt;br /&gt;
-📽️   1948-10-09 
- &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Boston&lt;/p&gt;
+🎼   Jacques Ibert &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/3WDshzBPZYI&quot;&gt;Macbeth (suite)&lt;/a&gt; &lt;br /&gt;
+Symfonický orchester Československého rozhlasu·Adriano 
+ (1990-01  &lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;scott-of-the-antarctic&quot;&gt;&lt;a href=&quot;https://archive.org/details/scott-of-the-antarctic&quot;&gt;Scott of the Antarctic&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1948-scott-of-the-antarctic&quot;&gt;[1948]  &lt;a href=&quot;https://archive.org/details/scott-of-the-antarctic&quot;&gt;Scott of the Antarctic&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Charles Frend &lt;br /&gt;
-🎼   Ralph Vaughan Williams &lt;br /&gt;
-📽️   1948-11-29
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  London&lt;/p&gt;
+🎼   Ralph Vaughan Williams &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/Mv6YBg7PLag&quot;&gt;Sinfonia antartica / Symphony № 7&lt;/a&gt; &lt;br /&gt;
+London Philharmonic Orchestra·London Philharmonic Choir·Bernard Haitink
+ (1984-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;on-the-waterfront&quot;&gt;&lt;a href=&quot;https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa&quot;&gt;On the Waterfront&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1954-on-the-waterfront&quot;&gt;[1954]  &lt;a href=&quot;https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa&quot;&gt;On the Waterfront&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Elia Kazan &lt;br /&gt;
-🎼   Leonard Bernstein &lt;br /&gt;
-📽️   1954-07-28 
- &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  New York&lt;/p&gt;
+🎼   Leonard Bernstein &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/Q5fFUoL45OQ&quot;&gt;On the Waterfront (suite)&lt;/a&gt; &lt;br /&gt;
+New York Philharmonic·Leonard Bernstein 
+ (1960-05  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Manhattan Center, New York)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;赤線地帯--street-of-shame&quot;&gt;&lt;a href=&quot;https://archive.org/details/street-of-shame&quot;&gt;赤線地帯 &lt;span style=&quot;color:grey&quot;&gt;/ Street of Shame&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1956-赤線地帯--street-of-shame&quot;&gt;[1956]  &lt;a href=&quot;https://archive.org/details/street-of-shame&quot;&gt;赤線地帯 &lt;span style=&quot;color:grey&quot;&gt;/ Street of Shame&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   溝口健二 &lt;span style=&quot;color:grey&quot;&gt;/ Kenji Mizoguchi&lt;/span&gt; &lt;br /&gt;
-🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshiro Mayuzumi&lt;/span&gt; &lt;br /&gt;
-📽️   1956-03-18 
- &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt; &lt;/p&gt;
+🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshirō Mayuzumi&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;psycho&quot;&gt;&lt;a href=&quot;https://www.bilibili.tv/en/video/2048344656&quot;&gt;Psycho&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1960-psycho&quot;&gt;[1960]  &lt;a href=&quot;https://www.bilibili.tv/en/video/2048344656&quot;&gt;Psycho&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Alfred Hitchcock &lt;br /&gt;
-🎼   Bernard Herrmann &lt;br /&gt;
-📽️   1960-06-16
- &lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  New York&lt;/p&gt;
+🎼   Bernard Herrmann &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

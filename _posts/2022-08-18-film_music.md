@@ -89,7 +89,7 @@ tags: music
 
 >[The City (suite)](https://youtu.be/L_QcktclTwg) <br>
 > Eos Orchestra·Jonathan Sheffer
-&nbsp;(2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase)
+&nbsp;(2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase College, New York)
 
 >[Music for Movies](https://youtu.be/klCSKcdw5Kw) <br>
 > New Philharmonia Orchestra·Aaron Copland
@@ -105,7 +105,7 @@ tags: music
 
 >[The Silly Little Mouse, Op. 56](https://youtu.be/YzCucJb35Ao) <br>
 > Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span>·Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>
-&nbsp;(1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск <span style="color:darkgrey">/ Minsk</span>)
+&nbsp;(1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск<span style="color:darkgrey">/Minsk</span>)
 
 
 >[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
@@ -143,7 +143,7 @@ tags: music
 
 >[Nuit et brouillard](https://youtube.com/playlist?list=PLWgTE7o3WcFO) <br>
 >Kammersymphonie Berlin·Jürgen Bruns 
-&nbsp;(2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus, Berlin)
+&nbsp;(2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus Berlin)
 
 <br>
 
@@ -187,10 +187,26 @@ tags: music
 <br>
 
 
+#### [1927]&nbsp; [Metropolis](https://youtu.be/5BBnMCAIuQg)
+
+🎬 &nbsp; Fritz Lang <br>
+🎼 &nbsp; Gottfried Huppertz <br>
+
+>[Metropolis, Op. 29](https://youtube.com/playlist?list=PLkAUJkbhd-RgBwLwuVhU0QW_tLcEvu_fk) <br>
+>Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
+&nbsp;(2010-06/09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Saal 1, Haus des Rundfunks, Berlin)
+
+<br>
+
+
 #### [1927]&nbsp; [Berlin: Die Sinfonie der Großstadt](https://youtu.be/MBCGTp3egbc)
 
 🎬 &nbsp; Walther Ruttmann <br>
 🎼 &nbsp; Edmund Meisel <br>
+
+>[Berlin: Die Sinfonie der Grosstadt](https://youtube.com/playlist?list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN) <br>
+>Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
+&nbsp;(2007-09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzertsaal Hardenbergstraße, Berlin)
 
 <br>
 
@@ -229,17 +245,18 @@ tags: music
 🎼 &nbsp; Silvestre Revueltas <br>
 
 >[Redes (suite)](https://youtu.be/IQxdzbvAk6M) <br>
->Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Orchestra Hall, Ciudad de México)
+>Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz &nbsp;(1980s &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)
 
 <br>
 
 
-#### [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
+#### [1937]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
 
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
-📽️ &nbsp; 1937 年
-&nbsp;<img src="/assets/img/flags/br_21.png" height="12" width="18"/>
+
+>[O Descobrimento do Brasil, Suites № 1–4](https://youtube.com/playlist?list=OLAK5uy_nuIVr5zY-Q6hINRYCZdc--Z2ZmuSUBmPk) <br>
+>Orchestre National de la Radiodiffusion France·Heitor Villa-Lobos &nbsp;(1956-05/06 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Maison de la Mutualité, Paris)
 
 <br>
 
@@ -255,72 +272,78 @@ tags: music
 <br>
 
 
-#### [La noche de los mayas](https://youtu.be/A9sfaM1D2PM)
+#### [1939]&nbsp; [La noche de los mayas](https://youtu.be/A9sfaM1D2PM)
 
 🎬 &nbsp; Chano Urueta <br>
 🎼 &nbsp; Silvestre Revueltas <br>
-📽️ &nbsp; 1939 年
-&nbsp;<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/>
+
+>[La noche de los mayas (suite)](https://youtu.be/uenaA6djuzQ) <br>
+> Orchestre de Paris·Alondra de la Parra 
+&nbsp;(2015-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Philharmonie de Paris)
 
 <br>
 
 
-#### [Henry V](https://youtu.be/5BLBQIwZ_h4)
+#### [1944]&nbsp; [Henry V](https://youtu.be/5BLBQIwZ_h4)
 
 🎬 &nbsp; Laurence Olivier <br>
 🎼 &nbsp; William Walton <br>
-📽️ &nbsp; 1944-11-22
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
+
+>[Henry V: A Shakespeare Scenario](https://youtube.com/playlist?list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD) <br>
+> Academy of St Martin in the Fields·Choristers of Westminster Cathedral·Neville Marriner 
+&nbsp;(1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
 <br>
 
 
-#### [Macbeth](https://youtu.be/96ZIo6IH_Qg)
+#### [1948]&nbsp; [Macbeth](https://youtu.be/96ZIo6IH_Qg)
 
 🎬 &nbsp; Orson Welles <br>
 🎼 &nbsp; Jacques Ibert <br>
-📽️ &nbsp; 1948-10-09 
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Boston
+
+>[Macbeth (suite)](https://youtu.be/3WDshzBPZYI) <br>
+> Symfonický orchester Československého rozhlasu·Adriano 
+&nbsp;(1990-01 &nbsp;<img src="/assets/img/flags/cs.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
 <br>
 
 
-#### [Scott of the Antarctic](https://archive.org/details/scott-of-the-antarctic)
+#### [1948]&nbsp; [Scott of the Antarctic](https://archive.org/details/scott-of-the-antarctic)
 
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
-📽️ &nbsp; 1948-11-29
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
+
+>[Sinfonia antartica / Symphony № 7](https://youtu.be/Mv6YBg7PLag) <br>
+> London Philharmonic Orchestra·London Philharmonic Choir·Bernard Haitink
+&nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
 
 
-#### [On the Waterfront](https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa)
+#### [1954]&nbsp; [On the Waterfront](https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa)
 
 🎬 &nbsp; Elia Kazan <br>
 🎼 &nbsp; Leonard Bernstein <br>
-📽️ &nbsp; 1954-07-28 
-&nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; New York
+
+>[On the Waterfront (suite)](https://youtu.be/Q5fFUoL45OQ) <br>
+>New York Philharmonic·Leonard Bernstein 
+&nbsp;(1960-05 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Manhattan Center, New York)
 
 <br>
 
 
-#### [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
+#### [1956]&nbsp; [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
-📽️ &nbsp; 1956-03-18 
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
 
 <br>
 
 
-#### [Psycho](https://www.bilibili.tv/en/video/2048344656)
+#### [1960]&nbsp; [Psycho](https://www.bilibili.tv/en/video/2048344656)
 
 🎬 &nbsp; Alfred Hitchcock <br>
 🎼 &nbsp; Bernard Herrmann <br>
-📽️ &nbsp; 1960-06-16
-&nbsp;<img src="/assets/img/flags/us_49.png" height="12" width="18"/>&nbsp; New York
 
 <br>
 
