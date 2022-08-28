@@ -283,7 +283,7 @@ tags: music
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil (4 suites)](https://youtu.be/K266nfbB12g) <br>
+>[O Descobrimento do Brasil: 4 Suites](https://youtu.be/K266nfbB12g) <br>
 >Symfonický orchester Slovenského rozhlasu·Slovenský filharmonický zbor·Roberto Duarte 
 &nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
@@ -318,9 +318,53 @@ tags: music
 🎬 &nbsp; Laurence Olivier <br>
 🎼 &nbsp; William Walton <br>
 
+
+Malcolm Sargent
+
+>[Henry V (1945 suite)](https://youtu.be/Vs40a0BbbRc) <br>
+> London Philharmonic Orchestra·London Philharmonic Choir·Carl Davis 
+&nbsp;(1986-03/05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+
+Muir Mathieson
+
+>[Henry V (1963 suite)](https://www.youtube.com/watch?v=CzSPKj_zan8&list=PL8AhTXrM6LH2qYLZeMm5R21xa52WhMeg4&index=1) <br>
+> Philharmonia Orchestra·William Walton 
+&nbsp;(1963-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+
+
+Christopher Palmer
+
 >[Henry V: A Shakespeare Scenario](https://youtube.com/playlist?list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD) <br>
 > Academy of St Martin in the Fields·Choristers of Westminster Cathedral·Neville Marriner 
 &nbsp;(1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+
+<br>
+
+
+#### [1944/1945]&nbsp; [Иван Грозный <span style="color:grey">/ Ivan the Terrible</span>](https://youtu.be/LpVtoUFKZ7w)
+
+🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
+🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
+
+>[Ivan the Terrible, Op. 116](https://www.youtube.com/watch?v=nIrOPJQtlnI&list=OLAK5uy_ktW83vO3Ub0Gh0ms8xbiq3LeCX7S2mqoc&index=1) <br>
+>Большой симфонический оркестр имени П. И. Чайковского<span style="color:darkgrey"> / Tchaikovsky Symphony Orchestra</span>·Государственная академическая хоровая капелла России имени А. А. Юрлова (Капелла Юрлова) <span style="color:darkgrey">/ Yurlov Capella</span>·Детский хор «Весна» имени А. С. Пономарева <span style="color:darkgrey">/ Vesna Children's Choir</span>·Владимир Федосеев <span style="color:darkgrey">/ Vladimir Fedoseyev</span> &nbsp;(1998 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+
+
+Абрама Стасевича <span style="color:grey">/ Abram Stasevich</span>
+
+>[Ivan the Terrible (1961 oratorio)]() <br>
+>Rotterdams Philharmonisch Orkest·Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span>·Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(1996-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; de Doelen, Rotterdam)
+
+Michael Lankester
+
+>[Ivan the Terrible (1998 oratorio)](https://www.discogs.com/release/13893418-Prokofiev-Christopher-Plummer-Tamara-Sinyavskaya-Sergei-Leiferkus-New-London-Childrens-Choir-Dolora-) <br>
+>London Symphony Orchestra·London Symphony Chorus·New London Children’s Choir·Мстислав Ростропович <span style="color:darkgrey">/ Mstislav Rostropovich</span> &nbsp;(1991-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
+
+Christopher Palmer
+
+>[Ivan the Terrible (concert scenario)](https://www.youtube.com/watch?v=BHRtUEruPDo&list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&index=1) <br>
+>Philharmonia Orchestra·Philharmonia Chorus·Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+
 
 <br>
 
@@ -386,6 +430,10 @@ tags: music
 🎬 &nbsp; Alfred Hitchcock <br>
 🎼 &nbsp; Bernard Herrmann <br>
 
+>[Psycho: A Suite for Strings](https://www.youtube.com/watch?v=qYPYHmuX-gQ&list=PL8AhTXrM6LH2mFRVcfQ3-pwWJiN1B42Mc&index=1) <br>
+> Los Angeles Philharmonic·Esa-Pekka Salonen
+&nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Todd-AO Scoring Stage, Los Angeles)
+
 <br>
 
 
@@ -442,7 +490,7 @@ tags: music
 <br>
 
 
-#### [1966–1967]&nbsp; [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
+#### [1966/1967]&nbsp; [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
@@ -453,22 +501,18 @@ tags: music
 ## 三 &nbsp;|&nbsp; 插曲
 
 
-#### 3.1 &nbsp;|&nbsp; [Cabiria](https://youtu.be/H2jrQTgP_bs):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Sinfonia del fuoco''](https://youtu.be/OkhkoFVA-JU)
+#### [1914]&nbsp; [Cabiria](https://youtu.be/H2jrQTgP_bs):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Sinfonia del fuoco''](https://youtu.be/OkhkoFVA-JU)
 
 🎬 &nbsp; Giovanni Pastrone <br>
-**作曲**：Ildebrando Pizzetti <br>
-📽️ &nbsp; 1914 年 
-&nbsp;<img src="/assets/img/flags/it_king.png" height="12" width="18"/>
+🎼 &nbsp; Ildebrando Pizzetti <br>
 
 <br>
 
 
-#### [Battle of Britain](https://www.imdb.com/title/tt0064072/):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Battle in the Air''](https://youtu.be/gTv_4DPQUnQ)
+#### [1969]&nbsp; [Battle of Britain](https://www.imdb.com/title/tt0064072/):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Battle in the Air''](https://youtu.be/gTv_4DPQUnQ)
 
 🎬 &nbsp; Guy Hamilton <br>
 🎼 &nbsp; William Walton <br>
-📽️ &nbsp; 1969 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
 
 <br>
 
@@ -476,24 +520,21 @@ tags: music
 ## 四 &nbsp;|&nbsp; 重编音乐
 
 
-#### [The Tocher](https://vimeo.com/80300555)
+#### [1938]&nbsp; [The Tocher](https://vimeo.com/80300555)
 
 🎬 &nbsp; Lotte Reiniger <br>
-**原曲**：Gioachino Rossini <br>
-**编曲**：Benjamin Britten <br>
-📽️ &nbsp; 1938 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
+🎼 &nbsp; Gioachino Rossini <br>
+✒️ &nbsp; Benjamin Britten <br>
 
 <br>
 
 
-#### [Evil Under the Sun](https://archive.org/details/muerte-bajo-el-sol)
+#### [1982]&nbsp; [Evil Under the Sun](https://archive.org/details/muerte-bajo-el-sol)
 
 🎬 &nbsp; Guy Hamilton <br>
-**原曲**：Cole Porter <br>
-**编曲**：John Lanchbery <br>
-📽️ &nbsp; 1982 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
+🎼 &nbsp; Cole Porter <br>
+✒️ &nbsp; John Lanchbery <br>
+
 
 <br>
 
