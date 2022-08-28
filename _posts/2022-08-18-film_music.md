@@ -12,7 +12,7 @@ tags: music
 #### [1908]&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
 
 
-🎬 &nbsp; André Calmettes<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Charles Le Bargy <br>
+🎬 &nbsp; André Calmettes **&#8729;** Charles Le Bargy <br>
 🎼 &nbsp; Camille Saint-Saëns <br>
 
 >[L'Assassinat du duc de Guise, Op. 128](https://youtu.be/FuUC_QysVxw) <br>
@@ -24,11 +24,11 @@ tags: music
 
 #### [1924]&nbsp; [Ballet mécanique](https://youtu.be/oMnZgykH1Bk)
 
-🎬 &nbsp; Fernand Léger<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Dudley Murphy <br>
+🎬 &nbsp; Fernand Léger **&#8729;** Dudley Murphy <br>
 🎼 &nbsp; Georges Antheil <br>
 
 >[Ballet pour instruments mécaniques et percussion](https://youtu.be/tX8UHrFZzO8) <br>
-> Boston Modern Orchestra Project·Gil Rose
+> Boston Modern Orchestra Project **&#8729;** Gil Rose
 &nbsp;(2009-11 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Jordan Hall, Boston)
 
 
@@ -41,7 +41,7 @@ tags: music
 🎼 &nbsp; Erik Satie <br>
 
 >[Cinéma, entr'acte symphonique de &lsquo;&lsquo;Relâche''](https://youtu.be/mdURohWzFKQ) <br>
-> Ensemble Ars Nova·Marius Constant 
+> Ensemble Ars Nova **&#8729;** Marius Constant 
 &nbsp;(1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris)
 
 <br>
@@ -53,7 +53,7 @@ tags: music
 🎼 &nbsp; Darius Milhaud <br>
 
 >[La p'tite Lili](https://youtu.be/_js46T-ynNQ) <br>
-> Orquesta de la Comunidad de Madrid·Roberto Pálmer
+> Orquesta de la Comunidad de Madrid **&#8729;** Roberto Pálmer
 &nbsp;(2011-05 &nbsp;<img src="/assets/img/flags/es.png" height="12" width="18"/>&nbsp; Residencia de Estudiantes, Madrid)
 
 <br>
@@ -65,7 +65,7 @@ tags: music
 🎼 &nbsp; Jacques Ibert <br>
 
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
-> Orchestra des Concerts Lamoureux·佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> 
+> Orchestra des Concerts Lamoureux **&#8729;** 佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> 
 &nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris)
 
 <br>
@@ -84,15 +84,15 @@ tags: music
 
 #### [1939]&nbsp; [The City](https://youtu.be/7nuvcpnysjU)
 
-🎬 &nbsp; Ralph Steiner<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Willard Van Dyke <br>
+🎬 &nbsp; Ralph Steiner **&#8729;** Willard Van Dyke <br>
 🎼 &nbsp; Aaron Copland <br>
 
 >[The City (suite)](https://youtu.be/L_QcktclTwg) <br>
-> Eos Orchestra·Jonathan Sheffer
+> Eos Orchestra **&#8729;** Jonathan Sheffer
 &nbsp;(2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase College, New York)
 
 >[Music for Movies](https://youtu.be/klCSKcdw5Kw) <br>
-> New Philharmonia Orchestra·Aaron Copland
+> New Philharmonia Orchestra **&#8729;** Aaron Copland
 &nbsp;(1970-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
@@ -104,12 +104,12 @@ tags: music
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The Silly Little Mouse, Op. 56](https://youtu.be/YzCucJb35Ao) <br>
-> Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span>·Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>
+> Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span> **&#8729;** Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>
 &nbsp;(1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск<span style="color:darkgrey">/Minsk</span>)
 
 
 >[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
-> Concertgebouworkest·Riccardo Chailly
+> Concertgebouworkest **&#8729;** Riccardo Chailly
 &nbsp;(1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam)
 
 <br>
@@ -121,7 +121,7 @@ tags: music
 🎼 &nbsp; Arthur Honegger <br>
 
 >[Pacific 231 / Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
->Tonhalle-Orchester Zürich·David Zinman 
+>Tonhalle-Orchester Zürich **&#8729;** David Zinman 
 &nbsp;(1996-05 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich)
 
 <br>
@@ -142,7 +142,7 @@ tags: music
 🎼 &nbsp; Hanns Eisler <br>
 
 >[Nuit et brouillard](https://youtube.com/playlist?list=PLWgTE7o3WcFO) <br>
->Kammersymphonie Berlin·Jürgen Bruns 
+>Kammersymphonie Berlin **&#8729;** Jürgen Bruns 
 &nbsp;(2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus Berlin)
 
 <br>
@@ -151,7 +151,7 @@ tags: music
 #### [1958]&nbsp; [Glas](https://youtu.be/d3QEpQ9ozVU)
 
 🎬 &nbsp; Bert Haanstra <br>
-🎼 &nbsp; Pim Jacobs<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Tom Dissevelt <br>
+🎼 &nbsp; Pim Jacobs **&#8729;** Tom Dissevelt <br>
 
 
 <br>
@@ -163,7 +163,7 @@ tags: music
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
 
 >[三つの映画音楽 / Three Film Scores](https://youtu.be/Dh4egWqT0NA) <br>
->London Sinfonietta·John Adams 
+>London Sinfonietta **&#8729;** John Adams 
 &nbsp;(1995-12 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
@@ -193,7 +193,7 @@ tags: music
 🎼 &nbsp; Gottfried Huppertz <br>
 
 >[Die Nibelungen (suite)](https://www.youtube.com/watch?v=G-8ZKFqQhHw&list=PL8AhTXrM6LH1P0EnrJtpAF02LOkhqW2pa&index=1) <br>
->hr-Sinfonieorchester·Frank Strobel 
+>hr-Sinfonieorchester **&#8729;** Frank Strobel 
 &nbsp;(2009-06/07 & 2010-03 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; hr-Sendesaal, Frankfurt)
 
 <br>
@@ -205,7 +205,7 @@ tags: music
 🎼 &nbsp; Edmund Meisel <br>
 
 >[Berlin: Die Sinfonie der Grosstadt](https://www.youtube.com/watch?v=9p9i9EaEXT4&list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN&index=1) <br>
->Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
+>Rundfunk-Sinfonieorchester Berlin **&#8729;** Frank Strobel 
 &nbsp;(2007-09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzertsaal Hardenbergstraße, Berlin)
 
 <br>
@@ -217,18 +217,18 @@ tags: music
 🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
 
 >[October (symphonic poem), Op. 131](https://youtu.be/gIorDIfjgm8) <br> 
->Московский государственный симфонический оркестр <span style="color:grey">/ Moscow State Symphony Orchestra</span>·Вероника Дударова<span style="color:grey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Московский государственный симфонический оркестр <span style="color:grey">/ Moscow State Symphony Orchestra</span> **&#8729;** Вероника Дударова<span style="color:grey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
 
 #### [1929]&nbsp; [Новый Вавилон <span style="color:grey">/ The New Babylon</span>](https://youtu.be/cyOhcTuFYe0)
 
-🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
+🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span> **&#8729;** Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
->Академический симфонический оркестр Московской государственной филармонии <span style="color:grey">/ Moscow Philharmonic Orchestra</span>·Геннадий Рождественский<span style="color:grey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Академический симфонический оркестр Московской государственной филармонии <span style="color:grey">/ Moscow Philharmonic Orchestra</span> **&#8729;** Геннадий Рождественский<span style="color:grey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
@@ -239,7 +239,7 @@ tags: music
 🎼 &nbsp; Darius Milhaud <br>
 
 >[L'Album de Madame Bovary, Op. 128b](https://www.youtube.com/watch?v=JWbYNQuDow8&list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&index=1) <br>
->Alexandre Tharaud·Madeleine Milhaud &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
+>Alexandre Tharaud **&#8729;** Madeleine Milhaud &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
 
 <br>
 
@@ -250,18 +250,18 @@ tags: music
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
->Chicago Symphony Orchestra·Fritz Reiner &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago)
+>Chicago Symphony Orchestra **&#8729;** Fritz Reiner &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago)
 
 <br>
 
 
 #### [1936]&nbsp; [Redes](https://youtu.be/_bK54w6hkuY)
 
-🎬 &nbsp; Emilio Gómez Muriel<span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Fred Zinnemann <br>
+🎬 &nbsp; Emilio Gómez Muriel **&#8729;** Fred Zinnemann <br>
 🎼 &nbsp; Silvestre Revueltas <br>
 
 >[Redes (suite)](https://youtu.be/IQxdzbvAk6M) <br>
->Orquesta Filarmónica de la Ciudad de México·Enrique Bátiz &nbsp;(1980s &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)
+>Orquesta Filarmónica de la Ciudad de México **&#8729;** Enrique Bátiz &nbsp;(1980s &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)
 
 <br>
 
@@ -272,7 +272,7 @@ tags: music
 🎼 &nbsp; Benjamin Britten <br>
 
 >[Love from a Stranger (suite)](https://youtu.be/lmB9gauIGA4) <br>
-> BBC Symphony Orchestra·Jac van Steen
+> BBC Symphony Orchestra **&#8729;** Jac van Steen
 &nbsp;(1999-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
 
 <br>
@@ -284,7 +284,7 @@ tags: music
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
 >[O Descobrimento do Brasil: 4 Suites](https://youtu.be/K266nfbB12g) <br>
->Symfonický orchester Slovenského rozhlasu·Slovenský filharmonický zbor·Roberto Duarte 
+>Symfonický orchester Slovenského rozhlasu **&#8729;** Slovenský filharmonický zbor **&#8729;** Roberto Duarte 
 &nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
 <br>
@@ -296,7 +296,7 @@ tags: music
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
->Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span>·Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span>·Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli)
+>Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> **&#8729;** Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> **&#8729;** Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli)
 
 <br>
 
@@ -307,7 +307,7 @@ tags: music
 🎼 &nbsp; Silvestre Revueltas <br>
 
 >[La noche de los mayas (suite)](https://youtu.be/uenaA6djuzQ) <br>
-> Orchestre de Paris·Alondra de la Parra 
+> Orchestre de Paris **&#8729;** Alondra de la Parra 
 &nbsp;(2015-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Philharmonie de Paris)
 
 <br>
@@ -322,20 +322,20 @@ tags: music
 Malcolm Sargent
 
 >[Henry V (1945 suite)](https://youtu.be/Vs40a0BbbRc) <br>
-> London Philharmonic Orchestra·London Philharmonic Choir·Carl Davis 
+> London Philharmonic Orchestra **&#8729;** London Philharmonic Choir **&#8729;** Carl Davis 
 &nbsp;(1986-03/05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 Muir Mathieson
 
 >[Henry V (1963 suite)](https://www.youtube.com/watch?v=CzSPKj_zan8&list=PL8AhTXrM6LH2qYLZeMm5R21xa52WhMeg4&index=1) <br>
-> Philharmonia Orchestra·William Walton 
+> Philharmonia Orchestra **&#8729;** William Walton 
 &nbsp;(1963-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 
 Christopher Palmer
 
 >[Henry V: A Shakespeare Scenario](https://youtube.com/playlist?list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD) <br>
-> Academy of St Martin in the Fields·Choristers of Westminster Cathedral·Neville Marriner 
+> Academy of St Martin in the Fields **&#8729;** Choristers of Westminster Cathedral **&#8729;** Neville Marriner 
 &nbsp;(1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
 <br>
@@ -347,23 +347,23 @@ Christopher Palmer
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Ivan the Terrible, Op. 116](https://www.youtube.com/watch?v=nIrOPJQtlnI&list=OLAK5uy_ktW83vO3Ub0Gh0ms8xbiq3LeCX7S2mqoc&index=1) <br>
->Большой симфонический оркестр имени П. И. Чайковского<span style="color:darkgrey"> / Tchaikovsky Symphony Orchestra</span>·Государственная академическая хоровая капелла России имени А. А. Юрлова (Капелла Юрлова) <span style="color:darkgrey">/ Yurlov Capella</span>·Детский хор «Весна» имени А. С. Пономарева <span style="color:darkgrey">/ Vesna Children's Choir</span>·Владимир Федосеев <span style="color:darkgrey">/ Vladimir Fedoseyev</span> &nbsp;(1998 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Большой симфонический оркестр имени П. И. Чайковского<span style="color:darkgrey"> / Tchaikovsky Symphony Orchestra</span> **&#8729;** Государственная академическая хоровая капелла России имени А. А. Юрлова (Капелла Юрлова) <span style="color:darkgrey">/ Yurlov Capella</span> **&#8729;** Детский хор «Весна» имени А. С. Пономарева <span style="color:darkgrey">/ Vesna Children's Choir</span> **&#8729;** Владимир Федосеев <span style="color:darkgrey">/ Vladimir Fedoseyev</span> &nbsp;(1998 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 
 Абрама Стасевича <span style="color:grey">/ Abram Stasevich</span>
 
 >[Ivan the Terrible (1961 oratorio)]() <br>
->Rotterdams Philharmonisch Orkest·Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span>·Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(1996-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; de Doelen, Rotterdam)
+>Rotterdams Philharmonisch Orkest **&#8729;** Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> **&#8729;** Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(1996-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; de Doelen, Rotterdam)
 
 Michael Lankester
 
 >[Ivan the Terrible (1998 oratorio)](https://www.discogs.com/release/13893418-Prokofiev-Christopher-Plummer-Tamara-Sinyavskaya-Sergei-Leiferkus-New-London-Childrens-Choir-Dolora-) <br>
->London Symphony Orchestra·London Symphony Chorus·New London Children’s Choir·Мстислав Ростропович <span style="color:darkgrey">/ Mstislav Rostropovich</span> &nbsp;(1991-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
+>London Symphony Orchestra **&#8729;** London Symphony Chorus **&#8729;** New London Children’s Choir **&#8729;** Мстислав Ростропович <span style="color:darkgrey">/ Mstislav Rostropovich</span> &nbsp;(1991-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
 
 Christopher Palmer
 
 >[Ivan the Terrible (concert scenario)](https://www.youtube.com/watch?v=BHRtUEruPDo&list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&index=1) <br>
->Philharmonia Orchestra·Philharmonia Chorus·Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+>Philharmonia Orchestra **&#8729;** Philharmonia Chorus **&#8729;** Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
 
 <br>
@@ -375,7 +375,7 @@ Christopher Palmer
 🎼 &nbsp; Jacques Ibert <br>
 
 >[Macbeth (suite)](https://youtu.be/3WDshzBPZYI) <br>
-> Symfonický orchester Československého rozhlasu·Adriano 
+> Symfonický orchester Československého rozhlasu **&#8729;** Adriano 
 &nbsp;(1990-01 &nbsp;<img src="/assets/img/flags/cs.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
 <br>
@@ -387,7 +387,7 @@ Christopher Palmer
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
 >[Sinfonia antartica / Symphony № 7](https://youtu.be/Mv6YBg7PLag) <br>
-> London Philharmonic Orchestra·London Philharmonic Choir·Bernard Haitink
+> London Philharmonic Orchestra **&#8729;** London Philharmonic Choir **&#8729;** Bernard Haitink
 &nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
 <br>
@@ -399,7 +399,7 @@ Christopher Palmer
 🎼 &nbsp; Aaron Copland <br>
 
 >[The Red Pony (suite)](https://www.youtube.com/watch?v=R-L7fnl9i84&list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&index=1) <br>
-> St. Louis Symphony Orchestra·André Previn
+> St. Louis Symphony Orchestra **&#8729;** André Previn
 &nbsp;(1963-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; St. Louis)
 
 <br>
@@ -411,7 +411,7 @@ Christopher Palmer
 🎼 &nbsp; Leonard Bernstein <br>
 
 >[On the Waterfront (suite)](https://youtu.be/Q5fFUoL45OQ) <br>
->New York Philharmonic·Leonard Bernstein 
+>New York Philharmonic **&#8729;** Leonard Bernstein 
 &nbsp;(1960-05 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Manhattan Center, New York)
 
 <br>
@@ -431,7 +431,7 @@ Christopher Palmer
 🎼 &nbsp; Bernard Herrmann <br>
 
 >[Psycho: A Suite for Strings](https://www.youtube.com/watch?v=qYPYHmuX-gQ&list=PL8AhTXrM6LH2mFRVcfQ3-pwWJiN1B42Mc&index=1) <br>
-> Los Angeles Philharmonic·Esa-Pekka Salonen
+> Los Angeles Philharmonic **&#8729;** Esa-Pekka Salonen
 &nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Todd-AO Scoring Stage, Los Angeles)
 
 <br>
@@ -443,7 +443,7 @@ Christopher Palmer
 🎼 &nbsp; Aaron Copland <br>
 
 >[Music for a Great City](https://youtu.be/QJec1XdObNg) <br>
-> London Symphony Orchestra·Aaron Copland
+> London Symphony Orchestra **&#8729;** Aaron Copland
 &nbsp;(1964-06 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
 
 <br>
@@ -455,7 +455,7 @@ Christopher Palmer
 🎼 &nbsp; Robert Gerhard <br>
 
 >[This Sporting Life (suite)](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
-> BBC Symphony Orchestra·Jac van Steen
+> BBC Symphony Orchestra **&#8729;** Jac van Steen
 &nbsp;(2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
 
 <br>
@@ -473,11 +473,11 @@ Christopher Palmer
 
 #### [1965]&nbsp; [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
 
-🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
+🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> **&#8729;** Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
 
 >[Time, Forward! (suite)](https://youtu.be/pU3vk9Dim3g) <br>
-> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:grey">/ USSR Radio and Television Symphony Orchestra</span>·Владимир Федосеев<span style="color:grey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:grey">/ USSR Radio and Television Symphony Orchestra</span> **&#8729;** Владимир Федосеев<span style="color:grey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
