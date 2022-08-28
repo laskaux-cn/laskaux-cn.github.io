@@ -187,14 +187,14 @@ tags: music
 <br>
 
 
-#### [1927]&nbsp; [Metropolis](https://youtu.be/5BBnMCAIuQg)
+#### [1924]&nbsp; [Die Nibelungen](https://youtu.be/4-rVkjME9CE)
 
 🎬 &nbsp; Fritz Lang <br>
 🎼 &nbsp; Gottfried Huppertz <br>
 
->[Metropolis, Op. 29](https://youtube.com/playlist?list=PLkAUJkbhd-RgBwLwuVhU0QW_tLcEvu_fk) <br>
->Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
-&nbsp;(2010-06/09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Saal 1, Haus des Rundfunks, Berlin)
+>[Die Nibelungen (suite)](https://www.youtube.com/watch?v=G-8ZKFqQhHw&list=PL8AhTXrM6LH1P0EnrJtpAF02LOkhqW2pa&index=1) <br>
+>hr-Sinfonieorchester·Frank Strobel 
+&nbsp;(2009-06/07 & 2010-03 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; hr-Sendesaal, Frankfurt)
 
 <br>
 
@@ -204,9 +204,20 @@ tags: music
 🎬 &nbsp; Walther Ruttmann <br>
 🎼 &nbsp; Edmund Meisel <br>
 
->[Berlin: Die Sinfonie der Grosstadt](https://youtube.com/playlist?list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN) <br>
+>[Berlin: Die Sinfonie der Grosstadt](https://www.youtube.com/watch?v=9p9i9EaEXT4&list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN&index=1) <br>
 >Rundfunk-Sinfonieorchester Berlin·Frank Strobel 
 &nbsp;(2007-09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzertsaal Hardenbergstraße, Berlin)
+
+<br>
+
+
+#### [1927]&nbsp; [Октябрь <span style="color:grey">/ October: Ten Days That Shook the World</span>](https://youtu.be/YVuf3T3k-W0)
+
+🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
+🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
+
+>[October (symphonic poem), Op. 131](https://youtu.be/gIorDIfjgm8) <br> 
+>Московский государственный симфонический оркестр <span style="color:grey">/ Moscow State Symphony Orchestra</span>·Вероника Дударова<span style="color:grey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
@@ -216,6 +227,9 @@ tags: music
 🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
+>[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
+>Академический симфонический оркестр Московской государственной филармонии <span style="color:grey">/ Moscow Philharmonic Orchestra</span>·Геннадий Рождественский<span style="color:grey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+
 <br>
 
 
@@ -224,6 +238,8 @@ tags: music
 🎬 &nbsp; Jean Renoir <br>
 🎼 &nbsp; Darius Milhaud <br>
 
+>[L'Album de Madame Bovary, Op. 128b](https://www.youtube.com/watch?v=JWbYNQuDow8&list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&index=1) <br>
+>Alexandre Tharaud·Madeleine Milhaud &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
 
 <br>
 
@@ -250,13 +266,26 @@ tags: music
 <br>
 
 
+#### [1937]&nbsp; [Love from a Stranger](https://youtu.be/YUl7Xxuzmmo)
+
+🎬 &nbsp; Rowland V. Lee <br>
+🎼 &nbsp; Benjamin Britten <br>
+
+>[Love from a Stranger (suite)](https://youtu.be/lmB9gauIGA4) <br>
+> BBC Symphony Orchestra·Jac van Steen
+&nbsp;(1999-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
+
+<br>
+
+
 #### [1937]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
 
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil, Suites № 1–4](https://youtube.com/playlist?list=OLAK5uy_nuIVr5zY-Q6hINRYCZdc--Z2ZmuSUBmPk) <br>
->Orchestre National de la Radiodiffusion France·Heitor Villa-Lobos &nbsp;(1956-05/06 &nbsp;<img src="/assets/img/flags/fr_da.png" height="12" width="18"/>&nbsp; Maison de la Mutualité, Paris)
+>[O Descobrimento do Brasil: Suites № 1–4](https://youtu.be/K266nfbB12g) <br>
+>Symfonický orchester Slovenského rozhlasu·Slovenský filharmonický zbor·Roberto Duarte 
+&nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
 <br>
 
@@ -320,6 +349,18 @@ tags: music
 <br>
 
 
+#### [1949]&nbsp; [The Red Pony](https://m4uhd.tv/watch-movie-the-red-pony-1949-244197.html)
+
+🎬 &nbsp; Lewis Milestone <br>
+🎼 &nbsp; Aaron Copland <br>
+
+>[The Red Pony (suite)](https://www.youtube.com/watch?v=R-L7fnl9i84&list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&index=1) <br>
+> St. Louis Symphony Orchestra·André Previn
+&nbsp;(1963-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; St. Louis)
+
+<br>
+
+
 #### [1954]&nbsp; [On the Waterfront](https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa)
 
 🎬 &nbsp; Elia Kazan <br>
@@ -348,12 +389,26 @@ tags: music
 <br>
 
 
-#### [This Sporting Life](https://youtu.be/J9KOD8WNb6I)
+#### [1961]&nbsp; [Something Wild](https://m4uhd.tv/watch-movie-something-wild-1961-224868.html)
+
+🎬 &nbsp; Jack Garfein <br>
+🎼 &nbsp; Aaron Copland <br>
+
+>[Music for a Great City](https://youtu.be/QJec1XdObNg) <br>
+> London Symphony Orchestra·Aaron Copland
+&nbsp;(1964-06 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
+
+<br>
+
+
+#### [1963]&nbsp; [This Sporting Life](https://youtu.be/J9KOD8WNb6I)
 
 🎬 &nbsp; Lindsay Anderson <br>
 🎼 &nbsp; Robert Gerhard <br>
-📽️ &nbsp; 1963-02-07 
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; London
+
+>[This Sporting Life (suite)](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
+> BBC Symphony Orchestra·Jac van Steen
+&nbsp;(2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
 
 <br>
 
@@ -361,39 +416,36 @@ tags: music
 #### [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
 📽️ &nbsp; 1965-03-20
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
 <br>
 
 
-#### [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
+#### [1965]&nbsp; [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
 
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span><span style="font-size:0.5em">&nbsp;</span> & <span style="font-size:0.5em">&nbsp;</span>Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
-📽️ &nbsp; 1965-11-22
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
+
+>[Time, Forward! (suite)](https://youtu.be/pU3vk9Dim3g) <br>
+> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:grey">/ USSR Radio and Television Symphony Orchestra</span>·Владимир Федосеев<span style="color:grey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
 
-#### [Андрей Рублёв <span style="color:grey">/ Andrei Rublev</span>](https://youtu.be/je75FDjcUP4)
+#### [1966]&nbsp; [Андрей Рублёв <span style="color:grey">/ Andrei Rublev</span>](https://youtu.be/je75FDjcUP4)
 
 🎬 &nbsp; Андрей Тарковский <span style="color:grey">/ 	Andrei Tarkovsky</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-📽️ &nbsp; 1966-12-16 
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Ленинград <span style="color:grey">/ Leningrad</span>
 
 <br>
 
 
-#### [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
+#### [1966–1967]&nbsp; [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
-📽️ &nbsp; 1966-03-14
-&nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>
 
 <br>
 
