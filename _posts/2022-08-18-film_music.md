@@ -283,7 +283,7 @@ tags: music
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil: Suites № 1–4](https://youtu.be/K266nfbB12g) <br>
+>[O Descobrimento do Brasil (4 suites)](https://youtu.be/K266nfbB12g) <br>
 >Symfonický orchester Slovenského rozhlasu·Slovenský filharmonický zbor·Roberto Duarte 
 &nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
