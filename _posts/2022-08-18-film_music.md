@@ -59,7 +59,7 @@ tags: music
 <br>
 
 
-#### [1939]&nbsp; [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
+#### [1931]&nbsp; [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
 
 🎬 &nbsp; Jean Arroy <br>
 🎼 &nbsp; Jacques Ibert <br>
@@ -72,12 +72,14 @@ tags: music
 
 
 
-#### [The King's Stamp](https://www.dailymotion.com/video/x21r04k)
+#### [1936]&nbsp; [Night Mail](https://www.youtube.com/watch?v=wxehLOW32N0&list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&index=1)
 
-🎬 &nbsp; William Coldstream <br>
+🎬 &nbsp; Harry Watt <span style="font-size:0.9em">·</span> Basil Wright <br>
 🎼 &nbsp; Benjamin Britten <br>
-📽️ &nbsp; 1935 年
-&nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>
+
+>[Night Mail](https://www.youtube.com/watch?v=wxehLOW32N0&list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&index=1) <br>
+> Birmingham Contemporary Music Group <span style="font-size:0.9em">·</span> Martyn Brabbins
+&nbsp;(2006-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; CBSO Centre, Birmingham)
 
 <br>
 
@@ -187,7 +189,7 @@ tags: music
 <br>
 
 
-#### [1924]&nbsp; [Die Nibelungen](https://youtu.be/4-rVkjME9CE)
+#### [1924]&nbsp; [Die Nibelungen](https://www.youtube.com/watch?v=5mPUaDyGCiU&list=PL8AhTXrM6LH26zUfesnMEWdMOlvdCBktF&index=1)
 
 🎬 &nbsp; Fritz Lang <br>
 🎼 &nbsp; Gottfried Huppertz <br>
@@ -217,7 +219,7 @@ tags: music
 🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
 
 >[October (symphonic poem), Op. 131](https://youtu.be/gIorDIfjgm8) <br> 
->Московский государственный симфонический оркестр <span style="color:grey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:grey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Московский государственный симфонический оркестр <span style="color:darkgrey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:darkgrey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
@@ -228,7 +230,7 @@ tags: music
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
->Академический симфонический оркестр Московской государственной филармонии <span style="color:grey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:grey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 
@@ -341,6 +343,17 @@ Christopher Palmer
 <br>
 
 
+#### [1944]&nbsp; [Человек № 217 <span style="color:grey">/ Girl № 217</span>](https://youtu.be/XIKWCE6_ibI)
+
+🎬 &nbsp; Михаил Ромм <span style="color:grey">/ Mikhail Romm</span> <br>
+🎼 &nbsp; Арам Хачатурян <span style="color:grey">/ 	Aram Khachaturian</span> <br>
+
+>[Prisoner № 217, Op. 64](https://youtu.be/6DzWBj2QoJw) <br>
+>Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span> &nbsp;(1995-10 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>)
+
+<br>
+
+
 #### [1944/1945]&nbsp; [Иван Грозный <span style="color:grey">/ Ivan the Terrible</span>](https://youtu.be/LpVtoUFKZ7w)
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
@@ -401,6 +414,22 @@ Christopher Palmer
 >[The Red Pony (suite)](https://www.youtube.com/watch?v=R-L7fnl9i84&list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&index=1) <br>
 > St. Louis Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn
 &nbsp;(1963-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; St. Louis)
+
+<br>
+
+
+#### [1949]&nbsp; [Сталинградская битва <span style="color:grey">/ The Battle of Stalingrad</span>](https://youtu.be/RGZAzR4p3T4)
+
+🎬 &nbsp; Владимир Петров <span style="color:grey">/ Vladimir Petrov</span> <br>
+🎼 &nbsp; Арам Хачатурян <span style="color:grey">/ Aram Khachaturian</span> <br>
+
+
+>[The Battle of Stalingrad (1952 suite), Op. 74a](https://youtu.be/xXmaPoCIt-8) <br>
+> Симфонический оркестр Всесоюзного радио <span style="color:darkgrey">/ USSR Radio Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Арам Хачатурян <span style="color:darkgrey">/ Aram Khachaturian</span> &nbsp;(1952 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+
+
+>[The Battle of Stalingrad (1993 suite)](https://youtu.be/u0zEmdRM3SU) <br>
+>Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span> &nbsp;(1993 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>)
 
 <br>
 
@@ -477,7 +506,7 @@ Christopher Palmer
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
 
 >[Time, Forward! (suite)](https://youtu.be/pU3vk9Dim3g) <br>
-> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:grey">/ USSR Radio and Television Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Владимир Федосеев<span style="color:grey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:darkgrey">/ USSR Radio and Television Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Владимир Федосеев<span style="color:darkgrey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
 
 <br>
 

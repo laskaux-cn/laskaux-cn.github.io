@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 28 Aug 2022 18:50:24 -0400</pubDate>
+    <pubDate>Sun, 28 Aug 2022 23:18:48 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -65,7 +65,7 @@ Orquesta de la Comunidad de Madrid &lt;span style=&quot;font-size:0.9em&quot;&gt
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;1939-sos-foch&quot;&gt;[1939]  &lt;a href=&quot;https://gparchives.com/index.php?urlaction=doc&amp;amp;id_doc=161831&amp;amp;rang=1&quot;&gt;S.O.S. Foch&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1931-sos-foch&quot;&gt;[1931]  &lt;a href=&quot;https://gparchives.com/index.php?urlaction=doc&amp;amp;id_doc=161831&amp;amp;rang=1&quot;&gt;S.O.S. Foch&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Jean Arroy &lt;br /&gt;
 🎼   Jacques Ibert &lt;br /&gt;&lt;/p&gt;
@@ -78,12 +78,16 @@ Orchestra des Concerts Lamoureux &lt;span style=&quot;font-size:0.9em&quot;&gt;�
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;the-kings-stamp&quot;&gt;&lt;a href=&quot;https://www.dailymotion.com/video/x21r04k&quot;&gt;The King’s Stamp&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1936-night-mail&quot;&gt;[1936]  &lt;a href=&quot;https://www.youtube.com/watch?v=wxehLOW32N0&amp;amp;list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&amp;amp;index=1&quot;&gt;Night Mail&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p&gt;🎬   William Coldstream &lt;br /&gt;
-🎼   Benjamin Britten &lt;br /&gt;
-📽️   1935 年
- &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;🎬   Harry Watt &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Basil Wright &lt;br /&gt;
+🎼   Benjamin Britten &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wxehLOW32N0&amp;amp;list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&amp;amp;index=1&quot;&gt;Night Mail&lt;/a&gt; &lt;br /&gt;
+Birmingham Contemporary Music Group &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Martyn Brabbins
+ (2006-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  CBSO Centre, Birmingham)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -194,7 +198,7 @@ London Sinfonietta &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;1924-die-nibelungen&quot;&gt;[1924]  &lt;a href=&quot;https://youtu.be/4-rVkjME9CE&quot;&gt;Die Nibelungen&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;1924-die-nibelungen&quot;&gt;[1924]  &lt;a href=&quot;https://www.youtube.com/watch?v=5mPUaDyGCiU&amp;amp;list=PL8AhTXrM6LH26zUfesnMEWdMOlvdCBktF&amp;amp;index=1&quot;&gt;Die Nibelungen&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Fritz Lang &lt;br /&gt;
 🎼   Gottfried Huppertz &lt;br /&gt;&lt;/p&gt;
@@ -227,7 +231,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/gIorDIfjgm8&quot;&gt;October (symphonic poem), Op. 131&lt;/a&gt; &lt;br /&gt; 
-Московский государственный симфонический оркестр &lt;span style=&quot;color:grey&quot;&gt;/ Moscow State Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вероника Дударова&lt;span style=&quot;color:grey&quot;&gt; / Veronika Dudarova&lt;/span&gt;  (1982  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Московский государственный симфонический оркестр &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow State Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вероника Дударова&lt;span style=&quot;color:darkgrey&quot;&gt; / Veronika Dudarova&lt;/span&gt;  (1982  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -239,7 +243,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/glvTzAp6arc?t=4&quot;&gt;The New Babylon (suite), Op. 18&lt;/a&gt; &lt;br /&gt;
-Академический симфонический оркестр Московской государственной филармонии &lt;span style=&quot;color:grey&quot;&gt;/ Moscow Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Геннадий Рождественский&lt;span style=&quot;color:grey&quot;&gt; / Gennady Rozhdestvensky&lt;/span&gt;  (1975  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Академический симфонический оркестр Московской государственной филармонии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Геннадий Рождественский&lt;span style=&quot;color:darkgrey&quot;&gt; / Gennady Rozhdestvensky&lt;/span&gt;  (1975  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -362,6 +366,18 @@ Academy of St Martin in the Fields, Choristers of Westminster Cathedral &lt;span
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;1944-человек--217--girl--217&quot;&gt;[1944]  &lt;a href=&quot;https://youtu.be/XIKWCE6_ibI&quot;&gt;Человек № 217 &lt;span style=&quot;color:grey&quot;&gt;/ Girl № 217&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Михаил Ромм &lt;span style=&quot;color:grey&quot;&gt;/ Mikhail Romm&lt;/span&gt; &lt;br /&gt;
+🎼   Арам Хачатурян &lt;span style=&quot;color:grey&quot;&gt;/ 	Aram Khachaturian&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/6DzWBj2QoJw&quot;&gt;Prisoner № 217, Op. 64&lt;/a&gt; &lt;br /&gt;
+Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  (1995-10  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;19441945-иван-грозный--ivan-the-terrible&quot;&gt;[1944/1945]  &lt;a href=&quot;https://youtu.be/LpVtoUFKZ7w&quot;&gt;Иван Грозный &lt;span style=&quot;color:grey&quot;&gt;/ Ivan the Terrible&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Сергей Эйзенштейн &lt;span style=&quot;color:grey&quot;&gt;/ Sergei Eisenstein&lt;/span&gt; &lt;br /&gt;
@@ -430,6 +446,23 @@ London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&l
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=R-L7fnl9i84&amp;amp;list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&amp;amp;index=1&quot;&gt;The Red Pony (suite)&lt;/a&gt; &lt;br /&gt;
 St. Louis Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; André Previn
  (1963-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St. Louis)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1949-сталинградская-битва--the-battle-of-stalingrad&quot;&gt;[1949]  &lt;a href=&quot;https://youtu.be/RGZAzR4p3T4&quot;&gt;Сталинградская битва &lt;span style=&quot;color:grey&quot;&gt;/ The Battle of Stalingrad&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Владимир Петров &lt;span style=&quot;color:grey&quot;&gt;/ Vladimir Petrov&lt;/span&gt; &lt;br /&gt;
+🎼   Арам Хачатурян &lt;span style=&quot;color:grey&quot;&gt;/ Aram Khachaturian&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/xXmaPoCIt-8&quot;&gt;The Battle of Stalingrad (1952 suite), Op. 74a&lt;/a&gt; &lt;br /&gt;
+Симфонический оркестр Всесоюзного радио &lt;span style=&quot;color:darkgrey&quot;&gt;/ USSR Radio Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Арам Хачатурян &lt;span style=&quot;color:darkgrey&quot;&gt;/ Aram Khachaturian&lt;/span&gt;  (1952  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/u0zEmdRM3SU&quot;&gt;The Battle of Stalingrad (1993 suite)&lt;/a&gt; &lt;br /&gt;
+Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  (1993  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -509,7 +542,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/pU3vk9Dim3g&quot;&gt;Time, Forward! (suite)&lt;/a&gt; &lt;br /&gt;
-Большой симфонический оркестр Всесоюзного радио и телевидения &lt;span style=&quot;color:grey&quot;&gt;/ USSR Radio and Television Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев&lt;span style=&quot;color:grey&quot;&gt; / Vladimir Fedoseyev&lt;/span&gt;  (1975-01  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Большой симфонический оркестр Всесоюзного радио и телевидения &lt;span style=&quot;color:darkgrey&quot;&gt;/ USSR Radio and Television Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев&lt;span style=&quot;color:darkgrey&quot;&gt; / Vladimir Fedoseyev&lt;/span&gt;  (1975-01  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
