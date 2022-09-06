@@ -71,19 +71,6 @@ tags: music
 <br>
 
 
-
-#### [1936]&nbsp; [Night Mail](https://www.youtube.com/watch?v=wxehLOW32N0&list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&index=1)
-
-🎬 &nbsp; Harry Watt <span style="font-size:0.9em">·</span> Basil Wright <br>
-🎼 &nbsp; Benjamin Britten <br>
-
->[Night Mail](https://www.youtube.com/watch?v=wxehLOW32N0&list=PL8AhTXrM6LH0hPxu43YNLaTn9LjD1Jd70&index=1) <br>
-> Birmingham Contemporary Music Group <span style="font-size:0.9em">·</span> Martyn Brabbins
-&nbsp;(2006-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; CBSO Centre, Birmingham)
-
-<br>
-
-
 #### [1939]&nbsp; [The City](https://youtu.be/7nuvcpnysjU)
 
 🎬 &nbsp; Ralph Steiner <span style="font-size:0.9em">·</span> Willard Van Dyke <br>
@@ -113,6 +100,18 @@ tags: music
 >[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
 > Concertgebouworkest <span style="font-size:0.9em">·</span> Riccardo Chailly
 &nbsp;(1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam)
+
+<br>
+
+
+#### [1948]&nbsp; [Report on Steel](https://player.bfi.org.uk/free/film/watch-report-on-steel-1948-online)
+
+🎬 &nbsp; Michael Orrom <br>
+🎼 &nbsp; Malcolm Arnold <br>
+
+>[Symphonic Study &lsquo;&lsquo;Machines'', Op. 30](https://youtu.be/_k8hEB1WeqA) <br>
+>BBC Philharmonic Orchestra <span style="font-size:0.9em">·</span> Rumon Gamba 
+&nbsp;(2000-02/07 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Studio 7, New Broadcasting House, Manchester)
 
 <br>
 
@@ -293,7 +292,7 @@ tags: music
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil: 4 Suites, W377–W380](https://youtu.be/K266nfbB12g) <br>
+>[O Descobrimento do Brasil (suites), W377–W380](https://youtu.be/K266nfbB12g) <br>
 >Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte 
 &nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
@@ -344,8 +343,8 @@ Muir Mathieson
 
 Christopher Palmer
 
->[Henry V: A Shakespeare Scenario](https://youtube.com/playlist?list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD) <br>
-> Academy of St Martin in the Fields, Choristers of Westminster Cathedral <span style="font-size:0.9em">·</span> Neville Marriner 
+>[Henry V: A Shakespeare Scenario](https://www.youtube.com/watch?v=wMP6u_lsuJ8&list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD&index=1) <br>
+> Academy of St Martin in the Fields <span style="font-size:0.9em">·</span> Choristers of Westminster Cathedral <span style="font-size:0.9em">·</span> Neville Marriner 
 &nbsp;(1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
 <br>
@@ -407,7 +406,7 @@ Christopher Palmer
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
->[Sinfonia antartica / Symphony № 7](https://youtu.be/Mv6YBg7PLag) <br>
+>[Sinfonia antartica / Symphony No. 7](https://youtu.be/Mv6YBg7PLag) <br>
 > London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Bernard Haitink
 &nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
@@ -438,6 +437,18 @@ Christopher Palmer
 
 >[The Battle of Stalingrad (1993 suite)](https://youtu.be/u0zEmdRM3SU) <br>
 >Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span> &nbsp;(1993 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>)
+
+<br>
+
+
+#### [1952]&nbsp; [The Sound Barrier](https://m4uhd.tv/watch-movie-the-sound-barrier-1952-228566.html)
+
+🎬 &nbsp; David Lean <br>
+🎼 &nbsp; Malcolm Arnold <br>
+
+>[The Sound Barrier, Op. 38](https://youtu.be/AvnyPu2zP70) <br>
+> London Symphony Orchestra <span style="font-size:0.9em">·</span> Richard Hickox 
+&nbsp;(1992-01 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
 <br>
 
@@ -544,17 +555,6 @@ Christopher Palmer
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
 
-<br>
-
-
-#### [1982]&nbsp; [Koyaanisqatsi](https://watchdocumentaries.com/koyaanisqatsi/)
-
-🎬 &nbsp; Godfrey Reggio <br>
-🎼 &nbsp; Philip Glass <br>
-
->[Façades](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
-> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen
-&nbsp;(2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
 
 <br>
 
@@ -565,9 +565,22 @@ Christopher Palmer
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
 
 >[Ran (suite)](https://www.youtube.com/watch?v=Ctnj3xTltAo&list=OLAK5uy_mApbH6HTCA59x-3HIVeeE5OYoBy6QeY8E&index=8) <br>
-> 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span> &nbsp;(2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey">/ Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>)
+> 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span> &nbsp;(2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey"> / Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>)
 
 <br>
+
+
+#### [1985]&nbsp; [Mishima: A Life in Four Chapters](https://www.divicast.com/watch-movie/watch-mishima-a-life-in-four-chapters-1985-online-free-7987.5313061)
+
+🎬 &nbsp; Paul Schrader <br>
+🎼 &nbsp; Philip Glass <br>
+
+>[String Quartet No. 3 &lsquo;&lsquo;Mishima''](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
+> Quatuor Tana 
+&nbsp;(2019-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Studio 104,  de la Radio, Paris)
+
+<br>
+
 
 
 ## 三 &nbsp;|&nbsp; 插曲
@@ -577,6 +590,14 @@ Christopher Palmer
 
 🎬 &nbsp; Giovanni Pastrone <br>
 🎼 &nbsp; Ildebrando Pizzetti <br>
+
+<br>
+
+
+#### [1936]&nbsp; [Night Mail](https://www.dailymotion.com/video/x7utm3o):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;This Is the Night Mail Crossing the Border''](https://youtu.be/bJ7hiSbbY5M)
+
+🎬 &nbsp; Harry Watt <span style="font-size:0.9em">·</span> Basil Wright <br>
+🎼 &nbsp; Benjamin Britten <br>
 
 <br>
 
