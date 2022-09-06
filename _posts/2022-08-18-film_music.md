@@ -128,11 +128,18 @@ tags: music
 <br>
 
 
+#### [1950]&nbsp; [Spiegel van Holland](https://youtu.be/XUIJkIUa0cQ)
+
+🎬 &nbsp; Bert Haanstra <br>
+🎼 &nbsp; Max Vredenburg 
+
+<br>
+
+
 #### [1955]&nbsp; [Symphonie mécanique](https://youtu.be/ltWMF-YA5Mc)
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Pierre Boulez <br>
-
 
 <br>
 
@@ -161,7 +168,7 @@ tags: music
 #### [1959]&nbsp; [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
 
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
-🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
+🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
 
 >[三つの映画音楽 / Three Film Scores](https://youtu.be/Dh4egWqT0NA) <br>
 >London Sinfonietta <span style="font-size:0.9em">·</span> John Adams 
@@ -406,7 +413,7 @@ Christopher Palmer
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
->[Sinfonia antartica / Symphony No. 7](https://youtu.be/Mv6YBg7PLag) <br>
+>[Sinfonia antartica / Symphony № 7](https://youtu.be/Mv6YBg7PLag) <br>
 > London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Bernard Haitink
 &nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
@@ -468,7 +475,7 @@ Christopher Palmer
 #### [1956]&nbsp; [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
 
 <br>
 
@@ -521,10 +528,10 @@ Christopher Palmer
 <br>
 
 
-#### [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
+#### [1965]&nbsp; [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
 📽️ &nbsp; 1965-03-20
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
@@ -562,7 +569,7 @@ Christopher Palmer
 #### [1985]&nbsp; [乱 <span style="color:grey">/ Ran</span>]()
 
 🎬 &nbsp; 黒澤明 <span style="color:grey">/ Akira Kurosawa</span> <br>
-🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
+🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
 
 >[Ran (suite)](https://www.youtube.com/watch?v=Ctnj3xTltAo&list=OLAK5uy_mApbH6HTCA59x-3HIVeeE5OYoBy6QeY8E&index=8) <br>
 > 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span> &nbsp;(2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey"> / Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>)
@@ -575,9 +582,17 @@ Christopher Palmer
 🎬 &nbsp; Paul Schrader <br>
 🎼 &nbsp; Philip Glass <br>
 
->[String Quartet No. 3 &lsquo;&lsquo;Mishima''](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
+>[String Quartet № 3 &lsquo;&lsquo;Mishima''](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
 > Quatuor Tana 
 &nbsp;(2019-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Studio 104,  de la Radio, Paris)
+
+<br>
+
+
+#### [1991]&nbsp; [The Cabinet of Dr. Ramirez](https://www.youtube.com/watch?v=AFLQNQKhPwo&list=PL8AhTXrM6LH2W0JQelox3-b4_wQmoPTHb&index=1)
+
+🎬 &nbsp; Peter Sellars <br>
+🎼 &nbsp; John Adams <br>
 
 <br>
 
