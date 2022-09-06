@@ -162,11 +162,19 @@ tags: music
 #### [1959]&nbsp; [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
 
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
-🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
+🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
 
 >[三つの映画音楽 / Three Film Scores](https://youtu.be/Dh4egWqT0NA) <br>
 >London Sinfonietta <span style="font-size:0.9em">·</span> John Adams 
 &nbsp;(1995-12 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+
+<br>
+
+
+#### [1967]&nbsp; [Dada](https://youtu.be/rh6fcK3jkjY)
+
+🎬 &nbsp; Greta Deses <br>
+🎼 &nbsp; Pieter Verlinden <br>
 
 <br>
 
@@ -285,7 +293,7 @@ tags: music
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil: 4 Suites](https://youtu.be/K266nfbB12g) <br>
+>[O Descobrimento do Brasil: 4 Suites, W377–W380](https://youtu.be/K266nfbB12g) <br>
 >Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte 
 &nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
@@ -449,7 +457,19 @@ Christopher Palmer
 #### [1956]&nbsp; [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
+
+<br>
+
+
+#### [1959]&nbsp; [Green Mansions](https://m4uhd.tv/watch-movie-green-mansions-1959-264615.html)
+
+🎬 &nbsp; Mel Ferrer <br>
+🎼 &nbsp; Heitor Villa-Lobos <span style="font-size:0.9em">·</span> Bronislau Kaper <br>
+
+>[Floresta do Amazonas, W551](https://youtu.be/hmqdKTbz3Sc) <br>
+>Orquestra Sinfônica do Estado de São Paulo <span style="font-size:0.9em">·</span> Coro Sinfônico do Estado de São Paulo <span style="font-size:0.9em">·</span> John Neschling 
+&nbsp;(2007-07 &nbsp;<img src="/assets/img/flags/br.png" height="12.6" width="18"/>&nbsp; Sala São Paulo)
 
 <br>
 
@@ -493,7 +513,7 @@ Christopher Palmer
 #### [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
-🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
+🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshiro Mayuzumi</span> <br>
 📽️ &nbsp; 1965-03-20
 &nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
@@ -523,6 +543,29 @@ Christopher Palmer
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
+
+<br>
+
+
+#### [1982]&nbsp; [Koyaanisqatsi](https://watchdocumentaries.com/koyaanisqatsi/)
+
+🎬 &nbsp; Godfrey Reggio <br>
+🎼 &nbsp; Philip Glass <br>
+
+>[Façades](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
+> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen
+&nbsp;(2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
+
+<br>
+
+
+#### [1985]&nbsp; [乱 <span style="color:grey">/ Ran</span>]()
+
+🎬 &nbsp; 黒澤明 <span style="color:grey">/ Akira Kurosawa</span> <br>
+🎼 &nbsp; 武満徹 <span style="color:grey">/ Toru Takemitsu</span> <br>
+
+>[Ran (suite)](https://www.youtube.com/watch?v=Ctnj3xTltAo&list=OLAK5uy_mApbH6HTCA59x-3HIVeeE5OYoBy6QeY8E&index=8) <br>
+> 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span> &nbsp;(2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey">/ Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>)
 
 <br>
 
