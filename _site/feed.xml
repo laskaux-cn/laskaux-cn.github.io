@@ -5,13 +5,132 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 06 Sep 2022 23:00:50 -0400</pubDate>
+    <pubDate>Wed, 07 Sep 2022 00:50:44 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
         <link>/2022/08/18/film_music.html</link>
         <guid isPermaLink="true">/2022/08/18/film_music.html</guid>
-        <description>&lt;h2 id=&quot;一--短片&quot;&gt;一  |  短片&lt;/h2&gt;
+        <description>&lt;h4 id=&quot;-原创音乐短片&quot;&gt;①  原创音乐—短片&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   L’Assassinat du duc de Guise &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Ballet mécanique &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Entr’acte &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La P’tite Lili &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   S.O.S. Foch &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   The City &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Сказка о глупом мышонке  &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Spiegel van Holland &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Symphonie mécanique &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Nuit et brouillard &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Glas &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   ホゼー・トレス &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Dada &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Railroaded &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Клоуны и дети&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;-原创音乐长片&quot;&gt;②  原创音乐—长片&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Im Kampf mit dem Berge &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Die Nibelungen &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Berlin: Die Sinfonie der Großstadt &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Октябрь &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Новый Вавилон &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Madame Bovary &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Поручик Киже &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Redes &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Love from a Stranger &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+O Descobrimento do Brasil &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Александр Невский &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+La noche de los mayas &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Henry V &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Человек № 217 &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Иван Грозный &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Macbeth &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Scott of the Antarctic &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+The Red Pony &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Сталинградская битва &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+The Sound Barrier &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+On the Waterfront &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
+赤線地帯 &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Green Mansions &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Psycho &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Something Wild &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+This Sporting Life &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
+東京オリンピック &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Похождения зубного врача &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Время, вперёд! &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Андрей Рублёв &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Война и мир &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Агония &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.5&quot; width=&quot;18&quot; /&gt;   
+乱 &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
+Mishima: A Life in Four Chapters &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt;   
+The Cabinet of Dr. Ramirez &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;-原创插曲&quot;&gt;③  原创插曲&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/flags/it_king.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Cabiria &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Night Mail &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Battle of Britain &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;-重编音乐&quot;&gt;④  重编音乐&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+The Tocher &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Evil Under the Sun &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;一--原创音乐短片&quot;&gt;一  |  原创音乐—短片&lt;/h2&gt;
 
 &lt;h4 id=&quot;1908-lassassinat-du-duc-de-guise&quot;&gt;[1908]  &lt;a href=&quot;https://youtu.be/bh0tonXPEKQ&quot;&gt;L’Assassinat du duc de Guise&lt;/a&gt;&lt;/h4&gt;
 
@@ -210,7 +329,7 @@ London Sinfonietta &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;二--长片&quot;&gt;二  |  长片&lt;/h2&gt;
+&lt;h2 id=&quot;二--原创音乐长片&quot;&gt;二  |  原创音乐—长片&lt;/h2&gt;
 
 &lt;h4 id=&quot;1921-im-kampf-mit-dem-berge&quot;&gt;[1921]  &lt;a href=&quot;https://youtu.be/JYgO6znM5DU&quot;&gt;Im Kampf mit dem Berge&lt;/a&gt;&lt;/h4&gt;
 
@@ -276,7 +395,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JWbYNQuDow8&amp;amp;list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&amp;amp;index=1&quot;&gt;L’Album de Madame Bovary, Op. 128b&lt;/a&gt; &lt;br /&gt;
-Alexandre Tharaud &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Madeleine Milhaud  (1995-01  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Église luthérienne Saint-Marcel, Paris)&lt;/p&gt;
+Alexandre Tharaud (piano) &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Madeleine Milhaud (narrator)  (1995-01  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Église luthérienne Saint-Marcel, Paris)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -654,7 +773,7 @@ Quatuor Tana
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;三--插曲&quot;&gt;三  |  插曲&lt;/h2&gt;
+&lt;h2 id=&quot;三--原创插曲&quot;&gt;三  |  原创插曲&lt;/h2&gt;
 
 &lt;h4 id=&quot;1914-cabiria-sinfonia-del-fuoco&quot;&gt;[1914]  &lt;a href=&quot;https://youtu.be/H2jrQTgP_bs&quot;&gt;Cabiria&lt;/a&gt;:&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt; &lt;a href=&quot;https://youtu.be/OkhkoFVA-JU&quot;&gt;‘‘Sinfonia del fuoco’’&lt;/a&gt;&lt;/h4&gt;
 

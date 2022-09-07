@@ -7,7 +7,129 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-## 一 &nbsp;|&nbsp; 短片
+
+#### ①&nbsp; 原创音乐—短片
+
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; L'Assassinat du duc de Guise <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Ballet mécanique <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Entr'acte <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La P'tite Lili <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; S.O.S. Foch <br>
+<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; The City <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке  <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Report on Steel <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 <br>
+<img src="/assets/img/flags/nl.png" height="12" width="18"/> &nbsp; Spiegel van Holland <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Symphonie mécanique <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Nuit et brouillard <br>
+<img src="/assets/img/flags/nl.png" height="12" width="18"/> &nbsp; Glas <br>
+<img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; ホゼー・トレス <br>
+<img src="/assets/img/flags/be.png" height="12" width="18"/> &nbsp; Dada <br>
+<img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; Railroaded <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Клоуны и дети 
+
+---
+
+#### ②&nbsp; 原创音乐—长片
+
+<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
+Im Kampf mit dem Berge <br>
+<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
+Die Nibelungen <br>
+<img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
+Berlin: Die Sinfonie der Großstadt <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Октябрь <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Новый Вавилон <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
+Madame Bovary <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Поручик Киже <br>
+<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
+Redes <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Love from a Stranger <br>
+<img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
+O Descobrimento do Brasil <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Александр Невский <br>
+<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
+La noche de los mayas <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Henry V <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Человек № 217 <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Иван Грозный <br>
+<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
+Macbeth <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Scott of the Antarctic <br>
+<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
+The Red Pony <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Сталинградская битва <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+The Sound Barrier <br>
+<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
+On the Waterfront <br>
+<img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
+赤線地帯 <br>
+<img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
+Green Mansions <br>
+<img src="/assets/img/flags/us_49.png" height="12" width="18"/> &nbsp; 
+Psycho <br>
+<img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; 
+Something Wild <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+This Sporting Life <br>
+<img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
+東京オリンピック <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Похождения зубного врача <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Время, вперёд! <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Андрей Рублёв <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Война и мир <br>
+<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+Агония <br>
+<img src="/assets/img/flags/jp.png" height="12.6" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.5" width="18"/> &nbsp; 
+乱 <br>
+<img src="/assets/img/flags/us.png" height="12.0" width="18"/> <img src="/assets/img/flags/jp.png" height="12.6" width="18"/> &nbsp; 
+Mishima: A Life in Four Chapters <br>
+<img src="/assets/img/flags/uk.png" height="12.0" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.0" width="18"/> <img src="/assets/img/flags/de.png" height="12.0" width="18"/> <img src="/assets/img/flags/us.png" height="12.0" width="18"/> &nbsp; 
+The Cabinet of Dr. Ramirez <br>
+
+---
+
+#### ③&nbsp; 原创插曲
+
+<img src="/assets/img/flags/it_king.png" height="12" width="18"/> &nbsp; 
+Cabiria <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Night Mail <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Battle of Britain <br>
+
+---
+
+#### ④&nbsp; 重编音乐
+
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+The Tocher <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Evil Under the Sun <br>
+
+---
+
+<br>
+
+
+
+## 一 &nbsp;|&nbsp; 原创音乐—短片
 
 #### [1908]&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
 
@@ -201,7 +323,7 @@ tags: music
 <br>
 
 
-## 二 &nbsp;|&nbsp; 长片
+## 二 &nbsp;|&nbsp; 原创音乐—长片
 
 #### [1921]&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
 
@@ -263,7 +385,7 @@ tags: music
 🎼 &nbsp; Darius Milhaud <br>
 
 >[L'Album de Madame Bovary, Op. 128b](https://www.youtube.com/watch?v=JWbYNQuDow8&list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&index=1) <br>
->Alexandre Tharaud <span style="font-size:0.9em">·</span> Madeleine Milhaud &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
+>Alexandre Tharaud (piano) <span style="font-size:0.9em">·</span> Madeleine Milhaud (narrator) &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
 
 <br>
 
@@ -625,7 +747,7 @@ Christopher Palmer
 
 
 
-## 三 &nbsp;|&nbsp; 插曲
+## 三 &nbsp;|&nbsp; 原创插曲
 
 
 #### [1914]&nbsp; [Cabiria](https://youtu.be/H2jrQTgP_bs):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Sinfonia del fuoco''](https://youtu.be/OkhkoFVA-JU)
