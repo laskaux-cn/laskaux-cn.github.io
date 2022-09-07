@@ -193,6 +193,14 @@ tags: music
 <br>
 
 
+#### [1976]&nbsp; [Клоуны и дети <span style="color:grey">/ Clowns and Children</span>](https://youtu.be/x6Y7zSSg2rs)
+
+🎬 &nbsp; Александр Митта <span style="color:grey">/ Alexander Mitta</span> <br>
+🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
+
+<br>
+
+
 ## 二 &nbsp;|&nbsp; 长片
 
 #### [1921]&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
@@ -538,6 +546,15 @@ Christopher Palmer
 <br>
 
 
+#### [1965]&nbsp; [Похождения зубного врача <span style="color:grey">/ Adventures of a Dentist</span>](https://youtu.be/15u99i1zgF4)
+
+🎬 &nbsp; Элема Климова <span style="color:grey">/ Elem Klimov</span> <br>
+🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
+
+
+<br>
+
+
 #### [1965]&nbsp; [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
 
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <span style="font-size:0.9em">·</span> Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
@@ -561,6 +578,16 @@ Christopher Palmer
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
+
+
+<br>
+
+
+
+#### [1981]&nbsp; [Агония <span style="color:grey">/ Agony</span>](https://www.youtube.com/watch?v=Ll1Wdob2P1E&list=PL8AhTXrM6LH3dhBSGb7ZDPRlqwUgyNMqM&index=1)
+
+🎬 &nbsp; Элема Климова <span style="color:grey">/ Elem Klimov</span> <br>
+🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
 
 
 <br>
