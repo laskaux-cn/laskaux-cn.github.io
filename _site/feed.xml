@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 08 Sep 2022 13:31:56 -0400</pubDate>
+    <pubDate>Thu, 08 Sep 2022 14:32:31 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -25,6 +25,8 @@ L’Assassinat du duc de Guise
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’39&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Сказка о глупом мышонке
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’40&lt;/span&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Malta G.C.
+&lt;span style=&quot;color:darkgrey&quot;&gt; ’42&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 
@@ -84,6 +86,8 @@ Henry V &lt;span style=&quot;color:darkgrey&quot;&gt; ’44&lt;/span&gt;&lt;br 
 Человек № 217 &lt;span style=&quot;color:darkgrey&quot;&gt; ’44&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Иван Грозный &lt;span style=&quot;color:darkgrey&quot;&gt; ’44–’45&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Oliver Twist &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Macbeth &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -251,6 +255,13 @@ New Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Riccardo Chailly
  (1998-09  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Concertgebouw, Amsterdam)&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1942-malta-gc&quot;&gt;[1942]  &lt;a href=&quot;https://youtu.be/8ZNFOqZ_bE8&quot;&gt;Malta G.C.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Eugeniusz Cekalski &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Derrick De Marney &lt;br /&gt;
+🎼   Arnold Bax &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -587,6 +598,13 @@ London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/s
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BHRtUEruPDo&amp;amp;list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&amp;amp;index=1&quot;&gt;Ivan the Terrible (concert scenario)&lt;/a&gt; &lt;br /&gt;
 Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Philharmonia Chorus &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Neeme Järvi  (1991-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London)&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1948-oliver-twist&quot;&gt;[1948]  &lt;a href=&quot;https://youtu.be/ROXMHLiEvN4&quot;&gt;Oliver Twist&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   David Lean &lt;br /&gt;
+🎼   Arnold Bax &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

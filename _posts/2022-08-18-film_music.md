@@ -22,6 +22,8 @@ L'Assassinat du duc de Guise
 <span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке
 <span style="color:darkgrey">&nbsp;&rsquo;40</span> <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Malta G.C.
+<span style="color:darkgrey">&nbsp;&rsquo;42</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Report on Steel 
 <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 
@@ -81,6 +83,8 @@ Henry V <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 Человек № 217 <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Иван Грозный <span style="color:darkgrey">&nbsp;&rsquo;44–&rsquo;45</span><br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Oliver Twist <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
 Macbeth <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
@@ -241,6 +245,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 >[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
 > Concertgebouworkest <span style="font-size:0.9em">·</span> Riccardo Chailly
 &nbsp;(1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam)
+
+<br>
+
+
+#### [1942]&nbsp; [Malta G.C.](https://youtu.be/8ZNFOqZ_bE8)
+
+🎬 &nbsp; Eugeniusz Cekalski <span style="font-size:0.9em">·</span> Derrick De Marney <br>
+🎼 &nbsp; Arnold Bax <br>
 
 <br>
 
@@ -561,8 +573,17 @@ Christopher Palmer
 >[Ivan the Terrible (concert scenario)](https://www.youtube.com/watch?v=BHRtUEruPDo&list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&index=1) <br>
 >Philharmonia Orchestra <span style="font-size:0.9em">·</span> Philharmonia Chorus <span style="font-size:0.9em">·</span> Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
 
+<br>
+
+
+#### [1948]&nbsp; [Oliver Twist](https://youtu.be/ROXMHLiEvN4)
+
+🎬 &nbsp; David Lean <br>
+🎼 &nbsp; Arnold Bax <br>
 
 <br>
+
+
 
 
 #### [1948]&nbsp; [Macbeth](https://youtu.be/96ZIo6IH_Qg)
