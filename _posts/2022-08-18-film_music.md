@@ -12,130 +12,135 @@ tags: music
 
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 L'Assassinat du duc de Guise 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;08</span> <br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Ballet mécanique <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;24</span><br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Entr'acte <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;24</span><br>
-<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La p'tite Lili <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;27</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;08</span> <br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Ballet mécanique <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Entr'acte <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La p'tite Lili <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; S.O.S. Foch 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;31</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;31</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; The City 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;39</span> <br>
+<span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;40</span> <br>
+<span style="color:darkgrey">&nbsp;&rsquo;40</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Report on Steel 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;48</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;49</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
 <img src="/assets/img/flags/nl.png" height="12" width="18"/> &nbsp; Spiegel van Holland 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;50</span> <br>
+<span style="color:darkgrey">&nbsp;&rsquo;50</span> <br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Symphonie mécanique 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;55</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;55</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Nuit et brouillard 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;56</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;56</span><br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; The England of Elizabeth
+<span style="color:darkgrey">&nbsp;&rsquo;57</span><br>
 <img src="/assets/img/flags/nl.png" height="12" width="18"/> &nbsp; Glas 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;58</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;58</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; ホゼー・トレス 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;59</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;59</span><br>
 <img src="/assets/img/flags/be.png" height="12" width="18"/> &nbsp; Dada 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;67</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;67</span><br>
 <img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; Railroaded 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;68</span><br>
+<span style="color:darkgrey">&nbsp;&rsquo;68</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Клоуны и дети 
-<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;76</span>
+<span style="color:darkgrey">&nbsp;&rsquo;76</span>
 
 ---
 
 #### ②&nbsp; 原创音乐—长片
 
 <img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
-Im Kampf mit dem Berge <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;21</span><br>
+Im Kampf mit dem Berge <span style="color:darkgrey">&nbsp;&rsquo;21</span><br>
 <img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
-Die Nibelungen <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;24</span><br>
+Die Nibelungen <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
 <img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
-Berlin: Die Sinfonie der Großstadt <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;27</span><br>
+Berlin: Die Sinfonie der Großstadt <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Октябрь <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;27</span><br>
+Октябрь <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Новый Вавилон <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;29</span><br>
+Новый Вавилон <span style="color:darkgrey">&nbsp;&rsquo;29</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
-Madame Bovary <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;34</span><br>
+Madame Bovary <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Поручик Киже <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;34</span><br>
-<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
-Redes <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;36</span><br>
+Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Love from a Stranger <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;37</span><br>
+Things to Come <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
+<img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
+Redes <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 <img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
-O Descobrimento do Brasil <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;37</span><br>
+O Descobrimento do Brasil <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Александр Невский <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;38</span><br>
+Александр Невский <span style="color:darkgrey">&nbsp;&rsquo;38</span><br>
 <img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
-La noche de los mayas <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;39</span><br>
+La noche de los mayas <span style="color:darkgrey">&nbsp;&rsquo;39</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Henry V <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;44</span><br>
+Henry V <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Человек № 217 <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;44</span><br>
+Человек № 217 <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Иван Грозный <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;44–&rsquo;45</span><br>
+Иван Грозный <span style="color:darkgrey">&nbsp;&rsquo;44–&rsquo;45</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
-Macbeth <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;48</span><br>
+Macbeth <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Scott of the Antarctic <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;48</span><br>
+Scott of the Antarctic <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
-The Red Pony <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;49</span><br>
+The Red Pony <span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Сталинградская битва <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;49</span><br>
+Сталинградская битва <span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-The Sound Barrier<span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;52</span> <br>
+The Sound Barrier<span style="color:darkgrey">&nbsp;&rsquo;52</span> <br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
-On the Waterfront <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;54</span><br>
+On the Waterfront <span style="color:darkgrey">&nbsp;&rsquo;54</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
-赤線地帯 <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;56</span><br>
+赤線地帯 <span style="color:darkgrey">&nbsp;&rsquo;56</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
-Green Mansions <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;59</span><br>
+Green Mansions <span style="color:darkgrey">&nbsp;&rsquo;59</span><br>
 <img src="/assets/img/flags/us_49.png" height="12" width="18"/> &nbsp; 
-Psycho <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;60</span><br>
+Psycho <span style="color:darkgrey">&nbsp;&rsquo;60</span><br>
 <img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; 
-Something Wild <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;61</span><br>
+Something Wild <span style="color:darkgrey">&nbsp;&rsquo;61</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-This Sporting Life <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;63</span><br>
+This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
-東京オリンピック <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;65</span><br>
+東京オリンピック <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Похождения зубного врача <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;65</span><br>
+Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Время, вперёд! <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;66</span><br>
+Время, вперёд! <span style="color:darkgrey">&nbsp;&rsquo;66</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Андрей Рублёв <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;66</span> <br>
+Андрей Рублёв <span style="color:darkgrey">&nbsp;&rsquo;66</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Война и мир <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;66–&rsquo;67</span><br>
+Война и мир <span style="color:darkgrey">&nbsp;&rsquo;66–&rsquo;67</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Агония <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;81</span><br>
+Агония <span style="color:darkgrey">&nbsp;&rsquo;81</span><br>
 <img src="/assets/img/flags/jp.png" height="12.6" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.5" width="18"/> &nbsp; 
-乱 <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;85</span><br>
+乱 <span style="color:darkgrey">&nbsp;&rsquo;85</span><br>
 <img src="/assets/img/flags/us.png" height="12.0" width="18"/> <img src="/assets/img/flags/jp.png" height="12.6" width="18"/> &nbsp; 
-Mishima: A Life in Four Chapters <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;85</span><br>
+Mishima: A Life in Four Chapters <span style="color:darkgrey">&nbsp;&rsquo;85</span><br>
 <img src="/assets/img/flags/uk.png" height="12.0" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.0" width="18"/> <img src="/assets/img/flags/de.png" height="12.0" width="18"/> <img src="/assets/img/flags/us.png" height="12.0" width="18"/> &nbsp; 
-The Cabinet of Dr. Ramirez <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;91</span> <br>
+The Cabinet of Dr. Ramirez <span style="color:darkgrey">&nbsp;&rsquo;91</span> <br>
 
 ---
 
 #### ③&nbsp; 原创插曲
 
 <img src="/assets/img/flags/it_king.png" height="12" width="18"/> &nbsp; 
-Cabiria <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;14</span> <br>
+Cabiria <span style="color:darkgrey">&nbsp;&rsquo;14</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Night Mail <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;36</span> <br>
+Night Mail <span style="color:darkgrey">&nbsp;&rsquo;36</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Battle of Britain <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;69</span> <br>
+Battle of Britain <span style="color:darkgrey">&nbsp;&rsquo;69</span> <br>
+
 ---
 
 #### ④&nbsp; 重编音乐
 
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-The Tocher <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;38</span><br>
+The Tocher <span style="color:darkgrey">&nbsp;&rsquo;38</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-Evil Under the Sun <span style="color:darkgrey"><span style="font-size:1.0em">&nbsp;</span>&rsquo;82</span><br>
+Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 ---
 
@@ -292,6 +297,18 @@ Evil Under the Sun <span style="color:darkgrey"><span style="font-size:1.0em">&n
 <br>
 
 
+#### [1957]&nbsp; [The England of Elizabeth](https://player.bfi.org.uk/free/film/watch-england-of-elizabeth-1957-online)
+
+🎬 &nbsp; John Taylor <br>
+🎼 &nbsp; Ralph Vaughan Williams <br>
+
+>[Three Portraits from &lsquo;&lsquo;The England of Elizabeth''](https://www.youtube.com/watch?v=MntcVf2foiU&list=PL8AhTXrM6LH1zjT24jkUNS_dpBO5vNlRC&index=1) <br>
+> London Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn
+&nbsp;(1968)
+
+<br>
+
+
 #### [1958]&nbsp; [Glas](https://youtu.be/d3QEpQ9ozVU)
 
 🎬 &nbsp; Bert Haanstra <br>
@@ -411,6 +428,14 @@ Evil Under the Sun <span style="color:darkgrey"><span style="font-size:1.0em">&n
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
 >Chicago Symphony Orchestra <span style="font-size:0.9em">·</span> Fritz Reiner &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago)
+
+<br>
+
+
+#### [1936]&nbsp; [Things to Come](https://youtu.be/8xhodHavrrc)
+
+🎬 &nbsp; William Cameron Menzies <br>
+🎼 &nbsp; Arthur Bliss <br>
 
 <br>
 
