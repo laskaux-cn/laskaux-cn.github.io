@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 07 Sep 2022 00:50:44 -0400</pubDate>
+    <pubDate>Thu, 08 Sep 2022 04:57:09 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -13,118 +13,132 @@
         <guid isPermaLink="true">/2022/08/18/film_music.html</guid>
         <description>&lt;h4 id=&quot;-原创音乐短片&quot;&gt;①  原创音乐—短片&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   L’Assassinat du duc de Guise &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Ballet mécanique &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Entr’acte &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La P’tite Lili &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   S.O.S. Foch &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   The City &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Сказка о глупом мышонке  &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Spiegel van Holland &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Symphonie mécanique &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Nuit et brouillard &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Glas &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   ホゼー・トレス &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Dada &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Railroaded &lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Клоуны и дети&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+L’Assassinat du duc de Guise 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’08&lt;/span&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Ballet mécanique &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’24&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Entr’acte &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’24&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La p’tite Lili &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’27&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   S.O.S. Foch 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’31&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   The City 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’39&lt;/span&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Сказка о глупом мышонке
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’40&lt;/span&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’48&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’49&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Spiegel van Holland 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’50&lt;/span&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Symphonie mécanique 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’55&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Nuit et brouillard 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’56&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Glas 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’58&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   ホゼー・トレス 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’59&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Dada 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’67&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Railroaded 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’68&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Клоуны и дети 
+&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’76&lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;-原创音乐长片&quot;&gt;②  原创音乐—长片&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Im Kampf mit dem Berge &lt;br /&gt;
+Im Kampf mit dem Berge &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’21&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Die Nibelungen &lt;br /&gt;
+Die Nibelungen &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’24&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/de_weimar.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Berlin: Die Sinfonie der Großstadt &lt;br /&gt;
+Berlin: Die Sinfonie der Großstadt &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’27&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Октябрь &lt;br /&gt;
+Октябрь &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’27&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Новый Вавилон &lt;br /&gt;
+Новый Вавилон &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’29&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Madame Bovary &lt;br /&gt;
+Madame Bovary &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’34&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Поручик Киже &lt;br /&gt;
+Поручик Киже &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’34&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Redes &lt;br /&gt;
+Redes &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’36&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Love from a Stranger &lt;br /&gt;
+Love from a Stranger &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’37&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-O Descobrimento do Brasil &lt;br /&gt;
+O Descobrimento do Brasil &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’37&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Александр Невский &lt;br /&gt;
+Александр Невский &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’38&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-La noche de los mayas &lt;br /&gt;
+La noche de los mayas &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’39&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Henry V &lt;br /&gt;
+Henry V &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’44&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Человек № 217 &lt;br /&gt;
+Человек № 217 &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’44&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Иван Грозный &lt;br /&gt;
+Иван Грозный &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’44–’45&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Macbeth &lt;br /&gt;
+Macbeth &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Scott of the Antarctic &lt;br /&gt;
+Scott of the Antarctic &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-The Red Pony &lt;br /&gt;
+The Red Pony &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’49&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Сталинградская битва &lt;br /&gt;
+Сталинградская битва &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’49&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-The Sound Barrier &lt;br /&gt;
+The Sound Barrier&lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’52&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-On the Waterfront &lt;br /&gt;
+On the Waterfront &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’54&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
-赤線地帯 &lt;br /&gt;
+赤線地帯 &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’56&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Green Mansions &lt;br /&gt;
+Green Mansions &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’59&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_49.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Psycho &lt;br /&gt;
+Psycho &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’60&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Something Wild &lt;br /&gt;
+Something Wild &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’61&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-This Sporting Life &lt;br /&gt;
+This Sporting Life &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’63&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
-東京オリンピック &lt;br /&gt;
+東京オリンピック &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’65&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Похождения зубного врача &lt;br /&gt;
+Похождения зубного врача &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’65&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Время, вперёд! &lt;br /&gt;
+Время, вперёд! &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’66&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Андрей Рублёв &lt;br /&gt;
+Андрей Рублёв &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’66&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Война и мир &lt;br /&gt;
+Война и мир &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’66–’67&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Агония &lt;br /&gt;
+Агония &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’81&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.5&quot; width=&quot;18&quot; /&gt;   
-乱 &lt;br /&gt;
+乱 &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’85&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;   
-Mishima: A Life in Four Chapters &lt;br /&gt;
+Mishima: A Life in Four Chapters &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’85&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt; &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12.0&quot; width=&quot;18&quot; /&gt;   
-The Cabinet of Dr. Ramirez &lt;br /&gt;&lt;/p&gt;
+The Cabinet of Dr. Ramirez &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’91&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;-原创插曲&quot;&gt;③  原创插曲&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/flags/it_king.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Cabiria &lt;br /&gt;
+Cabiria &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’14&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Night Mail &lt;br /&gt;
+Night Mail &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’36&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Battle of Britain &lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
+Battle of Britain &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’69&lt;/span&gt; &lt;br /&gt;
+—&lt;/p&gt;
 
 &lt;h4 id=&quot;-重编音乐&quot;&gt;④  重编音乐&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-The Tocher &lt;br /&gt;
+The Tocher &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’38&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Evil Under the Sun &lt;br /&gt;&lt;/p&gt;
+Evil Under the Sun &lt;span style=&quot;color:darkgrey&quot;&gt;&lt;span style=&quot;font-size:1.0em&quot;&gt; &lt;/span&gt;’82&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 

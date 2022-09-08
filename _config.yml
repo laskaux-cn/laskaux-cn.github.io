@@ -82,3 +82,5 @@ theme:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+exclude: [vendor]
