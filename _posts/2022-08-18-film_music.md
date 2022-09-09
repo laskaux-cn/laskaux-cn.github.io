@@ -70,6 +70,8 @@ Things to Come <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
 Redes <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Conquest of the Air <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 <img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
 O Descobrimento do Brasil <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
@@ -109,6 +111,8 @@ Something Wild <span style="color:darkgrey">&nbsp;&rsquo;61</span><br>
 This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
 東京オリンピック <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+The Skull <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
@@ -117,6 +121,8 @@ This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 Андрей Рублёв <span style="color:darkgrey">&nbsp;&rsquo;66</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Война и мир <span style="color:darkgrey">&nbsp;&rsquo;66–&rsquo;67</span><br>
+<img src="/assets/img/flags/uk.png" height="12.0" width="18"/> <img src="/assets/img/flags/us.png" height="12.0" width="18"/> &nbsp; 
+The Devils <span style="color:darkgrey">&nbsp;&rsquo;71</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Агония <span style="color:darkgrey">&nbsp;&rsquo;81</span><br>
 <img src="/assets/img/flags/jp.png" height="12.6" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.5" width="18"/> &nbsp; 
@@ -136,6 +142,8 @@ Cabiria <span style="color:darkgrey">&nbsp;&rsquo;14</span> <br>
 Night Mail <span style="color:darkgrey">&nbsp;&rsquo;36</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Battle of Britain <span style="color:darkgrey">&nbsp;&rsquo;69</span> <br>
+<img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
+Murder on the Orient Express <span style="color:darkgrey">&nbsp;&rsquo;74</span> <br>
 
 ---
 
@@ -154,7 +162,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 ## 一 &nbsp;|&nbsp; 原创音乐—短片
 
-#### [1908]&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
+#### [&rsquo;08]&nbsp; [L'Assassinat du duc de Guise](https://youtu.be/bh0tonXPEKQ)
 
 
 🎬 &nbsp; André Calmettes <span style="font-size:0.9em">·</span> Charles Le Bargy <br>
@@ -167,7 +175,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1924]&nbsp; [Ballet mécanique](https://youtu.be/oMnZgykH1Bk)
+#### [&rsquo;24]&nbsp; [Ballet mécanique](https://youtu.be/oMnZgykH1Bk)
 
 🎬 &nbsp; Fernand Léger <span style="font-size:0.9em">·</span> Dudley Murphy <br>
 🎼 &nbsp; Georges Antheil <br>
@@ -180,7 +188,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1924]&nbsp; [Entr'acte](https://vimeo.com/488844088)
+#### [&rsquo;24]&nbsp; [Entr'acte](https://vimeo.com/488844088)
 
 🎬 &nbsp; René Clair <br>
 🎼 &nbsp; Erik Satie <br>
@@ -192,7 +200,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1927]&nbsp; [La p'tite Lili](https://youtu.be/K3B-0oqroHs)
+#### [&rsquo;27]&nbsp; [La p'tite Lili](https://youtu.be/K3B-0oqroHs)
 
 🎬 &nbsp; Alberto Cavalcanti <br>
 🎼 &nbsp; Darius Milhaud <br>
@@ -204,7 +212,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1931]&nbsp; [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
+#### [&rsquo;31]&nbsp; [S.O.S. Foch](https://gparchives.com/index.php?urlaction=doc&id_doc=161831&rang=1)
 
 🎬 &nbsp; Jean Arroy <br>
 🎼 &nbsp; Jacques Ibert <br>
@@ -216,7 +224,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1939]&nbsp; [The City](https://youtu.be/7nuvcpnysjU)
+#### [&rsquo;39]&nbsp; [The City](https://youtu.be/7nuvcpnysjU)
 
 🎬 &nbsp; Ralph Steiner <span style="font-size:0.9em">·</span> Willard Van Dyke <br>
 🎼 &nbsp; Aaron Copland <br>
@@ -232,7 +240,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1940]&nbsp; [Сказка о глупом мышонке <span style="color:grey">/ The Silly Little Mouse</span>](https://youtu.be/gk7il1GZx-g)
+#### [&rsquo;40]&nbsp; [Сказка о глупом мышонке <span style="color:grey">/ The Silly Little Mouse</span>](https://youtu.be/gk7il1GZx-g)
 
 🎬 &nbsp; Михаил Цехановский <span style="color:grey">/ Mikhail Tsekhanovsky</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
@@ -249,7 +257,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1942]&nbsp; [Malta G.C.](https://youtu.be/8ZNFOqZ_bE8)
+#### [&rsquo;42]&nbsp; [Malta G.C.](https://youtu.be/8ZNFOqZ_bE8)
 
 🎬 &nbsp; Eugeniusz Cekalski <span style="font-size:0.9em">·</span> Derrick De Marney <br>
 🎼 &nbsp; Arnold Bax <br>
@@ -257,7 +265,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1948]&nbsp; [Report on Steel](https://player.bfi.org.uk/free/film/watch-report-on-steel-1948-online)
+#### [&rsquo;48]&nbsp; [Report on Steel](https://player.bfi.org.uk/free/film/watch-report-on-steel-1948-online)
 
 🎬 &nbsp; Michael Orrom <br>
 🎼 &nbsp; Malcolm Arnold <br>
@@ -269,7 +277,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1949]&nbsp; [Pacific 231](https://youtu.be/rKRCJhLU7rs)
+#### [&rsquo;49]&nbsp; [Pacific 231](https://youtu.be/rKRCJhLU7rs)
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Arthur Honegger <br>
@@ -281,7 +289,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1950]&nbsp; [Spiegel van Holland](https://youtu.be/XUIJkIUa0cQ)
+#### [&rsquo;50]&nbsp; [Spiegel van Holland](https://youtu.be/XUIJkIUa0cQ)
 
 🎬 &nbsp; Bert Haanstra <br>
 🎼 &nbsp; Max Vredenburg 
@@ -289,7 +297,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1955]&nbsp; [Symphonie mécanique](https://youtu.be/ltWMF-YA5Mc)
+#### [&rsquo;55]&nbsp; [Symphonie mécanique](https://youtu.be/ltWMF-YA5Mc)
 
 🎬 &nbsp; Jean Mitry <br>
 🎼 &nbsp; Pierre Boulez <br>
@@ -297,7 +305,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1956]&nbsp; [Nuit et brouillard](https://youtu.be/3_BY5nzcb2E)
+#### [&rsquo;56]&nbsp; [Nuit et brouillard](https://youtu.be/3_BY5nzcb2E)
 
 🎬 &nbsp; Alain Resnais <br>
 🎼 &nbsp; Hanns Eisler <br>
@@ -309,7 +317,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1957]&nbsp; [The England of Elizabeth](https://player.bfi.org.uk/free/film/watch-england-of-elizabeth-1957-online)
+#### [&rsquo;57]&nbsp; [The England of Elizabeth](https://player.bfi.org.uk/free/film/watch-england-of-elizabeth-1957-online)
 
 🎬 &nbsp; John Taylor <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
@@ -321,7 +329,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1958]&nbsp; [Glas](https://youtu.be/d3QEpQ9ozVU)
+#### [&rsquo;58]&nbsp; [Glas](https://youtu.be/d3QEpQ9ozVU)
 
 🎬 &nbsp; Bert Haanstra <br>
 🎼 &nbsp; Pim Jacobs <span style="font-size:0.9em">·</span> Tom Dissevelt <br>
@@ -330,7 +338,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1959]&nbsp; [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
+#### [&rsquo;59]&nbsp; [ホゼー・トレス <span style="color:grey">/ José Torres</span>](https://archive.org/details/jose-torres-hiroshi-teshigahara-1959)
 
 🎬 &nbsp; 勅使河原宏 <span style="color:grey">/ Hiroshi Teshigahara</span> <br>
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
@@ -342,7 +350,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1967]&nbsp; [Dada](https://youtu.be/rh6fcK3jkjY)
+#### [&rsquo;67]&nbsp; [Dada](https://youtu.be/rh6fcK3jkjY)
 
 🎬 &nbsp; Greta Deses <br>
 🎼 &nbsp; Pieter Verlinden <br>
@@ -350,7 +358,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1968]&nbsp; [Railroaded](https://youtu.be/vtYHrFbzlvk)
+#### [&rsquo;68]&nbsp; [Railroaded](https://youtu.be/vtYHrFbzlvk)
 
 🎬 &nbsp; Harrison Engle <br>
 🎼 &nbsp; Philip Glass <br>
@@ -358,7 +366,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1976]&nbsp; [Клоуны и дети <span style="color:grey">/ Clowns and Children</span>](https://youtu.be/x6Y7zSSg2rs)
+#### [&rsquo;76]&nbsp; [Клоуны и дети <span style="color:grey">/ Clowns and Children</span>](https://youtu.be/x6Y7zSSg2rs)
 
 🎬 &nbsp; Александр Митта <span style="color:grey">/ Alexander Mitta</span> <br>
 🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
@@ -368,7 +376,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 ## 二 &nbsp;|&nbsp; 原创音乐—长片
 
-#### [1921]&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
+#### [&rsquo;21]&nbsp; [Im Kampf mit dem Berge](https://youtu.be/JYgO6znM5DU)
 
 🎬 &nbsp; Arnold Fanck <br>
 🎼 &nbsp; Paul Hindemith <br>
@@ -376,7 +384,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1924]&nbsp; [Die Nibelungen](https://www.youtube.com/watch?v=5mPUaDyGCiU&list=PL8AhTXrM6LH26zUfesnMEWdMOlvdCBktF&index=1)
+#### [&rsquo;24]&nbsp; [Die Nibelungen](https://www.youtube.com/watch?v=5mPUaDyGCiU&list=PL8AhTXrM6LH26zUfesnMEWdMOlvdCBktF&index=1)
 
 🎬 &nbsp; Fritz Lang <br>
 🎼 &nbsp; Gottfried Huppertz <br>
@@ -388,7 +396,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1927]&nbsp; [Berlin: Die Sinfonie der Großstadt](https://youtu.be/MBCGTp3egbc)
+#### [&rsquo;27]&nbsp; [Berlin: Die Sinfonie der Großstadt](https://youtu.be/MBCGTp3egbc)
 
 🎬 &nbsp; Walther Ruttmann <br>
 🎼 &nbsp; Edmund Meisel <br>
@@ -400,7 +408,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1927]&nbsp; [Октябрь <span style="color:grey">/ October: Ten Days That Shook the World</span>](https://youtu.be/YVuf3T3k-W0)
+#### [&rsquo;27]&nbsp; [Октябрь <span style="color:grey">/ October: Ten Days That Shook the World</span>](https://youtu.be/YVuf3T3k-W0)
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
@@ -411,7 +419,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1929]&nbsp; [Новый Вавилон <span style="color:grey">/ The New Babylon</span>](https://youtu.be/cyOhcTuFYe0)
+#### [&rsquo;29]&nbsp; [Новый Вавилон <span style="color:grey">/ The New Babylon</span>](https://youtu.be/cyOhcTuFYe0)
 
 🎬 &nbsp; Григорий Козинцев <span style="color:grey">/ Grigori Kozintsev</span> <span style="font-size:0.9em">·</span> Леонид Трауберг <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
@@ -422,7 +430,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1934]&nbsp; [Madame Bovary](https://vk.com/video295803366_456239760)
+#### [&rsquo;34]&nbsp; [Madame Bovary](https://vk.com/video295803366_456239760)
 
 🎬 &nbsp; Jean Renoir <br>
 🎼 &nbsp; Darius Milhaud <br>
@@ -433,7 +441,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1934]&nbsp; [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/Nbb539QZZXo)
+#### [&rsquo;34]&nbsp; [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/Nbb539QZZXo)
 
 🎬 &nbsp; Александр Файнциммер <span style="color:grey">/ Aleksandr Faintsimmer</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
@@ -444,7 +452,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1936]&nbsp; [Things to Come](https://youtu.be/8xhodHavrrc)
+#### [&rsquo;36]&nbsp; [Things to Come](https://youtu.be/8xhodHavrrc)
 
 🎬 &nbsp; William Cameron Menzies <br>
 🎼 &nbsp; Arthur Bliss <br>
@@ -452,7 +460,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1936]&nbsp; [Redes](https://youtu.be/_bK54w6hkuY)
+#### [&rsquo;36]&nbsp; [Redes](https://youtu.be/_bK54w6hkuY)
 
 🎬 &nbsp; Emilio Gómez Muriel <span style="font-size:0.9em">·</span> Fred Zinnemann <br>
 🎼 &nbsp; Silvestre Revueltas <br>
@@ -463,7 +471,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1937]&nbsp; [Love from a Stranger](https://youtu.be/YUl7Xxuzmmo)
+#### [&rsquo;36]&nbsp; [Conquest of the Air](https://youtu.be/TCPt8e1WG4A)
+
+🎬 &nbsp; Alexander Esway <span style="font-size:0.9em">·</span> Zoltan Korda <span style="font-size:0.9em">·</span> William Cameron Menzies <span style="font-size:0.9em">·</span> John Monk Saunders <span style="font-size:0.9em">·</span> Alexander Shaw <span style="font-size:0.9em">·</span> Donald Taylor <br>
+🎼 &nbsp; Arthur Bliss <br>
+
+<br>
+
+#### [&rsquo;37]&nbsp; [Love from a Stranger](https://youtu.be/YUl7Xxuzmmo)
 
 🎬 &nbsp; Rowland V. Lee <br>
 🎼 &nbsp; Benjamin Britten <br>
@@ -475,7 +490,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1937]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
+#### [&rsquo;37]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
 
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
@@ -487,7 +502,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1938]&nbsp; [Александр Невский <span style="color:grey">/ Alexander Nevsky</span>](https://youtu.be/LpVtoUFKZ7w)
+#### [&rsquo;38]&nbsp; [Александр Невский <span style="color:grey">/ Alexander Nevsky</span>](https://youtu.be/LpVtoUFKZ7w)
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
@@ -498,7 +513,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1939]&nbsp; [La noche de los mayas](https://youtu.be/A9sfaM1D2PM)
+#### [&rsquo;39]&nbsp; [La noche de los mayas](https://youtu.be/A9sfaM1D2PM)
 
 🎬 &nbsp; Chano Urueta <br>
 🎼 &nbsp; Silvestre Revueltas <br>
@@ -510,7 +525,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [1944]&nbsp; [Henry V](https://youtu.be/5BLBQIwZ_h4)
+#### [&rsquo;44]&nbsp; [Henry V](https://youtu.be/5BLBQIwZ_h4)
 
 🎬 &nbsp; Laurence Olivier <br>
 🎼 &nbsp; William Walton <br>
@@ -538,7 +553,7 @@ Christopher Palmer
 <br>
 
 
-#### [1944]&nbsp; [Человек № 217 <span style="color:grey">/ Girl № 217</span>](https://youtu.be/XIKWCE6_ibI)
+#### [&rsquo;44]&nbsp; [Человек № 217 <span style="color:grey">/ Girl № 217</span>](https://youtu.be/XIKWCE6_ibI)
 
 🎬 &nbsp; Михаил Ромм <span style="color:grey">/ Mikhail Romm</span> <br>
 🎼 &nbsp; Арам Хачатурян <span style="color:grey">/ 	Aram Khachaturian</span> <br>
@@ -549,7 +564,7 @@ Christopher Palmer
 <br>
 
 
-#### [1944/1945]&nbsp; [Иван Грозный <span style="color:grey">/ Ivan the Terrible</span>](https://youtu.be/LpVtoUFKZ7w)
+#### [&rsquo;44–&rsquo;45]&nbsp; [Иван Грозный <span style="color:grey">/ Ivan the Terrible</span>](https://youtu.be/LpVtoUFKZ7w)
 
 🎬 &nbsp; Сергей Эйзенштейн <span style="color:grey">/ Sergei Eisenstein</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
@@ -576,7 +591,7 @@ Christopher Palmer
 <br>
 
 
-#### [1948]&nbsp; [Oliver Twist](https://youtu.be/ROXMHLiEvN4)
+#### [&rsquo;48]&nbsp; [Oliver Twist](https://youtu.be/ROXMHLiEvN4)
 
 🎬 &nbsp; David Lean <br>
 🎼 &nbsp; Arnold Bax <br>
@@ -584,9 +599,7 @@ Christopher Palmer
 <br>
 
 
-
-
-#### [1948]&nbsp; [Macbeth](https://youtu.be/96ZIo6IH_Qg)
+#### [&rsquo;48]&nbsp; [Macbeth](https://youtu.be/96ZIo6IH_Qg)
 
 🎬 &nbsp; Orson Welles <br>
 🎼 &nbsp; Jacques Ibert <br>
@@ -598,7 +611,7 @@ Christopher Palmer
 <br>
 
 
-#### [1948]&nbsp; [Scott of the Antarctic](https://archive.org/details/scott-of-the-antarctic)
+#### [&rsquo;48]&nbsp; [Scott of the Antarctic](https://archive.org/details/scott-of-the-antarctic)
 
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
@@ -610,7 +623,7 @@ Christopher Palmer
 <br>
 
 
-#### [1949]&nbsp; [The Red Pony](https://m4uhd.tv/watch-movie-the-red-pony-1949-244197.html)
+#### [&rsquo;49]&nbsp; [The Red Pony](https://m4uhd.tv/watch-movie-the-red-pony-1949-244197.html)
 
 🎬 &nbsp; Lewis Milestone <br>
 🎼 &nbsp; Aaron Copland <br>
@@ -622,7 +635,7 @@ Christopher Palmer
 <br>
 
 
-#### [1949]&nbsp; [Сталинградская битва <span style="color:grey">/ The Battle of Stalingrad</span>](https://youtu.be/RGZAzR4p3T4)
+#### [&rsquo;49]&nbsp; [Сталинградская битва <span style="color:grey">/ The Battle of Stalingrad</span>](https://youtu.be/RGZAzR4p3T4)
 
 🎬 &nbsp; Владимир Петров <span style="color:grey">/ Vladimir Petrov</span> <br>
 🎼 &nbsp; Арам Хачатурян <span style="color:grey">/ Aram Khachaturian</span> <br>
@@ -638,7 +651,7 @@ Christopher Palmer
 <br>
 
 
-#### [1952]&nbsp; [The Sound Barrier](https://m4uhd.tv/watch-movie-the-sound-barrier-1952-228566.html)
+#### [&rsquo;52]&nbsp; [The Sound Barrier](https://m4uhd.tv/watch-movie-the-sound-barrier-1952-228566.html)
 
 🎬 &nbsp; David Lean <br>
 🎼 &nbsp; Malcolm Arnold <br>
@@ -650,7 +663,7 @@ Christopher Palmer
 <br>
 
 
-#### [1954]&nbsp; [On the Waterfront](https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa)
+#### [&rsquo;54]&nbsp; [On the Waterfront](https://archive.org/details/On.the.Waterfront.1954.720p.BRrip.x265.HEVC.10bit.PoOlLa)
 
 🎬 &nbsp; Elia Kazan <br>
 🎼 &nbsp; Leonard Bernstein <br>
@@ -662,7 +675,7 @@ Christopher Palmer
 <br>
 
 
-#### [1956]&nbsp; [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
+#### [&rsquo;56]&nbsp; [赤線地帯 <span style="color:grey">/ Street of Shame</span>](https://archive.org/details/street-of-shame)
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
@@ -670,7 +683,7 @@ Christopher Palmer
 <br>
 
 
-#### [1959]&nbsp; [Green Mansions](https://m4uhd.tv/watch-movie-green-mansions-1959-264615.html)
+#### [&rsquo;59]&nbsp; [Green Mansions](https://m4uhd.tv/watch-movie-green-mansions-1959-264615.html)
 
 🎬 &nbsp; Mel Ferrer <br>
 🎼 &nbsp; Heitor Villa-Lobos <span style="font-size:0.9em">·</span> Bronislau Kaper <br>
@@ -682,7 +695,7 @@ Christopher Palmer
 <br>
 
 
-#### [1960]&nbsp; [Psycho](https://www.bilibili.tv/en/video/2048344656)
+#### [&rsquo;60]&nbsp; [Psycho](https://www.bilibili.tv/en/video/2048344656)
 
 🎬 &nbsp; Alfred Hitchcock <br>
 🎼 &nbsp; Bernard Herrmann <br>
@@ -694,7 +707,7 @@ Christopher Palmer
 <br>
 
 
-#### [1961]&nbsp; [Something Wild](https://m4uhd.tv/watch-movie-something-wild-1961-224868.html)
+#### [&rsquo;61]&nbsp; [Something Wild](https://m4uhd.tv/watch-movie-something-wild-1961-224868.html)
 
 🎬 &nbsp; Jack Garfein <br>
 🎼 &nbsp; Aaron Copland <br>
@@ -706,7 +719,7 @@ Christopher Palmer
 <br>
 
 
-#### [1963]&nbsp; [This Sporting Life](https://youtu.be/J9KOD8WNb6I)
+#### [&rsquo;63]&nbsp; [This Sporting Life](https://youtu.be/J9KOD8WNb6I)
 
 🎬 &nbsp; Lindsay Anderson <br>
 🎼 &nbsp; Robert Gerhard <br>
@@ -718,7 +731,7 @@ Christopher Palmer
 <br>
 
 
-#### [1965]&nbsp; [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
+#### [&rsquo;65]&nbsp; [東京オリンピック <span style="color:grey">/ Tokyo Olympiad</span>](https://www.bilibili.com/video/BV1h4411m7kj)
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
@@ -728,7 +741,15 @@ Christopher Palmer
 <br>
 
 
-#### [1965]&nbsp; [Похождения зубного врача <span style="color:grey">/ Adventures of a Dentist</span>](https://youtu.be/15u99i1zgF4)
+#### [&rsquo;65]&nbsp; [The Skull](https://m4uhd.tv/watch-movie-the-skull-1965-13166.html)
+
+🎬 &nbsp; Freddie Francis <br>
+🎼 &nbsp; Elisabeth Lutyens <br>
+
+<br>
+
+
+#### [&rsquo;65]&nbsp; [Похождения зубного врача <span style="color:grey">/ Adventures of a Dentist</span>](https://youtu.be/15u99i1zgF4)
 
 🎬 &nbsp; Элема Климова <span style="color:grey">/ Elem Klimov</span> <br>
 🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
@@ -737,7 +758,7 @@ Christopher Palmer
 <br>
 
 
-#### [1965]&nbsp; [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
+#### [&rsquo;65]&nbsp; [Время, вперёд! <span style="color:grey">/ Time, Forward!</span>](https://youtu.be/RGZAzR4p3T4)
 
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <span style="font-size:0.9em">·</span> Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
@@ -748,7 +769,7 @@ Christopher Palmer
 <br>
 
 
-#### [1966]&nbsp; [Андрей Рублёв <span style="color:grey">/ Andrei Rublev</span>](https://youtu.be/je75FDjcUP4)
+#### [&rsquo;66]&nbsp; [Андрей Рублёв <span style="color:grey">/ Andrei Rublev</span>](https://youtu.be/je75FDjcUP4)
 
 🎬 &nbsp; Андрей Тарковский <span style="color:grey">/ 	Andrei Tarkovsky</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
@@ -756,17 +777,24 @@ Christopher Palmer
 <br>
 
 
-#### [1966/1967]&nbsp; [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
+#### [&rsquo;66–&rsquo;67]&nbsp; [Война и мир <span style="color:grey">/ War and Peace</span>](https://youtu.be/bIij-KQ0jYU)
 
 🎬 &nbsp; Сергей Бондарчук <span style="color:grey">/ 	Sergei Bondarchuk</span> <br>
 🎼 &nbsp; Вячеслав Овчинников <span style="color:grey">/ Vyacheslav Ovchinnikov</span> <br>
 
+<br>
+
+
+#### [&rsquo;71]&nbsp; [The Devils](https://m4uhd.tv/watch-movie-the-devils-1971-6586.html)
+
+🎬 &nbsp; Ken Russell <br>
+🎼 &nbsp; Peter Maxwell Davies <br>
 
 <br>
 
 
 
-#### [1981]&nbsp; [Агония <span style="color:grey">/ Agony</span>](https://www.youtube.com/watch?v=Ll1Wdob2P1E&list=PL8AhTXrM6LH3dhBSGb7ZDPRlqwUgyNMqM&index=1)
+#### [&rsquo;81]&nbsp; [Агония <span style="color:grey">/ Agony</span>](https://www.youtube.com/watch?v=Ll1Wdob2P1E&list=PL8AhTXrM6LH3dhBSGb7ZDPRlqwUgyNMqM&index=1)
 
 🎬 &nbsp; Элема Климова <span style="color:grey">/ Elem Klimov</span> <br>
 🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
@@ -775,7 +803,7 @@ Christopher Palmer
 <br>
 
 
-#### [1985]&nbsp; [乱 <span style="color:grey">/ Ran</span>]()
+#### [&rsquo;85]&nbsp; [乱 <span style="color:grey">/ Ran</span>]()
 
 🎬 &nbsp; 黒澤明 <span style="color:grey">/ Akira Kurosawa</span> <br>
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
@@ -786,7 +814,7 @@ Christopher Palmer
 <br>
 
 
-#### [1985]&nbsp; [Mishima: A Life in Four Chapters](https://www.divicast.com/watch-movie/watch-mishima-a-life-in-four-chapters-1985-online-free-7987.5313061)
+#### [&rsquo;85]&nbsp; [Mishima: A Life in Four Chapters](https://www.divicast.com/watch-movie/watch-mishima-a-life-in-four-chapters-1985-online-free-7987.5313061)
 
 🎬 &nbsp; Paul Schrader <br>
 🎼 &nbsp; Philip Glass <br>
@@ -798,7 +826,7 @@ Christopher Palmer
 <br>
 
 
-#### [1991]&nbsp; [The Cabinet of Dr. Ramirez](https://www.youtube.com/watch?v=AFLQNQKhPwo&list=PL8AhTXrM6LH2W0JQelox3-b4_wQmoPTHb&index=1)
+#### [&rsquo;91]&nbsp; [The Cabinet of Dr. Ramirez](https://www.youtube.com/watch?v=AFLQNQKhPwo&list=PL8AhTXrM6LH2W0JQelox3-b4_wQmoPTHb&index=1)
 
 🎬 &nbsp; Peter Sellars <br>
 🎼 &nbsp; John Adams <br>
@@ -810,7 +838,7 @@ Christopher Palmer
 ## 三 &nbsp;|&nbsp; 原创插曲
 
 
-#### [1914]&nbsp; [Cabiria](https://youtu.be/H2jrQTgP_bs):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Sinfonia del fuoco''](https://youtu.be/OkhkoFVA-JU)
+#### [&rsquo;14]&nbsp; [Cabiria](https://youtu.be/H2jrQTgP_bs):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Sinfonia del fuoco''](https://youtu.be/OkhkoFVA-JU)
 
 🎬 &nbsp; Giovanni Pastrone <br>
 🎼 &nbsp; Ildebrando Pizzetti <br>
@@ -818,7 +846,7 @@ Christopher Palmer
 <br>
 
 
-#### [1936]&nbsp; [Night Mail](https://www.dailymotion.com/video/x7utm3o):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;This Is the Night Mail Crossing the Border''](https://youtu.be/bJ7hiSbbY5M)
+#### [&rsquo;36]&nbsp; [Night Mail](https://www.dailymotion.com/video/x7utm3o):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;This Is the Night Mail Crossing the Border''](https://youtu.be/bJ7hiSbbY5M)
 
 🎬 &nbsp; Harry Watt <span style="font-size:0.9em">·</span> Basil Wright <br>
 🎼 &nbsp; Benjamin Britten <br>
@@ -826,7 +854,7 @@ Christopher Palmer
 <br>
 
 
-#### [1969]&nbsp; [Battle of Britain](https://www.imdb.com/title/tt0064072/):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Battle in the Air''](https://youtu.be/gTv_4DPQUnQ)
+#### [&rsquo;69]&nbsp; [Battle of Britain](https://www.imdb.com/title/tt0064072/):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;Battle in the Air''](https://youtu.be/gTv_4DPQUnQ)
 
 🎬 &nbsp; Guy Hamilton <br>
 🎼 &nbsp; William Walton <br>
@@ -834,10 +862,18 @@ Christopher Palmer
 <br>
 
 
+#### [&rsquo;74]&nbsp; [Murder on the Orient Express](https://m4uhd.tv/watch-movie-murder-on-the-orient-express-1974-7130.html):<span style="font-size:0.5em">&nbsp;</span> [&lsquo;&lsquo;The Orient Express''](https://www.youtube.com/watch?v=X4pVaJpEnp4&list=PLy5kryT0xrJMS7cOuA595j4tOc6DSKRTX&index=4)
+
+🎬 &nbsp; Sidney Lumet <br>
+🎼 &nbsp; Richard Rodney Bennett <br>
+
+<br>
+
+
 ## 四 &nbsp;|&nbsp; 重编音乐
 
 
-#### [1938]&nbsp; [The Tocher](https://vimeo.com/80300555)
+#### [&rsquo;38]&nbsp; [The Tocher](https://vimeo.com/80300555)
 
 🎬 &nbsp; Lotte Reiniger <br>
 🎼 &nbsp; Gioachino Rossini <br>
@@ -846,7 +882,7 @@ Christopher Palmer
 <br>
 
 
-#### [1982]&nbsp; [Evil Under the Sun](https://archive.org/details/muerte-bajo-el-sol)
+#### [&rsquo;82]&nbsp; [Evil Under the Sun](https://m4uhd.tv/watch-movie-evil-under-the-sun-1982-3326.html)
 
 🎬 &nbsp; Guy Hamilton <br>
 🎼 &nbsp; Cole Porter <br>
