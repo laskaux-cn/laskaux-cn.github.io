@@ -24,6 +24,8 @@ L'Assassinat du duc de Guise
 <span style="color:darkgrey">&nbsp;&rsquo;40</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Malta G.C.
 <span style="color:darkgrey">&nbsp;&rsquo;42</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Le Tempestaire 
+<span style="color:darkgrey">&nbsp;&rsquo;47</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Report on Steel 
 <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 
@@ -263,6 +265,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 🎬 &nbsp; Eugeniusz Cekalski <span style="font-size:0.9em">·</span> Derrick De Marney <br>
 🎼 &nbsp; Arnold Bax <br>
+
+<br>
+
+
+#### [&rsquo;47]&nbsp; [Le Tempestaire](https://www.cinematheque.fr/henri/film/48399-le-tempestaire-jean-epstein-1947/)
+
+🎬 &nbsp; Jean Epstein <br>
+🎼 &nbsp; Yves Baudrier <br>
 
 <br>
 

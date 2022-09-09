@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 09 Sep 2022 00:27:19 -0400</pubDate>
+    <pubDate>Fri, 09 Sep 2022 06:17:30 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -27,6 +27,8 @@ L’Assassinat du duc de Guise
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’40&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Malta G.C.
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’42&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Le Tempestaire 
+&lt;span style=&quot;color:darkgrey&quot;&gt; ’47&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 
@@ -272,6 +274,13 @@ Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt
 
 &lt;p&gt;🎬   Eugeniusz Cekalski &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Derrick De Marney &lt;br /&gt;
 🎼   Arnold Bax &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;47-le-tempestaire&quot;&gt;[’47]  &lt;a href=&quot;https://www.cinematheque.fr/henri/film/48399-le-tempestaire-jean-epstein-1947/&quot;&gt;Le Tempestaire&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Jean Epstein &lt;br /&gt;
+🎼   Yves Baudrier &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
