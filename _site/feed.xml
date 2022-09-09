@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 09 Sep 2022 12:58:03 -0400</pubDate>
+    <pubDate>Fri, 09 Sep 2022 13:41:51 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -74,14 +74,14 @@ Madame Bovary &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&
 Поручик Киже &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Things to Come &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+O Descobrimento do Brasil &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Redes &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Conquest of the Air &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Love from a Stranger &lt;span style=&quot;color:darkgrey&quot;&gt; ’37&lt;/span&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-O Descobrimento do Brasil &lt;span style=&quot;color:darkgrey&quot;&gt; ’37&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Александр Невский &lt;span style=&quot;color:darkgrey&quot;&gt; ’38&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -492,6 +492,19 @@ Chicago Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;36-o-descobrimento-do-brasil&quot;&gt;[’36]  &lt;a href=&quot;https://www.youtube.com/watch?v=RibykMldK1U&quot;&gt;O Descobrimento do Brasil&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Humberto Mauro &lt;br /&gt;
+🎼   Heitor Villa-Lobos &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/K266nfbB12g&quot;&gt;O Descobrimento do Brasil (suites), W377–W380&lt;/a&gt; &lt;br /&gt;
+Symfonický orchester Slovenského rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Slovenský filharmonický zbor &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Duarte 
+ (1993-05  &lt;img src=&quot;/assets/img/flags/sk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;36-redes&quot;&gt;[’36]  &lt;a href=&quot;https://youtu.be/_bK54w6hkuY&quot;&gt;Redes&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Emilio Gómez Muriel &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Fred Zinnemann &lt;br /&gt;
@@ -520,19 +533,6 @@ Orquesta Filarmónica de la Ciudad de México &lt;span style=&quot;font-size:0.9
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/lmB9gauIGA4&quot;&gt;Love from a Stranger (suite)&lt;/a&gt; &lt;br /&gt;
 BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jac van Steen
  (1999-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maida Vale Studios, London)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;37-o-descobrimento-do-brasil&quot;&gt;[’37]  &lt;a href=&quot;https://www.youtube.com/watch?v=RibykMldK1U&quot;&gt;O Descobrimento do Brasil&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;🎬   Humberto Mauro &lt;br /&gt;
-🎼   Heitor Villa-Lobos &lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://youtu.be/K266nfbB12g&quot;&gt;O Descobrimento do Brasil (suites), W377–W380&lt;/a&gt; &lt;br /&gt;
-Symfonický orchester Slovenského rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Slovenský filharmonický zbor &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Duarte 
- (1993-05  &lt;img src=&quot;/assets/img/flags/sk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;

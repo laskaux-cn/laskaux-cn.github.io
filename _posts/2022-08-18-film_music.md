@@ -71,14 +71,14 @@ Madame Bovary <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Things to Come <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
+<img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
+O Descobrimento do Brasil <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
 Redes <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Conquest of the Air <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
-<img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
-O Descobrimento do Brasil <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Александр Невский <span style="color:darkgrey">&nbsp;&rsquo;38</span><br>
 <img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
@@ -484,6 +484,18 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
+#### [&rsquo;36]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
+
+🎬 &nbsp; Humberto Mauro <br>
+🎼 &nbsp; Heitor Villa-Lobos <br>
+
+>[O Descobrimento do Brasil (suites), W377–W380](https://youtu.be/K266nfbB12g) <br>
+>Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte 
+&nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
+
+<br>
+
+
 #### [&rsquo;36]&nbsp; [Redes](https://youtu.be/_bK54w6hkuY)
 
 🎬 &nbsp; Emilio Gómez Muriel <span style="font-size:0.9em">·</span> Fred Zinnemann <br>
@@ -510,18 +522,6 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 >[Love from a Stranger (suite)](https://youtu.be/lmB9gauIGA4) <br>
 > BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen
 &nbsp;(1999-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
-
-<br>
-
-
-#### [&rsquo;37]&nbsp; [O Descobrimento do Brasil](https://www.youtube.com/watch?v=RibykMldK1U)
-
-🎬 &nbsp; Humberto Mauro <br>
-🎼 &nbsp; Heitor Villa-Lobos <br>
-
->[O Descobrimento do Brasil (suites), W377–W380](https://youtu.be/K266nfbB12g) <br>
->Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte 
-&nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
 
 <br>
 
