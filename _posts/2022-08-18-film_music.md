@@ -18,6 +18,8 @@ L'Assassinat du duc de Guise
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La p'tite Lili <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; S.O.S. Foch 
 <span style="color:darkgrey">&nbsp;&rsquo;31</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Fétiche mascotte 
+<span style="color:darkgrey">&nbsp;&rsquo;33</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; The City 
 <span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке
@@ -103,6 +105,8 @@ The Sound Barrier<span style="color:darkgrey">&nbsp;&rsquo;52</span> <br>
 On the Waterfront <span style="color:darkgrey">&nbsp;&rsquo;54</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
 赤線地帯 <span style="color:darkgrey">&nbsp;&rsquo;56</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
+Le Monde du silence <span style="color:darkgrey">&nbsp;&rsquo;56</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
 Green Mansions <span style="color:darkgrey">&nbsp;&rsquo;59</span><br>
 <img src="/assets/img/flags/us_49.png" height="12" width="18"/> &nbsp; 
@@ -224,6 +228,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
 > Orchestra des Concerts Lamoureux <span style="font-size:0.9em">·</span> 佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> 
 &nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris)
+
+<br>
+
+
+#### [&rsquo;33]&nbsp; [Fétiche mascotte](https://youtu.be/PZbShVaftSQ)
+
+🎬 &nbsp; Ladislas Starewitch <span style="font-size:0.9em">·</span> Irène Starewitch <br>
+🎼 &nbsp; Édouard Flament <br>
 
 <br>
 
@@ -691,6 +703,14 @@ Christopher Palmer
 
 🎬 &nbsp; 溝口健二 <span style="color:grey">/ Kenji Mizoguchi</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
+
+<br>
+
+
+#### [&rsquo;56]&nbsp; [Le Monde du silence](https://youtu.be/xT2nSz_k134)
+
+🎬 &nbsp; Jacques-Yves Cousteau <span style="font-size:0.9em">·</span> Louis Malle <br>
+🎼 &nbsp; Yves Baudrier <br>
 
 <br>
 
