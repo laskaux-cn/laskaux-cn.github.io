@@ -112,7 +112,7 @@ This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 <img src="/assets/img/flags/jp_old.png" height="12.6" width="18"/> &nbsp; 
 東京オリンピック <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
-The Skull <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
+The Skull <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
