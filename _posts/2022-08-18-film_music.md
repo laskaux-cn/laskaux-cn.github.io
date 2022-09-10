@@ -32,6 +32,8 @@ L'Assassinat du duc de Guise
 <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Pacific 231 
 <span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Fleur de fougère 
+<span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
 <img src="/assets/img/flags/nl.png" height="12" width="18"/> &nbsp; Spiegel van Holland 
 <span style="color:darkgrey">&nbsp;&rsquo;50</span> <br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Symphonie mécanique 
@@ -66,6 +68,8 @@ Berlin: Die Sinfonie der Großstadt <span style="color:darkgrey">&nbsp;&rsquo;27
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Новый Вавилон <span style="color:darkgrey">&nbsp;&rsquo;29</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
+Le sang d'un poète <span style="color:darkgrey">&nbsp;&rsquo;30</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 Madame Bovary <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
@@ -89,6 +93,8 @@ Henry V <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 Человек № 217 <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Иван Грозный <span style="color:darkgrey">&nbsp;&rsquo;44–&rsquo;45</span><br>
+<img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
+La Belle et la Bête <span style="color:darkgrey">&nbsp;&rsquo;46</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Oliver Twist <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
@@ -313,6 +319,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
+#### [&rsquo;49]&nbsp; [Fleur de fougère](https://www.capuseen.com/films/8262-fleur-de-fougere)
+
+🎬 &nbsp; Ladislas Starewitch <br>
+🎼 &nbsp; Daniel-Lesur <br>
+
+<br>
+
+
 #### [&rsquo;50]&nbsp; [Spiegel van Holland](https://youtu.be/XUIJkIUa0cQ)
 
 🎬 &nbsp; Bert Haanstra <br>
@@ -450,6 +464,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 >[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
 >Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+
+<br>
+
+
+#### [&rsquo;30]&nbsp; [Le sang d'un poète](https://archive.org/details/JeanCocteauLeSangDunPote1930)
+
+🎬 &nbsp; Jean Cocteau <br>
+🎼 &nbsp; Georges Auric <br>
 
 <br>
 
@@ -615,6 +637,14 @@ Christopher Palmer
 <br>
 
 
+#### [&rsquo;46]&nbsp; [La Belle et la Bête](https://youtu.be/_K0jMczNpmM)
+
+🎬 &nbsp; Jean Cocteau <br>
+🎼 &nbsp; Georges Auric <br>
+
+<br>
+
+
 #### [&rsquo;48]&nbsp; [Oliver Twist](https://youtu.be/ROXMHLiEvN4)
 
 🎬 &nbsp; David Lean <br>
@@ -767,8 +797,6 @@ Christopher Palmer
 
 🎬 &nbsp; 市川崑 <span style="color:grey">/ Kon Ichikawa</span> <br>
 🎼 &nbsp; 黛敏郎 <span style="color:grey">/ Toshirō Mayuzumi</span> <br>
-📽️ &nbsp; 1965-03-20
-&nbsp;<img src="/assets/img/flags/jp_old.png" height="13" width="18"/>&nbsp;
 
 <br>
 

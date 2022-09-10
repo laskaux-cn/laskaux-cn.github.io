@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 09 Sep 2022 13:41:51 -0400</pubDate>
+    <pubDate>Sat, 10 Sep 2022 18:25:16 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -34,6 +34,8 @@ L’Assassinat du duc de Guise
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Report on Steel 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Pacific 231 
+&lt;span style=&quot;color:darkgrey&quot;&gt; ’49&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Fleur de fougère 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’49&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Spiegel van Holland 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’50&lt;/span&gt; &lt;br /&gt;
@@ -69,6 +71,8 @@ Berlin: Die Sinfonie der Großstadt &lt;span style=&quot;color:darkgrey&quot;&gt
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Новый Вавилон &lt;span style=&quot;color:darkgrey&quot;&gt; ’29&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+Le sang d’un poète &lt;span style=&quot;color:darkgrey&quot;&gt; ’30&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Madame Bovary &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Поручик Киже &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&lt;br /&gt;
@@ -92,6 +96,8 @@ Henry V &lt;span style=&quot;color:darkgrey&quot;&gt; ’44&lt;/span&gt;&lt;br 
 Человек № 217 &lt;span style=&quot;color:darkgrey&quot;&gt; ’44&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Иван Грозный &lt;span style=&quot;color:darkgrey&quot;&gt; ’44–’45&lt;/span&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
+La Belle et la Bête &lt;span style=&quot;color:darkgrey&quot;&gt; ’46&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Oliver Twist &lt;span style=&quot;color:darkgrey&quot;&gt; ’48&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -321,6 +327,13 @@ Tonhalle-Orchester Zürich &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;49-fleur-de-fougère&quot;&gt;[’49]  &lt;a href=&quot;https://www.capuseen.com/films/8262-fleur-de-fougere&quot;&gt;Fleur de fougère&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Ladislas Starewitch &lt;br /&gt;
+🎼   Daniel-Lesur &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;50-spiegel-van-holland&quot;&gt;[’50]  &lt;a href=&quot;https://youtu.be/XUIJkIUa0cQ&quot;&gt;Spiegel van Holland&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   Bert Haanstra &lt;br /&gt;
@@ -458,6 +471,13 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/glvTzAp6arc?t=4&quot;&gt;The New Babylon (suite), Op. 18&lt;/a&gt; &lt;br /&gt;
 Академический симфонический оркестр Московской государственной филармонии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Геннадий Рождественский&lt;span style=&quot;color:darkgrey&quot;&gt; / Gennady Rozhdestvensky&lt;/span&gt;  (1975  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;30-le-sang-dun-poète&quot;&gt;[’30]  &lt;a href=&quot;https://archive.org/details/JeanCocteauLeSangDunPote1930&quot;&gt;Le sang d’un poète&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Jean Cocteau &lt;br /&gt;
+🎼   Georges Auric &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -638,6 +658,13 @@ Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;46-la-belle-et-la-bête&quot;&gt;[’46]  &lt;a href=&quot;https://youtu.be/_K0jMczNpmM&quot;&gt;La Belle et la Bête&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Jean Cocteau &lt;br /&gt;
+🎼   Georges Auric &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;48-oliver-twist&quot;&gt;[’48]  &lt;a href=&quot;https://youtu.be/ROXMHLiEvN4&quot;&gt;Oliver Twist&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   David Lean &lt;br /&gt;
@@ -796,9 +823,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 &lt;h4 id=&quot;65-東京オリンピック--tokyo-olympiad&quot;&gt;[’65]  &lt;a href=&quot;https://www.bilibili.com/video/BV1h4411m7kj&quot;&gt;東京オリンピック &lt;span style=&quot;color:grey&quot;&gt;/ Tokyo Olympiad&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;🎬   市川崑 &lt;span style=&quot;color:grey&quot;&gt;/ Kon Ichikawa&lt;/span&gt; &lt;br /&gt;
-🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshirō Mayuzumi&lt;/span&gt; &lt;br /&gt;
-📽️   1965-03-20
- &lt;img src=&quot;/assets/img/flags/jp_old.png&quot; height=&quot;13&quot; width=&quot;18&quot; /&gt; &lt;/p&gt;
+🎼   黛敏郎 &lt;span style=&quot;color:grey&quot;&gt;/ Toshirō Mayuzumi&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
