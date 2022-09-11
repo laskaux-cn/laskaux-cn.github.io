@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 10 Sep 2022 18:25:16 -0400</pubDate>
+    <pubDate>Sun, 11 Sep 2022 12:48:29 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -19,6 +19,8 @@ L’Assassinat du duc de Guise
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Ballet mécanique &lt;span style=&quot;color:darkgrey&quot;&gt; ’24&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Entr’acte &lt;span style=&quot;color:darkgrey&quot;&gt; ’24&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   La p’tite Lili &lt;span style=&quot;color:darkgrey&quot;&gt; ’27&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;#regen&quot;&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;   Regen 
+&lt;span style=&quot;color:darkgrey&quot;&gt; ’29&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   S.O.S. Foch 
 &lt;span style=&quot;color:darkgrey&quot;&gt; ’31&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   Fétiche mascotte 
@@ -88,6 +90,8 @@ Conquest of the Air &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/spa
 Love from a Stranger &lt;span style=&quot;color:darkgrey&quot;&gt; ’37&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Александр Невский &lt;span style=&quot;color:darkgrey&quot;&gt; ’38&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;#million&quot;&gt;&lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;   The 400 Million 
+&lt;span style=&quot;color:darkgrey&quot;&gt; ’39&lt;/span&gt; &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/mx_1934.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 La noche de los mayas &lt;span style=&quot;color:darkgrey&quot;&gt; ’39&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -225,6 +229,19 @@ Ensemble Ars Nova &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/_js46T-ynNQ&quot;&gt;La p’tite Lili&lt;/a&gt; &lt;br /&gt;
 Orquesta de la Comunidad de Madrid &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Pálmer
  (2011-05  &lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Residencia de Estudiantes, Madrid)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;regen&quot;&gt;[’29]  &lt;a href=&quot;https://youtu.be/DWFapEKuVOo&quot;&gt;Regen&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Joris Ivens &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Mannus Franken &lt;br /&gt;
+🎼   Lou Lichtveld &lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;➠&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt; Hanns Eisler &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/QG23MpBp1p0&quot;&gt;Vierzehn Arten, den Regen zu beschreiben, Op. 70&lt;/a&gt; &lt;br /&gt;
+Kammermusikvereinigung der Deutschen Staatsoper Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Friedrich-Carl Erben
+ (1967-05/10  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Berlin)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -566,6 +583,13 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/rINpR1VCRrk&quot;&gt;Alexander Nevsky (cantata), Op. 78&lt;/a&gt; &lt;br /&gt;
 Симфонический оркестр Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt;  (2002-07  &lt;img src=&quot;/assets/img/flags/fi_bd2.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Martti Talvela -sali, Mikkeli)&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;million&quot;&gt;[’39]  &lt;a href=&quot;https://youtu.be/szONyAKfi5c&quot;&gt;The 400 Million&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;🎬   Joris Ivens &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Fernhout &lt;br /&gt;
+🎼   Hanns Eisler &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

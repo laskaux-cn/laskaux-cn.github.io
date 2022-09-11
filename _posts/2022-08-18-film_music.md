@@ -16,6 +16,8 @@ L'Assassinat du duc de Guise
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Ballet mécanique <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Entr'acte <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; La p'tite Lili <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
+[<img src="/assets/img/flags/nl.png" height="12" width="18"/>](#regen) &nbsp; Regen 
+<span style="color:darkgrey">&nbsp;&rsquo;29</span> <br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; S.O.S. Foch 
 <span style="color:darkgrey">&nbsp;&rsquo;31</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; Fétiche mascotte 
@@ -85,6 +87,8 @@ Conquest of the Air <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Александр Невский <span style="color:darkgrey">&nbsp;&rsquo;38</span><br>
+[<img src="/assets/img/flags/us_48.png" height="12" width="18"/>](#million) &nbsp; The 400 Million 
+<span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
 <img src="/assets/img/flags/mx_1934.png" height="12" width="18"/> &nbsp; 
 La noche de los mayas <span style="color:darkgrey">&nbsp;&rsquo;39</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
@@ -222,6 +226,18 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 >[La p'tite Lili](https://youtu.be/_js46T-ynNQ) <br>
 > Orquesta de la Comunidad de Madrid <span style="font-size:0.9em">·</span> Roberto Pálmer
 &nbsp;(2011-05 &nbsp;<img src="/assets/img/flags/es.png" height="12" width="18"/>&nbsp; Residencia de Estudiantes, Madrid)
+
+<br>
+
+
+#### [&rsquo;29]&nbsp; [Regen](https://youtu.be/DWFapEKuVOo) {#regen}
+
+🎬 &nbsp; Joris Ivens <span style="font-size:0.9em">·</span> Mannus Franken <br>
+🎼 &nbsp; Lou Lichtveld <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Hanns Eisler <br>
+
+>[Vierzehn Arten, den Regen zu beschreiben, Op. 70](https://youtu.be/QG23MpBp1p0) <br>
+> Kammermusikvereinigung der Deutschen Staatsoper Berlin <span style="font-size:0.9em">·</span> Friedrich-Carl Erben
+&nbsp;(1967-05/10 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Berlin)
 
 <br>
 
@@ -555,6 +571,14 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
 >Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> <span style="font-size:0.9em">·</span> Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <span style="font-size:0.9em">·</span> Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli)
+
+<br>
+
+
+#### [&rsquo;39]&nbsp; [The 400 Million](https://youtu.be/szONyAKfi5c) {#million}
+
+🎬 &nbsp; Joris Ivens <span style="font-size:0.9em">·</span> John Fernhout <br>
+🎼 &nbsp; Hanns Eisler <br>
 
 <br>
 
