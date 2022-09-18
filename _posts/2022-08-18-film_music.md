@@ -503,7 +503,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 <br>
 
 
-#### [&rsquo;34]&nbsp; [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/Nbb539QZZXo)
+#### [&rsquo;34]&nbsp; [Поручик Киже <span style="color:grey">/ Lieutenant Kijé</span>](https://youtu.be/YmZoXQG5sY8)
 
 🎬 &nbsp; Александр Файнциммер <span style="color:grey">/ Aleksandr Faintsimmer</span> <br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
@@ -694,7 +694,7 @@ Christopher Palmer
 🎬 &nbsp; Charles Frend <br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
->[Sinfonia antartica / Symphony № 7](https://youtu.be/Mv6YBg7PLag) <br>
+>[Symphony № 7 &lsquo;&lsquo;Sinfonia antartica''](https://youtu.be/Mv6YBg7PLag) <br>
 > London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Bernard Haitink
 &nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
 
