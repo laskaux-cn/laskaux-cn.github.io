@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 17 Sep 2022 00:32:39 -0400</pubDate>
+    <pubDate>Mon, 19 Sep 2022 03:33:09 -0400</pubDate>
     
       <item>
         <title>昨日的电影</title>
@@ -77,7 +77,7 @@ Le sang d’un poète &lt;span style=&quot;color:darkgrey&quot;&gt; ’30&lt;/s
 &lt;img src=&quot;/assets/img/flags/fr_da.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Madame Bovary &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Поручик Киже &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;&lt;br /&gt;
+Поручик Киже &lt;span style=&quot;color:darkgrey&quot;&gt; ’34&lt;/span&gt;    🏷️ &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Things to Come &lt;span style=&quot;color:darkgrey&quot;&gt; ’36&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/br_21.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -133,7 +133,7 @@ This Sporting Life &lt;span style=&quot;color:darkgrey&quot;&gt; ’63&lt;/span
 &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 The Skull &lt;span style=&quot;color:darkgrey&quot;&gt; ’65&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
-Похождения зубного врача &lt;span style=&quot;color:darkgrey&quot;&gt; ’65&lt;/span&gt;&lt;br /&gt;
+Похождения зубного врача &lt;span style=&quot;color:darkgrey&quot;&gt; ’65&lt;/span&gt;   🏷️ &lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
 Время, вперёд! &lt;span style=&quot;color:darkgrey&quot;&gt; ’66&lt;/span&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;   
@@ -188,8 +188,7 @@ Evil Under the Sun &lt;span style=&quot;color:darkgrey&quot;&gt; ’82&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/FuUC_QysVxw&quot;&gt;L’Assassinat du duc de Guise, Op. 128&lt;/a&gt; &lt;br /&gt;
-Ensemble Musique Oblique 
- (1993-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Théâtre de Poissy, Yvelines)&lt;/p&gt;
+Ensemble Musique Oblique  [1993-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Théâtre de Poissy, Yvelines]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -201,8 +200,7 @@ Ensemble Musique Oblique
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/tX8UHrFZzO8&quot;&gt;Ballet pour instruments mécaniques et percussion&lt;/a&gt; &lt;br /&gt;
-Boston Modern Orchestra Project &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Gil Rose
- (2009-11  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Jordan Hall, Boston)&lt;/p&gt;
+Boston Modern Orchestra Project &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Gil Rose  [2009-11  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Jordan Hall, Boston]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -214,8 +212,7 @@ Boston Modern Orchestra Project &lt;span style=&quot;font-size:0.9em&quot;&gt;·
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/mdURohWzFKQ&quot;&gt;Cinéma, entr’acte symphonique de ‘‘Relâche’’&lt;/a&gt; &lt;br /&gt;
-Ensemble Ars Nova &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Marius Constant 
- (1980-02  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Notre-Dame-du-Liban, Paris)&lt;/p&gt;
+Ensemble Ars Nova &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Marius Constant  [1980-02  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Notre-Dame-du-Liban, Paris]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -227,8 +224,7 @@ Ensemble Ars Nova &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/_js46T-ynNQ&quot;&gt;La p’tite Lili&lt;/a&gt; &lt;br /&gt;
-Orquesta de la Comunidad de Madrid &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Pálmer
- (2011-05  &lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Residencia de Estudiantes, Madrid)&lt;/p&gt;
+Orquesta de la Comunidad de Madrid &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Pálmer  [2011-05  &lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Residencia de Estudiantes, Madrid]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -240,8 +236,7 @@ Orquesta de la Comunidad de Madrid &lt;span style=&quot;font-size:0.9em&quot;&gt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/QG23MpBp1p0&quot;&gt;Vierzehn Arten, den Regen zu beschreiben, Op. 70&lt;/a&gt; &lt;br /&gt;
-Kammermusikvereinigung der Deutschen Staatsoper Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Friedrich-Carl Erben
- (1967-05/10  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Berlin)&lt;/p&gt;
+Kammermusikvereinigung der Deutschen Staatsoper Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Friedrich-Carl Erben  [1967-05/10  &lt;img src=&quot;/assets/img/flags/de_east.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Christuskirche, Berlin]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -253,8 +248,7 @@ Kammermusikvereinigung der Deutschen Staatsoper Berlin &lt;span style=&quot;font
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UaOok1zyAG0&quot;&gt;Symphonie marine&lt;/a&gt; &lt;br /&gt;
-Orchestra des Concerts Lamoureux &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 佐渡裕 &lt;span style=&quot;color:darkgrey&quot;&gt;/ Yutaka Sado&lt;/span&gt; 
- (1996-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Salle Pleyel, Paris)&lt;/p&gt;
+Orchestra des Concerts Lamoureux &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 佐渡裕 &lt;span style=&quot;color:darkgrey&quot;&gt;/ Yutaka Sado&lt;/span&gt;  [1996-04  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Salle Pleyel, Paris]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -273,14 +267,10 @@ Orchestra des Concerts Lamoureux &lt;span style=&quot;font-size:0.9em&quot;&gt;�
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/L_QcktclTwg&quot;&gt;The City (suite)&lt;/a&gt; &lt;br /&gt;
-Eos Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jonathan Sheffer
- (2000-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  The Performing Arts Center, Purchase College, New York)&lt;/p&gt;
-&lt;/blockquote&gt;
+Eos Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jonathan Sheffer  [2000-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  The Performing Arts Center, Purchase College, New York]&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/klCSKcdw5Kw&quot;&gt;Music for Movies&lt;/a&gt; &lt;br /&gt;
-New Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Aaron Copland
- (1970-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
+New Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Aaron Copland  [1970-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -292,14 +282,10 @@ New Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/YzCucJb35Ao&quot;&gt;The Silly Little Mouse, Op. 56&lt;/a&gt; &lt;br /&gt;
-Российский государственный симфонический оркестр кинематографии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Russian State Cinematographic Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вальтер Мнацаканов&lt;span style=&quot;color:darkgrey&quot;&gt; / Walter Mnatsakanov&lt;/span&gt;
- (1997-02  &lt;img src=&quot;/assets/img/flags/by.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Минск&lt;span style=&quot;color:darkgrey&quot;&gt;/Minsk&lt;/span&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
+Российский государственный симфонический оркестр кинематографии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Russian State Cinematographic Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вальтер Мнацаканов&lt;span style=&quot;color:darkgrey&quot;&gt; / Walter Mnatsakanov&lt;/span&gt;  [1997-02  &lt;img src=&quot;/assets/img/flags/by.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Минск&lt;span style=&quot;color:darkgrey&quot;&gt;/Minsk&lt;/span&gt;]&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/JQb94zOecZ0?t=5&quot;&gt;The Silly Little Mouse, Op. 56 (music)&lt;/a&gt; &lt;br /&gt;
-Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Riccardo Chailly
- (1998-09  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Concertgebouw, Amsterdam)&lt;/p&gt;
+Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Riccardo Chailly  [1998-09  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Concertgebouw, Amsterdam]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -308,6 +294,11 @@ Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt
 
 &lt;p&gt;🎬   Eugeniusz Cekalski &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Derrick De Marney &lt;br /&gt;
 🎼   Arnold Bax &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/AtPpJnQdOYs&quot;&gt;Malta G.C.&lt;/a&gt; &lt;br /&gt;
+Royal Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Kenneth Alwyn  [1986-01  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  CBS/Whitfield Street Studios, London]&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -325,8 +316,7 @@ Concertgebouworkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/_k8hEB1WeqA&quot;&gt;Symphonic Study ‘‘Machines’’, Op. 30&lt;/a&gt; &lt;br /&gt;
-BBC Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Rumon Gamba 
- (2000-02/07  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Studio 7, New Broadcasting House, Manchester)&lt;/p&gt;
+BBC Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Rumon Gamba  [2000-02/07  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Studio 7, New Broadcasting House, Manchester]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -338,8 +328,7 @@ BBC Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/UVF5RAeaTTE&quot;&gt;Pacific 231 / Mouvement symphonique № 1, H. 53&lt;/a&gt; &lt;br /&gt;
-Tonhalle-Orchester Zürich &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; David Zinman 
- (1996-05  &lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;13&quot; width=&quot;13&quot; /&gt;  Tonhalle, Zürich)&lt;/p&gt;
+Tonhalle-Orchester Zürich &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; David Zinman  [1996-05  &lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;13&quot; width=&quot;13&quot; /&gt;  Tonhalle, Zürich]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -372,8 +361,7 @@ Tonhalle-Orchester Zürich &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLWgTE7o3WcFO&quot;&gt;Nuit et brouillard&lt;/a&gt; &lt;br /&gt;
-Kammersymphonie Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jürgen Bruns 
- (2016-11  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzerthaus Berlin)&lt;/p&gt;
+Kammersymphonie Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jürgen Bruns  [2016-11  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzerthaus Berlin]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -385,8 +373,7 @@ Kammersymphonie Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MntcVf2foiU&amp;amp;list=PL8AhTXrM6LH1zjT24jkUNS_dpBO5vNlRC&amp;amp;index=1&quot;&gt;Three Portraits from ‘‘The England of Elizabeth’’&lt;/a&gt; &lt;br /&gt;
-London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; André Previn
- (1968)&lt;/p&gt;
+London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; André Previn  [&lt;u&gt;1968&lt;/u&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -405,8 +392,7 @@ London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/s
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/Dh4egWqT0NA&quot;&gt;三つの映画音楽 / Three Film Scores&lt;/a&gt; &lt;br /&gt;
-London Sinfonietta &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Adams 
- (1995-12  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
+London Sinfonietta &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Adams  [1995-12  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -448,8 +434,7 @@ London Sinfonietta &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=G-8ZKFqQhHw&amp;amp;list=PL8AhTXrM6LH1P0EnrJtpAF02LOkhqW2pa&amp;amp;index=1&quot;&gt;Die Nibelungen (suite)&lt;/a&gt; &lt;br /&gt;
-hr-Sinfonieorchester &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Frank Strobel 
- (2009-06/07 &amp;amp; 2010-03  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  hr-Sendesaal, Frankfurt)&lt;/p&gt;
+hr-Sinfonieorchester &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Frank Strobel  [2009-06/07 &amp;amp; 2010-03  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  hr-Sendesaal, Frankfurt]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -461,8 +446,7 @@ hr-Sinfonieorchester &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&g
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9p9i9EaEXT4&amp;amp;list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN&amp;amp;index=1&quot;&gt;Berlin: Die Sinfonie der Grosstadt&lt;/a&gt; &lt;br /&gt;
-Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Frank Strobel 
- (2007-09  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzertsaal Hardenbergstraße, Berlin)&lt;/p&gt;
+Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Frank Strobel  [2007-09  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Konzertsaal Hardenbergstraße, Berlin]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -474,7 +458,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/gIorDIfjgm8&quot;&gt;October (symphonic poem), Op. 131&lt;/a&gt; &lt;br /&gt; 
-Московский государственный симфонический оркестр &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow State Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вероника Дударова&lt;span style=&quot;color:darkgrey&quot;&gt; / Veronika Dudarova&lt;/span&gt;  (1982  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Московский государственный симфонический оркестр &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow State Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Вероника Дударова&lt;span style=&quot;color:darkgrey&quot;&gt; / Veronika Dudarova&lt;/span&gt;  [1982  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -486,7 +470,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/glvTzAp6arc?t=4&quot;&gt;The New Babylon (suite), Op. 18&lt;/a&gt; &lt;br /&gt;
-Академический симфонический оркестр Московской государственной филармонии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Геннадий Рождественский&lt;span style=&quot;color:darkgrey&quot;&gt; / Gennady Rozhdestvensky&lt;/span&gt;  (1975  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Академический симфонический оркестр Московской государственной филармонии &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Геннадий Рождественский&lt;span style=&quot;color:darkgrey&quot;&gt; / Gennady Rozhdestvensky&lt;/span&gt;  [1975  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -505,7 +489,7 @@ Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JWbYNQuDow8&amp;amp;list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&amp;amp;index=1&quot;&gt;L’Album de Madame Bovary, Op. 128b&lt;/a&gt; &lt;br /&gt;
-Alexandre Tharaud (piano) &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Madeleine Milhaud (narrator)  (1995-01  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Église luthérienne Saint-Marcel, Paris)&lt;/p&gt;
+Alexandre Tharaud (piano) &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Madeleine Milhaud (narrator)  [1995-01  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Église luthérienne Saint-Marcel, Paris]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -517,7 +501,7 @@ Alexandre Tharaud (piano) &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/s
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/EK9mOTugCxk&quot;&gt;Lieutenant Kijé (suite), Op. 60&lt;/a&gt; &lt;br /&gt;
-Chicago Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Fritz Reiner  (1959-03  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Orchestra Hall, Chicago)&lt;/p&gt;
+Chicago Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Fritz Reiner  [1959-03  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Orchestra Hall, Chicago]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -527,6 +511,14 @@ Chicago Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 &lt;p&gt;🎬   William Cameron Menzies &lt;br /&gt;
 🎼   Arthur Bliss &lt;br /&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ob5YvkxhJLo&amp;amp;list=PL8AhTXrM6LH2NPhzNJgTCgG8kOrS-Dsyi&amp;amp;index=1&quot;&gt;Things to Come (1946 suite), F. 131/T. 53&lt;/a&gt; &lt;br /&gt;
+London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Arthur Bliss  [1957-06  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Walthamstow Town Hall, London]&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/lHU-7KKNSis&quot;&gt;Things to Come (1976 suite)&lt;/a&gt; &lt;br /&gt;
+Royal Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Arthur Bliss  [1976-09  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;36-o-descobrimento-do-brasil&quot;&gt;[’36]  &lt;a href=&quot;https://www.youtube.com/watch?v=RibykMldK1U&quot;&gt;O Descobrimento do Brasil&lt;/a&gt;&lt;/h4&gt;
@@ -535,9 +527,8 @@ Chicago Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/
 🎼   Heitor Villa-Lobos &lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://youtu.be/K266nfbB12g&quot;&gt;O Descobrimento do Brasil (suites), W377–W380&lt;/a&gt; &lt;br /&gt;
-Symfonický orchester Slovenského rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Slovenský filharmonický zbor &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Duarte 
- (1993-05  &lt;img src=&quot;/assets/img/flags/sk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava)&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/K266nfbB12g&quot;&gt;O Descobrimento do Brasil (4 suites), W377–W380&lt;/a&gt; &lt;br /&gt;
+Symfonický orchester Slovenského rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Slovenský filharmonický zbor &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Roberto Duarte  [1993-05  &lt;img src=&quot;/assets/img/flags/sk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -549,7 +540,7 @@ Symfonický orchester Slovenského rozhlasu &lt;span style=&quot;font-size:0.9em
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/IQxdzbvAk6M&quot;&gt;Redes (suite)&lt;/a&gt; &lt;br /&gt;
-Orquesta Filarmónica de la Ciudad de México &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Enrique Bátiz  (1980s  &lt;img src=&quot;/assets/img/flags/mx.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)&lt;/p&gt;
+Orquesta Filarmónica de la Ciudad de México &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Enrique Bátiz  [1980s  &lt;img src=&quot;/assets/img/flags/mx.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -558,6 +549,11 @@ Orquesta Filarmónica de la Ciudad de México &lt;span style=&quot;font-size:0.9
 
 &lt;p&gt;🎬   Alexander Esway &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Zoltan Korda &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; William Cameron Menzies &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Monk Saunders &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Alexander Shaw &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Donald Taylor &lt;br /&gt;
 🎼   Arthur Bliss &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/lmB9gauIGA4&quot;&gt;Conquest of the Air (suite), F. 112&lt;/a&gt; &lt;br /&gt;
+Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Kenneth Alwyn  [&lt;u&gt;1990&lt;/u&gt;  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  CBS/Whitfield Street Studios, London]&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -568,8 +564,7 @@ Orquesta Filarmónica de la Ciudad de México &lt;span style=&quot;font-size:0.9
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/lmB9gauIGA4&quot;&gt;Love from a Stranger (suite)&lt;/a&gt; &lt;br /&gt;
-BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jac van Steen
- (1999-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maida Vale Studios, London)&lt;/p&gt;
+BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jac van Steen  [1999-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maida Vale Studios, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -581,7 +576,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/rINpR1VCRrk&quot;&gt;Alexander Nevsky (cantata), Op. 78&lt;/a&gt; &lt;br /&gt;
-Симфонический оркестр Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt;  (2002-07  &lt;img src=&quot;/assets/img/flags/fi_bd2.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Martti Talvela -sali, Mikkeli)&lt;/p&gt;
+Симфонический оркестр Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt;  [2002-07  &lt;img src=&quot;/assets/img/flags/fi_bd2.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Martti Talvela -sali, Mikkeli]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -590,6 +585,14 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;p&gt;🎬   Joris Ivens &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Fernhout &lt;br /&gt;
 🎼   Hanns Eisler &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QIfj93qI9a0&amp;amp;list=PL8AhTXrM6LH2yCmX7AwSklJ3kvLaeNnjI&amp;amp;index=1&quot;&gt;Fünf Orchesterstücke&lt;/a&gt; &lt;br /&gt;
+Leipziger Kammermusikvereinigung des Gewandhausorchesters  &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Max Pommer  [1974-04/06  &lt;img src=&quot;/assets/img/flags/de_east.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Versöhnungskirche, Leipzig]&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ar3-fcCx-rk&amp;amp;list=OLAK5uy_lG12ufRw9ZyCC0RAGRSo9lmEus3vg4nks&amp;amp;index=1&quot;&gt;Eislermaterial&lt;/a&gt; &lt;br /&gt;
+Ensemble Modern &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Joseph Bierbichler (voice)  [1998-10  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Hebbel-Theater, Berlin]&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -600,8 +603,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/uenaA6djuzQ&quot;&gt;La noche de los mayas (suite)&lt;/a&gt; &lt;br /&gt;
-Orchestre de Paris &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Alondra de la Parra 
- (2015-06  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Philharmonie de Paris)&lt;/p&gt;
+Orchestre de Paris &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Alondra de la Parra  [2015-06  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Philharmonie de Paris]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -611,28 +613,17 @@ Orchestre de Paris &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt;
 &lt;p&gt;🎬   Laurence Olivier &lt;br /&gt;
 🎼   William Walton &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Malcolm Sargent&lt;/p&gt;
+&lt;p&gt;Malcolm Sargent / Muir Mathieson / Christopher Palmer&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/Vs40a0BbbRc&quot;&gt;Henry V (1945 suite)&lt;/a&gt; &lt;br /&gt;
-London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Philharmonic Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Carl Davis 
- (1986-03/05  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
-&lt;/blockquote&gt;
+London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Philharmonic Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Carl Davis  [1986-03/05  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
 
-&lt;p&gt;Muir Mathieson&lt;/p&gt;
-
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CzSPKj_zan8&amp;amp;list=PL8AhTXrM6LH2qYLZeMm5R21xa52WhMeg4&amp;amp;index=1&quot;&gt;Henry V (1963 suite)&lt;/a&gt; &lt;br /&gt;
-Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; William Walton 
- (1963-10  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
-&lt;/blockquote&gt;
+Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; William Walton  [1963-10  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
 
-&lt;p&gt;Christopher Palmer&lt;/p&gt;
-
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wMP6u_lsuJ8&amp;amp;list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD&amp;amp;index=1&quot;&gt;Henry V: A Shakespeare Scenario&lt;/a&gt; &lt;br /&gt;
-Academy of St Martin in the Fields &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Choristers of Westminster Cathedral &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Neville Marriner 
- (1990-05  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London)&lt;/p&gt;
+Academy of St Martin in the Fields &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Choristers of Westminster Cathedral &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Neville Marriner  [1990-05  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -644,7 +635,7 @@ Academy of St Martin in the Fields &lt;span style=&quot;font-size:0.9em&quot;&gt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/6DzWBj2QoJw&quot;&gt;Prisoner № 217, Op. 64&lt;/a&gt; &lt;br /&gt;
-Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  (1995-10  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;)&lt;/p&gt;
+Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  [1995-10  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -656,28 +647,20 @@ Academy of St Martin in the Fields &lt;span style=&quot;font-size:0.9em&quot;&gt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nIrOPJQtlnI&amp;amp;list=OLAK5uy_ktW83vO3Ub0Gh0ms8xbiq3LeCX7S2mqoc&amp;amp;index=1&quot;&gt;Ivan the Terrible, Op. 116&lt;/a&gt; &lt;br /&gt;
-Большой симфонический оркестр имени П. И. Чайковского&lt;span style=&quot;color:darkgrey&quot;&gt; / Tchaikovsky Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Государственная академическая хоровая капелла России имени А. А. Юрлова &lt;span style=&quot;color:darkgrey&quot;&gt;/ Yurlov Capella&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Детский хор «Весна» имени А. С. Пономарева &lt;span style=&quot;color:darkgrey&quot;&gt;/ Vesna Children’s Choir&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Vladimir Fedoseyev&lt;/span&gt;  (1998  &lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+Большой симфонический оркестр имени П. И. Чайковского&lt;span style=&quot;color:darkgrey&quot;&gt; / Tchaikovsky Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Государственная академическая хоровая капелла России имени А. А. Юрлова &lt;span style=&quot;color:darkgrey&quot;&gt;/ Yurlov Capella&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Детский хор «Весна» имени А. С. Пономарева &lt;span style=&quot;color:darkgrey&quot;&gt;/ Vesna Children’s Choir&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Vladimir Fedoseyev&lt;/span&gt;  [1998  &lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Абрама Стасевича &lt;span style=&quot;color:grey&quot;&gt;/ Abram Stasevich&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Абрама Стасевича &lt;span style=&quot;color:grey&quot;&gt;/ Abram Stasevich&lt;/span&gt; / Michael Lankester / Christopher Palmer&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;&quot;&gt;Ivan the Terrible (1961 oratorio)&lt;/a&gt; &lt;br /&gt;
-Rotterdams Philharmonisch Orkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt;  (1996-09  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  de Doelen, Rotterdam)&lt;/p&gt;
-&lt;/blockquote&gt;
+Rotterdams Philharmonisch Orkest &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Хор Мариинского театра &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mariinsky Chorus&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Валерий Гергиев &lt;span style=&quot;color:darkgrey&quot;&gt;/ Valery Gergiev&lt;/span&gt;  [1996-09  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  de Doelen, Rotterdam]&lt;/p&gt;
 
-&lt;p&gt;Michael Lankester&lt;/p&gt;
-
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.discogs.com/release/13893418-Prokofiev-Christopher-Plummer-Tamara-Sinyavskaya-Sergei-Leiferkus-New-London-Childrens-Choir-Dolora-&quot;&gt;Ivan the Terrible (1998 oratorio)&lt;/a&gt; &lt;br /&gt;
-London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Symphony Chorus &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; New London Children’s Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Мстислав Ростропович &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mstislav Rostropovich&lt;/span&gt;  (1991-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Walthamstow Town Hall, London)&lt;/p&gt;
-&lt;/blockquote&gt;
+London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Symphony Chorus &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; New London Children’s Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Мстислав Ростропович &lt;span style=&quot;color:darkgrey&quot;&gt;/ Mstislav Rostropovich&lt;/span&gt;  [1991-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Walthamstow Town Hall, London]&lt;/p&gt;
 
-&lt;p&gt;Christopher Palmer&lt;/p&gt;
-
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BHRtUEruPDo&amp;amp;list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&amp;amp;index=1&quot;&gt;Ivan the Terrible (concert scenario)&lt;/a&gt; &lt;br /&gt;
-Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Philharmonia Chorus &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Neeme Järvi  (1991-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London)&lt;/p&gt;
+Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Philharmonia Chorus &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Neeme Järvi  (1991-03  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -694,6 +677,11 @@ Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 &lt;p&gt;🎬   David Lean &lt;br /&gt;
 🎼   Arnold Bax &lt;br /&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/cFo8Ukw5nus&quot;&gt;Oliver Twist (suite)&lt;/a&gt; &lt;br /&gt;
+Royal Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Kenneth Alwyn  [1986-01  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  CBS/Whitfield Street Studios, London]&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;48-macbeth&quot;&gt;[’48]  &lt;a href=&quot;https://youtu.be/96ZIo6IH_Qg&quot;&gt;Macbeth&lt;/a&gt;&lt;/h4&gt;
@@ -703,8 +691,7 @@ Philharmonia Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/3WDshzBPZYI&quot;&gt;Macbeth (suite)&lt;/a&gt; &lt;br /&gt;
-Symfonický orchester Československého rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Adriano 
- (1990-01  &lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava)&lt;/p&gt;
+Symfonický orchester Československého rozhlasu &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Adriano  [1990-01  &lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Budova Slovenského rozhlasu, Bratislava]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -716,8 +703,7 @@ Symfonický orchester Československého rozhlasu &lt;span style=&quot;font-size
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/Mv6YBg7PLag&quot;&gt;Symphony № 7 ‘‘Sinfonia antartica’’&lt;/a&gt; &lt;br /&gt;
-London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Philharmonic Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Bernard Haitink
- (1984-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London)&lt;/p&gt;
+London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; London Philharmonic Choir &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Bernard Haitink  [1984-11  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Abbey Road Studios, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -729,8 +715,7 @@ London Philharmonic Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&l
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=R-L7fnl9i84&amp;amp;list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&amp;amp;index=1&quot;&gt;The Red Pony (suite)&lt;/a&gt; &lt;br /&gt;
-St. Louis Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; André Previn
- (1963-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St. Louis)&lt;/p&gt;
+St. Louis Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; André Previn  [1963-03  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St. Louis]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -742,12 +727,10 @@ St. Louis Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/xXmaPoCIt-8&quot;&gt;The Battle of Stalingrad (1952 suite), Op. 74a&lt;/a&gt; &lt;br /&gt;
-Симфонический оркестр Всесоюзного радио &lt;span style=&quot;color:darkgrey&quot;&gt;/ USSR Radio Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Арам Хачатурян &lt;span style=&quot;color:darkgrey&quot;&gt;/ Aram Khachaturian&lt;/span&gt;  (1952  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
+Симфонический оркестр Всесоюзного радио &lt;span style=&quot;color:darkgrey&quot;&gt;/ USSR Radio Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Арам Хачатурян &lt;span style=&quot;color:darkgrey&quot;&gt;/ Aram Khachaturian&lt;/span&gt;  [1952  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;]&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/u0zEmdRM3SU&quot;&gt;The Battle of Stalingrad (1993 suite)&lt;/a&gt; &lt;br /&gt;
-Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  (1993  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;)&lt;/p&gt;
+Հայաստանի ֆիլհարմոնիկ նվագախումբ&lt;span style=&quot;color:darkgrey&quot;&gt; / Armenian Philharmonic Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Լորիս Ճգնաւորեան &lt;span style=&quot;color:darkgrey&quot;&gt;/ Loris Tjeknavorian&lt;/span&gt;  [1993  &lt;img src=&quot;/assets/img/flags/am.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Արամ Խաչատրյան համերգասրահ, Երևան&lt;span style=&quot;color:darkgrey&quot;&gt; / Aram Khachaturian Concert Hall, Yerevan&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -759,8 +742,7 @@ St. Louis Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/AvnyPu2zP70&quot;&gt;The Sound Barrier, Op. 38&lt;/a&gt; &lt;br /&gt;
-London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Richard Hickox 
- (1992-01  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London)&lt;/p&gt;
+London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Richard Hickox  [1992-01  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  St Jude-on-the-Hill, Hampstead, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -772,8 +754,7 @@ London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/s
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/Q5fFUoL45OQ&quot;&gt;On the Waterfront (suite)&lt;/a&gt; &lt;br /&gt;
-New York Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Leonard Bernstein 
- (1960-05  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Manhattan Center, New York)&lt;/p&gt;
+New York Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Leonard Bernstein  [1960-05  &lt;img src=&quot;/assets/img/flags/us_48.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Manhattan Center, New York]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -799,8 +780,7 @@ New York Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/hmqdKTbz3Sc&quot;&gt;Floresta do Amazonas, W551&lt;/a&gt; &lt;br /&gt;
-Orquestra Sinfônica do Estado de São Paulo &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Coro Sinfônico do Estado de São Paulo &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Neschling 
- (2007-07  &lt;img src=&quot;/assets/img/flags/br.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;  Sala São Paulo)&lt;/p&gt;
+Orquestra Sinfônica do Estado de São Paulo &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Coro Sinfônico do Estado de São Paulo &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; John Neschling  [2007-07  &lt;img src=&quot;/assets/img/flags/br.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;  Sala São Paulo]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -812,8 +792,7 @@ Orquestra Sinfônica do Estado de São Paulo &lt;span style=&quot;font-size:0.9e
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qYPYHmuX-gQ&amp;amp;list=PL8AhTXrM6LH2mFRVcfQ3-pwWJiN1B42Mc&amp;amp;index=1&quot;&gt;Psycho: A Suite for Strings&lt;/a&gt; &lt;br /&gt;
-Los Angeles Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Esa-Pekka Salonen
- (1996-04  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Todd-AO Scoring Stage, Los Angeles)&lt;/p&gt;
+Los Angeles Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Esa-Pekka Salonen  [1996-04  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Todd-AO Scoring Stage, Los Angeles]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -825,8 +804,7 @@ Los Angeles Philharmonic &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/sp
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://youtu.be/QJec1XdObNg&quot;&gt;Music for a Great City&lt;/a&gt; &lt;br /&gt;
-London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Aaron Copland
- (1964-06  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Walthamstow Town Hall, London)&lt;/p&gt;
+London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Aaron Copland  [1964-06  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Walthamstow Town Hall, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -838,8 +816,7 @@ London Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/s
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wL3KnXMVKDo&amp;amp;list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&amp;amp;index=1&quot;&gt;This Sporting Life (suite)&lt;/a&gt; &lt;br /&gt;
-BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jac van Steen
- (2002-10  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maida Vale Studios, London)&lt;/p&gt;
+BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Jac van Steen  [2002-10  &lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Maida Vale Studios, London]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -863,6 +840,17 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 &lt;p&gt;🎬   Элема Климова &lt;span style=&quot;color:grey&quot;&gt;/ Elem Klimov&lt;/span&gt; &lt;br /&gt;
 🎼   Альфред Шнитке &lt;span style=&quot;color:grey&quot;&gt;/ Alfred Schnittke&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/-5f7kz4y694&quot;&gt;Adventures of a Dentist (suite)&lt;/a&gt; &lt;br /&gt;
+Rundfunk-Sinfonieorchester Berlin &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Frank Strobel  [2004-02  &lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Jesus-Christus-Kirche, Berlin]&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/WgCLtl7xdUk&quot;&gt;Suite in the Old Style (violin &amp;amp; piano)&lt;/a&gt; &lt;br /&gt;
+Ирина Цейтлин &lt;span style=&quot;color:darkgrey&quot;&gt;/ Irina Tseitlin&lt;/span&gt; (violin) &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Patrick Dheur (piano)  [&lt;u&gt;2007&lt;/u&gt;]&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/WgCLtl7xdUk&quot;&gt;Suite in the Old Style (chamber orch.)&lt;/a&gt; &lt;br /&gt;
+Государственный камерный оркестр «Виртуозы Москвы» &lt;span style=&quot;color:darkgrey&quot;&gt;/ Moscow Virtuosi&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Спиваков&lt;span style=&quot;color:darkgrey&quot;&gt; / Vladimir Spivakov&lt;/span&gt;  [2001-06  &lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt; / Radio and Recording House, Moscow&lt;/span&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;65-время-вперёд--time-forward&quot;&gt;[’65]  &lt;a href=&quot;https://youtu.be/RGZAzR4p3T4&quot;&gt;Время, вперёд! &lt;span style=&quot;color:grey&quot;&gt;/ Time, Forward!&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
@@ -871,8 +859,8 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 🎼   Георгий Свиридов &lt;span style=&quot;color:grey&quot;&gt;/ 	Georgy Sviridov&lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://youtu.be/pU3vk9Dim3g&quot;&gt;Time, Forward! (suite)&lt;/a&gt; &lt;br /&gt;
-Большой симфонический оркестр Всесоюзного радио и телевидения &lt;span style=&quot;color:darkgrey&quot;&gt;/ USSR Radio and Television Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев&lt;span style=&quot;color:darkgrey&quot;&gt; / Vladimir Fedoseyev&lt;/span&gt;  (1975-01  &lt;img src=&quot;/assets/img/flags/soviet.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;)&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;https://youtu.be/Trc2KEwU8ms&quot;&gt;Time, Forward! (suite)&lt;/a&gt; &lt;br /&gt;
+Большой симфонический оркестр имени П. И. Чайковского &lt;span style=&quot;color:darkgrey&quot;&gt;/ Tchaikovsky Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; Владимир Федосеев&lt;span style=&quot;color:darkgrey&quot;&gt; / Vladimir Fedoseyev&lt;/span&gt;  [1994  &lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Москва&lt;span style=&quot;color:darkgrey&quot;&gt;/Moscow&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -912,7 +900,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ctnj3xTltAo&amp;amp;list=OLAK5uy_mApbH6HTCA59x-3HIVeeE5OYoBy6QeY8E&amp;amp;index=8&quot;&gt;Ran (suite)&lt;/a&gt; &lt;br /&gt;
-札幌交響楽団 &lt;span style=&quot;color:darkgrey&quot;&gt;/ Sapporo Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 尾高忠明&lt;span style=&quot;color:darkgrey&quot;&gt; / Tadaaki Otaka&lt;/span&gt;  (2000-05  &lt;img src=&quot;/assets/img/flags/jp2.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;  札幌コンサートホール Kitara&lt;span style=&quot;color:darkgrey&quot;&gt; / Sapporo Concert Hall ‘‘Kitara’’&lt;/span&gt;)&lt;/p&gt;
+札幌交響楽団 &lt;span style=&quot;color:darkgrey&quot;&gt;/ Sapporo Symphony Orchestra&lt;/span&gt; &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span&gt; 尾高忠明&lt;span style=&quot;color:darkgrey&quot;&gt; / Tadaaki Otaka&lt;/span&gt;  [2000-05  &lt;img src=&quot;/assets/img/flags/jp2.png&quot; height=&quot;12.6&quot; width=&quot;18&quot; /&gt;  札幌コンサートホール Kitara&lt;span style=&quot;color:darkgrey&quot;&gt; / Sapporo Concert Hall ‘‘Kitara’’&lt;/span&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -924,8 +912,7 @@ BBC Symphony Orchestra &lt;span style=&quot;font-size:0.9em&quot;&gt;·&lt;/span
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wL3KnXMVKDo&amp;amp;list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&amp;amp;index=1&quot;&gt;String Quartet № 3 ‘‘Mishima’’&lt;/a&gt; &lt;br /&gt;
-Quatuor Tana 
- (2019-06  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Studio 104,  de la Radio, Paris)&lt;/p&gt;
+Quatuor Tana  [2019-06  &lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;  Studio 104, Maison de la Radio, Paris]&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;

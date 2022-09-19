@@ -74,7 +74,7 @@ Le sang d'un poète <span style="color:darkgrey">&nbsp;&rsquo;30</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 Madame Bovary <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
+Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span>  &nbsp; 🏷️ <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Things to Come <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/br_21.png" height="12" width="18"/> &nbsp; 
@@ -130,7 +130,7 @@ This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 The Skull <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
-Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
+Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span> &nbsp; 🏷️ <br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
 Время, вперёд! <span style="color:darkgrey">&nbsp;&rsquo;66</span><br>
 <img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
@@ -187,8 +187,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Camille Saint-Saëns <br>
 
 >[L'Assassinat du duc de Guise, Op. 128](https://youtu.be/FuUC_QysVxw) <br>
-> Ensemble Musique Oblique 
-&nbsp;(1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines)
+> Ensemble Musique Oblique&nbsp; [1993-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Théâtre de Poissy, Yvelines]
 
 <br>
 
@@ -199,8 +198,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Georges Antheil <br>
 
 >[Ballet pour instruments mécaniques et percussion](https://youtu.be/tX8UHrFZzO8) <br>
-> Boston Modern Orchestra Project <span style="font-size:0.9em">·</span> Gil Rose
-&nbsp;(2009-11 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Jordan Hall, Boston)
+> Boston Modern Orchestra Project <span style="font-size:0.9em">·</span> Gil Rose&nbsp; [2009-11 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Jordan Hall, Boston]
 
 
 <br>
@@ -212,8 +210,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Erik Satie <br>
 
 >[Cinéma, entr'acte symphonique de &lsquo;&lsquo;Relâche''](https://youtu.be/mdURohWzFKQ) <br>
-> Ensemble Ars Nova <span style="font-size:0.9em">·</span> Marius Constant 
-&nbsp;(1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris)
+> Ensemble Ars Nova <span style="font-size:0.9em">·</span> Marius Constant&nbsp; [1980-02 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Notre-Dame-du-Liban, Paris]
 
 <br>
 
@@ -224,8 +221,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Darius Milhaud <br>
 
 >[La p'tite Lili](https://youtu.be/_js46T-ynNQ) <br>
-> Orquesta de la Comunidad de Madrid <span style="font-size:0.9em">·</span> Roberto Pálmer
-&nbsp;(2011-05 &nbsp;<img src="/assets/img/flags/es.png" height="12" width="18"/>&nbsp; Residencia de Estudiantes, Madrid)
+> Orquesta de la Comunidad de Madrid <span style="font-size:0.9em">·</span> Roberto Pálmer&nbsp; [2011-05 &nbsp;<img src="/assets/img/flags/es.png" height="12" width="18"/>&nbsp; Residencia de Estudiantes, Madrid]
 
 <br>
 
@@ -236,8 +232,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Lou Lichtveld <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Hanns Eisler <br>
 
 >[Vierzehn Arten, den Regen zu beschreiben, Op. 70](https://youtu.be/QG23MpBp1p0) <br>
-> Kammermusikvereinigung der Deutschen Staatsoper Berlin <span style="font-size:0.9em">·</span> Friedrich-Carl Erben
-&nbsp;(1967-05/10 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Berlin)
+> Kammermusikvereinigung der Deutschen Staatsoper Berlin <span style="font-size:0.9em">·</span> Friedrich-Carl Erben&nbsp; [1967-05/10 &nbsp;<img src="/assets/img/flags/de_east.png" height="12" width="18"/>&nbsp; Christuskirche, Berlin]
 
 <br>
 
@@ -248,8 +243,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Jacques Ibert <br>
 
 >[Symphonie marine](https://www.youtube.com/watch?v=UaOok1zyAG0) <br>
-> Orchestra des Concerts Lamoureux <span style="font-size:0.9em">·</span> 佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span> 
-&nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris)
+> Orchestra des Concerts Lamoureux <span style="font-size:0.9em">·</span> 佐渡裕 <span style="color:darkgrey">/ Yutaka Sado</span>&nbsp; [1996-04 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Salle Pleyel, Paris]
 
 <br>
 
@@ -268,12 +262,10 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Aaron Copland <br>
 
 >[The City (suite)](https://youtu.be/L_QcktclTwg) <br>
-> Eos Orchestra <span style="font-size:0.9em">·</span> Jonathan Sheffer
-&nbsp;(2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase College, New York)
-
+> Eos Orchestra <span style="font-size:0.9em">·</span> Jonathan Sheffer&nbsp; [2000-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; The Performing Arts Center, Purchase College, New York]
+>
 >[Music for Movies](https://youtu.be/klCSKcdw5Kw) <br>
-> New Philharmonia Orchestra <span style="font-size:0.9em">·</span> Aaron Copland
-&nbsp;(1970-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+> New Philharmonia Orchestra <span style="font-size:0.9em">·</span> Aaron Copland&nbsp; [1970-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
 
 <br>
 
@@ -284,13 +276,11 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The Silly Little Mouse, Op. 56](https://youtu.be/YzCucJb35Ao) <br>
-> Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>
-&nbsp;(1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск<span style="color:darkgrey">/Minsk</span>)
-
-
+> Российский государственный симфонический оркестр кинематографии <span style="color:darkgrey">/ Russian State Cinematographic Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вальтер Мнацаканов<span style="color:darkgrey"> / Walter Mnatsakanov</span>&nbsp; [1997-02 &nbsp;<img src="/assets/img/flags/by.png" height="12" width="18"/>&nbsp; Минск<span style="color:darkgrey">/Minsk</span>]
+>
+>
 >[The Silly Little Mouse, Op. 56 (music)](https://youtu.be/JQb94zOecZ0?t=5) <br>
-> Concertgebouworkest <span style="font-size:0.9em">·</span> Riccardo Chailly
-&nbsp;(1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam)
+> Concertgebouworkest <span style="font-size:0.9em">·</span> Riccardo Chailly&nbsp; [1998-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; Concertgebouw, Amsterdam]
 
 <br>
 
@@ -299,6 +289,9 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 🎬 &nbsp; Eugeniusz Cekalski <span style="font-size:0.9em">·</span> Derrick De Marney <br>
 🎼 &nbsp; Arnold Bax <br>
+
+>[Malta G.C.](https://youtu.be/AtPpJnQdOYs) <br>
+> Royal Philharmonic Orchestra <span style="font-size:0.9em">·</span> Kenneth Alwyn&nbsp; [1986-01 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; CBS/Whitfield Street Studios, London]
 
 <br>
 
@@ -317,8 +310,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Malcolm Arnold <br>
 
 >[Symphonic Study &lsquo;&lsquo;Machines'', Op. 30](https://youtu.be/_k8hEB1WeqA) <br>
->BBC Philharmonic Orchestra <span style="font-size:0.9em">·</span> Rumon Gamba 
-&nbsp;(2000-02/07 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Studio 7, New Broadcasting House, Manchester)
+>BBC Philharmonic Orchestra <span style="font-size:0.9em">·</span> Rumon Gamba&nbsp; [2000-02/07 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Studio 7, New Broadcasting House, Manchester]
 
 <br>
 
@@ -329,8 +321,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Arthur Honegger <br>
 
 >[Pacific 231 / Mouvement symphonique № 1, H. 53](https://youtu.be/UVF5RAeaTTE) <br>
->Tonhalle-Orchester Zürich <span style="font-size:0.9em">·</span> David Zinman 
-&nbsp;(1996-05 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich)
+>Tonhalle-Orchester Zürich <span style="font-size:0.9em">·</span> David Zinman&nbsp; [1996-05 &nbsp;<img src="/assets/img/flags/sw.png" height="13" width="13"/>&nbsp; Tonhalle, Zürich]
 
 <br>
 
@@ -365,8 +356,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Hanns Eisler <br>
 
 >[Nuit et brouillard](https://youtube.com/playlist?list=PLWgTE7o3WcFO) <br>
->Kammersymphonie Berlin <span style="font-size:0.9em">·</span> Jürgen Bruns 
-&nbsp;(2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus Berlin)
+>Kammersymphonie Berlin <span style="font-size:0.9em">·</span> Jürgen Bruns&nbsp; [2016-11 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzerthaus Berlin]
 
 <br>
 
@@ -377,8 +367,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
 >[Three Portraits from &lsquo;&lsquo;The England of Elizabeth''](https://www.youtube.com/watch?v=MntcVf2foiU&list=PL8AhTXrM6LH1zjT24jkUNS_dpBO5vNlRC&index=1) <br>
-> London Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn
-&nbsp;(1968)
+> London Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn&nbsp; [<u>1968</u>]
 
 <br>
 
@@ -398,8 +387,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
 
 >[三つの映画音楽 / Three Film Scores](https://youtu.be/Dh4egWqT0NA) <br>
->London Sinfonietta <span style="font-size:0.9em">·</span> John Adams 
-&nbsp;(1995-12 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+>London Sinfonietta <span style="font-size:0.9em">·</span> John Adams&nbsp; [1995-12 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
 
 <br>
 
@@ -444,8 +432,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Gottfried Huppertz <br>
 
 >[Die Nibelungen (suite)](https://www.youtube.com/watch?v=G-8ZKFqQhHw&list=PL8AhTXrM6LH1P0EnrJtpAF02LOkhqW2pa&index=1) <br>
->hr-Sinfonieorchester <span style="font-size:0.9em">·</span> Frank Strobel 
-&nbsp;(2009-06/07 & 2010-03 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; hr-Sendesaal, Frankfurt)
+>hr-Sinfonieorchester <span style="font-size:0.9em">·</span> Frank Strobel&nbsp; [2009-06/07 & 2010-03 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; hr-Sendesaal, Frankfurt]
 
 <br>
 
@@ -456,8 +443,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Edmund Meisel <br>
 
 >[Berlin: Die Sinfonie der Grosstadt](https://www.youtube.com/watch?v=9p9i9EaEXT4&list=PL8AhTXrM6LH3Lfa2YY2klNufC3BLFi5TN&index=1) <br>
->Rundfunk-Sinfonieorchester Berlin <span style="font-size:0.9em">·</span> Frank Strobel 
-&nbsp;(2007-09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzertsaal Hardenbergstraße, Berlin)
+>Rundfunk-Sinfonieorchester Berlin <span style="font-size:0.9em">·</span> Frank Strobel&nbsp; [2007-09 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Konzertsaal Hardenbergstraße, Berlin]
 
 <br>
 
@@ -468,7 +454,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
 
 >[October (symphonic poem), Op. 131](https://youtu.be/gIorDIfjgm8) <br> 
->Московский государственный симфонический оркестр <span style="color:darkgrey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:darkgrey"> / Veronika Dudarova</span> &nbsp;(1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Московский государственный симфонический оркестр <span style="color:darkgrey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:darkgrey"> / Veronika Dudarova</span>&nbsp; [1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 <br>
 
@@ -479,7 +465,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
->Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span> &nbsp;(1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span>&nbsp; [1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 <br>
 
@@ -498,7 +484,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Darius Milhaud <br>
 
 >[L'Album de Madame Bovary, Op. 128b](https://www.youtube.com/watch?v=JWbYNQuDow8&list=PL8AhTXrM6LH1JC8EFFSN6qeN5Xf8aMfct&index=1) <br>
->Alexandre Tharaud (piano) <span style="font-size:0.9em">·</span> Madeleine Milhaud (narrator) &nbsp;(1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris)
+>Alexandre Tharaud (piano) <span style="font-size:0.9em">·</span> Madeleine Milhaud (narrator)&nbsp; [1995-01 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Église luthérienne Saint-Marcel, Paris]
 
 <br>
 
@@ -509,7 +495,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Lieutenant Kijé (suite), Op. 60](https://youtu.be/EK9mOTugCxk) <br>
->Chicago Symphony Orchestra <span style="font-size:0.9em">·</span> Fritz Reiner &nbsp;(1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago)
+>Chicago Symphony Orchestra <span style="font-size:0.9em">·</span> Fritz Reiner&nbsp; [1959-03 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Orchestra Hall, Chicago]
 
 <br>
 
@@ -519,6 +505,13 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎬 &nbsp; William Cameron Menzies <br>
 🎼 &nbsp; Arthur Bliss <br>
 
+>[Things to Come (1946 suite), F. 131/T. 53](https://www.youtube.com/watch?v=ob5YvkxhJLo&list=PL8AhTXrM6LH2NPhzNJgTCgG8kOrS-Dsyi&index=1) <br>
+>London Symphony Orchestra <span style="font-size:0.9em">·</span> Arthur Bliss&nbsp; [1957-06 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London]
+>
+>
+>[Things to Come (1976 suite)](https://youtu.be/lHU-7KKNSis) <br>
+>Royal Philharmonic Orchestra <span style="font-size:0.9em">·</span> Arthur Bliss&nbsp; [1976-09 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
+
 <br>
 
 
@@ -527,9 +520,8 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎬 &nbsp; Humberto Mauro <br>
 🎼 &nbsp; Heitor Villa-Lobos <br>
 
->[O Descobrimento do Brasil (suites), W377–W380](https://youtu.be/K266nfbB12g) <br>
->Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte 
-&nbsp;(1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
+>[O Descobrimento do Brasil (4 suites), W377–W380](https://youtu.be/K266nfbB12g) <br>
+>Symfonický orchester Slovenského rozhlasu <span style="font-size:0.9em">·</span> Slovenský filharmonický zbor <span style="font-size:0.9em">·</span> Roberto Duarte&nbsp; [1993-05 &nbsp;<img src="/assets/img/flags/sk.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava]
 
 <br>
 
@@ -540,7 +532,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Silvestre Revueltas <br>
 
 >[Redes (suite)](https://youtu.be/IQxdzbvAk6M) <br>
->Orquesta Filarmónica de la Ciudad de México <span style="font-size:0.9em">·</span> Enrique Bátiz &nbsp;(1980s &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México)
+>Orquesta Filarmónica de la Ciudad de México <span style="font-size:0.9em">·</span> Enrique Bátiz&nbsp; [1980s &nbsp;<img src="/assets/img/flags/mx.png" height="12" width="18"/>&nbsp; Sala Silvestre Revueltas, Centro Cultural Ollin Yoliztli, Ciudad de México]
 
 <br>
 
@@ -550,6 +542,9 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎬 &nbsp; Alexander Esway <span style="font-size:0.9em">·</span> Zoltan Korda <span style="font-size:0.9em">·</span> William Cameron Menzies <span style="font-size:0.9em">·</span> John Monk Saunders <span style="font-size:0.9em">·</span> Alexander Shaw <span style="font-size:0.9em">·</span> Donald Taylor <br>
 🎼 &nbsp; Arthur Bliss <br>
 
+>[Conquest of the Air (suite), F. 112](https://youtu.be/lmB9gauIGA4) <br>
+> Philharmonia Orchestra <span style="font-size:0.9em">·</span> Kenneth Alwyn&nbsp; [<u>1990</u> &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; CBS/Whitfield Street Studios, London]
+
 <br>
 
 #### [&rsquo;37]&nbsp; [Love from a Stranger](https://youtu.be/YUl7Xxuzmmo)
@@ -558,8 +553,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Benjamin Britten <br>
 
 >[Love from a Stranger (suite)](https://youtu.be/lmB9gauIGA4) <br>
-> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen
-&nbsp;(1999-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
+> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen&nbsp; [1999-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London]
 
 <br>
 
@@ -570,7 +564,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Alexander Nevsky (cantata), Op. 78](https://youtu.be/rINpR1VCRrk) <br>
->Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> <span style="font-size:0.9em">·</span> Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <span style="font-size:0.9em">·</span> Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli)
+>Симфонический оркестр Мариинского театра <span style="color:darkgrey">/ Mariinsky Orchestra</span> <span style="font-size:0.9em">·</span> Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <span style="font-size:0.9em">·</span> Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span>&nbsp; [2002-07 &nbsp;<img src="/assets/img/flags/fi_bd2.png" height="12" width="18"/>&nbsp; Martti Talvela -sali, Mikkeli]
 
 <br>
 
@@ -579,6 +573,13 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 
 🎬 &nbsp; Joris Ivens <span style="font-size:0.9em">·</span> John Fernhout <br>
 🎼 &nbsp; Hanns Eisler <br>
+
+>[Fünf Orchesterstücke](https://www.youtube.com/watch?v=QIfj93qI9a0&list=PL8AhTXrM6LH2yCmX7AwSklJ3kvLaeNnjI&index=1) <br>
+> Leipziger Kammermusikvereinigung des Gewandhausorchesters  <span style="font-size:0.9em">·</span> Max Pommer&nbsp; [1974-04/06 &nbsp;<img src="/assets/img/flags/de_east.png" height="12" width="18"/>&nbsp; Versöhnungskirche, Leipzig]
+>
+>
+>[Eislermaterial](https://www.youtube.com/watch?v=Ar3-fcCx-rk&list=OLAK5uy_lG12ufRw9ZyCC0RAGRSo9lmEus3vg4nks&index=1) <br>
+> Ensemble Modern <span style="font-size:0.9em">·</span> Joseph Bierbichler (voice)&nbsp; [1998-10 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Hebbel-Theater, Berlin]
 
 <br>
 
@@ -589,8 +590,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Silvestre Revueltas <br>
 
 >[La noche de los mayas (suite)](https://youtu.be/uenaA6djuzQ) <br>
-> Orchestre de Paris <span style="font-size:0.9em">·</span> Alondra de la Parra 
-&nbsp;(2015-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Philharmonie de Paris)
+> Orchestre de Paris <span style="font-size:0.9em">·</span> Alondra de la Parra&nbsp; [2015-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Philharmonie de Paris]
 
 <br>
 
@@ -601,24 +601,18 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; William Walton <br>
 
 
-Malcolm Sargent
+Malcolm Sargent / Muir Mathieson / Christopher Palmer
 
 >[Henry V (1945 suite)](https://youtu.be/Vs40a0BbbRc) <br>
-> London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Carl Davis 
-&nbsp;(1986-03/05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
-
-Muir Mathieson
-
+> London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Carl Davis&nbsp; [1986-03/05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
+>
+>
 >[Henry V (1963 suite)](https://www.youtube.com/watch?v=CzSPKj_zan8&list=PL8AhTXrM6LH2qYLZeMm5R21xa52WhMeg4&index=1) <br>
-> Philharmonia Orchestra <span style="font-size:0.9em">·</span> William Walton 
-&nbsp;(1963-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
-
-
-Christopher Palmer
-
+> Philharmonia Orchestra <span style="font-size:0.9em">·</span> William Walton&nbsp; [1963-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
+>
+>
 >[Henry V: A Shakespeare Scenario](https://www.youtube.com/watch?v=wMP6u_lsuJ8&list=PL8AhTXrM6LH1A1fDF2CK1PzCxSDSVtLdD&index=1) <br>
-> Academy of St Martin in the Fields <span style="font-size:0.9em">·</span> Choristers of Westminster Cathedral <span style="font-size:0.9em">·</span> Neville Marriner 
-&nbsp;(1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+> Academy of St Martin in the Fields <span style="font-size:0.9em">·</span> Choristers of Westminster Cathedral <span style="font-size:0.9em">·</span> Neville Marriner&nbsp; [1990-05 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London]
 
 <br>
 
@@ -629,7 +623,7 @@ Christopher Palmer
 🎼 &nbsp; Арам Хачатурян <span style="color:grey">/ 	Aram Khachaturian</span> <br>
 
 >[Prisoner № 217, Op. 64](https://youtu.be/6DzWBj2QoJw) <br>
->Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span> &nbsp;(1995-10 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>)
+>Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span>&nbsp; [1995-10 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>]
 
 <br>
 
@@ -640,23 +634,21 @@ Christopher Palmer
 🎼 &nbsp; Сергей Прокофьев <span style="color:grey">/ Sergei Prokofiev</span> <br>
 
 >[Ivan the Terrible, Op. 116](https://www.youtube.com/watch?v=nIrOPJQtlnI&list=OLAK5uy_ktW83vO3Ub0Gh0ms8xbiq3LeCX7S2mqoc&index=1) <br>
->Большой симфонический оркестр имени П. И. Чайковского<span style="color:darkgrey"> / Tchaikovsky Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Государственная академическая хоровая капелла России имени А. А. Юрлова <span style="color:darkgrey">/ Yurlov Capella</span> <span style="font-size:0.9em">·</span> Детский хор «Весна» имени А. С. Пономарева <span style="color:darkgrey">/ Vesna Children's Choir</span> <span style="font-size:0.9em">·</span> Владимир Федосеев <span style="color:darkgrey">/ Vladimir Fedoseyev</span> &nbsp;(1998 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>Большой симфонический оркестр имени П. И. Чайковского<span style="color:darkgrey"> / Tchaikovsky Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Государственная академическая хоровая капелла России имени А. А. Юрлова <span style="color:darkgrey">/ Yurlov Capella</span> <span style="font-size:0.9em">·</span> Детский хор «Весна» имени А. С. Пономарева <span style="color:darkgrey">/ Vesna Children's Choir</span> <span style="font-size:0.9em">·</span> Владимир Федосеев <span style="color:darkgrey">/ Vladimir Fedoseyev</span>&nbsp; [1998 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 
-Абрама Стасевича <span style="color:grey">/ Abram Stasevich</span>
+Абрама Стасевича <span style="color:grey">/ Abram Stasevich</span> / Michael Lankester / Christopher Palmer
 
 >[Ivan the Terrible (1961 oratorio)]() <br>
->Rotterdams Philharmonisch Orkest <span style="font-size:0.9em">·</span> Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <span style="font-size:0.9em">·</span> Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span> &nbsp;(1996-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; de Doelen, Rotterdam)
-
-Michael Lankester
-
+>Rotterdams Philharmonisch Orkest <span style="font-size:0.9em">·</span> Хор Мариинского театра <span style="color:darkgrey">/ Mariinsky Chorus</span> <span style="font-size:0.9em">·</span> Валерий Гергиев <span style="color:darkgrey">/ Valery Gergiev</span>&nbsp; [1996-09 &nbsp;<img src="/assets/img/flags/nl.png" height="12" width="18"/>&nbsp; de Doelen, Rotterdam]
+>
+>
 >[Ivan the Terrible (1998 oratorio)](https://www.discogs.com/release/13893418-Prokofiev-Christopher-Plummer-Tamara-Sinyavskaya-Sergei-Leiferkus-New-London-Childrens-Choir-Dolora-) <br>
->London Symphony Orchestra <span style="font-size:0.9em">·</span> London Symphony Chorus <span style="font-size:0.9em">·</span> New London Children’s Choir <span style="font-size:0.9em">·</span> Мстислав Ростропович <span style="color:darkgrey">/ Mstislav Rostropovich</span> &nbsp;(1991-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
-
-Christopher Palmer
-
+>London Symphony Orchestra <span style="font-size:0.9em">·</span> London Symphony Chorus <span style="font-size:0.9em">·</span> New London Children’s Choir <span style="font-size:0.9em">·</span> Мстислав Ростропович <span style="color:darkgrey">/ Mstislav Rostropovich</span>&nbsp; [1991-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London]
+>
+>
 >[Ivan the Terrible (concert scenario)](https://www.youtube.com/watch?v=BHRtUEruPDo&list=OLAK5uy_kGyaXbohwMrt0HCnyvY3to40yRnmNzs7E&index=1) <br>
->Philharmonia Orchestra <span style="font-size:0.9em">·</span> Philharmonia Chorus <span style="font-size:0.9em">·</span> Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+>Philharmonia Orchestra <span style="font-size:0.9em">·</span> Philharmonia Chorus <span style="font-size:0.9em">·</span> Neeme Järvi &nbsp;(1991-03 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London]
 
 <br>
 
@@ -674,6 +666,9 @@ Christopher Palmer
 🎬 &nbsp; David Lean <br>
 🎼 &nbsp; Arnold Bax <br>
 
+>[Oliver Twist (suite)](https://youtu.be/cFo8Ukw5nus) <br>
+> Royal Philharmonic Orchestra <span style="font-size:0.9em">·</span> Kenneth Alwyn&nbsp; [1986-01 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; CBS/Whitfield Street Studios, London]
+
 <br>
 
 
@@ -683,8 +678,7 @@ Christopher Palmer
 🎼 &nbsp; Jacques Ibert <br>
 
 >[Macbeth (suite)](https://youtu.be/3WDshzBPZYI) <br>
-> Symfonický orchester Československého rozhlasu <span style="font-size:0.9em">·</span> Adriano 
-&nbsp;(1990-01 &nbsp;<img src="/assets/img/flags/cs.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava)
+> Symfonický orchester Československého rozhlasu <span style="font-size:0.9em">·</span> Adriano&nbsp; [1990-01 &nbsp;<img src="/assets/img/flags/cs.png" height="12" width="18"/>&nbsp; Budova Slovenského rozhlasu, Bratislava]
 
 <br>
 
@@ -695,8 +689,7 @@ Christopher Palmer
 🎼 &nbsp; Ralph Vaughan Williams <br>
 
 >[Symphony № 7 &lsquo;&lsquo;Sinfonia antartica''](https://youtu.be/Mv6YBg7PLag) <br>
-> London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Bernard Haitink
-&nbsp;(1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London)
+> London Philharmonic Orchestra <span style="font-size:0.9em">·</span> London Philharmonic Choir <span style="font-size:0.9em">·</span> Bernard Haitink&nbsp; [1984-11 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Abbey Road Studios, London]
 
 <br>
 
@@ -707,8 +700,7 @@ Christopher Palmer
 🎼 &nbsp; Aaron Copland <br>
 
 >[The Red Pony (suite)](https://www.youtube.com/watch?v=R-L7fnl9i84&list=PL8AhTXrM6LH3hnj1McfkWQRfisx_WewNa&index=1) <br>
-> St. Louis Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn
-&nbsp;(1963-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; St. Louis)
+> St. Louis Symphony Orchestra <span style="font-size:0.9em">·</span> André Previn&nbsp; [1963-03 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; St. Louis]
 
 <br>
 
@@ -720,11 +712,11 @@ Christopher Palmer
 
 
 >[The Battle of Stalingrad (1952 suite), Op. 74a](https://youtu.be/xXmaPoCIt-8) <br>
-> Симфонический оркестр Всесоюзного радио <span style="color:darkgrey">/ USSR Radio Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Арам Хачатурян <span style="color:darkgrey">/ Aram Khachaturian</span> &nbsp;(1952 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
-
-
+> Симфонический оркестр Всесоюзного радио <span style="color:darkgrey">/ USSR Radio Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Арам Хачатурян <span style="color:darkgrey">/ Aram Khachaturian</span>&nbsp; [1952&nbsp; <img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
+>
+>
 >[The Battle of Stalingrad (1993 suite)](https://youtu.be/u0zEmdRM3SU) <br>
->Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span> &nbsp;(1993 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>)
+>Հայաստանի ֆիլհարմոնիկ նվագախումբ<span style="color:darkgrey"> / Armenian Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Լորիս Ճգնաւորեան <span style="color:darkgrey">/ Loris Tjeknavorian</span>&nbsp; [1993 &nbsp;<img src="/assets/img/flags/am.png" height="12" width="18"/>&nbsp; Արամ Խաչատրյան համերգասրահ, Երևան<span style="color:darkgrey"> / Aram Khachaturian Concert Hall, Yerevan</span>]
 
 <br>
 
@@ -735,8 +727,7 @@ Christopher Palmer
 🎼 &nbsp; Malcolm Arnold <br>
 
 >[The Sound Barrier, Op. 38](https://youtu.be/AvnyPu2zP70) <br>
-> London Symphony Orchestra <span style="font-size:0.9em">·</span> Richard Hickox 
-&nbsp;(1992-01 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London)
+> London Symphony Orchestra <span style="font-size:0.9em">·</span> Richard Hickox&nbsp; [1992-01 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; St Jude-on-the-Hill, Hampstead, London]
 
 <br>
 
@@ -747,8 +738,7 @@ Christopher Palmer
 🎼 &nbsp; Leonard Bernstein <br>
 
 >[On the Waterfront (suite)](https://youtu.be/Q5fFUoL45OQ) <br>
->New York Philharmonic <span style="font-size:0.9em">·</span> Leonard Bernstein 
-&nbsp;(1960-05 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Manhattan Center, New York)
+>New York Philharmonic <span style="font-size:0.9em">·</span> Leonard Bernstein&nbsp; [1960-05 &nbsp;<img src="/assets/img/flags/us_48.png" height="12" width="18"/>&nbsp; Manhattan Center, New York]
 
 <br>
 
@@ -775,8 +765,7 @@ Christopher Palmer
 🎼 &nbsp; Heitor Villa-Lobos <span style="font-size:0.9em">·</span> Bronislau Kaper <br>
 
 >[Floresta do Amazonas, W551](https://youtu.be/hmqdKTbz3Sc) <br>
->Orquestra Sinfônica do Estado de São Paulo <span style="font-size:0.9em">·</span> Coro Sinfônico do Estado de São Paulo <span style="font-size:0.9em">·</span> John Neschling 
-&nbsp;(2007-07 &nbsp;<img src="/assets/img/flags/br.png" height="12.6" width="18"/>&nbsp; Sala São Paulo)
+>Orquestra Sinfônica do Estado de São Paulo <span style="font-size:0.9em">·</span> Coro Sinfônico do Estado de São Paulo <span style="font-size:0.9em">·</span> John Neschling&nbsp; [2007-07 &nbsp;<img src="/assets/img/flags/br.png" height="12.6" width="18"/>&nbsp; Sala São Paulo]
 
 <br>
 
@@ -787,8 +776,7 @@ Christopher Palmer
 🎼 &nbsp; Bernard Herrmann <br>
 
 >[Psycho: A Suite for Strings](https://www.youtube.com/watch?v=qYPYHmuX-gQ&list=PL8AhTXrM6LH2mFRVcfQ3-pwWJiN1B42Mc&index=1) <br>
-> Los Angeles Philharmonic <span style="font-size:0.9em">·</span> Esa-Pekka Salonen
-&nbsp;(1996-04 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Todd-AO Scoring Stage, Los Angeles)
+> Los Angeles Philharmonic <span style="font-size:0.9em">·</span> Esa-Pekka Salonen&nbsp; [1996-04 &nbsp;<img src="/assets/img/flags/us.png" height="12" width="18"/>&nbsp; Todd-AO Scoring Stage, Los Angeles]
 
 <br>
 
@@ -799,8 +787,7 @@ Christopher Palmer
 🎼 &nbsp; Aaron Copland <br>
 
 >[Music for a Great City](https://youtu.be/QJec1XdObNg) <br>
-> London Symphony Orchestra <span style="font-size:0.9em">·</span> Aaron Copland
-&nbsp;(1964-06 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London)
+> London Symphony Orchestra <span style="font-size:0.9em">·</span> Aaron Copland&nbsp; [1964-06 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Walthamstow Town Hall, London]
 
 <br>
 
@@ -811,8 +798,7 @@ Christopher Palmer
 🎼 &nbsp; Robert Gerhard <br>
 
 >[This Sporting Life (suite)](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
-> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen
-&nbsp;(2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London)
+> BBC Symphony Orchestra <span style="font-size:0.9em">·</span> Jac van Steen&nbsp; [2002-10 &nbsp;<img src="/assets/img/flags/uk.png" height="12" width="18"/>&nbsp; Maida Vale Studios, London]
 
 <br>
 
@@ -838,6 +824,16 @@ Christopher Palmer
 🎬 &nbsp; Элема Климова <span style="color:grey">/ Elem Klimov</span> <br>
 🎼 &nbsp; Альфред Шнитке <span style="color:grey">/ Alfred Schnittke</span> <br>
 
+>[Adventures of a Dentist (suite)](https://youtu.be/-5f7kz4y694) <br>
+>Rundfunk-Sinfonieorchester Berlin <span style="font-size:0.9em">·</span> Frank Strobel&nbsp; [2004-02 &nbsp;<img src="/assets/img/flags/de.png" height="12" width="18"/>&nbsp; Jesus-Christus-Kirche, Berlin]
+>
+>[Suite in the Old Style (violin & piano)](https://youtu.be/WgCLtl7xdUk) <br>
+> Ирина Цейтлин <span style="color:darkgrey">/ Irina Tseitlin</span> (violin) <span style="font-size:0.9em">·</span> Patrick Dheur (piano)&nbsp; [<u>2007</u>]
+>
+>
+>[Suite in the Old Style (chamber orch.)](https://youtu.be/WgCLtl7xdUk) <br>
+> Государственный камерный оркестр «Виртуозы Москвы» <span style="color:darkgrey">/ Moscow Virtuosi</span> <span style="font-size:0.9em">·</span> Владимир Спиваков<span style="color:darkgrey"> / Vladimir Spivakov</span>&nbsp; [2001-06 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey"> / Radio and Recording House, Moscow</span>]
+
 
 <br>
 
@@ -847,8 +843,8 @@ Christopher Palmer
 🎬 &nbsp; Михаил Швейцер <span style="color:grey">/ Mikhail Schweitzer</span> <span style="font-size:0.9em">·</span> Sofiya Milkina <span style="color:grey">/ Leonid Trauberg</span> <br>
 🎼 &nbsp; Георгий Свиридов <span style="color:grey">/ 	Georgy Sviridov</span> <br>
 
->[Time, Forward! (suite)](https://youtu.be/pU3vk9Dim3g) <br>
-> Большой симфонический оркестр Всесоюзного радио и телевидения <span style="color:darkgrey">/ USSR Radio and Television Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Владимир Федосеев<span style="color:darkgrey"> / Vladimir Fedoseyev</span> &nbsp;(1975-01 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>)
+>[Time, Forward! (suite)](https://youtu.be/Trc2KEwU8ms) <br>
+> Большой симфонический оркестр имени П. И. Чайковского <span style="color:darkgrey">/ Tchaikovsky Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Владимир Федосеев<span style="color:darkgrey"> / Vladimir Fedoseyev</span>&nbsp; [1994 &nbsp;<img src="/assets/img/flags/ru.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 <br>
 
@@ -893,7 +889,7 @@ Christopher Palmer
 🎼 &nbsp; 武満徹 <span style="color:grey">/ Tōru Takemitsu</span> <br>
 
 >[Ran (suite)](https://www.youtube.com/watch?v=Ctnj3xTltAo&list=OLAK5uy_mApbH6HTCA59x-3HIVeeE5OYoBy6QeY8E&index=8) <br>
-> 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span> &nbsp;(2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey"> / Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>)
+> 札幌交響楽団 <span style="color:darkgrey">/ Sapporo Symphony Orchestra</span> <span style="font-size:0.9em">·</span> 尾高忠明<span style="color:darkgrey"> / Tadaaki Otaka</span>&nbsp; [2000-05 &nbsp;<img src="/assets/img/flags/jp2.png" height="12.6" width="18"/>&nbsp; 札幌コンサートホール Kitara<span style="color:darkgrey"> / Sapporo Concert Hall &lsquo;&lsquo;Kitara''</span>]
 
 <br>
 
@@ -904,8 +900,7 @@ Christopher Palmer
 🎼 &nbsp; Philip Glass <br>
 
 >[String Quartet № 3 &lsquo;&lsquo;Mishima''](https://www.youtube.com/watch?v=wL3KnXMVKDo&list=PL8AhTXrM6LH1a91XwLoTj2uEFGgPYfwSA&index=1) <br>
-> Quatuor Tana 
-&nbsp;(2019-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Studio 104,  de la Radio, Paris)
+> Quatuor Tana&nbsp; [2019-06 &nbsp;<img src="/assets/img/flags/fr_li.png" height="12" width="18"/>&nbsp; Studio 104, Maison de la Radio, Paris]
 
 <br>
 
