@@ -17,7 +17,7 @@ X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/sinopoli_tannhauser.jpg" width="275"> <br>
 
-<span style="font-size:0.87em">Chorus of the Royal Opera House, Covent Garden</span> <br>
+<span style="font-size:0.85em">Chorus of the Royal Opera House, Covent Garden</span> <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
 <a title="Watford Town Hall, London"><img src="/assets/img/flags/uk.png" height="12" width="18"/></a>&nbsp; 1988-04 </p> 
@@ -37,7 +37,7 @@ X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
 Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
 FERENC FRICSAY <br>
-<a title="Herkulessaal, München&nbsp;/&nbsp;Jesus-Christus-Kirche, Berlin"><img src="/assets/img/flags/de.png" height="12" width="18"/></a>&nbsp; 1957-05/1958-09 </p> 
+<a title="Herkulessaal, München&nbsp;/&nbsp;Jesus-Christus-Kirche, Berlin"><img src="/assets/img/flags/de.png" height="12" width="18"/></a>&nbsp; 1957-05<span style="font-size:0.75em">&nbsp;</span>/<span style="font-size:0.75em">&nbsp;</span>1958-09 </p> 
 
 <br>
 
