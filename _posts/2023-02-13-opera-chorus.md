@@ -17,7 +17,7 @@ X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/sinopoli_tannhauser.jpg" width="275"> <br>
 
-<span style="font-size:0.85em">Chorus of the Royal Opera House, Covent Garden</span> <br>
+Royal Opera Chorus <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
 <a title="Watford Town Hall, London"><img src="/assets/img/flags/uk.png" height="12" width="18"/></a>&nbsp; 1988-04 </p> 
