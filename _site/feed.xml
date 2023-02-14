@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 14 Feb 2023 00:10:43 -0500</pubDate>
+    <pubDate>Tue, 14 Feb 2023 01:25:32 -0500</pubDate>
     
       <item>
         <title>Opera Chorus</title>
@@ -18,9 +18,10 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/sinopoli_tannhauser.jpg&quot; width=&quot;275&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/sinopoli_tannhauser.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
 
-Royal Opera Chorus &lt;br /&gt;
+Chorus of the  &lt;br /&gt;
+Royal Opera House, Covent Garden &lt;br /&gt;
 Philharmonia Orchestra &lt;br /&gt;
 GIUSEPPE SINOPOLI &lt;br /&gt;
 &lt;a title=&quot;Watford Town Hall, London&quot;&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp; 1988-04 &lt;/p&gt;
@@ -34,12 +35,28 @@ GIUSEPPE SINOPOLI &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/fricsay_fidelio.jpg&quot; width=&quot;275&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/fricsay_fidelio.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
 
 Chor der Bayrischen Staataoper &lt;br /&gt;
 Bayerisches Staatsorchester &lt;br /&gt;
 FERENC FRICSAY &lt;br /&gt;
 &lt;a title=&quot;Herkulessaal, München&amp;nbsp;/&amp;nbsp;Jesus-Christus-Kirche, Berlin&quot;&gt;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp; 1957-05&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;1958-09 &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;4  |  BENJAMIN BRITTEN  (1945)&lt;/p&gt;
+
+&lt;h4 id=&quot;peter-grimes--iiii-who-holds-himself-apart&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CDBcySR9pBw&amp;amp;list=PLxXjllvtBC_olt3R8CbEU5jDCVd8_4uL6&amp;amp;index=40&quot;&gt;&lt;em&gt;Peter Grimes&lt;/em&gt;&lt;/a&gt; : III.i. &lt;a href=&quot;https://youtu.be/CDBcySR9pBw&quot;&gt;‘‘Who holds himself apart’’&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/davis_peter_grimes.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
+
+Chorus and Orchestra of the  &lt;br /&gt;
+Royal Opera House, Covent Garden &lt;br /&gt;
+COLIN DAVIS &lt;br /&gt;
+&lt;a title=&quot;All Saints Church, Tooting, London&quot;&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp; 1978-04 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -50,7 +67,7 @@ FERENC FRICSAY &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/nagano_saint_francois.jpg&quot; width=&quot;275&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/nagano_saint_francois.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
 
 Arnold Schoenberg Chor &lt;br /&gt;
 Hallé Orchestra &lt;br /&gt;
@@ -66,7 +83,7 @@ KENT NAGANO &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/ozawa_oedipus.jpg&quot; width=&quot;275&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/ozawa_oedipus.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
 
 東京オペラ・シンガーズ &lt;br /&gt;
 晋友会合唱団 &lt;br /&gt;
@@ -83,7 +100,7 @@ KENT NAGANO &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/nagano_dialogues.jpg&quot; width=&quot;275&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/nagano_dialogues.jpg&quot; width=&quot;250&quot; /&gt; &lt;br /&gt;
 
 Chœurs &amp;amp; Orchestre de l'Opéra de Lyon &lt;br /&gt;
 KENT NAGANO &lt;br /&gt;
