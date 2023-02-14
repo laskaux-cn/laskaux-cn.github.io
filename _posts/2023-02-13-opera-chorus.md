@@ -10,7 +10,7 @@ tags: music
 
 X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 
-#### [_Tannhäuser_](https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30) : III.i. [&lsquo;&lsquo;O welche Lust''](https://youtu.be/vbmFktJyOaI)
+#### [_Tannhäuser_](https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30) : III.i. [&lsquo;&lsquo;'Beglückt darf nun dich'](https://youtu.be/vbmFktJyOaI)
 
 <br>
 
@@ -28,7 +28,7 @@ GIUSEPPE SINOPOLI <br>
 
 X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
 
-#### [_Fidelio_](https://youtu.be/mGJmA1VPNVw?t=2677) : I.x. [&lsquo;&lsquo;Beglückt darf nun dich''](https://youtu.be/gdVh3EKSzXc)
+#### [_Fidelio_](https://youtu.be/mGJmA1VPNVw?t=2677) : I.x. [&lsquo;&lsquo;O welche Lust''](https://youtu.be/gdVh3EKSzXc)
 
 <br>
 
