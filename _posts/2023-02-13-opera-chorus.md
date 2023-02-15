@@ -21,7 +21,7 @@ Chorus of the  <br>
 Royal Opera House, Covent Garden <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
-<span style="font-size:0.85em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
+<span style="font-size:0.86em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
 
 <br>
 
@@ -38,7 +38,7 @@ X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 Chorus and Orchestra of the <br>
 Royal Opera House, Covent Garden <br>
 COLIN DAVIS <br>
-<span style="font-size:0.85em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
+<span style="font-size:0.86em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
 <br>
 
@@ -55,7 +55,7 @@ COLIN DAVIS <br>
 Arnold Schoenberg Chor <br>
 Hallé Orchestra <br>
 KENT NAGANO <br> 
-<span style="font-size:0.85em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
+<span style="font-size:0.86em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
 
 <br>
 
@@ -72,7 +72,7 @@ KENT NAGANO <br>
 Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
 FERENC FRICSAY <br>
-<span style="font-size:0.85em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05) </span> </p> 
+<span style="font-size:0.86em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05) </span> </p> 
 
 <br>
 
@@ -90,7 +90,7 @@ FERENC FRICSAY <br>
 晋友会合唱団 <br>
 サイトウ・キネン・オーケストラ <br>
 小澤征爾 <br>
-<span style="font-size:0.85em">(岡谷市文化会館 カノラホール &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1992-09) </span> </p> 
+<span style="font-size:0.86em">(岡谷市文化会館 カノラホール &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1992-09) </span> </p> 
 
 <br>
 
@@ -107,7 +107,7 @@ FERENC FRICSAY <br>
 Collegium Vocale Gent <br>
 Concerto Köln <br>
 RENÉ JACOBS <br>
-<span style="font-size:0.85em">(Stolberger Saal, Köln 
+<span style="font-size:0.86em">(Stolberger Saal, Köln 
 &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 
 2003-04) </span> </p> 
 
@@ -125,7 +125,7 @@ RENÉ JACOBS <br>
 
 Chœurs & Orchestre de l'Opéra de Lyon <br>
 KENT NAGANO <br>
-<span style="font-size:0.85em">(Auditorium Maurice-Ravel, Lyon 
+<span style="font-size:0.86em">(Auditorium Maurice-Ravel, Lyon 
 &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 
 1990-06) </span> </p> 
 
