@@ -15,7 +15,7 @@ X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/sinopoli_tannhauser.jpg" width="250"> <br>
+<img src="/assets/img/albums/sinopoli_tannhauser.jpg" width="400"> <br>
 
 Chorus of the  <br>
 Royal Opera House, Covent Garden <br>
@@ -33,7 +33,7 @@ X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/fricsay_fidelio.jpg" width="250"> <br>
+<img src="/assets/img/albums/fricsay_fidelio.jpg" width="400"> <br>
 
 Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
@@ -50,7 +50,7 @@ FERENC FRICSAY <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/davis_peter_grimes.jpg" width="250"> <br>
+<img src="/assets/img/albums/davis_peter_grimes.jpg" width="400"> <br>
 
 Chorus and Orchestra of the  <br>
 Royal Opera House, Covent Garden <br>
@@ -67,7 +67,7 @@ COLIN DAVIS <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/nagano_saint_francois.jpg" width="250"> <br>
+<img src="/assets/img/albums/nagano_saint_francois.jpg" width="400"> <br>
 
 Arnold Schoenberg Chor <br>
 Hallé Orchestra <br>
@@ -84,7 +84,7 @@ KENT NAGANO <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/ozawa_oedipus.jpg" width="250"> <br>
+<img src="/assets/img/albums/ozawa_oedipus.jpg" width="400"> <br>
 
 東京オペラ・シンガーズ <br>
 晋友会合唱団 <br>
@@ -103,7 +103,7 @@ KENT NAGANO <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/nagano_dialogues.jpg" width="250"> <br>
+<img src="/assets/img/albums/nagano_dialogues.jpg" width="400"> <br>
 
 Chœurs & Orchestre de l'Opéra de Lyon <br>
 KENT NAGANO <br>
