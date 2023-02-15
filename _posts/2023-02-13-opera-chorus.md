@@ -15,13 +15,13 @@ X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/sinopoli_tannhauser.jpg" width="400"> <br>
+<img src="/assets/img/albums/sinopoli_tannhauser.png" width="800"> <br>
 
 Chorus of the  <br>
 Royal Opera House, Covent Garden <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
-<a title="Watford Town Hall, London"><img src="/assets/img/flags/uk.png" height="12" width="18"/></a>&nbsp; 1988-04 </p> 
+<span style="font-size:0.85em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
 
 <br>
 
@@ -33,12 +33,12 @@ X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/fricsay_fidelio.jpg" width="400"> <br>
+<img src="/assets/img/albums/fricsay_fidelio.png" width="800"> <br>
 
 Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
 FERENC FRICSAY <br>
-<a title="Herkulessaal, München&nbsp;/&nbsp;Jesus-Christus-Kirche, Berlin"><img src="/assets/img/flags/de.png" height="12" width="18"/></a>&nbsp; 1957-05<span style="font-size:0.75em">&nbsp;</span>/<span style="font-size:0.75em">&nbsp;</span>1958-09 </p> 
+<span style="font-size:0.85em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05) </span> </p> 
 
 <br>
 
@@ -50,12 +50,12 @@ FERENC FRICSAY <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/davis_peter_grimes.jpg" width="400"> <br>
+<img src="/assets/img/albums/davis_peter_grimes.png" width="800"> <br>
 
-Chorus and Orchestra of the  <br>
+Chorus and Orchestra of the <br>
 Royal Opera House, Covent Garden <br>
 COLIN DAVIS <br>
-<a title="All Saints Church, Tooting, London"><img src="/assets/img/flags/uk.png" height="12" width="18"/></a>&nbsp; 1978-04 </p> 
+<span style="font-size:0.85em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
 <br>
 
@@ -67,12 +67,12 @@ COLIN DAVIS <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/nagano_saint_francois.jpg" width="400"> <br>
+<img src="/assets/img/albums/nagano_saint_francois.png" width="800"> <br>
 
 Arnold Schoenberg Chor <br>
 Hallé Orchestra <br>
-KENT NAGANO <br>
-<a title="Felsenreitschule, Salzburg"><img src="/assets/img/flags/at.png" height="12" width="18"/></a>&nbsp; 1998-08 </p> 
+KENT NAGANO <br> 
+<span style="font-size:0.85em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
 
 <br>
 
@@ -84,13 +84,13 @@ KENT NAGANO <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/ozawa_oedipus.jpg" width="400"> <br>
+<img src="/assets/img/albums/ozawa_oedipus.png" width="800"> <br>
 
 東京オペラ・シンガーズ <br>
 晋友会合唱団 <br>
 サイトウ・キネン・オーケストラ <br>
 小澤征爾 <br>
-<a title="岡谷市文化会館 カノラホール"><img src="/assets/img/flags/jp.png" height="13" width="18.5"/></a>&nbsp; 1992-09 </p>
+<span style="font-size:0.85em">(岡谷市文化会館 カノラホール &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1992-09) </span> </p> 
 
 <br>
 
@@ -103,11 +103,13 @@ KENT NAGANO <br>
 <br>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/nagano_dialogues.jpg" width="400"> <br>
+<img src="/assets/img/albums/nagano_dialogues.png" width="800"> <br>
 
 Chœurs & Orchestre de l'Opéra de Lyon <br>
 KENT NAGANO <br>
-<a title="Auditorium Maurice-Ravel, Lyon"><img src="/assets/img/flags/fr_li.png" height="12" width="18"/></a>&nbsp; 1990-06 </p> 
+<span style="font-size:0.85em">(Auditorium Maurice-Ravel, Lyon 
+&nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 
+1990-06) </span> </p> 
 
 <br>
 
