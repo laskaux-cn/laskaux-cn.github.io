@@ -26,6 +26,23 @@ GIUSEPPE SINOPOLI <br>
 <br>
 
 
+
+X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
+
+#### [_Les Troyens_]() :  [&lsquo;&lsquo;'']()
+
+<br>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/dutoit_troyens.png" width="800"> <br>
+
+Chœurs & Orchestre symphonique de Montréal <br>
+CHARLES DUTOIT <br>
+<span style="font-size:0.86em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+
+<br>
+
+
 X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 
 #### [_Peter Grimes_](https://www.youtube.com/watch?v=CDBcySR9pBw&list=PLxXjllvtBC_olt3R8CbEU5jDCVd8_4uL6&index=40) : III.i. [&lsquo;&lsquo;Who holds himself apart''](https://youtu.be/CDBcySR9pBw)
