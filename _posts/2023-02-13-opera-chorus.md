@@ -36,7 +36,7 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/dutoit_troyens.png" width="800"> <br>
 
-Chœurs & Orchestre symphonique de Montréal <br>
+Chœur & Orchestre symphonique de Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.86em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
 
