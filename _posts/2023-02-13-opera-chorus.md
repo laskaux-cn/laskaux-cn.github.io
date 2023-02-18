@@ -8,6 +8,22 @@ tags: music
 ---
 
 
+X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
+
+#### [_Les Troyens_]() :  [&lsquo;&lsquo;'']()
+
+<br>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/dutoit_troyens.png" width="800"> <br>
+
+Chœur & Orchestre symphonique de&#160;Montréal <br>
+CHARLES DUTOIT <br>
+<span style="font-size:0.88em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+
+<br>
+
+
 X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 
 #### [_Tannhäuser_](https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30) : III.i. [&lsquo;&lsquo;Beglückt darf nun dich''](https://youtu.be/vbmFktJyOaI)
@@ -21,23 +37,6 @@ Chorus of the Royal Opera House, Covent&#160;Garden <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
 <span style="font-size:0.88em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
-
-<br>
-
-
-
-X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
-
-#### [_Les Troyens_]() :  [&lsquo;&lsquo;'']()
-
-<br>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/dutoit_troyens.png" width="800"> <br>
-
-Chœur & Orchestre symphonique de&#160;Montréal <br>
-CHARLES DUTOIT <br>
-<span style="font-size:0.88em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
 
 <br>
 
