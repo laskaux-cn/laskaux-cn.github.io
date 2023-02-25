@@ -40,6 +40,23 @@ GIUSEPPE SINOPOLI <br>
 
 
 
+X &nbsp;\|&nbsp; JACQUES OFFENBACH &nbsp;(1858)
+
+#### [_Orphée aux enfers_ : II.iv. &lsquo;&lsquo;Ce bal est original''](https://www.youtube.com/watch?v=Hkid9Ax-kjM&list=OLAK5uy_mEpGZ-ZaE2RkeD4HvFbdidtZNDM26Uet4&index=49)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/minkowski_orphee.png" width="800"> <br>
+
+Chœur & Orchestre de l'Opéra de Lyon <br>
+Orchestre de chambre de Grenoble <br>
+MARC MINKOWSKI <br>
+<span style="font-size:0.87em">(Opéra Nouvel, Lyon &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1997-12) </span> </p> 
+
+<br>
+
+
+
 X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 
 #### [_Peter Grimes_ : III.i. &lsquo;&lsquo;Who holds himself apart''](https://www.youtube.com/watch?v=CDBcySR9pBw&list=PLxXjllvtBC_olt3R8CbEU5jDCVd8_4uL6&index=40)
@@ -67,6 +84,23 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 Chœur & Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+
+<br>
+
+
+X &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+
+#### [_L’Orfeo_ : I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haim_orfeo.png" width="800"> <br>
+
+European Voices <br>
+Les Sacqueboutiers <br>
+Le Concert d'Astrée <br>
+EMMANUELLE HAÏM <br>
+<span style="font-size:0.87em">(Notre-Dame-du-Liban, Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2003-01) </span> </p> 
 
 <br>
 
@@ -150,7 +184,7 @@ RENÉ JACOBS <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/nagano_dialogues.png" width="800"> <br>
 
-Chœurs & Orchestre de l'Opéra de Lyon <br>
+Chœur & Orchestre de l'Opéra de Lyon <br>
 KENT NAGANO <br>
 <span style="font-size:0.87em">(Auditorium Maurice-Ravel, Lyon 
 &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 
