@@ -88,7 +88,25 @@ CHARLES DUTOIT <br>
 <br>
 
 
-X &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+
+7 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
+
+#### [_Saint François d'Assise_ : III/vii. &lsquo;&lsquo;Une lueur rouge et violette enflamme toute la scène''](https://www.youtube.com/watch?v=-XgMsqMZC0I&list=OLAK5uy_nbcF7mrmpW-iaP-hVj9GbFa_yKpQd46So&index=52)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/nagano_saint_francois.png" width="800"> <br>
+
+Arnold Schoenberg Chor <br>
+Hallé Orchestra <br>
+KENT NAGANO <br> 
+<span style="font-size:0.87em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
+
+<br>
+
+
+
+6 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
 
 #### [_L’Orfeo_ : I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
 
@@ -106,7 +124,7 @@ EMMANUELLE HAÏM <br>
 
 
 
-6 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
+5 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
 
 #### [_Fidelio_ : I.x. &lsquo;&lsquo;O welche Lust''](https://youtu.be/mGJmA1VPNVw?t=2677)
 
@@ -123,40 +141,7 @@ FERENC FRICSAY <br>
 
 
 
-5 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
-
-#### [_Saint François d'Assise_ : III/vii. &lsquo;&lsquo;Une lueur rouge et violette enflamme toute la scène''](https://www.youtube.com/watch?v=-XgMsqMZC0I&list=OLAK5uy_nbcF7mrmpW-iaP-hVj9GbFa_yKpQd46So&index=52)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/nagano_saint_francois.png" width="800"> <br>
-
-Arnold Schoenberg Chor <br>
-Hallé Orchestra <br>
-KENT NAGANO <br> 
-<span style="font-size:0.87em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
-
-<br>
-
-
-
-4 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1737/1754)
-
-#### [_Castor et Pollux_ : I/II.i. &lsquo;&lsquo;Que tout gémisse''](https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pichon_castor.png" width="800"> <br>
-
-Ensemble Pygmalion <br>
-RAPHAËL PICHON <br>
-<span style="font-size:0.87em">(Le Corum, Montpellier &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2014-07) </span> </p> 
-
-<br>
-
-
-
-3 &nbsp;\|&nbsp; IGOR STRAVINSKY &nbsp;(1927)
+4 &nbsp;\|&nbsp; IGOR STRAVINSKY &nbsp;(1927)
 
 #### [_Œdipus rex_ : II.iii. &lsquo;&lsquo;Divum Jocastae caput mortuum''](https://www.youtube.com/watch?v=F5HseH7JlIw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=20)
 
@@ -169,6 +154,22 @@ RAPHAËL PICHON <br>
 サイトウ・キネン・オーケストラ <br>
 小澤征爾 <br>
 <span style="font-size:0.87em">(岡谷市文化会館 カノラホール &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1992-09) </span> </p> 
+
+<br>
+
+
+
+3 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1737/1754)
+
+#### [_Castor et Pollux_ : I/II.i. &lsquo;&lsquo;Que tout gémisse''](https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pichon_castor.png" width="800"> <br>
+
+Ensemble Pygmalion <br>
+RAPHAËL PICHON <br>
+<span style="font-size:0.87em">(Le Corum, Montpellier &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2014-07) </span> </p> 
 
 <br>
 
