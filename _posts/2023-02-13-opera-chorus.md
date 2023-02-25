@@ -105,6 +105,24 @@ EMMANUELLE HAÏM <br>
 <br>
 
 
+
+6 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
+
+#### [_Fidelio_ : I.x. &lsquo;&lsquo;O welche Lust''](https://youtu.be/mGJmA1VPNVw?t=2677)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay_fidelio.png" width="800"> <br>
+
+Chor der Bayrischen Staataoper <br>
+Bayerisches Staatsorchester <br>
+FERENC FRICSAY <br>
+<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05) </span> </p> 
+
+<br>
+
+
+
 5 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
 
 #### [_Saint François d'Assise_ : III/vii. &lsquo;&lsquo;Une lueur rouge et violette enflamme toute la scène''](https://www.youtube.com/watch?v=-XgMsqMZC0I&list=OLAK5uy_nbcF7mrmpW-iaP-hVj9GbFa_yKpQd46So&index=52)
@@ -122,18 +140,17 @@ KENT NAGANO <br>
 
 
 
-4 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
+4 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1737/1754)
 
-#### [_Fidelio_ : I.x. &lsquo;&lsquo;O welche Lust''](https://youtu.be/mGJmA1VPNVw?t=2677)
+#### [_Castor et Pollux_ : I/II.i. &lsquo;&lsquo;Que tout gémisse''](https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15)
 
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/fricsay_fidelio.png" width="800"> <br>
+<img src="/assets/img/albums/pichon_castor.png" width="800"> <br>
 
-Chor der Bayrischen Staataoper <br>
-Bayerisches Staatsorchester <br>
-FERENC FRICSAY <br>
-<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05) </span> </p> 
+Ensemble Pygmalion <br>
+RAPHAËL PICHON <br>
+<span style="font-size:0.87em">(Le Corum, Montpellier &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2014-07) </span> </p> 
 
 <br>
 
