@@ -65,7 +65,7 @@ X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/davis_peter_grimes.png" width="800"> <br>
 
-Chorus and Orchestra of the Royal&#160;Opera&#160;House,&#160;Covent&#160;Garden <br>
+Chorus & Orchestra of the Royal&#160;Opera&#160;House,&#160;Covent&#160;Garden <br>
 COLIN DAVIS <br>
 <span style="font-size:0.87em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
@@ -73,9 +73,25 @@ COLIN DAVIS <br>
 
 
 
+X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
+
+#### [_Antigonæ_ : II.i. &lsquo;&lsquo;Ungeheuer ist viel''](https://www.youtube.com/watch?v=souQmX7LJkw&list=OLAK5uy_m6vjwBT-ViNA-Dij2zrbkfvCMRyB-8_DQ&index=9)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leitner_antigonae.png" width="800"> <br>
+
+Chor & Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
+FERDINAND LEITNER <br>
+<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04) </span> </p> 
+
+<br>
+
+
+
 X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 
-#### [_Les Troyens_ : I/vi. &lsquo;&lsquo;Dieux protecteurs''](https://www.youtube.com/watch?v=pGl6Z2CUBXI&list=OLAK5uy_mLTfKpEn0gI0jx7p0eGuob4AGfTwQ9bIA&index=6)
+#### [_Les Troyens_ : I.iv. &lsquo;&lsquo;Dieux protecteurs''](https://www.youtube.com/watch?v=pGl6Z2CUBXI&list=OLAK5uy_mLTfKpEn0gI0jx7p0eGuob4AGfTwQ9bIA&index=6)
 
 
 <p style="text-align:center; color:grey">
@@ -84,6 +100,22 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 Chœur & Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+
+<br>
+
+
+
+X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
+
+#### [_Actéon_ : I.vi. &lsquo;&lsquo;Hélos, est-il possible''](https://youtu.be/_8bPO8LvxBM?t=2032)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/christie_acteon.png" width="800"> <br>
+
+Les Arts Florissants <br>
+WILLIAM CHRISTIE <br>
+<span style="font-size:0.87em">(Maison de la Radio, Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1982-04) </span> </p> 
 
 <br>
 
