@@ -15,7 +15,7 @@ X &nbsp;\|&nbsp; GIACOMO PUCCINI &nbsp;(1904)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/patane_butterfly.png" width="800"> <br>
 
-Magyar Állami Operaház Kamarakórusa&#160;&&#160;Zenekara <br>
+Magyar Állami Operaház Kamarakórusa&#160;és&#160;Zenekara <br>
 GIUSEPPE PATANÉ <br>
 <span style="font-size:0.87em">(Hungaroton Stúdió, Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; c. 1980) </span> </p> 
 
@@ -48,7 +48,7 @@ X &nbsp;\|&nbsp; JACQUES OFFENBACH &nbsp;(1858)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/minkowski_orphee.png" width="800"> <br>
 
-Chœur & Orchestre de l'Opéra de Lyon <br>
+Chœur et Orchestre de l'Opéra de Lyon <br>
 Orchestre de chambre de Grenoble <br>
 MARC MINKOWSKI <br>
 <span style="font-size:0.87em">(Opéra Nouvel, Lyon &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1997-12) </span> </p> 
@@ -65,7 +65,7 @@ X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/davis_peter_grimes.png" width="800"> <br>
 
-Chorus & Orchestra of the Royal&#160;Opera&#160;House,&#160;Covent&#160;Garden <br>
+Chorus and Orchestra of the Royal&#160;Opera&#160;House,&#160;Covent&#160;Garden <br>
 COLIN DAVIS <br>
 <span style="font-size:0.87em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
@@ -81,7 +81,7 @@ X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/leitner_antigonae.png" width="800"> <br>
 
-Chor & Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
+Chor und Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
 FERDINAND LEITNER <br>
 <span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04) </span> </p> 
 
@@ -97,9 +97,25 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/dutoit_troyens.png" width="800"> <br>
 
-Chœur & Orchestre symphonique de&#160;Montréal <br>
+Chœur et Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+
+<br>
+
+
+
+X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
+
+#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;У купчихи жар и пыл''](https://www.youtube.com/watch?v=D4KJuSEV4iM&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=102)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
+
+Ambrosian Opera Chorus <br>
+London Philharmonic Orchestra <br>
+МСТИСЛАВ РОСТРОПОВИЧ <br>
+<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
 <br>
 
@@ -173,7 +189,7 @@ FERENC FRICSAY <br>
 
 
 
-4 &nbsp;\|&nbsp; IGOR STRAVINSKY &nbsp;(1927)
+4 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1927)
 
 #### [_Œdipus rex_ : II.iii. &lsquo;&lsquo;Divum Jocastae caput mortuum''](https://www.youtube.com/watch?v=F5HseH7JlIw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=20)
 
@@ -199,7 +215,7 @@ FERENC FRICSAY <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/pichon_castor.png" width="800"> <br>
 
-Ensemble Pygmalion <br>
+Pygmalion <br>
 RAPHAËL PICHON <br>
 <span style="font-size:0.87em">(Le Corum, Montpellier &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2014-07) </span> </p> 
 
@@ -234,7 +250,7 @@ RENÉ JACOBS <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/nagano_dialogues.png" width="800"> <br>
 
-Chœur & Orchestre de l'Opéra de Lyon <br>
+Chœur et Orchestre de l'Opéra de Lyon <br>
 KENT NAGANO <br>
 <span style="font-size:0.87em">(Auditorium Maurice-Ravel, Lyon 
 &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 
