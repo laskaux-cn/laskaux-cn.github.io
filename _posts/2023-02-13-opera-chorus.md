@@ -89,6 +89,22 @@ FERDINAND LEITNER <br>
 
 
 
+X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
+
+#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;Эх, ты, путь, цепями вскопанный''](https://www.youtube.com/watch?v=V4RGo5LniFE&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=97)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
+
+Ambrosian Opera Chorus <br>
+London Philharmonic Orchestra <br>
+МСТИСЛАВ РОСТРОПОВИЧ <br>
+<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
+
+<br>
+
+
+
 X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 
 #### [_Les Troyens_ : I.iv. &lsquo;&lsquo;Dieux protecteurs''](https://www.youtube.com/watch?v=pGl6Z2CUBXI&list=OLAK5uy_mLTfKpEn0gI0jx7p0eGuob4AGfTwQ9bIA&index=6)
@@ -100,22 +116,6 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 Chœur et Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
-
-<br>
-
-
-
-X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
-
-#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;У купчихи жар и пыл''](https://www.youtube.com/watch?v=D4KJuSEV4iM&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=102)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
-
-Ambrosian Opera Chorus <br>
-London Philharmonic Orchestra <br>
-МСТИСЛАВ РОСТРОПОВИЧ <br>
-<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
 
 <br>
 
