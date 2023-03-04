@@ -22,22 +22,6 @@ GIUSEPPE PATANÉ <br>
 <br>
 
 
-
-X &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1929)
-
-#### [Игрок : IV.ii. &lsquo;&lsquo;Двести тысяч выиграл''](https://www.youtube.com/watch?v=E94olTgeryY&list=PLnjEnIfhHDxzX4Myqkehn_PG_Su5w0G9O&index=18)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/gergiev_gambler.png" width="800"> <br>
-
-Хор и Симфонический оркестр Мариинского&#160;театра <br>
-ВАЛЕРИЙ ГЕРГИЕВ <br>
-<span style="font-size:0.87em">(Muziekcentrum van de Omroep, Hilversum &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1996-03) </span> </p> 
-
-<br>
-
-
-
 X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 
 #### [_Tannhäuser_ : III.i. &lsquo;&lsquo;Beglückt darf nun dich''](https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30)
@@ -101,6 +85,20 @@ MARC MINKOWSKI <br>
 
 <br>
 
+
+
+X &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1929)
+
+#### [Игрок : IV.ii. &lsquo;&lsquo;Двести тысяч выиграл''](https://www.youtube.com/watch?v=E94olTgeryY&list=PLnjEnIfhHDxzX4Myqkehn_PG_Su5w0G9O&index=18)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/gergiev_gambler.png" width="800"> <br>
+
+Хор и Симфонический оркестр Мариинского&#160;театра <br>
+ВАЛЕРИЙ ГЕРГИЕВ <br>
+<span style="font-size:0.87em">(Muziekcentrum van de Omroep, Hilversum &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1996-03) </span> </p> 
+
+<br>
 
 
 X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
