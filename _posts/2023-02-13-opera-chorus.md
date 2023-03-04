@@ -23,6 +23,21 @@ GIUSEPPE PATANÉ <br>
 
 
 
+X &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1929)
+
+#### [Игрок : IV.ii. &lsquo;&lsquo;Двести тысяч выиграл''](https://www.youtube.com/watch?v=E94olTgeryY&list=PLnjEnIfhHDxzX4Myqkehn_PG_Su5w0G9O&index=18)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/gergiev_gambler.png" width="800"> <br>
+
+Хор и Симфонический оркестр Мариинского&#160;театра <br>
+ВАЛЕРИЙ ГЕРГИЕВ <br>
+<span style="font-size:0.87em">(Muziekcentrum van de Omroep, Hilversum &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1996-03) </span> </p> 
+
+<br>
+
+
+
 X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 
 #### [_Tannhäuser_ : III.i. &lsquo;&lsquo;Beglückt darf nun dich''](https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30)
@@ -35,6 +50,37 @@ Chorus of the Royal Opera House, Covent&#160;Garden <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
 <span style="font-size:0.87em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
+
+<br>
+
+
+X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
+
+#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;У купчихи жар и пыл''](https://www.youtube.com/watch?v=D4KJuSEV4iM&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=102)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
+
+Ambrosian Opera Chorus <br>
+London Philharmonic Orchestra <br>
+МСТИСЛАВ РОСТРОПОВИЧ <br>
+<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
+
+<br>
+
+
+
+X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
+
+#### [_Antigonæ_ : II.i. &lsquo;&lsquo;Ungeheuer ist viel''](https://www.youtube.com/watch?v=souQmX7LJkw&list=OLAK5uy_m6vjwBT-ViNA-Dij2zrbkfvCMRyB-8_DQ&index=9)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leitner_antigonae.png" width="800"> <br>
+
+Chor und Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
+FERDINAND LEITNER <br>
+<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04) </span> </p> 
 
 <br>
 
@@ -57,6 +103,22 @@ MARC MINKOWSKI <br>
 
 
 
+X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
+
+#### [_Actéon_ : I.vi. &lsquo;&lsquo;Hélos, est-il possible''](https://youtu.be/_8bPO8LvxBM?t=2032)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/christie_acteon.png" width="800"> <br>
+
+Les Arts Florissants <br>
+WILLIAM CHRISTIE <br>
+<span style="font-size:0.87em">(Maison de la Radio, Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1982-04) </span> </p> 
+
+<br>
+
+
+
 X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 
 #### [_Peter Grimes_ : III.i. &lsquo;&lsquo;Who holds himself apart''](https://www.youtube.com/watch?v=CDBcySR9pBw&list=PLxXjllvtBC_olt3R8CbEU5jDCVd8_4uL6&index=40)
@@ -73,38 +135,6 @@ COLIN DAVIS <br>
 
 
 
-X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
-
-#### [_Antigonæ_ : II.i. &lsquo;&lsquo;Ungeheuer ist viel''](https://www.youtube.com/watch?v=souQmX7LJkw&list=OLAK5uy_m6vjwBT-ViNA-Dij2zrbkfvCMRyB-8_DQ&index=9)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/leitner_antigonae.png" width="800"> <br>
-
-Chor und Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
-FERDINAND LEITNER <br>
-<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04) </span> </p> 
-
-<br>
-
-
-
-X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
-
-#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;Эх, ты, путь, цепями вскопанный''](https://www.youtube.com/watch?v=V4RGo5LniFE&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=97)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
-
-Ambrosian Opera Chorus <br>
-London Philharmonic Orchestra <br>
-МСТИСЛАВ РОСТРОПОВИЧ <br>
-<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
-
-<br>
-
-
-
 X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 
 #### [_Les Troyens_ : I.iv. &lsquo;&lsquo;Dieux protecteurs''](https://www.youtube.com/watch?v=pGl6Z2CUBXI&list=OLAK5uy_mLTfKpEn0gI0jx7p0eGuob4AGfTwQ9bIA&index=6)
@@ -116,22 +146,6 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 Chœur et Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
 <span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
-
-<br>
-
-
-
-X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
-
-#### [_Actéon_ : I.vi. &lsquo;&lsquo;Hélos, est-il possible''](https://youtu.be/_8bPO8LvxBM?t=2032)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/christie_acteon.png" width="800"> <br>
-
-Les Arts Florissants <br>
-WILLIAM CHRISTIE <br>
-<span style="font-size:0.87em">(Maison de la Radio, Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1982-04) </span> </p> 
 
 <br>
 
