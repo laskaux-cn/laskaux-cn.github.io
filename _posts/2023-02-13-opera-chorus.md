@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opera Chorus
+title: Opera Choruses
 subtitle: 
 excerpt: ♬&nbsp; <br>
 
@@ -96,7 +96,7 @@ X &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1929)
 
 Хор и Симфонический оркестр Мариинского&#160;театра <br>
 ВАЛЕРИЙ ГЕРГИЕВ <br>
-<span style="font-size:0.87em">(Muziekcentrum van de Omroep, Hilversum &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1996-03) </span> </p> 
+<span style="font-size:0.87em">(Muziekcentrum van de Omroep, Hilversum&#160;&#160;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&#160;&#160;1996-03) </span> </p> 
 
 <br>
 
