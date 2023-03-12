@@ -17,7 +17,7 @@ X &nbsp;\|&nbsp; GIACOMO PUCCINI &nbsp;(1904)
 
 Magyar Állami Operaház Kamarakórusa&#160;és&#160;Zenekara <br>
 GIUSEPPE PATANÉ <br>
-<span style="font-size:0.87em">(Hungaroton Stúdió, Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; c. 1980) </span> </p> 
+<span style="font-size:0.87em">(Hungaroton Stúdió, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; c. 1980)</nobr> </span> </p> 
 
 <br>
 
@@ -33,7 +33,7 @@ X &nbsp;\|&nbsp; RICHARD WAGNER &nbsp;(1845)
 Chorus of the Royal Opera House, Covent&#160;Garden <br>
 Philharmonia Orchestra <br>
 GIUSEPPE SINOPOLI <br>
-<span style="font-size:0.87em">(Watford Town Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04) </span> </p> 
+<span style="font-size:0.87em">(Watford Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1988-04)</nobr> </span> </p> 
 
 <br>
 
@@ -48,7 +48,7 @@ X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
 Ambrosian Opera Chorus <br>
 London Philharmonic Orchestra <br>
 МСТИСЛАВ РОСТРОПОВИЧ <br>
-<span style="font-size:0.87em">(Abbey Road Studios, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04)</nobr> </span> </p> 
 
 <br>
 
@@ -64,7 +64,7 @@ X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
 
 Chor und Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
 FERDINAND LEITNER <br>
-<span style="font-size:0.87em">(Herkulessaal, München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04) </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04)</nobr> </span> </p> 
 
 <br>
 
@@ -81,7 +81,7 @@ X &nbsp;\|&nbsp; JACQUES OFFENBACH &nbsp;(1858)
 Chœur et Orchestre de l'Opéra de Lyon <br>
 Orchestre de chambre de Grenoble <br>
 MARC MINKOWSKI <br>
-<span style="font-size:0.87em">(Opéra Nouvel, Lyon &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1997-12) </span> </p> 
+<span style="font-size:0.87em">(Opéra Nouvel, <nobr>Lyon &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1997-12)</nobr> </span> </p> 
 
 <br>
 
@@ -111,7 +111,7 @@ X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
 
 Les Arts Florissants <br>
 WILLIAM CHRISTIE <br>
-<span style="font-size:0.87em">(Maison de la Radio, Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1982-04) </span> </p> 
+<span style="font-size:0.87em">(Maison de la Radio, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
 
 <br>
 
@@ -127,7 +127,7 @@ X &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1945)
 
 Chorus and Orchestra of the Royal&#160;Opera&#160;House,&#160;Covent&#160;Garden <br>
 COLIN DAVIS <br>
-<span style="font-size:0.87em">(All Saints Church, Tooting, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04) </span> </p> 
+<span style="font-size:0.87em">(All Saints Church, Tooting, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04)</nobr> </span> </p> 
 
 <br>
 
@@ -143,7 +143,7 @@ X &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1863)
 
 Chœur et Orchestre symphonique de&#160;Montréal <br>
 CHARLES DUTOIT <br>
-<span style="font-size:0.87em">(Église de Saint-Eustache, Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10) </span> </p> 
+<span style="font-size:0.87em">(Église de Saint-Eustache, <nobr>Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1993-10)</nobr> </span> </p> 
 
 <br>
 
@@ -160,7 +160,7 @@ CHARLES DUTOIT <br>
 Arnold Schoenberg Chor <br>
 Hallé Orchestra <br>
 KENT NAGANO <br> 
-<span style="font-size:0.87em">(Felsenreitschule, Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08) </span> </p> 
+<span style="font-size:0.87em">(Felsenreitschule, <nobr>Salzburg &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1998-08)</nobr> </span> </p> 
 
 <br>
 
