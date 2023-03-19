@@ -38,21 +38,6 @@ GIUSEPPE SINOPOLI <br>
 <br>
 
 
-X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1934)
-
-#### [Леди Макбет Мценского уезда : IV/ix. &lsquo;&lsquo;У купчихи жар и пыл''](https://www.youtube.com/watch?v=D4KJuSEV4iM&list=PL6bLSbq1os-WEV9naNrmAaPJzRqBl2SUK&index=102)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/rostropovich_lady_macbeth.png" width="800"> <br>
-
-Ambrosian Opera Chorus <br>
-London Philharmonic Orchestra <br>
-МСТИСЛАВ РОСТРОПОВИЧ <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1978-04)</nobr> </span> </p> 
-
-<br>
-
-
 
 X &nbsp;\|&nbsp; CARL ORFF &nbsp;(1949)
 
@@ -85,20 +70,6 @@ MARC MINKOWSKI <br>
 
 <br>
 
-
-
-X &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1929)
-
-#### [Игрок : IV.ii. &lsquo;&lsquo;Двести тысяч выиграл''](https://www.youtube.com/watch?v=E94olTgeryY&list=PLnjEnIfhHDxzX4Myqkehn_PG_Su5w0G9O&index=18)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/gergiev_gambler.png" width="800"> <br>
-
-Хор и Симфонический оркестр Мариинского&#160;театра <br>
-ВАЛЕРИЙ ГЕРГИЕВ <br>
-<span style="font-size:0.87em">(Muziekcentrum van de Omroep, <nobr>Hilversum &#160;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&#160; 1996-03)</nobr> </span> </p> 
-
-<br>
 
 
 X &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;(1684)
