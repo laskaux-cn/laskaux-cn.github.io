@@ -24,7 +24,7 @@ L'Assassinat du duc de Guise
 <span style="color:darkgrey">&nbsp;&rsquo;33</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; The City 
 <span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; Сказка о глупом мышонке
 <span style="color:darkgrey">&nbsp;&rsquo;40</span> <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; Malta G.C.
 <span style="color:darkgrey">&nbsp;&rsquo;42</span><br>
@@ -52,7 +52,7 @@ L'Assassinat du duc de Guise
 <span style="color:darkgrey">&nbsp;&rsquo;67</span><br>
 <img src="/assets/img/flags/us.png" height="12" width="18"/> &nbsp; Railroaded 
 <span style="color:darkgrey">&nbsp;&rsquo;68</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; Клоуны и дети 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; Клоуны и дети 
 <span style="color:darkgrey">&nbsp;&rsquo;76</span>
 
 ---
@@ -65,15 +65,15 @@ Im Kampf mit dem Berge <span style="color:darkgrey">&nbsp;&rsquo;21</span><br>
 Die Nibelungen <span style="color:darkgrey">&nbsp;&rsquo;24</span><br>
 <img src="/assets/img/flags/de_weimar.png" height="12" width="18"/> &nbsp; 
 Berlin: Die Sinfonie der Großstadt <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Октябрь <span style="color:darkgrey">&nbsp;&rsquo;27</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Новый Вавилон <span style="color:darkgrey">&nbsp;&rsquo;29</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 Le sang d'un poète <span style="color:darkgrey">&nbsp;&rsquo;30</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 Madame Bovary <span style="color:darkgrey">&nbsp;&rsquo;34</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Поручик Киже <span style="color:darkgrey">&nbsp;&rsquo;34</span>  &nbsp; 🏷️ <br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Things to Come <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
@@ -85,7 +85,7 @@ Redes <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 Conquest of the Air <span style="color:darkgrey">&nbsp;&rsquo;36</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Александр Невский <span style="color:darkgrey">&nbsp;&rsquo;38</span><br>
 [<img src="/assets/img/flags/us_48.png" height="12" width="18"/>](#million) &nbsp; The 400 Million 
 <span style="color:darkgrey">&nbsp;&rsquo;39</span> <br>
@@ -93,9 +93,9 @@ Love from a Stranger <span style="color:darkgrey">&nbsp;&rsquo;37</span><br>
 La noche de los mayas <span style="color:darkgrey">&nbsp;&rsquo;39</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 Henry V <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Человек № 217 <span style="color:darkgrey">&nbsp;&rsquo;44</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Иван Грозный <span style="color:darkgrey">&nbsp;&rsquo;44–&rsquo;45</span><br>
 <img src="/assets/img/flags/fr_da.png" height="12" width="18"/> &nbsp; 
 La Belle et la Bête <span style="color:darkgrey">&nbsp;&rsquo;46</span><br>
@@ -107,7 +107,7 @@ Macbeth <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 Scott of the Antarctic <span style="color:darkgrey">&nbsp;&rsquo;48</span><br>
 <img src="/assets/img/flags/us_48.png" height="12" width="18"/> &nbsp; 
 The Red Pony <span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Сталинградская битва <span style="color:darkgrey">&nbsp;&rsquo;49</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 The Sound Barrier<span style="color:darkgrey">&nbsp;&rsquo;52</span> <br>
@@ -129,17 +129,17 @@ This Sporting Life <span style="color:darkgrey">&nbsp;&rsquo;63</span><br>
 東京オリンピック <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
 <img src="/assets/img/flags/uk.png" height="12" width="18"/> &nbsp; 
 The Skull <span style="color:darkgrey">&nbsp;&rsquo;65</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Похождения зубного врача <span style="color:darkgrey">&nbsp;&rsquo;65</span> &nbsp; 🏷️ <br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Время, вперёд! <span style="color:darkgrey">&nbsp;&rsquo;66</span><br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Андрей Рублёв <span style="color:darkgrey">&nbsp;&rsquo;66</span> <br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Война и мир <span style="color:darkgrey">&nbsp;&rsquo;66–&rsquo;67</span><br>
 <img src="/assets/img/flags/uk.png" height="12.0" width="18"/> <img src="/assets/img/flags/us.png" height="12.0" width="18"/> &nbsp; 
 The Devils <span style="color:darkgrey">&nbsp;&rsquo;71</span> <br>
-<img src="/assets/img/flags/soviet.png" height="12" width="18"/> &nbsp; 
+<img src="/assets/img/flags/su.png" height="12" width="18"/> &nbsp; 
 Агония <span style="color:darkgrey">&nbsp;&rsquo;81</span><br>
 <img src="/assets/img/flags/jp.png" height="12.6" width="18"/> <img src="/assets/img/flags/fr_li.png" height="12.5" width="18"/> &nbsp; 
 乱 <span style="color:darkgrey">&nbsp;&rsquo;85</span><br>
@@ -454,7 +454,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Edmund Meisel <span style="font-size:0.5em">&nbsp;</span>➠<span style="font-size:0.5em">&nbsp;</span> Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span><br>
 
 >[October (symphonic poem), Op. 131](https://youtu.be/gIorDIfjgm8) <br> 
->Московский государственный симфонический оркестр <span style="color:darkgrey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:darkgrey"> / Veronika Dudarova</span>&nbsp; [1982 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
+>Московский государственный симфонический оркестр <span style="color:darkgrey">/ Moscow State Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Вероника Дударова<span style="color:darkgrey"> / Veronika Dudarova</span>&nbsp; [1982 &nbsp;<img src="/assets/img/flags/su.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 <br>
 
@@ -465,7 +465,7 @@ Evil Under the Sun <span style="color:darkgrey">&nbsp;&rsquo;82</span><br>
 🎼 &nbsp; Дмитрий Шостакович <span style="color:grey">/ Dmitri Shostakovich</span> <br>
 
 >[The New Babylon (suite), Op. 18](https://youtu.be/glvTzAp6arc?t=4) <br>
->Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span>&nbsp; [1975 &nbsp;<img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
+>Академический симфонический оркестр Московской государственной филармонии <span style="color:darkgrey">/ Moscow Philharmonic Orchestra</span> <span style="font-size:0.9em">·</span> Геннадий Рождественский<span style="color:darkgrey"> / Gennady Rozhdestvensky</span>&nbsp; [1975 &nbsp;<img src="/assets/img/flags/su.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 
 <br>
 
@@ -712,7 +712,7 @@ Malcolm Sargent / Muir Mathieson / Christopher Palmer
 
 
 >[The Battle of Stalingrad (1952 suite), Op. 74a](https://youtu.be/xXmaPoCIt-8) <br>
-> Симфонический оркестр Всесоюзного радио <span style="color:darkgrey">/ USSR Radio Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Арам Хачатурян <span style="color:darkgrey">/ Aram Khachaturian</span>&nbsp; [1952&nbsp; <img src="/assets/img/flags/soviet.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
+> Симфонический оркестр Всесоюзного радио <span style="color:darkgrey">/ USSR Radio Symphony Orchestra</span> <span style="font-size:0.9em">·</span> Арам Хачатурян <span style="color:darkgrey">/ Aram Khachaturian</span>&nbsp; [1952&nbsp; <img src="/assets/img/flags/su.png" height="12" width="18"/>&nbsp; Москва<span style="color:darkgrey">/Moscow</span>]
 >
 >
 >[The Battle of Stalingrad (1993 suite)](https://youtu.be/u0zEmdRM3SU) <br>
