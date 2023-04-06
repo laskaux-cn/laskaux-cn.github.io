@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 05 Apr 2023 12:28:22 -0400</pubDate>
+    <pubDate>Wed, 05 Apr 2023 23:34:05 -0400</pubDate>
     
       <item>
         <title>Waltzes</title>
@@ -165,7 +165,7 @@ PIERRE BOULEZ &lt;br /&gt;
 
 Orchestre de Paris &lt;br /&gt;
 JEAN MARTINON &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Salle Wagram, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974-10–11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Salle Wagram, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974-10/11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -177,7 +177,20 @@ JEAN MARTINON &lt;br /&gt;
         <title>Marches</title>
         <link>/2023/03/04/march.html</link>
         <guid isPermaLink="true">/2023/03/04/march.html</guid>
-        <description>&lt;p&gt;X  |  GIUSEPPE VERDI  (1871)&lt;/p&gt;
+        <description>&lt;p&gt;X  |  MARC-ANTOINE CHARPENTIER  &lt;nobr&gt;(1688–1698)&lt;/nobr&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;te-deum--h-146--i-prélude&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;&lt;em&gt;Te Deum&lt;/em&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt; &lt;/span&gt;, H. 146 : I. Prélude&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/christie_te_deum.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Les Arts Florissants &lt;br /&gt;
+WILLIAM CHRISTIE &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Notre-Dame-du-Travail, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;X  |  GIUSEPPE VERDI  (1871)&lt;/p&gt;
 
 &lt;h4 id=&quot;aida--iiii-marcia-trionfale&quot;&gt;&lt;a href=&quot;https://youtu.be/VDSSPkM4Ds4?t=3791&quot;&gt;&lt;em&gt;Aida&lt;/em&gt; : II.ii. Marcia trionfale&lt;/a&gt;&lt;/h4&gt;
 
@@ -186,7 +199,7 @@ JEAN MARTINON &lt;br /&gt;
 
 Wiener Philharmoniker &lt;br /&gt;
 NIKOLAUS HARNONCOURT  &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Musikverein, &lt;nobr&gt;Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2001-01–04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Musikverein, &lt;nobr&gt;Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2001-01/04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -228,19 +241,6 @@ PIERRE BOULEZ &lt;br /&gt;
 Symphonieorchester des&amp;#160;Bayerischen&amp;#160;Rundfunks &lt;br /&gt;
 RAFAEL KUBELIK &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Herkulessaal, &lt;nobr&gt;München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1979-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;X  |  MARC-ANTOINE CHARPENTIER  &lt;nobr&gt;(1688–1698)&lt;/nobr&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;te-deum--h-146--i-prélude&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;&lt;em&gt;Te Deum&lt;/em&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt; &lt;/span&gt;, H. 146 : I. Prélude&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/christie_te_deum.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Les Arts Florissants &lt;br /&gt;
-WILLIAM CHRISTIE &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Notre-Dame-du-Travail, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
