@@ -8,7 +8,7 @@ tags: music
 ---
 
 
-38 &nbsp;\|&nbsp; WILLIAM CALLOW &nbsp;(1855)
+36 &nbsp;\|&nbsp; WILLIAM CALLOW &nbsp;(1855)
 
 #### [Corso Sant' Anastasia with the Palazzo Maffei in Verona](https://www.nga.gov/collection/art-object-page.163356.html)
 
@@ -21,7 +21,7 @@ tags: music
 <br>
 
 
-37 &nbsp;\|&nbsp; FERDINANDO GALLI DA BIBIENA &nbsp;(<u>1720/40</u>)
+35 &nbsp;\|&nbsp; FERDINANDO GALLI DA BIBIENA &nbsp;(<u>1720/40</u>)
 
 #### [A Grand Illusionistic Ceiling](https://www.nga.gov/collection/art-object-page.90163.html)
 
@@ -34,7 +34,7 @@ tags: music
 <br>
 
 
-36 &nbsp;\|&nbsp; JEAN-BAPTISTE PATER &nbsp;(<u>1730/35</u>)
+34 &nbsp;\|&nbsp; JEAN-BAPTISTE PATER &nbsp;(<u>1730/35</u>)
 
 #### [On the Terrace](https://www.nga.gov/collection/art-object-page.43320.html)
 
@@ -48,11 +48,11 @@ tags: music
 
 
 
-35 &nbsp;\|&nbsp; JOHAN CHRISTIAN DAHL &nbsp;(1827)
+33 &nbsp;\|&nbsp; JOHAN CHRISTIAN DAHL &nbsp;(1827)
 
 #### [View from Vaekero near Christiania](https://www.nga.gov/collection/art-object-page.110104.html)
 
-**时期**：挪威浪漫主义 <br>
+**时期**：挪威浪漫民族主义 <br>
 **展位**：91 厅北墙
 
 <img src="/assets/img/museums/NGA/dahl.jpeg" width="1200"> <br>
@@ -62,7 +62,7 @@ tags: music
 
 
 
-34 &nbsp;\|&nbsp; AMEDEO MODIGLIANI &nbsp;(<u>1911/12</u>)
+32 &nbsp;\|&nbsp; AMEDEO MODIGLIANI &nbsp;(<u>1911/12</u>)
 
 #### [Head of a Woman](https://www.nga.gov/collection/art-object-page.46716.html)
 
@@ -76,7 +76,7 @@ tags: music
 
 
 
-33 &nbsp;\|&nbsp; ADAM VAN BREEN &nbsp;(1611)
+31 &nbsp;\|&nbsp; ADAM VAN BREEN &nbsp;(1611)
 
 #### [Skating on the Frozen Amstel River](https://www.nga.gov/collection/art-object-page.150754.html)
 
@@ -90,7 +90,7 @@ tags: music
 
 
 
-32 &nbsp;\|&nbsp; ANNE-LOUIS GIRODET &nbsp;(1786)
+30 &nbsp;\|&nbsp; ANNE-LOUIS GIRODET &nbsp;(1786)
 
 #### [Coriolanus Taking Leave of His Family](https://www.nga.gov/collection/art-object-page.221207.html)
 
@@ -104,7 +104,7 @@ tags: music
 
 
 
-31 &nbsp;\|&nbsp; THOMAS GAINSBOROUGH &nbsp;(<u>1873/74</u>)
+29 &nbsp;\|&nbsp; THOMAS GAINSBOROUGH &nbsp;(<u>1873/74</u>)
 
 #### [Mountain Landscape with Bridge](https://www.nga.gov/collection/art-object-page.114.html)
 
@@ -118,7 +118,21 @@ tags: music
 
 
 
-30 &nbsp;\|&nbsp; JAN STEEN &nbsp;(1663)
+28 &nbsp;\|&nbsp; BERNARDINO LUINI &nbsp;(<u>1510</u>)
+
+#### [Story of Procris and Cephalus](https://www.nga.gov/collection/artist-info.1497.html)
+
+**时期**：意大利文艺复兴（米兰）<br>
+**展位**：16 厅
+
+<img src="/assets/img/museums/NGA/luini.jpeg" width="1200"> <br>
+
+
+<br>
+
+
+
+27 &nbsp;\|&nbsp; JAN STEEN &nbsp;(1663)
 
 #### [The Dancing Couple](https://www.nga.gov/collection/art-object-page.1220.html)
 
@@ -131,21 +145,22 @@ tags: music
 <br>
 
 
-29 &nbsp;\|&nbsp; LUCAS CRANACH DER ÄLTERE &nbsp;(1522)
 
-#### [Portrait of a Man](https://www.nga.gov/collection/art-object-page.45886.html)
+26 &nbsp;\|&nbsp; JOOS VAN CLEVE &nbsp;(<u>1518</u>)
 
-**时期**：北方文艺复兴（德国）<br>
-**展位**：35 厅南墙
+#### [Joris Vezeleer & Margaretha Boghe](https://www.nga.gov/collection/artist-info.1146.html#works)
 
-<img src="/assets/img/museums/NGA/cranach.jpeg" width="1200"> <br>
+**时期**：北方文艺复兴（尼德兰）<br>
+**展位**：41A 厅北墙
+
+<img src="/assets/img/museums/NGA/van-cleve.jpeg" width="1200"> <br>
 
 
 <br>
 
 
 
-28 &nbsp;\|&nbsp; PIETRO PERUGINO &nbsp;(<u>1500</u>)
+25 &nbsp;\|&nbsp; PIETRO PERUGINO &nbsp;(<u>1500</u>)
 
 #### [Madonna and Child](https://www.nga.gov/collection/art-object-page.356.html)
 
@@ -159,21 +174,7 @@ tags: music
 
 
 
-
-27 &nbsp;\|&nbsp; JOOS VAN CLEVE &nbsp;(<u>1518</u>)
-
-#### [Joris Vezeleer & Margaretha Boghe](https://www.nga.gov/collection/artist-info.1146.html#works)
-
-**时期**：北方文艺复兴（尼德兰）<br>
-**展位**：41A 厅北墙
-
-<img src="/assets/img/museums/NGA/van-cleve.jpeg" width="1200"> <br>
-
-
-<br>
-
-
-26 &nbsp;\|&nbsp; THÉODORE GERICAULT &nbsp;(1816)
+24 &nbsp;\|&nbsp; THÉODORE GERICAULT &nbsp;(1816)
 
 #### [Nude Warrior with a Spear](https://www.nga.gov/collection/art-object-page.46504.html)
 
@@ -187,7 +188,7 @@ tags: music
 
 
 
-25 &nbsp;\|&nbsp; CANALETTO &nbsp;(1742/44)
+23 &nbsp;\|&nbsp; CANALETTO &nbsp;(1742/44)
 
 #### [The Square of Saint Mark's, Venice](https://www.nga.gov/collection/art-object-page.32588.html)
 
@@ -195,33 +196,6 @@ tags: music
 **展位**：31 厅东墙
 
 <img src="/assets/img/museums/NGA/canaletto.jpeg" width="1200"> <br>
-
-
-<br>
-
-
-24 &nbsp;\|&nbsp; PAUL CÉZANNE &nbsp;(1888–90)
-
-#### [Boy in a Red Waistcoat](https://www.nga.gov/collection/art-object-page.93044.html)
-
-**时期**：法国后印象/现代主义 <br>
-**展位**：84 厅东墙
-
-<img src="/assets/img/museums/NGA/cezanne.jpeg" width="1200"> <br>
-
-
-<br>
-
-
-
-23 &nbsp;\|&nbsp; BERNARDINO LUINI &nbsp;(<u>1510</u>)
-
-#### [Story of Procris and Cephalus](https://www.nga.gov/collection/artist-info.1497.html)
-
-**时期**：意大利文艺复兴（米兰）<br>
-**展位**：16 厅
-
-<img src="/assets/img/museums/NGA/luini.jpeg" width="1200"> <br>
 
 
 <br>
@@ -242,7 +216,21 @@ tags: music
 
 
 
-21 &nbsp;\|&nbsp; TITIAN &nbsp;(<u>1550</u>)
+21 &nbsp;\|&nbsp; TILMAN RIEMENSCHNEIDER &nbsp;(<u>1515/20</u>)
+
+#### [A Bishop Saint](https://www.nga.gov/collection/art-object-page.46081.html)
+
+**时期**：北方文艺复兴（德国）<br>
+**展位**：35 厅北墙
+
+<img src="/assets/img/museums/NGA/riemenschneider.jpeg" width="1200"> <br>
+
+
+<br>
+
+
+
+20 &nbsp;\|&nbsp; TITIAN &nbsp;(<u>1550</u>)
 
 #### [Woman Holding an Apple](https://www.nga.gov/collection/art-object-page.435.html)
 
@@ -256,7 +244,7 @@ tags: music
 
 
 
-20 &nbsp;\|&nbsp; VINCENT VAN GOGH &nbsp;(1889)
+19 &nbsp;\|&nbsp; VINCENT VAN GOGH &nbsp;(1889)
 
 #### [Self-Portrait](https://www.nga.gov/collection/art-object-page.106382.html)
 
@@ -264,20 +252,6 @@ tags: music
 **展位**：83 厅西墙
 
 <img src="/assets/img/museums/NGA/van-gogh.jpeg" width="1200"> <br>
-
-
-<br>
-
-
-
-19 &nbsp;\|&nbsp; GIORGIONE &nbsp;(1505/10)
-
-#### [The Adoration of the Shepherds](https://www.nga.gov/collection/art-object-page.432.html)
-
-**时期**：意大利文艺复兴（威尼斯）<br>
-**展位**：G19 厅西墙
-
-<img src="/assets/img/museums/NGA/giorgione.jpeg" width="1200"> <br>
 
 
 <br>
@@ -313,17 +287,18 @@ tags: music
 
 
 
-16 &nbsp;\|&nbsp; TILMAN RIEMENSCHNEIDER &nbsp;(<u>1515/20</u>)
+16 &nbsp;\|&nbsp; GIORGIONE &nbsp;(1505/10)
 
-#### [A Bishop Saint](https://www.nga.gov/collection/art-object-page.46081.html)
+#### [The Adoration of the Shepherds](https://www.nga.gov/collection/art-object-page.432.html)
 
-**时期**：北方文艺复兴（德国）<br>
-**展位**：35 厅北墙
+**时期**：意大利文艺复兴（威尼斯）<br>
+**展位**：G19 厅西墙
 
-<img src="/assets/img/museums/NGA/riemenschneider.jpeg" width="1200"> <br>
+<img src="/assets/img/museums/NGA/giorgione.jpeg" width="1200"> <br>
 
 
 <br>
+
 
 
 15 &nbsp;\|&nbsp; JUSEPE DE RIBERA &nbsp;(1634)
