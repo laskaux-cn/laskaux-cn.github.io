@@ -52,7 +52,7 @@ tags: music
 
 #### [View from Vaekero near Christiania](https://www.nga.gov/collection/art-object-page.110104.html)
 
-**时期**：挪威浪漫民族主义 <br>
+**时期**：挪威浪漫主义 <br>
 **展位**：91 厅北墙
 
 <img src="/assets/img/museums/NGA/dahl.jpeg" width="1200"> <br>
