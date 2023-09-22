@@ -258,22 +258,8 @@ tags: music
 
 
 
-18 &nbsp;\|&nbsp; AUGUSTE RODIN &nbsp;(1875/76)
 
-#### [L'Âge d'airain](https://www.nga.gov/collection/art-object-page.73868.html)
-
-**时期**：法国浪漫主义 <br>
-**展位**：G43 厅西侧
-
-<img src="/assets/img/museums/NGA/rodin.jpeg" width="1200"> <br>
-
-
-<br>
-
-
-
-
-17 &nbsp;\|&nbsp; EMANUEL DE WITTE &nbsp;(<u>1660</u>)
+18 &nbsp;\|&nbsp; EMANUEL DE WITTE &nbsp;(<u>1660</u>)
 
 #### [The Interior of the Oude Kerk, Amsterdam](https://www.nga.gov/collection/art-object-page.130808.html)
 
@@ -281,6 +267,20 @@ tags: music
 **展位**：47 厅东墙
 
 <img src="/assets/img/museums/NGA/de-witte.jpeg" width="1200"> <br>
+
+
+<br>
+
+
+
+17 &nbsp;\|&nbsp; AUGUSTE RODIN &nbsp;(1875/76)
+
+#### [L'Âge d'airain](https://www.nga.gov/collection/art-object-page.73868.html)
+
+**时期**：法国浪漫主义 <br>
+**展位**：G43 厅西侧
+
+<img src="/assets/img/museums/NGA/rodin.jpeg" width="1200"> <br>
 
 
 <br>
