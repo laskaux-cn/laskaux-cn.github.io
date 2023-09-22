@@ -28,7 +28,7 @@ JEAN MARTINON
 #### [_Der Rosenkavalier_ : Walzerfolge № 1](https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2)
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/maazel_zarathustra.png" width="800"> <br>
+<img src="/assets/img/albums/bolmstedt_rosenkavalier.png" width="800"> <br>
 
 Gewandhausorchester Leipzig <br>
 HERBERT BLOMSTEDT 
@@ -71,6 +71,21 @@ London Symphony Orchestra <br>
 AARON COPLAND 
 <br>
 <span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1968-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+> <p style="color:black">1.5 &nbsp; |&nbsp; ALBAN BERG &nbsp;(1925) </p>
+> #### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
+> <p style="text-align:center; color:grey">
+> <img src="/assets/img/albums/metzmacher_wozzeck.png" width="800"> <br>
+> Philharmonisches Staatorchester Hamburg <br>
+> INGO METZMACHER
+> <br>
+> <span style="font-size:0.87em">(Hamburgische Staatsoper, <nobr>Hamburg 
+> &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 
+> 1998-09/10)</nobr> </span> </p>
 
 <br>
 
