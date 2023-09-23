@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. 音乐的维度
+title: (一)&nbsp; 音乐的维度
 subtitle: 
 excerpt: ♬&nbsp; <br>
 
