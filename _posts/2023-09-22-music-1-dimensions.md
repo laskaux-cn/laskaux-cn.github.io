@@ -76,16 +76,18 @@ AARON COPLAND
 
 
 
-> <p style="color:black">1.5 &nbsp; |&nbsp; ALBAN BERG &nbsp;(1925) </p>
-> #### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
-> <p style="text-align:center; color:grey">
+1.5&nbsp; \|&nbsp; ALBAN BERG &nbsp;(1925) <br> 
+
+#### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
+
+> <p style="text-align:center">
 > <img src="/assets/img/albums/metzmacher_wozzeck.png" width="800"> <br>
 > Philharmonisches Staatorchester Hamburg <br>
 > INGO METZMACHER
 > <br>
 > <span style="font-size:0.87em">(Hamburgische Staatsoper, <nobr>Hamburg 
 > &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 
-> 1998-09/10)</nobr> </span> </p>
+> 1998-09/10)</nobr> </span> </p> 
 
 <br>
 

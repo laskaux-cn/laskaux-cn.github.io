@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 22 Sep 2023 16:58:05 -0700</pubDate>
+    <pubDate>Fri, 22 Sep 2023 17:18:31 -0700</pubDate>
     
       <item>
         <title>Marches</title>
@@ -71,10 +71,12 @@ AARON COPLAND
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;1.5  |  ALBAN BERG  (1925) &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wozzeck--iiiv-scherzo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;&lt;em&gt;Wozzeck&lt;/em&gt; : II.iv. Scherzo&lt;/a&gt;&lt;/h4&gt;
+
 &lt;blockquote&gt;
-  &lt;p style=&quot;color:black&quot;&gt;1.5 &amp;nbsp; |&amp;nbsp; ALBAN BERG &amp;nbsp;(1925) &lt;/p&gt;
-  &lt;h4 id=&quot;wozzeck--iiiv-scherzo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;&lt;em&gt;Wozzeck&lt;/em&gt; : II.iv. Scherzo&lt;/a&gt;&lt;/h4&gt;
-  &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+  &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/metzmacher_wozzeck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 Philharmonisches Staatorchester Hamburg &lt;br /&gt;
 INGO METZMACHER
