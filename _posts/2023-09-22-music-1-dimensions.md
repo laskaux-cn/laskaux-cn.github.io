@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marches
+title: 1. 音乐的维度
 subtitle: 
 excerpt: ♬&nbsp; <br>
 
@@ -8,6 +8,7 @@ tags: music
 ---
 
 1.1 &nbsp;\|&nbsp; MAURICE RAVEL &nbsp;(1920)
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_La valse_](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
 
@@ -24,6 +25,7 @@ JEAN MARTINON
 
 
 1.2 &nbsp;\|&nbsp; RICHARD STRAUSS &nbsp;(1911/44)
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_Der Rosenkavalier_ : Walzerfolge № 1](https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2)
 
@@ -42,6 +44,7 @@ HERBERT BLOMSTEDT
 
 
 1.3 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [Симфония № 5 : II. Allegretto](https://www.youtube.com/watch?v=Avt-KOQy1mo&t=907s)
 
@@ -60,9 +63,9 @@ HERBERT BLOMSTEDT
 
 
 1.4 &nbsp;\|&nbsp; AARON COPLAND &nbsp;(1942)
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_Rodeo_ : IV. &lsquo;&lsquo;Saturday Night Waltz''](https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s)
-
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/copland_rodeo.png" width="800"> <br>
@@ -77,26 +80,27 @@ AARON COPLAND
 
 
 1.5&nbsp; \|&nbsp; ALBAN BERG &nbsp;(1925) <br> 
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
 
-> <p style="text-align:center">
-> <img src="/assets/img/albums/metzmacher_wozzeck.png" width="800"> <br>
-> Philharmonisches Staatorchester Hamburg <br>
-> INGO METZMACHER
-> <br>
-> <span style="font-size:0.87em">(Hamburgische Staatsoper, <nobr>Hamburg 
-> &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 
-> 1998-09/10)</nobr> </span> </p> 
+<p style="text-align:center">
+<img src="/assets/img/albums/metzmacher_wozzeck.png" width="800"> <br>
+Philharmonisches Staatorchester Hamburg <br>
+INGO METZMACHER
+<br>
+<span style="font-size:0.87em">(Hamburgische Staatsoper, <nobr>Hamburg 
+&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 
+1998-09/10)</nobr> </span> </p> 
 
 <br>
 
 
 
 1.6 &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/98)</nobr>
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_Te Deum_<span style="font-size:0.2em"> </span>, H. 146 : I. Prélude](https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2)
-
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/christie_te_deum.png" width="800"> <br>
@@ -111,9 +115,9 @@ WILLIAM CHRISTIE
 
 
 1.7 &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
+<p style="margin-bottom:-0.6em"> </p>
 
 #### [_Symphonie fantastique_ : IV. &lsquo;&lsquo;Marche au supplice''](https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4)
-
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/munch_sym_fantas.png" width="800"> <br>
@@ -131,8 +135,9 @@ CHARLES MUNCH
 
 1.8 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
 
-#### [_L'Histoire du soldat_ : II. &lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
+<p style="margin-bottom:-0.6em"> </p>
 
+#### [_L'Histoire du soldat_ : II. &lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/markevitch_soldat.png" width="800"> <br>
