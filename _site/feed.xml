@@ -5,10 +5,10 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 22 Sep 2023 19:31:08 -0700</pubDate>
+    <pubDate>Sun, 24 Sep 2023 10:51:09 -0400</pubDate>
     
       <item>
-        <title>(一)&amp;nbsp; 音乐的维度</title>
+        <title>音乐笔记 1 &amp;colon; 音乐的维度</title>
         <link>/2023/09/22/music-1-dimensions.html</link>
         <guid isPermaLink="true">/2023/09/22/music-1-dimensions.html</guid>
         <description>&lt;p&gt;1.1  |  MAURICE RAVEL  (1920)&lt;/p&gt;
@@ -26,7 +26,7 @@ JEAN MARTINON
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.2  |  RICHARD STRAUSS  (1911/44)&lt;/p&gt;
+&lt;p&gt;1.2  |  RICHARD STRAUSS  (1911/1944)&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;der-rosenkavalier--walzerfolge--1&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7PP5cMyts58&amp;amp;list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&amp;amp;index=2&quot;&gt;&lt;em&gt;Der Rosenkavalier&lt;/em&gt; : Walzerfolge № 1&lt;/a&gt;&lt;/h4&gt;
@@ -75,12 +75,12 @@ AARON COPLAND
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.5  |  ALBAN BERG  (1925) &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;1.5  |  ALBAN BERG  (1925) &lt;br /&gt;&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;wozzeck--iiiv-scherzo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;&lt;em&gt;Wozzeck&lt;/em&gt; : II.iv. Scherzo&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/metzmacher_wozzeck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 Philharmonisches Staatorchester Hamburg &lt;br /&gt;
 INGO METZMACHER
@@ -91,7 +91,7 @@ INGO METZMACHER
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.6  |  MARC-ANTOINE CHARPENTIER  &lt;nobr&gt;(1688/98)&lt;/nobr&gt;&lt;/p&gt;
+&lt;p&gt;1.6  |  MARC-ANTOINE CHARPENTIER  &lt;nobr&gt;(1688/1698)&lt;/nobr&gt;&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;te-deum--h-146--i-prélude&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;&lt;em&gt;Te Deum&lt;/em&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt; &lt;/span&gt;, H. 146 : I. Prélude&lt;/a&gt;&lt;/h4&gt;
@@ -124,7 +124,6 @@ CHARLES MUNCH
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;1.8  |  ИГОРЬ СТРАВИНСКИЙ  (1917)&lt;/p&gt;
-
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;lhistoire-du-soldat--ii-marche-royale&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;&lt;em&gt;L’Histoire du soldat&lt;/em&gt; : II. ‘‘Marche royale’’&lt;/a&gt;&lt;/h4&gt;
@@ -148,8 +147,50 @@ CHARLES MUNCH
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;1.9  |  LUDWIG VAN BEETHOVEN  (1812)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sinfonie--7--ii-allegretto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=93IOV96WHqw&amp;amp;t=943s&quot;&gt;Sinfonie № 7 : II. Allegretto&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/aureum_beethoven7.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Collegium Aureum &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Zedernsaal, Schloss Kirchheim, &lt;nobr&gt;Schwaben &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1981-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.10  |  GUSTAV MAHLER  (1888)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sinfonie--1--iii-feierlich-und-gemessen-ohne-zu-schleppen&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;Sinfonie № 1 : III. Feierlich und gemessen, ohne zu schleppen&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/kubelik_mahler.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Symphonieorchester des&amp;#160;Bayerischen&amp;#160;Rundfunks &lt;br /&gt;
+RAFAEL KUBELIK &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Herkulessaal, &lt;nobr&gt;München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1979-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.11  |  ANTON WEBERN  (1909)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;6-stücke-für-grosses-orchester--iv-langsam&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dd-pdxOYQOc&amp;amp;list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&amp;amp;index=9&quot;&gt;6 Stücke für grosses Orchester : IV. Langsam&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rattle_webern.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+City of Birmingham Symphony Orchestra &lt;br /&gt;
+SIMON RATTLE 
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Warwick Arts Centre, &lt;nobr&gt;Coventry &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-12/1988-04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Fri, 22 Sep 2023 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 22 Sep 2023 00:00:00 -0400</pubDate>
       </item>
     
   </channel>
