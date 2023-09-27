@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 24 Sep 2023 10:51:09 -0400</pubDate>
+    <pubDate>Wed, 27 Sep 2023 01:42:04 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 音乐的维度</title>
@@ -17,7 +17,7 @@
 &lt;h4 id=&quot;la-valse&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;&lt;em&gt;La valse&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/martinon_la_valse.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/martinon-la-valse.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Orchestre de Paris &lt;br /&gt;
 JEAN MARTINON 
@@ -32,7 +32,7 @@ JEAN MARTINON
 &lt;h4 id=&quot;der-rosenkavalier--walzerfolge--1&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7PP5cMyts58&amp;amp;list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&amp;amp;index=2&quot;&gt;&lt;em&gt;Der Rosenkavalier&lt;/em&gt; : Walzerfolge № 1&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/bolmstedt_rosenkavalier.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/bolmstedt-rosenkavalier.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Gewandhausorchester Leipzig &lt;br /&gt;
 HERBERT BLOMSTEDT 
@@ -49,7 +49,7 @@ HERBERT BLOMSTEDT
 &lt;h4 id=&quot;симфония--5--ii-allegretto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Avt-KOQy1mo&amp;amp;t=907s&quot;&gt;Симфония № 5 : II. Allegretto&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/mravinsky_shostakovich5.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/mravinsky-shostakovich5.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Симфонический оркестр Ленинградской Государственной Филармонии &lt;br /&gt;
 ЕВГЕНИЙ МРАВИНСКИЙ 
@@ -66,7 +66,7 @@ HERBERT BLOMSTEDT
 &lt;h4 id=&quot;rodeo--iv-saturday-night-waltz&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ZHeauV0fOA&amp;amp;t=697s&quot;&gt;&lt;em&gt;Rodeo&lt;/em&gt; : IV. ‘‘Saturday Night Waltz’’&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/copland_rodeo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/copland-copland.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 London Symphony Orchestra &lt;br /&gt;
 AARON COPLAND 
@@ -81,7 +81,7 @@ AARON COPLAND
 &lt;h4 id=&quot;wozzeck--iiiv-scherzo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;&lt;em&gt;Wozzeck&lt;/em&gt; : II.iv. Scherzo&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/metzmacher_wozzeck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/metzmacher-wozzeck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 Philharmonisches Staatorchester Hamburg &lt;br /&gt;
 INGO METZMACHER
 &lt;br /&gt;
@@ -97,7 +97,7 @@ INGO METZMACHER
 &lt;h4 id=&quot;te-deum--h-146--i-prélude&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;&lt;em&gt;Te Deum&lt;/em&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt; &lt;/span&gt;, H. 146 : I. Prélude&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/christie_te_deum.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/christie-te-deum.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Les Arts Florissants &lt;br /&gt;
 WILLIAM CHRISTIE 
@@ -112,7 +112,7 @@ WILLIAM CHRISTIE
 &lt;h4 id=&quot;symphonie-fantastique--iv-marche-au-supplice&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;&lt;em&gt;Symphonie fantastique&lt;/em&gt; : IV. ‘‘Marche au supplice’’&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/munch_sym_fantas.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/munch-sym-fantas.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Boston Symphony Orchestra &lt;br /&gt;
 CHARLES MUNCH 
@@ -129,7 +129,7 @@ CHARLES MUNCH
 &lt;h4 id=&quot;lhistoire-du-soldat--ii-marche-royale&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;&lt;em&gt;L’Histoire du soldat&lt;/em&gt; : II. ‘‘Marche royale’’&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/markevitch_soldat.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/markevitch-soldat.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 &lt;nobr&gt;Manoug Parikian &lt;/nobr&gt; /
 &lt;nobr&gt;Ulysse Delécluse &lt;/nobr&gt; /
@@ -153,7 +153,7 @@ CHARLES MUNCH
 &lt;h4 id=&quot;sinfonie--7--ii-allegretto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=93IOV96WHqw&amp;amp;t=943s&quot;&gt;Sinfonie № 7 : II. Allegretto&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/aureum_beethoven7.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/aureum-beethoven7.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Collegium Aureum &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Zedernsaal, Schloss Kirchheim, &lt;nobr&gt;Schwaben &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1981-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -166,7 +166,7 @@ Collegium Aureum &lt;br /&gt;
 &lt;h4 id=&quot;sinfonie--1--iii-feierlich-und-gemessen-ohne-zu-schleppen&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;Sinfonie № 1 : III. Feierlich und gemessen, ohne zu schleppen&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/kubelik_mahler.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/kubelik-mahler1.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Symphonieorchester des&amp;#160;Bayerischen&amp;#160;Rundfunks &lt;br /&gt;
 RAFAEL KUBELIK &lt;br /&gt;
@@ -180,12 +180,51 @@ RAFAEL KUBELIK &lt;br /&gt;
 &lt;h4 id=&quot;6-stücke-für-grosses-orchester--iv-langsam&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dd-pdxOYQOc&amp;amp;list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&amp;amp;index=9&quot;&gt;6 Stücke für grosses Orchester : IV. Langsam&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/rattle_webern.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/rattle-webern.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 City of Birmingham Symphony Orchestra &lt;br /&gt;
 SIMON RATTLE 
 &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Warwick Arts Centre, &lt;nobr&gt;Coventry &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-12/1988-04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Warwick Arts Centre, &lt;nobr&gt;Coventry &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-12/&amp;#8203;1988-04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.X  |  ANTONIO VIVALDI  (1705)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sonata-in-re-minore-per-2-violini-e-basso-continuo-op-1--12-rv-63&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/lestravagante-vivaldi.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+L’Estravagante &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Studio Giardino, &lt;nobr&gt;Crema &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.X  |  JOHANN SEBASTIAN BACH  (1741)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;goldberg-variationen--xxx-quodlibet&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JEofuLMeGX0&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=31&quot;&gt;&lt;em&gt;Goldberg-Variationen&lt;/em&gt; : XXX. Quodlibet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/frisch-goldberg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Céline Frisch &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Chapelle de l’hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr_li.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.X  |  DOMENICO SCARLATTI  (1742)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sonata-in-si-minore-per-tastiera&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lYJkr3NKefA&amp;amp;list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&amp;amp;index=15&quot;&gt;Sonata in si minore per tastiera&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/staier-scarlatti.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Andreas Staier &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Kulturzentrum, &lt;nobr&gt;Lindlar &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991-02)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
