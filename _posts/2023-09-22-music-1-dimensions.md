@@ -169,7 +169,7 @@ CHARLES MUNCH
 <img src="/assets/img/albums/aureum-beethoven7.png" width="800"> <br>
 
 Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim, <nobr>Schwaben &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1981-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1981-06)</nobr> </span> </p> 
 
 <br>
 
@@ -207,22 +207,8 @@ SIMON RATTLE
 <span style="font-size:0.87em">(Warwick Arts Centre, <nobr>Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1987-12/&#8203;1988-04)</nobr> </span> </p> 
 
 <br>
+<br><br>
 
-
-
-1.X &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
-
-L’Estravagante <br>
-<span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
-
-<br>
 
 
 
@@ -236,7 +222,7 @@ L’Estravagante <br>
 <img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
 
 Céline Frisch <br>
-<span style="font-size:0.87em">(Chapelle de l’hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
 
 <br>
 
@@ -253,6 +239,56 @@ Céline Frisch <br>
 
 Andreas Staier <br>
 <span style="font-size:0.87em">(Kulturzentrum, <nobr>Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1991-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+1.X &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
+
+L'Estravagante <br>
+<span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+1.X &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Suite en la mineur, RCT 5: VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pinnock-rameau.png" width="800"> <br>
+
+Trevor Pinnock <br>
+<span style="font-size:0.87em">(音楽の友ホール, <nobr>東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983-11)</nobr> </span> </p> 
+
+<br>
+<br> <br>
+
+
+1.X &nbsp;\|&nbsp; JOHN DOWLAND &nbsp;(1580/1590s)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Melancholy Galliard_](https://www.youtube.com/watch?v=y5XdgnPJJ_A&list=OLAK5uy_lyxNN-aFqnYDqF1fZ5kl1sdt9IQ_RNHOg&index=11)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bream-dowland.png" width="800"> <br>
+
+Julian Bream <br>
+<span style="font-size:0.87em">(Mozart-Saal, Konzerthaus, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1956-05)</nobr> </span> </p> 
 
 <br>
 
