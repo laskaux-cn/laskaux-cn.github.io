@@ -109,7 +109,7 @@ INGO METZMACHER
 Les Arts Florissants <br>
 WILLIAM CHRISTIE 
 <br>
-<span style="font-size:0.87em">(Église Notre-Dame-du-Travail, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Notre-Dame du Travail, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
 
 <br>
 
@@ -214,13 +214,14 @@ SIMON RATTLE
 1.12 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1735)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Ariodante_ : II.iii. &lsquo;&lsquo;Scherza infida''](https://www.youtube.com/watch?v=xy7QsSWdHYQ&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=40), [III.ii. &lsquo;&lsquo;Neghittosi, or voi che fate''](https://www.youtube.com/watch?v=VF0Lt_25Xv0&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=61), & [III.viii &lsquo;&lsquo;Dopo notte''](https://www.youtube.com/watch?v=4uNMq4HUi7M&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=71)
+#### [_Ariodante_ : II.iii. &lsquo;&lsquo;Scherza infida''](https://www.youtube.com/watch?v=xy7QsSWdHYQ&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=40),<span style="font-size:0.4em">&nbsp;</span> [III.ii. &lsquo;&lsquo;Neghittosi, or voi che fate''](https://www.youtube.com/watch?v=VF0Lt_25Xv0&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=61) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [III.viii. &lsquo;&lsquo;Dopo notte''](https://www.youtube.com/watch?v=4uNMq4HUi7M&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=71)
 
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/minkowski-ariodante.png" width="800"> <br>
 
-Anne Sofie von Otter / Verónica Cangemi <br>
+<nobr> Anne Sofie von Otter </nobr> / 
+<nobr> Verónica Cangemi </nobr> <br>
 Les Musiciens du Louvre <br>
 MARC MINSKOWSKI 
 <br>
@@ -233,7 +234,7 @@ MARC MINSKOWSKI
 1.13 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Goldberg-Variationen_ : XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
+#### [_Goldberg-Variationen_ : XXV. Adagio](https://www.youtube.com/watch?v=rLQBBK45amQ&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=26) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
 
 
 <p style="text-align:center; color:grey">
@@ -265,7 +266,7 @@ Andreas Staier <br>
 1.15 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Suite en la mineur, RCT 5: I. Allemande](https://www.youtube.com/watch?v=dKZQdfqzZ6M&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=30) & [VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
+#### [Suite en la mineur, RCT 5: I. Allemande](https://www.youtube.com/watch?v=dKZQdfqzZ6M&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=30) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
 
 
 <p style="text-align:center; color:grey">
@@ -294,11 +295,6 @@ L'Estravagante <br>
 
 
 
-
-
-
-
-
 1.X &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
 <p style="margin-bottom:-0.6em"> </p>
 
@@ -314,6 +310,23 @@ Lorenz Duftschmid / Thomas C. Boysen <br>
 
 <br>
 <br> <br>
+
+
+
+
+1.X &nbsp;\|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Tenebrae Responsories_ : XVII. &lsquo;&lsquo;Aestimatus sum''](https://www.youtube.com/watch?v=cscmDg7-XUI&list=OLAK5uy_ltmW239ijfTQ7impYGHOn_r29aqudK9EY&index=3)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
+
+Lluis Vich Vocalis <br>
+<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
+
+<br>
 
 
 
@@ -362,7 +375,7 @@ Julian Bream <br>
 Pygmalion <br>
 RAPHAËL PICHON
 <br>
-<span style="font-size:0.87em">(Chapelle royale, Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11) </span> </p> 
+<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
 
 <br>
 
@@ -371,18 +384,18 @@ RAPHAËL PICHON
 1.X &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_L'Orfeo_ : Toccata](https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=1) & [I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
+#### [_L&apos;Orfeo_ : Toccata](https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=1) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
 
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/haim-orfeo.png" width="800"> <br>
 
 European Voices <br>
-Les Sacqueboutiers <br>
 Le Concert d'Astrée <br>
+Les Sacqueboutiers <br>
 EMMANUELLE HAÏM 
 <br>
-<span style="font-size:0.87em">(Notre-Dame du Liban, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-01) </span> </p> 
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-01)</nobr> </span> </p> 
 
 <br>
 
@@ -397,11 +410,11 @@ EMMANUELLE HAÏM
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/garrido-dafne.png" width="800"> <br>
 
-Studio di musica antica &lsquo;&lsquo;Antonio Il Verso'' <br>
+Studio di musica antica &lsquo;&lsquo;Antonio Il Verso&rsquo;&rsquo; <br>
 Ensemble Elyma <br>
 GABRIEL GARRIDO
 <br>
-<span style="font-size:0.87em">(Oratorio dell'Immacolatella, Palermo &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1995-07) </span> </p> 
+<span style="font-size:0.87em">(Oratorio dell'Immacolatella, <nobr>Palermo &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1995-07)</nobr> </span> </p> 
 
 <br>
 
