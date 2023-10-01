@@ -19,7 +19,7 @@ tags: music
 Orchestre de Paris <br>
 JEAN MARTINON 
 <br>
-<span style="font-size:0.87em">(Salle Wagram, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1974-10/11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Salle Wagram, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1974-10/11)</nobr> </span> </p> 
 
 <br>
 
@@ -109,7 +109,7 @@ INGO METZMACHER
 Les Arts Florissants <br>
 WILLIAM CHRISTIE 
 <br>
-<span style="font-size:0.87em">(Église Notre-Dame-du-Travail, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Église Notre-Dame-du-Travail, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
 
 <br>
 
@@ -211,8 +211,26 @@ SIMON RATTLE
 
 
 
+1.12 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1735)
+<p style="margin-bottom:-0.6em"> </p>
 
-1.X &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+#### [_Ariodante_ : II.iii. &lsquo;&lsquo;Scherza infida''](https://www.youtube.com/watch?v=xy7QsSWdHYQ&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=40), [III.ii. &lsquo;&lsquo;Neghittosi, or voi che fate''](https://www.youtube.com/watch?v=VF0Lt_25Xv0&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=61), & [III.viii &lsquo;&lsquo;Dopo notte''](https://www.youtube.com/watch?v=4uNMq4HUi7M&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=71)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/minkowski-ariodante.png" width="800"> <br>
+
+Anne Sofie von Otter / Verónica Cangemi <br>
+Les Musiciens du Louvre <br>
+MARC MINSKOWSKI 
+<br>
+<span style="font-size:0.87em">(Salle Molière, <nobr>Poissy &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1997-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.13 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Goldberg-Variationen_ : XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
@@ -222,13 +240,13 @@ SIMON RATTLE
 <img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
 
 Céline Frisch <br>
-<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr_li.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
 
 <br>
 
 
 
-1.X &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+1.14 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in si minore per tastiera](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
@@ -244,8 +262,23 @@ Andreas Staier <br>
 
 
 
+1.15 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+<p style="margin-bottom:-0.6em"> </p>
 
-1.X &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+#### [Suite en la mineur, RCT 5: I. Allemande](https://www.youtube.com/watch?v=dKZQdfqzZ6M&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=30) & [VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rousset-rameau.png" width="800"> <br>
+
+Christophe Rousset <br>
+<span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1989-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.16 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
@@ -262,20 +295,43 @@ L'Estravagante <br>
 
 
 
-1.X &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+
+
+
+
+1.X &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Suite en la mineur, RCT 5: VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
+#### [_Les voix humaines_](https://www.youtube.com/watch?v=AUueJM-3ZRU&list=OLAK5uy_lJn-6xqHH6sFSvbho3rukGF8zHdgn_3w0&index=10)
 
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pinnock-rameau.png" width="800"> <br>
+<img src="/assets/img/albums/duftschmid-marais.png" width="800"> <br>
 
-Trevor Pinnock <br>
-<span style="font-size:0.87em">(音楽の友ホール, <nobr>東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983-11)</nobr> </span> </p> 
+Lorenz Duftschmid / Thomas C. Boysen <br>
+<span style="font-size:0.87em">(Walbach, <nobr>Münstertal &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2003-06)</nobr> </span> </p> 
+
 
 <br>
 <br> <br>
+
+
+
+
+1.X &nbsp;\|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Canzon per sonar primi toni, Ch. 170](https://www.youtube.com/watch?v=94mdn2v5T_0&list=PLGHi1F2Acw0-ApSfq99EjAS3NBVKaCcFp&index=1)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pifarescha-venice.png" width="800"> <br>
+
+La Pifarescha <br>
+<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
+
+<br>
+
 
 
 1.X &nbsp;\|&nbsp; JOHN DOWLAND &nbsp;(1580/1590s)
@@ -294,6 +350,59 @@ Julian Bream <br>
 
 
 
+1.X &nbsp;\|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+<p style="margin-bottom:-0.6em"> </p>
 
+#### [_La Pellegrina_ : IV.ii. &lsquo;&lsquo;Dal vago e bel sereno''](https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pichon-pellegrina.png" width="800"> <br>
+
+Pygmalion <br>
+RAPHAËL PICHON
+<br>
+<span style="font-size:0.87em">(Chapelle royale, Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11) </span> </p> 
+
+<br>
+
+
+
+1.X &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_L'Orfeo_ : Toccata](https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=1) & [I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haim-orfeo.png" width="800"> <br>
+
+European Voices <br>
+Les Sacqueboutiers <br>
+Le Concert d'Astrée <br>
+EMMANUELLE HAÏM 
+<br>
+<span style="font-size:0.87em">(Notre-Dame du Liban, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-01) </span> </p> 
+
+<br>
+
+
+
+1.X &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_La Dafne_ : I.v. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/garrido-dafne.png" width="800"> <br>
+
+Studio di musica antica &lsquo;&lsquo;Antonio Il Verso'' <br>
+Ensemble Elyma <br>
+GABRIEL GARRIDO
+<br>
+<span style="font-size:0.87em">(Oratorio dell'Immacolatella, Palermo &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1995-07) </span> </p> 
+
+<br>
 
 
