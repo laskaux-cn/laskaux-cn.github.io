@@ -323,7 +323,7 @@ Lorenz Duftschmid / Thomas C. Boysen <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
 
-Lluis Vich Vocalis <br>
+Lluís Vich Vocalis <br>
 <span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
 
 <br>
