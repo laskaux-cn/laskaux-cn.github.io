@@ -149,7 +149,7 @@ CHARLES MUNCH
 <nobr>Roland Schnorkh </nobr> /
 <nobr>Joachim Gut </nobr> /
 <nobr>Charles Peschier </nobr> <br>
-<span style="font-size:0.87em">(vn–cl–bn–crt–tbn–db–perc) </span> <br>
+<span style="font-size:0.87em">[vn–cl–bn–crt–tbn–db–perc] </span> <br>
 ИГОРЬ МАРКЕВИЧ 
 <br>
 <span style="font-size:0.87em">(Théâtre Le Reflet, <nobr>Vevey
@@ -207,47 +207,71 @@ SIMON RATTLE
 <span style="font-size:0.87em">(Warwick Arts Centre, <nobr>Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1987-12/&#8203;1988-04)</nobr> </span> </p> 
 
 <br>
-<br><br>
 
 
 
-1.12 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1735)
+1.12 &nbsp;\|&nbsp; Joseph Haydn &nbsp;(1793)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Ariodante_ : II.iii. &lsquo;&lsquo;Scherza infida''](https://www.youtube.com/watch?v=xy7QsSWdHYQ&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=40),<span style="font-size:0.4em">&nbsp;</span> [III.ii. &lsquo;&lsquo;Neghittosi, or voi che fate''](https://www.youtube.com/watch?v=VF0Lt_25Xv0&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=61) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [III.viii. &lsquo;&lsquo;Dopo notte''](https://www.youtube.com/watch?v=4uNMq4HUi7M&list=OLAK5uy_l93w_qsZoKN5FtSdYq20YIj1CruOWmUyo&index=71)
-
+#### [Streichquartett D-Dur, Op. 1 № 12, Hob.III:63 : III. Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/minkowski-ariodante.png" width="800"> <br>
+<img src="/assets/img/albums/prazak-haydn.png" width="800"> <br>
 
-<nobr> Anne Sofie von Otter </nobr> / 
-<nobr> Verónica Cangemi </nobr> <br>
-Les Musiciens du Louvre <br>
-MARC MINSKOWSKI 
+Pražákovo kvarteto: <br>
+<nobr>Pavel Hůla </nobr> /
+<nobr>Vlastimil Holek </nobr> /
+<nobr>Josef Klusoň </nobr> /
+<nobr>Michal Kaňka </nobr> <br>
+<span style="font-size:0.87em">(Kulturní zařízení Domovina, <nobr>Praha
+&nbsp;<img src="/assets/img/flags/cs.png" height="11.5" width="16"/>&nbsp; 
+2011-10)</nobr> </span> </p>  
+
 <br>
-<span style="font-size:0.87em">(Salle Molière, <nobr>Poissy &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1997-01)</nobr> </span> </p> 
-
-<br>
 
 
 
-1.13 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+1.13 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Goldberg-Variationen_ : XXV. Adagio](https://www.youtube.com/watch?v=rLQBBK45amQ&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=26) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
+#### [Streichquintett № 6 Es-Dur, KV 614 : III. Menuetto](https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/talich-mozart.png" width="800"> <br>
+
+<nobr>Petr Messiereur* </nobr> /
+<nobr>Jan Kvapil* </nobr> /
+<nobr>Jan Talich* </nobr> /
+<nobr>Karel Řehák </nobr> /
+<nobr>Evžen Rattay* </nobr> <br>
+<span style="font-size:0.87em">[vn–vn–va–va–vc] </span> <br>
+Talichovo kvarteto*
+<br>
+<span style="font-size:0.87em">(Fondation Tibor Varga, <nobr>Sion
+&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
+1995)</nobr> </span> </p>  
+
+<br>
+
+
+
+1.14 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Goldberg-Variationen_ : XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
 
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
 
-Céline Frisch <br>
+Céline Frisch <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
 <span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
 
 <br>
 
 
 
-1.14 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+1.15 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in si minore, K. 87](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
@@ -256,30 +280,68 @@ Céline Frisch <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/staier-scarlatti.png" width="800"> <br>
 
-Andreas Staier <br>
+Andreas Staier <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
 <span style="font-size:0.87em">(Kulturzentrum, <nobr>Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1991-02)</nobr> </span> </p> 
 
 <br>
 
 
 
-1.15 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+1.16 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Suite en la mineur, RCT 5: I. Allemande](https://www.youtube.com/watch?v=dKZQdfqzZ6M&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=30) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=FWKUMHrfGM0&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=7)
+#### [Suite in E major, HWV 430: IV. Air and 5 variations](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/borgstede-handel.png" width="800"> <br>
+
+Michael Borgstede
+<span style="font-size:0.87em">&nbsp;[hpd] </span> <br>
+<span style="font-size:0.87em">(Penninckshuis, <nobr>Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 2007-10/&#8203;2008-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.17 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Suite en la mineur, RCT 5: VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
 
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rousset-rameau.png" width="800"> <br>
 
-Christophe Rousset <br>
+Christophe Rousset 
+<span style="font-size:0.87em">&nbsp;[hpd] </span> <br>
 <span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1989-06)</nobr> </span> </p> 
 
 <br>
 
 
 
-1.16 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+1.18 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Folies d'Espagne_, II.20](https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/savall-marais.png" width="800"> <br>
+
+<nobr>Jordi Savall </nobr> /
+<nobr>Anne Gallet </nobr> / 
+<nobr>Hopkinson Smith </nobr> <br> 
+<span style="font-size:0.87em">[viol–hpd–lute] </span> <br>
+<span style="font-size:0.87em">(Église Saint-Lambert, <nobr>Yvelines &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1975-06)</nobr> </span> </p> 
+
+
+<br>
+
+
+
+1.19 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
@@ -288,103 +350,23 @@ Christophe Rousset <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
 
-L'Estravagante <br>
+L'Estravagante: <br>
+<nobr>Stefano Montanari </nobr> /
+<nobr>Stefano Rossi </nobr> /
+<nobr>Francesco Galligioni </nobr> /
+<nobr>Maurizio Salerno </nobr> <br>
+<span style="font-size:0.87em">[vn–vn–vc–hpd] </span> <br>
 <span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
 
 <br>
 
 
 
-1.X &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+
+1.20 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Les voix humaines_](https://www.youtube.com/watch?v=AUueJM-3ZRU&list=OLAK5uy_lJn-6xqHH6sFSvbho3rukGF8zHdgn_3w0&index=10)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/duftschmid-marais.png" width="800"> <br>
-
-Lorenz Duftschmid / Thomas C. Boysen <br>
-<span style="font-size:0.87em">(Walbach, <nobr>Münstertal &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2003-06)</nobr> </span> </p> 
-
-
-<br>
-<br> <br>
-
-
-
-
-1.X &nbsp;\|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_Tenebrae Responsories_ : XVII. &lsquo;&lsquo;Aestimatus sum''](https://www.youtube.com/watch?v=cscmDg7-XUI&list=OLAK5uy_ltmW239ijfTQ7impYGHOn_r29aqudK9EY&index=3)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
-
-Lluís Vich Vocalis <br>
-<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-1.X &nbsp;\|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [Canzon per sonar primi toni, Ch. 170](https://www.youtube.com/watch?v=94mdn2v5T_0&list=PLGHi1F2Acw0-ApSfq99EjAS3NBVKaCcFp&index=1)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pifarescha-venice.png" width="800"> <br>
-
-La Pifarescha <br>
-<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-1.X &nbsp;\|&nbsp; JOHN DOWLAND &nbsp;(1580/1590s)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_Melancholy Galliard_](https://www.youtube.com/watch?v=y5XdgnPJJ_A&list=OLAK5uy_lyxNN-aFqnYDqF1fZ5kl1sdt9IQ_RNHOg&index=11)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bream-dowland.png" width="800"> <br>
-
-Julian Bream <br>
-<span style="font-size:0.87em">(Mozart-Saal, Konzerthaus, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1956-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-1.X &nbsp;\|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_La Pellegrina_ : IV.ii. &lsquo;&lsquo;Dal vago e bel sereno''](https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pichon-pellegrina.png" width="800"> <br>
-
-Pygmalion <br>
-RAPHAËL PICHON
-<br>
-<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-1.X &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_L&apos;Orfeo_ : Toccata](https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=1) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
+#### [_L&apos;Orfeo_ : I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
 
 
 <p style="text-align:center; color:grey">
@@ -392,7 +374,6 @@ RAPHAËL PICHON
 
 European Voices <br>
 Le Concert d'Astrée <br>
-Les Sacqueboutiers <br>
 EMMANUELLE HAÏM 
 <br>
 <span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-01)</nobr> </span> </p> 
@@ -401,7 +382,7 @@ EMMANUELLE HAÏM
 
 
 
-1.X &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+1.21 &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_La Dafne_ : I.v. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
