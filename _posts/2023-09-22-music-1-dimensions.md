@@ -250,7 +250,7 @@ Céline Frisch <br>
 1.14 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonata in si minore per tastiera](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
+#### [Sonata in si minore, K. 87](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
 
 
 <p style="text-align:center; color:grey">
