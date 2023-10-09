@@ -87,7 +87,7 @@ AARON COPLAND
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/metzmacher-wozzeck.png" width="800"> <br>
-Philharmonisches Staatorchester Hamburg <br>
+Philharmonisches Staatsorchester Hamburg <br>
 INGO METZMACHER
 <br>
 <span style="font-size:0.87em">(Hamburgische Staatsoper, <nobr>Hamburg 
