@@ -210,10 +210,10 @@ SIMON RATTLE
 
 
 
-1.12 &nbsp;\|&nbsp; Joseph Haydn &nbsp;(1793)
+1.12 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-Dur, Op. 1 № 12, Hob.III:63 : III. Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
+#### [Streichquartett D-Dur, Op. 71 № 2, Hob. III:70 : III. Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/prazak-haydn.png" width="800"> <br>
@@ -221,8 +221,7 @@ SIMON RATTLE
 Pražákovo kvarteto: <br>
 <nobr>Pavel Hůla </nobr> /
 <nobr>Vlastimil Holek </nobr> /
-<nobr>Josef Klusoň </nobr> /
-<nobr>Michal Kaňka </nobr> <br>
+<nobr>Josef Klusoň / Michal Kaňka </nobr> <br>
 <span style="font-size:0.87em">(Kulturní zařízení Domovina, <nobr>Praha
 &nbsp;<img src="/assets/img/flags/cs.png" height="11.5" width="16"/>&nbsp; 
 2011-10)</nobr> </span> </p>  
@@ -242,10 +241,10 @@ Pražákovo kvarteto: <br>
 <nobr>Petr Messiereur* </nobr> /
 <nobr>Jan Kvapil* </nobr> /
 <nobr>Jan Talich* </nobr> /
-<nobr>Karel Řehák </nobr> /
-<nobr>Evžen Rattay* </nobr> <br>
+<nobr>Karel Řehák /
+Evžen Rattay* </nobr> <br>
 <span style="font-size:0.87em">[vn–vn–va–va–vc] </span> <br>
-Talichovo kvarteto*
+*Talichovo kvarteto
 <br>
 <span style="font-size:0.87em">(Fondation Tibor Varga, <nobr>Sion
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
@@ -264,7 +263,7 @@ Talichovo kvarteto*
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
 
-Céline Frisch <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
+Céline Frisch <br>
 <span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2000-11)</nobr> </span> </p> 
 
 <br>
@@ -280,7 +279,7 @@ Céline Frisch <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/staier-scarlatti.png" width="800"> <br>
 
-Andreas Staier <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
+Andreas Staier <br>
 <span style="font-size:0.87em">(Kulturzentrum, <nobr>Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1991-02)</nobr> </span> </p> 
 
 <br>
@@ -296,8 +295,7 @@ Andreas Staier <span style="font-size:0.87em">&nbsp;[hpd] </span><br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/borgstede-handel.png" width="800"> <br>
 
-Michael Borgstede
-<span style="font-size:0.87em">&nbsp;[hpd] </span> <br>
+Michael Borgstede <br>
 <span style="font-size:0.87em">(Penninckshuis, <nobr>Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 2007-10/&#8203;2008-01)</nobr> </span> </p> 
 
 <br>
@@ -313,18 +311,36 @@ Michael Borgstede
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rousset-rameau.png" width="800"> <br>
 
-Christophe Rousset 
-<span style="font-size:0.87em">&nbsp;[hpd] </span> <br>
+Christophe Rousset <br>
 <span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1989-06)</nobr> </span> </p> 
 
 <br>
 
 
-
-1.18 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+1.18 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Folies d&apos;Espagne_](https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17)
+#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
+
+L'Estravagante: <br>
+<nobr>Stefano Montanari </nobr> /
+<nobr>Stefano Rossi </nobr> /
+<nobr>Francesco Galligioni / Maurizio Salerno </nobr> <br>
+<span style="font-size:0.87em">[vn–vn–vc–hpd] </span> <br>
+<span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.19 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Les Folies d&apos;Espagne_](https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17)
 
 
 <p style="text-align:center; color:grey">
@@ -341,24 +357,7 @@ Christophe Rousset
 
 
 
-1.19 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
-
-L'Estravagante: <br>
-<nobr>Stefano Montanari </nobr> /
-<nobr>Stefano Rossi </nobr> /
-<nobr>Francesco Galligioni </nobr> /
-<nobr>Maurizio Salerno </nobr> <br>
-<span style="font-size:0.87em">[vn–vn–vc–hpd] </span> <br>
-<span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
-
-<br>
 
 
 
@@ -398,5 +397,109 @@ GABRIEL GARRIDO
 <span style="font-size:0.87em">(Oratorio dell'Immacolatella, <nobr>Palermo &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1995-07)</nobr> </span> </p> 
 
 <br>
+
+
+
+1.22 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Sonate № 3 C-Dur für Violine solo : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/faust-bach.png" width="800"> <br>
+
+Isabelle Faust <br>
+<span style="font-size:0.87em">(Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2009-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.23 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Sonata for Solo Violin : III. Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mullova-bartok.png" width="800"> <br>
+
+Виктория Муллова <br>
+<span style="font-size:0.87em">(<nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1987-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.24 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(ca. 1370)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Ecco la primavera_](https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/waverly-landini.png" width="800"> <br>
+
+Waverly Consort <br>
+MICHAEL JAFFEE
+<br>
+<span style="font-size:0.87em">(Vanguard 23rd Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.25 &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Spring Symphony_ : I.iv. &lsquo;&lsquo;The Driving Boy''](https://www.youtube.com/watch?v=b7FY1ZIjlt8&list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&index=4)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/hickox-britten.png" width="800"> <br>
+
+Elizabeth Gale <br>
+Southend Boys' Choir <br>
+London Symphony Orchestra <br>
+RICHARD HICKOX
+<br>
+<span style="font-size:0.87em">(St Jude's Church, Hampstead, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1990-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.26 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1220)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Beata viscera_](https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/hillier-perotin.png" width="800"> <br>
+
+Theatre of Voices <br>
+PAUL HILLIER
+<br>
+<span style="font-size:0.87em">(St. Vincent de Paul Catholic Church, <nobr>San Rafael &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1995-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.27 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_O sacrum convivium!_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bernius-messiaen.png" width="800"> <br>
+
+Kammerchor Stuttgart <br>
+FRIEDER BERNIUS
+<br>
+<span style="font-size:0.87em">(Evangelische Kirche Gönningen, <nobr>Reutlingen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2020-06/07)</nobr> </span> </p> 
+
+<br>
+
+
 
 

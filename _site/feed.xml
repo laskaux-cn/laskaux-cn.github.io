@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 07 Oct 2023 01:11:04 -0400</pubDate>
+    <pubDate>Mon, 09 Oct 2023 00:59:23 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 音乐的维度</title>
@@ -189,10 +189,10 @@ SIMON RATTLE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.12  |  Joseph Haydn  (1793)&lt;/p&gt;
+&lt;p&gt;1.12  |  JOSEPH HAYDN  (1793)&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
-&lt;h4 id=&quot;streichquartett-d-dur-op-1--12-hobiii63--iii-menuetto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;Streichquartett D-Dur, Op. 1 № 12, Hob.III:63 : III. Menuetto&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;streichquartett-d-dur-op-71--2-hob-iii70--iii-menuetto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;Streichquartett D-Dur, Op. 71 № 2, Hob. III:70 : III. Menuetto&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/prazak-haydn.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -200,8 +200,7 @@ SIMON RATTLE
 Pražákovo kvarteto: &lt;br /&gt;
 &lt;nobr&gt;Pavel Hůla &lt;/nobr&gt; /
 &lt;nobr&gt;Vlastimil Holek &lt;/nobr&gt; /
-&lt;nobr&gt;Josef Klusoň &lt;/nobr&gt; /
-&lt;nobr&gt;Michal Kaňka &lt;/nobr&gt; &lt;br /&gt;
+&lt;nobr&gt;Josef Klusoň / Michal Kaňka &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Kulturní zařízení Domovina, &lt;nobr&gt;Praha
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;11.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
 2011-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -219,10 +218,10 @@ Pražákovo kvarteto: &lt;br /&gt;
 &lt;nobr&gt;Petr Messiereur* &lt;/nobr&gt; /
 &lt;nobr&gt;Jan Kvapil* &lt;/nobr&gt; /
 &lt;nobr&gt;Jan Talich* &lt;/nobr&gt; /
-&lt;nobr&gt;Karel Řehák &lt;/nobr&gt; /
-&lt;nobr&gt;Evžen Rattay* &lt;/nobr&gt; &lt;br /&gt;
+&lt;nobr&gt;Karel Řehák /
+Evžen Rattay* &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–va–va–vc] &lt;/span&gt; &lt;br /&gt;
-Talichovo kvarteto*
+*Talichovo kvarteto
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Fondation Tibor Varga, &lt;nobr&gt;Sion
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 
@@ -238,7 +237,7 @@ Talichovo kvarteto*
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/frisch-goldberg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Céline Frisch &lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &lt;/span&gt;&lt;br /&gt;
+Céline Frisch &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Chapelle de l'hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -251,7 +250,7 @@ Céline Frisch &lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &l
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/staier-scarlatti.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Andreas Staier &lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &lt;/span&gt;&lt;br /&gt;
+Andreas Staier &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Kulturzentrum, &lt;nobr&gt;Lindlar &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991-02)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -264,8 +263,7 @@ Andreas Staier &lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &l
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/borgstede-handel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Michael Borgstede
-&lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &lt;/span&gt; &lt;br /&gt;
+Michael Borgstede &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Penninckshuis, &lt;nobr&gt;Deventer &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2007-10/&amp;#8203;2008-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -278,29 +276,12 @@ Michael Borgstede
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/rousset-rameau.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Christophe Rousset 
-&lt;span style=&quot;font-size:0.87em&quot;&gt;&amp;nbsp;[hpd] &lt;/span&gt; &lt;br /&gt;
+Christophe Rousset &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Hippolyte de Lagriffoul, &lt;nobr&gt;Castres &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1989-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.18  |  MARIN MARAIS  (1701)&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;folies-despagne&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;&lt;em&gt;Folies d'Espagne&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/savall-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-&lt;nobr&gt;Jordi Savall &lt;/nobr&gt; /
-&lt;nobr&gt;Anne Gallet &lt;/nobr&gt; / 
-&lt;nobr&gt;Hopkinson Smith &lt;/nobr&gt; &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[viol–hpd–lute] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Lambert, &lt;nobr&gt;Yvelines &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1975-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;1.19  |  ANTONIO VIVALDI  (1705)&lt;/p&gt;
+&lt;p&gt;1.18  |  ANTONIO VIVALDI  (1705)&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 
 &lt;h4 id=&quot;sonata-in-re-minore-per-2-violini-e-basso-continuo-op-1--12-rv-63&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63&lt;/a&gt;&lt;/h4&gt;
@@ -311,10 +292,25 @@ Christophe Rousset
 L'Estravagante: &lt;br /&gt;
 &lt;nobr&gt;Stefano Montanari &lt;/nobr&gt; /
 &lt;nobr&gt;Stefano Rossi &lt;/nobr&gt; /
-&lt;nobr&gt;Francesco Galligioni &lt;/nobr&gt; /
-&lt;nobr&gt;Maurizio Salerno &lt;/nobr&gt; &lt;br /&gt;
+&lt;nobr&gt;Francesco Galligioni / Maurizio Salerno &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–vc–hpd] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Studio Giardino, &lt;nobr&gt;Crema &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.19  |  MARIN MARAIS  (1701)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;les-folies-despagne&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;&lt;em&gt;Les Folies d'Espagne&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/savall-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+&lt;nobr&gt;Jordi Savall &lt;/nobr&gt; /
+&lt;nobr&gt;Anne Gallet &lt;/nobr&gt; / 
+&lt;nobr&gt;Hopkinson Smith &lt;/nobr&gt; &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.87em&quot;&gt;[viol–hpd–lute] &lt;/span&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Lambert, &lt;nobr&gt;Yvelines &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1975-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -347,6 +343,94 @@ Ensemble Elyma &lt;br /&gt;
 GABRIEL GARRIDO
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Oratorio dell'Immacolatella, &lt;nobr&gt;Palermo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995-07)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.22  |  JOHANN SEBASTIAN BACH  (1720)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sonate--3-c-dur-für-violine-solo--i-adagio&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=q01E5fHAZQQ&amp;amp;list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&amp;amp;index=6&quot;&gt;Sonate № 3 C-Dur für Violine solo : I. Adagio&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/faust-bach.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Isabelle Faust &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Teldex Studio, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2009-09)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.23  |  BÉLA BARTÓK  (1944)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;sonata-for-solo-violin--iii-melodia&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tMF8JAKc8B8&amp;amp;list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&amp;amp;index=11&quot;&gt;Sonata for Solo Violin : III. Melodia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mullova-bartok.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Виктория Муллова &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(&lt;nobr&gt;Utrecht &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.24  |  FRANCESCO LANDINI  (ca. 1370)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;ecco-la-primavera&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pNfGIGBwVFk&amp;amp;list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&amp;amp;index=8&quot;&gt;&lt;em&gt;Ecco la primavera&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/waverly-landini.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Waverly Consort &lt;br /&gt;
+MICHAEL JAFFEE
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Vanguard 23rd Street Studio, &lt;nobr&gt;New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.25  |  BENJAMIN BRITTEN  (1949)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;spring-symphony--iiv-the-driving-boy&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=b7FY1ZIjlt8&amp;amp;list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&amp;amp;index=4&quot;&gt;&lt;em&gt;Spring Symphony&lt;/em&gt; : I.iv. ‘‘The Driving Boy’’&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/hickox-britten.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Elizabeth Gale &lt;br /&gt;
+Southend Boys' Choir &lt;br /&gt;
+London Symphony Orchestra &lt;br /&gt;
+RICHARD HICKOX
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(St Jude's Church, Hampstead, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.26  |  PEROTINUS  (ca. 1220)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;beata-viscera&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oSaGqdFNbDs&amp;amp;list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&amp;amp;index=16&quot;&gt;&lt;em&gt;Beata viscera&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/hillier-perotin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Theatre of Voices &lt;br /&gt;
+PAUL HILLIER
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(St. Vincent de Paul Catholic Church, &lt;nobr&gt;San Rafael &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1.27  |  OLIVIER MESSIAEN  (1937)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;o-sacrum-convivium&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Gomk6NbBD2I&amp;amp;list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&amp;amp;index=6&quot;&gt;&lt;em&gt;O sacrum convivium!&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernius-messiaen.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Kammerchor Stuttgart &lt;br /&gt;
+FRIEDER BERNIUS
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Evangelische Kirche Gönningen, &lt;nobr&gt;Reutlingen &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2020-06/07)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
