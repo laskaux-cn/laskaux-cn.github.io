@@ -289,7 +289,7 @@ Andreas Staier <br>
 1.16 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Suite in E major, HWV 430: IV. Air and 5 variations](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
+#### [Suite in E major, HWV 430 : IV. Air and 5 variations](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
 
 
 <p style="text-align:center; color:grey">
@@ -305,7 +305,7 @@ Michael Borgstede <br>
 1.17 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Suite en la mineur, RCT 5: VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
+#### [Suite en la mineur, RCT 5 : VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
 
 
 <p style="text-align:center; color:grey">
@@ -488,7 +488,7 @@ PAUL HILLIER
 1.27 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_O sacrum convivium!_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
+#### [_O sacrum convivium_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/bernius-messiaen.png" width="800"> <br>
