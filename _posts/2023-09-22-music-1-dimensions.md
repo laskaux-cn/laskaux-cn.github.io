@@ -7,11 +7,11 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-
 1.1 &nbsp;\|&nbsp; MAURICE RAVEL &nbsp;(1920)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_La valse_](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
+
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/martinon-la-valse.png" width="800"> <br>
@@ -384,7 +384,7 @@ EMMANUELLE HAÏM
 1.21 &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_La Dafne_ : I.v. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
+#### [_La Dafne_ : V. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
 
 
 <p style="text-align:center; color:grey">
