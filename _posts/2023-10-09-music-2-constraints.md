@@ -61,7 +61,7 @@ PHILIPPE HERREWEGHE
 2.4 &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1917)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Симфония № 1 : I. Allegro](https://www.youtube.com/watch?v=_FKv9moORv0&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=1) <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> [IV. Finale](https://www.youtube.com/watch?v=MS6vkBMETEI&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=4)
+#### [Симфония № 1 : I. Allegro](https://www.youtube.com/watch?v=_FKv9moORv0&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=1) – [IV. Finale](https://www.youtube.com/watch?v=MS6vkBMETEI&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=4)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="800"> <br>
@@ -149,6 +149,20 @@ PIERRE BOULEZ
 
 
 
+2.9 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(ca. 1700)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Präludium g-Moll, <nobr>BuxWV 149</nobr>](https://www.youtube.com/watch?v=-cjT-Xt-b78&list=OLAK5uy_mQAr97AUmgtaIcQcn15Sj3v4oMMwRKPwg&index=4)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
+
+Michel Chapuis <br>
+<span style="font-size:0.87em">(Église Saint-Maximin, <nobr>Thionville &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1972-05/09)</nobr> </span> </p> 
+
+<br>
+
+
 
 2.X &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 <p style="margin-bottom:-0.6em"> </p>
@@ -203,4 +217,17 @@ ZOLTÁN KOCSIS
 
 
 
+2.X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Diabelli-Variationen_ : XXIV. Fughetta](https://www.youtube.com/watch?v=BmJqEek2nm4&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=26) – [XXXI. Largo, molto espressivo](https://www.youtube.com/watch?v=IBDIkmHhouY&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=32) – [XXXII. Fuga](https://www.youtube.com/watch?v=JmnpgsjySQo&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=33) – [XXXIII. Tempo di menuetto, moderato](https://www.youtube.com/watch?v=EEHQ-_FFkGU&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=34)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/brautigam-diabelli.png" width="800"> <br>
+
+Ronald Brautigam <br>
+<span style="font-size:0.87em">(Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 2015-08)</nobr> </span> </p> 
+
+<br>
 
