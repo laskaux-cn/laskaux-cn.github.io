@@ -44,7 +44,24 @@ HERBERT BLOMSTEDT
 
 
 
-1.3 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+1.3 &nbsp;\|&nbsp; AARON COPLAND &nbsp;(1942)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Rodeo_ : IV. &lsquo;&lsquo;Saturday Night Waltz''](https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
+
+London Symphony Orchestra <br>
+AARON COPLAND 
+<br>
+<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1968-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.4 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Симфония № 5 : II. Allegretto](https://www.youtube.com/watch?v=Avt-KOQy1mo&t=907s)
@@ -63,24 +80,28 @@ HERBERT BLOMSTEDT
 
 
 
-1.4 &nbsp;\|&nbsp; AARON COPLAND &nbsp;(1942)
+1.5 &nbsp;\|&nbsp; PAUL HINDEMITH &nbsp;(1922)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Rodeo_ : IV. &lsquo;&lsquo;Saturday Night Waltz''](https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s)
+#### [_Kleine Kammermusik_, Op.&nbsp;24 №&nbsp;2 : II. Walzer](https://www.youtube.com/watch?v=AZk7FQyAYfw&list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&index=2)
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
+<img src="/assets/img/albums/dullaert-hindemith.png" width="800"> <br>
 
-London Symphony Orchestra <br>
-AARON COPLAND 
+<nobr>Emile Biessen </nobr> /
+<nobr>Maarten Dekkers </nobr> /
+<nobr>Pierre Woudenberg </nobr> /
+<nobr>Hans Dullaert </nobr> /
+<nobr>Johan Steinmann </nobr> <br>
+<span style="font-size:0.87em">[fl–ob–cl–hn–bn] </span> <br>
+<span style="font-size:0.87em">(DRS Studio, <nobr>Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
+1992-10/12)</nobr> </span> </p>  
+
 <br>
-<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1968-10)</nobr> </span> </p> 
-
-<br>
 
 
 
-1.5 &nbsp;\|&nbsp; ALBAN BERG &nbsp;(1925) <br> 
+1.6 &nbsp;\|&nbsp; ALBAN BERG &nbsp;(1925) <br> 
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
@@ -98,7 +119,7 @@ INGO METZMACHER
 
 
 
-1.6 &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
+1.7 &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Te Deum_<span style="font-size:0.2em"> </span>, H. 146 : I. Prélude](https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2)
@@ -115,7 +136,7 @@ WILLIAM CHRISTIE
 
 
 
-1.7 &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
+1.8 &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Symphonie fantastique_ : IV. &lsquo;&lsquo;Marche au supplice''](https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4)
@@ -134,7 +155,7 @@ CHARLES MUNCH
 
 
 
-1.8 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
+1.9 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_L'Histoire du soldat_ : II. &lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
@@ -160,7 +181,7 @@ CHARLES MUNCH
 
 
 
-1.9 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
+1.10 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 7 : II. Allegretto](https://www.youtube.com/watch?v=93IOV96WHqw&t=943s)
@@ -175,7 +196,7 @@ Collegium Aureum <br>
 
 
 
-1.10 &nbsp;\|&nbsp; GUSTAV MAHLER &nbsp;(1888)
+1.11 &nbsp;\|&nbsp; GUSTAV MAHLER &nbsp;(1888)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 1 : III. Feierlich und gemessen, ohne zu schleppen](https://www.youtube.com/watch?v=tUC3x8_ofDM&list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&index=3)
@@ -192,10 +213,10 @@ RAFAEL KUBELIK <br>
 
 
 
-1.11 &nbsp;\|&nbsp; ANTON WEBERN &nbsp;(1909)
+1.12 &nbsp;\|&nbsp; ANTON WEBERN &nbsp;(1909)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [6 Stücke für grosses Orchester : IV. Langsam](https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9)
+#### [6 Stücke für grosses Orchester, Op. 6 : IV. Langsam](https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9)
 
 
 <p style="text-align:center; color:grey">
@@ -210,7 +231,7 @@ SIMON RATTLE
 
 
 
-1.12 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
+1.13 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Streichquartett D-Dur, Op. 71 № 2, Hob. III:70 : III. Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
@@ -230,7 +251,7 @@ Pražákovo kvarteto: <br>
 
 
 
-1.13 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
+1.14 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Streichquintett № 6 Es-Dur, KV 614 : III. Menuetto](https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7)
@@ -254,7 +275,7 @@ Evžen Rattay* </nobr> <br>
 
 
 
-1.14 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+1.15 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Goldberg-Variationen_ : XXX. Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
@@ -270,7 +291,7 @@ Céline Frisch <br>
 
 
 
-1.15 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+1.16 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in si minore, K. 87](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
@@ -286,7 +307,7 @@ Andreas Staier <br>
 
 
 
-1.16 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
+1.17 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Suite in E major, HWV 430 : IV. Air and 5 variations](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
@@ -302,7 +323,7 @@ Michael Borgstede <br>
 
 
 
-1.17 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+1.18 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Suite en la mineur, RCT 5 : VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
@@ -317,7 +338,7 @@ Christophe Rousset <br>
 <br>
 
 
-1.18 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+1.19 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
@@ -337,7 +358,7 @@ L'Estravagante: <br>
 
 
 
-1.19 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+1.20 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Les Folies d&apos;Espagne_](https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17)
@@ -352,17 +373,11 @@ L'Estravagante: <br>
 <span style="font-size:0.87em">[viol–hpd–lute] </span> <br>
 <span style="font-size:0.87em">(Église Saint-Lambert, <nobr>Yvelines &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1975-06)</nobr> </span> </p> 
 
-
 <br>
 
 
 
-
-
-
-
-
-1.20 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+1.21 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_L&apos;Orfeo_ : I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
@@ -381,7 +396,7 @@ EMMANUELLE HAÏM
 
 
 
-1.21 &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+1.22 &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_La Dafne_ : V. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
@@ -400,10 +415,10 @@ GABRIEL GARRIDO
 
 
 
-1.22 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
+1.23 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonate № 3 C-Dur für Violine solo : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
+#### [Sonate № 3 C-Dur für Violine solo, BWV&nbsp;1005 : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
 
 
 <p style="text-align:center; color:grey">
@@ -416,10 +431,10 @@ Isabelle Faust <br>
 
 
 
-1.23 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+1.24 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonata for Solo Violin : III. Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
+#### [Sonata for Solo Violin, Sz.&nbsp;117, BB&nbsp;124 : III. Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
 
 
 <p style="text-align:center; color:grey">
@@ -432,7 +447,7 @@ Isabelle Faust <br>
 
 
 
-1.24 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(ca. 1370)
+1.25 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(ca. 1370)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Ecco la primavera_](https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8)
@@ -449,7 +464,7 @@ MICHAEL JAFFEE
 
 
 
-1.25 &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
+1.26 &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Spring Symphony_ : I.iv. &lsquo;&lsquo;The Driving Boy''](https://www.youtube.com/watch?v=b7FY1ZIjlt8&list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&index=4)
@@ -468,7 +483,7 @@ RICHARD HICKOX
 
 
 
-1.26 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1220)
+1.27 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1220)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Beata viscera_](https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16)
@@ -485,7 +500,7 @@ PAUL HILLIER
 
 
 
-1.27 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+1.28 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_O sacrum convivium_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)

@@ -76,7 +76,7 @@ Orpheus Chamber Orchestra <br>
 2.5 &nbsp;\|&nbsp; FRANZ SCHUBERT &nbsp;(1824)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonate a-Moll für Arpeggione und Klavier, D. 821 : I. Allegro moderato](https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1)
+#### [Sonate a-Moll für Arpeggione und Klavier, D.&nbsp;821 : I. Allegro moderato](https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1)
 
 
 <p style="text-align:center; color:grey">
@@ -92,7 +92,7 @@ Orpheus Chamber Orchestra <br>
 2.6 &nbsp;\|&nbsp; MAURICE RAVEL &nbsp;(1905)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Introduction et allegro, M. 46](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
+#### [Introduction et allegro, M.&nbsp;46](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
 
 
 <p style="text-align:center; color:grey">
@@ -133,7 +133,7 @@ ESA-PEKKA SALONEN
 2.8 &nbsp;\|&nbsp; ANTON WEBERN &nbsp;(1934)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Konzert für 9 Instrumente, Op. 24 : II. Sehr langsam](https://www.youtube.com/watch?v=vx_0zTWr5f4&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=41)
+#### [Konzert für 9 Instrumente, Op.&nbsp;24 : II. Sehr langsam](https://www.youtube.com/watch?v=vx_0zTWr5f4&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=41)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/boulez-webern.png" width="800"> <br>
@@ -152,7 +152,7 @@ PIERRE BOULEZ
 2.9 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(ca. 1700)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Präludium g-Moll, <nobr>BuxWV 149</nobr>](https://www.youtube.com/watch?v=-cjT-Xt-b78&list=OLAK5uy_mQAr97AUmgtaIcQcn15Sj3v4oMMwRKPwg&index=4)
+#### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=-cjT-Xt-b78&list=OLAK5uy_mQAr97AUmgtaIcQcn15Sj3v4oMMwRKPwg&index=4)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
@@ -164,7 +164,7 @@ Michel Chapuis <br>
 
 
 
-2.X &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+2.11 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 41 : IV. Molto allegro](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
@@ -181,7 +181,25 @@ CHARLES MACKERRAS
 
 
 
-2.X &nbsp;\|&nbsp; DARIUS MILHAUD &nbsp;(1923)
+2.12 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kocsis-bartok-mspc.png" width="800"> <br>
+
+Nemzeti Filharmonikusok <br>
+ZOLTÁN KOCSIS
+<br>
+<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2009-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.13 &nbsp;\|&nbsp; DARIUS MILHAUD &nbsp;(1923)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_La Création du monde_](https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=1)
@@ -195,23 +213,6 @@ CHARLES MUNCH
 <br>
 <span style="font-size:0.87em">(Symphony Hall, <nobr>Boston 
 &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1961-03)</nobr> </span> </p>  
-
-<br>
-
-
-2.X &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kocsis-bartok-mspc.png" width="800"> <br>
-
-Nemzeti Filharmonikusok <br>
-ZOLTÁN KOCSIS
-<br>
-<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2009-10)</nobr> </span> </p> 
 
 <br>
 
