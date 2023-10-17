@@ -152,7 +152,7 @@ PIERRE BOULEZ
 2.9 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(ca. 1700)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=-cjT-Xt-b78&list=OLAK5uy_mQAr97AUmgtaIcQcn15Sj3v4oMMwRKPwg&index=4)
+#### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
@@ -164,7 +164,7 @@ Michel Chapuis <br>
 
 
 
-2.11 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+2.10 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 41 : IV. Molto allegro](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
@@ -181,10 +181,27 @@ CHARLES MACKERRAS
 
 
 
+2.11 &nbsp;\|&nbsp; ANTON BRUCKNER &nbsp;(1876/1878)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Sinfonie № 5 : IV. Finale](https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haitink-bruckner5.png" width="800"> <br>
+
+Wiener Philharmoniker <br>
+BERNARD HAITINK
+<br>
+<span style="font-size:0.87em">(Große Musikvereinssaal, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1988-03/12)</nobr> </span> </p> 
+
+<br>
+
+
+
 2.12 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
+#### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1)
 
 
 <p style="text-align:center; color:grey">
@@ -218,6 +235,178 @@ CHARLES MUNCH
 
 
 
+2.14 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1797)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Streichquartett D-Dur, Op.&nbsp;76 №&nbsp;6, Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/orlando-haydn76.png" width="800"> <br>
+
+Orlando Quartet: <br>
+<nobr>István Párkányi </nobr> /
+<nobr>Heinz Oberdorfer </nobr> /
+<nobr>Ferdinand Erblich / Stefan Metz </nobr> <br>
+<span style="font-size:0.87em">(<nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1981-10)</nobr> </span> </p>  
+
+<br>
+
+
+
+2.15 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1735)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Les Indes galantes_ : III.vii. &lsquo;&lsquo;Tendre Amour''](https://drive.google.com/file/d/1ld0Eftq9ss2PyY9HsnCEvKFbRT3qAN4X/view?usp=sharing)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/tournet-rameau-indes.png" width="800"> <br>
+
+La Chapelle Harmonique <br>
+VALENTIN TOURNET
+<br>
+<span style="font-size:0.87em">(Château de Versailles <nobr>
+&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2019-11&#8203;/2020-06)</nobr> </span> </p>  
+
+<br>
+
+
+
+2.16 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Symphonie de Psaumes_ : I.&nbsp;&lsquo;&lsquo;Exaudi orationem meam, Domine''](https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3) – [II.&nbsp;&lsquo;&lsquo;Expectans expectavi Dominum''](https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ancerl-stravinsky.png" width="800"> <br>
+
+Český pěvecký sbor <br>
+Česká filharmonie <br>
+KAREL ANČERL
+<br>
+<span style="font-size:0.87em">(Rudolfinum, <nobr>Praha
+&nbsp;<img src="/assets/img/flags/cs.png" height="11" width="16"/>&nbsp; 1966-06)</nobr> </span> </p>  
+
+<br>
+
+
+
+2.17 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1200)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Viderunt omnes_](https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/munrow-notre-dame.png" width="800"> <br>
+
+Early Music Consort of London <br>
+DAVID MUNROW
+<br>
+<span style="font-size:0.87em">(Charterhouse Chapel, Godalming / <nobr>Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1975-04/10)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.18 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Vespro della Beata Vergine_ : I. &lsquo;&lsquo;Deus in adjutorium''](https://www.youtube.com/watch?v=BxGF_avQwUw&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=10) – [XI. &lsquo;&lsquo;Sancta Maria''](https://www.youtube.com/watch?v=702hPWpxJ1g&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=20)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/suzuki-monteverdi1610.png" width="800"> <br>
+
+バッハ・コレギウム・ジャパン <br>
+Concerto Palatino <br>
+鈴木雅明
+<br>
+<span style="font-size:0.87em">(神戸松蔭女子学院大学 チャペル, <nobr>神戸 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1999-12)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.19 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Nisi Dominus_ : IV.&nbsp;&lsquo;&lsquo;Cum dederit''](https://www.youtube.com/watch?v=diPUP_ylyF8&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=18) – [VII.&nbsp;&lsquo;&lsquo;Gloria Patri''](https://www.youtube.com/watch?v=QyKTB57bXuw&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=21)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/dumestre-vivaldi.png" width="800"> <br>
+
+Eva Zaïcik <br>
+Le Poème Harmonique <br>
+VINCENT DUMESTRE
+<br>
+<span style="font-size:0.87em">(Chapelle Corneille, <nobr>Rouen &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2020-08)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.20 &nbsp;\|&nbsp; GIOACHINO ROSSINI &nbsp;(1863/1867)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Petite messe solennelle_ : I.i.&nbsp;&lsquo;&lsquo;Kyrie eleison''](https://www.youtube.com/watch?v=jhLur2_7WqY&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=1) – [III.ii.&nbsp;&lsquo;&lsquo;Crucifixus''](https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/spering-rossini.png" width="800"> <br>
+
+Margot Pares-Reyna <br>
+Chorus Musicus Köln <br>
+Elzbieta Kalvelage / Joris Verdin <br>
+<span style="font-size:0.87em">[fp–harm] </span> <br>
+CHRISTOPH SPERING
+<br>
+<span style="font-size:0.87em">(Festhalle, <nobr>Viersen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.21 &nbsp;\|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_Messa da Requiem_ : II.&nbsp;&lsquo;&lsquo;Dies irae''](https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2) – [VII.&nbsp;&lsquo;&lsquo;Libera me''](https://www.youtube.com/watch?v=1rySbzcQvPA&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=7)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/shaw-verdi-requiem.png" width="800"> <br>
+
+<nobr>Susan Dunn </nobr> /
+<nobr>Diane Curry </nobr> /
+<nobr>Jerry Hadley / Paul Plishka </nobr> <br>
+Atlanta Symphony Orchestra & Chorus <br>
+ROBERT SHAW
+<br>
+<span style="font-size:0.87em">(Symphony Hall, <nobr>Atlanta &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1987-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.22 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Magnificat, BWV&nbsp;243 : I.&nbsp;&lsquo;&lsquo;Magnificat''](https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1) – [III.&nbsp;&lsquo;&lsquo;Quia respexit humilitatem''](https://www.youtube.com/watch?v=A9il903fgsE&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=3) – [IX.&nbsp;&lsquo;&lsquo;Esurientes implevit bonis''](https://www.youtube.com/watch?v=iJIZ5PK3ZC8&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=9)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haim-bach-magnificat.png" width="800"> <br>
+
+Natalie Dessay / Philippe Jaroussky <br>
+Le Concert d'Astrée <br>
+EMMANUELLE HAÏM 
+<br>
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2006-10)</nobr> </span> </p> 
+
+<br>
+
+
+
 2.X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 <p style="margin-bottom:-0.6em"> </p>
 
@@ -231,4 +420,24 @@ Ronald Brautigam <br>
 <span style="font-size:0.87em">(Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 2015-08)</nobr> </span> </p> 
 
 <br>
+
+
+
+2.X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [24 прелюдии и фуги : № 7 ля мажор](https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/scherbakov-shostakovich24.png" width="800"> <br>
+
+Константин Щербаков <br>
+<span style="font-size:0.87em">(St Martin's Church, East Woodhay, <nobr>Hampshire 
+&nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 
+1999-06)</nobr> </span> </p> 
+
+<br>
+
+
+
 
