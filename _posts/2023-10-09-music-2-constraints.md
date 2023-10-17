@@ -357,8 +357,6 @@ VINCENT DUMESTRE
 
 Margot Pares-Reyna <br>
 Chorus Musicus Köln <br>
-Elzbieta Kalvelage / Joris Verdin <br>
-<span style="font-size:0.87em">[fp–harm] </span> <br>
 CHRISTOPH SPERING
 <br>
 <span style="font-size:0.87em">(Festhalle, <nobr>Viersen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-09)</nobr> </span> </p> 
@@ -402,6 +400,22 @@ Le Concert d'Astrée <br>
 EMMANUELLE HAÏM 
 <br>
 <span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2006-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.X &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [3 Compositions for Piano : I.&nbsp;(♩= 108)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1) – [II.&nbsp;(♩= 54)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=86s) – [III.&nbsp;(♩= 126)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=327s)
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/taub-babbitt.png" width="800"> <br>
+
+Robert Taub <br>
+<span style="font-size:0.87em">(Church of the Holy Trinity, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1985-04)</nobr> </span> </p> 
 
 <br>
 
