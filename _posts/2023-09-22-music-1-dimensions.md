@@ -276,14 +276,12 @@ Pražákovo kvarteto: <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/talich-mozart.png" width="800"> <br>
 
-<nobr>Petr Messiereur* </nobr> /
-<nobr>Jan Kvapil* </nobr> /
-<nobr>Jan Talich* </nobr> /
-<nobr>Karel Řehák /
-Evžen Rattay* </nobr> <br>
-<span style="font-size:0.87em">[vn–vn–va–va–vc] </span> <br>
-*Talichovo kvarteto
-<br>
+Talichovo kvarteto: <br>
+<nobr>Petr Messiereur </nobr> /
+<nobr>Jan Kvapil </nobr> /
+<nobr>Jan Talich / Evžen Rattay </nobr> <br>
++ <nobr>Karel Řehák </nobr> <br>
+<span style="font-size:0.87em">[vn–vn–va–vc–va] </span> <br>
 <span style="font-size:0.87em">(Fondation Tibor Varga, <nobr>Sion
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
 1995)</nobr> </span> </p>  

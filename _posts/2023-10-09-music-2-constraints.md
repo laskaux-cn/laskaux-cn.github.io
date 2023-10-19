@@ -405,10 +405,72 @@ EMMANUELLE HAÏM
 
 
 
-2.X &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
+2.24 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [3 Compositions for Piano : I.&nbsp;(♩= 108)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1) – [II.&nbsp;(♩= 54)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=86s) – [III.&nbsp;(♩= 126)](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=327s)
+#### [Fantasie № 4 c-Moll, KV 475](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/badura-skoda-mozart475.png" width="800"> <br>
+
+Paul Badura-Skoda <br>
+<span style="font-size:0.87em">(Casino Baumgarten, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1989-12)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.25 &nbsp;\|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [24 Préludes, Op. 28 : № 4 en mi mineur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=238s) – [№ 15 en ré bémol majeur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=1245s)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/moravec-chopin.png" width="800"> <br>
+
+Ivan Moravec <br>
+<span style="font-size:0.87em">(<nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1965)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.26 &nbsp;\|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Préludes, 1<sup>er</sup> Livre : II.&nbsp;&lsquo;&lsquo;Voiles''](https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2) – [X.&nbsp;&lsquo;&lsquo;La cathédrale engloutie''](https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/arrau-debussy.png" width="800"> <br>
+
+Claudio Arrau <br>
+<span style="font-size:0.87em">(Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1979-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.27 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [3 Klavierstücke, Op. 11 : II.&nbsp;Mäßig]()
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pontinen-schoenberg.png" width="800"> <br>
+
+Roland Pöntinen <br>
+<span style="font-size:0.87em">(Musikaliska Kvarteret, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 2001-03)</nobr> </span> </p>  
+
+<br>
+
+
+
+
+2.28 &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [3 Compositions for Piano : I](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1) – [II](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=86s) – [III](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=327s)
 
 
 <p style="text-align:center; color:grey">
@@ -421,7 +483,7 @@ Robert Taub <br>
 
 
 
-2.X &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+2.29 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Diabelli-Variationen_ : XXIV. Fughetta](https://www.youtube.com/watch?v=BmJqEek2nm4&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=26) – [XXXI. Largo, molto espressivo](https://www.youtube.com/watch?v=IBDIkmHhouY&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=32) – [XXXII. Fuga](https://www.youtube.com/watch?v=JmnpgsjySQo&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=33) – [XXXIII. Tempo di menuetto, moderato](https://www.youtube.com/watch?v=EEHQ-_FFkGU&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=34)
@@ -437,7 +499,7 @@ Ronald Brautigam <br>
 
 
 
-2.X &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+2.30 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [24 прелюдии и фуги : № 7 ля мажор](https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13)
