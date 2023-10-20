@@ -251,7 +251,7 @@ SIMON RATTLE
 1.14 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-Dur, Op.&nbsp;71 №&nbsp;2, Hob.&nbsp;III:70 : III.&nbsp;Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
+#### [Streichquartett D-Dur, Op.&nbsp;71 №&nbsp;2 / Hob.&nbsp;III:70 : III.&nbsp;Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
@@ -279,8 +279,8 @@ Pražákovo kvarteto: <br>
 Talichovo kvarteto: <br>
 <nobr>Petr Messiereur </nobr> /
 <nobr>Jan Kvapil </nobr> /
-<nobr>Jan Talich / Evžen Rattay </nobr> <br>
-+ <nobr>Karel Řehák </nobr> <br>
+<nobr>Jan Talich / Evžen Rattay </nobr> 
+<nobr> + Karel Řehák </nobr> <br>
 <span style="font-size:0.87em">[vn–vn–va–vc–va] </span> <br>
 <span style="font-size:0.87em">(Fondation Tibor Varga, <nobr>Sion
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
@@ -356,7 +356,7 @@ Christophe Rousset <br>
 1.20 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12, RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
+#### [Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12 / RV 63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
 
 
 <p style="text-align:center; color:grey">
@@ -449,7 +449,7 @@ Isabelle Faust <br>
 1.25 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonata for Solo Violin, Sz.&nbsp;117, BB&nbsp;124 : III.&nbsp;Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
+#### [Sonata for Solo Violin, Sz.&nbsp;117 / BB&nbsp;124 : III.&nbsp;Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
 
 
 <p style="text-align:center; color:grey">
@@ -462,7 +462,7 @@ Isabelle Faust <br>
 
 
 
-1.26 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(1325/35&#8203;–1397)
+1.26 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(ca. 1325–1397)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Ecco la primavera_](https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8)
@@ -498,7 +498,7 @@ RICHARD HICKOX
 
 
 
-1.28 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1200)
+1.28 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1160–1230)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Beata viscera_](https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16)

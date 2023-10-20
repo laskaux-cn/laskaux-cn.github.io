@@ -149,7 +149,22 @@ PIERRE BOULEZ
 
 
 
-2.9 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(ca. 1700)
+2.10 &nbsp;\|&nbsp; WILLIAM BYRD &nbsp;(1540–1623)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Fantasia in G major, T.&nbsp;465 / MB&nbsp;62 / FVB&nbsp;261](https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/cuiller-byrd.png" width="800"> <br>
+
+Bertrand Cuiller <br>
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2005-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.10 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(1637–1707)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
@@ -164,7 +179,7 @@ Michel Chapuis <br>
 
 
 
-2.10 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+2.11 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 41 : IV. Molto allegro](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
@@ -181,7 +196,7 @@ CHARLES MACKERRAS
 
 
 
-2.11 &nbsp;\|&nbsp; ANTON BRUCKNER &nbsp;(1876/1878)
+2.12 &nbsp;\|&nbsp; ANTON BRUCKNER &nbsp;(1876/1878)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Sinfonie № 5 : IV. Finale](https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4)
@@ -198,7 +213,7 @@ BERNARD HAITINK
 
 
 
-2.12 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+2.13 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1)
@@ -216,7 +231,7 @@ ZOLTÁN KOCSIS
 
 
 
-2.13 &nbsp;\|&nbsp; DARIUS MILHAUD &nbsp;(1923)
+2.14 &nbsp;\|&nbsp; DARIUS MILHAUD &nbsp;(1923)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_La Création du monde_](https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=1)
@@ -235,10 +250,10 @@ CHARLES MUNCH
 
 
 
-2.14 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1797)
+2.15 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1797)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-Dur, Op.&nbsp;76 №&nbsp;6, Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
+#### [Streichquartett D-Dur, Op.&nbsp;76 №&nbsp;6 / Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orlando-haydn76.png" width="800"> <br>
@@ -253,7 +268,7 @@ Orlando Quartet: <br>
 
 
 
-2.15 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1735)
+2.16 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1735)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Les Indes galantes_ : III.vii. &lsquo;&lsquo;Tendre Amour''](https://drive.google.com/file/d/1ld0Eftq9ss2PyY9HsnCEvKFbRT3qAN4X/view?usp=sharing)
@@ -272,7 +287,7 @@ VALENTIN TOURNET
 
 
 
-2.16 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
+2.17 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Symphonie de Psaumes_ : I.&nbsp;&lsquo;&lsquo;Exaudi orationem meam, Domine''](https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3) – [II.&nbsp;&lsquo;&lsquo;Expectans expectavi Dominum''](https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4)
@@ -291,7 +306,7 @@ KAREL ANČERL
 
 
 
-2.17 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1200)
+2.18 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1160–1230)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Viderunt omnes_](https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5)
@@ -308,7 +323,7 @@ DAVID MUNROW
 
 
 
-2.18 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+2.19 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Vespro della Beata Vergine_ : I. &lsquo;&lsquo;Deus in adjutorium''](https://www.youtube.com/watch?v=BxGF_avQwUw&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=10) – [XI. &lsquo;&lsquo;Sancta Maria''](https://www.youtube.com/watch?v=702hPWpxJ1g&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=20)
@@ -327,7 +342,7 @@ Concerto Palatino <br>
 
 
 
-2.19 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+2.20 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Nisi Dominus_ : IV.&nbsp;&lsquo;&lsquo;Cum dederit''](https://www.youtube.com/watch?v=diPUP_ylyF8&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=18) – [VII.&nbsp;&lsquo;&lsquo;Gloria Patri''](https://www.youtube.com/watch?v=QyKTB57bXuw&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=21)
@@ -346,7 +361,7 @@ VINCENT DUMESTRE
 
 
 
-2.20 &nbsp;\|&nbsp; GIOACHINO ROSSINI &nbsp;(1863/1867)
+2.21 &nbsp;\|&nbsp; GIOACHINO ROSSINI &nbsp;(1863/1867)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Petite messe solennelle_ : I.i.&nbsp;&lsquo;&lsquo;Kyrie eleison''](https://www.youtube.com/watch?v=jhLur2_7WqY&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=1) – [III.ii.&nbsp;&lsquo;&lsquo;Crucifixus''](https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12)
@@ -365,7 +380,7 @@ CHRISTOPH SPERING
 
 
 
-2.21 &nbsp;\|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+2.22 &nbsp;\|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Messa da Requiem_ : II.&nbsp;&lsquo;&lsquo;Dies irae''](https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2) – [VII.&nbsp;&lsquo;&lsquo;Libera me''](https://www.youtube.com/watch?v=1rySbzcQvPA&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=7)
@@ -386,7 +401,7 @@ ROBERT SHAW
 
 
 
-2.22 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+2.23 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Magnificat, BWV&nbsp;243 : I.&nbsp;&lsquo;&lsquo;Magnificat''](https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1) – [III.&nbsp;&lsquo;&lsquo;Quia respexit humilitatem''](https://www.youtube.com/watch?v=A9il903fgsE&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=3) – [IX.&nbsp;&lsquo;&lsquo;Esurientes implevit bonis''](https://www.youtube.com/watch?v=iJIZ5PK3ZC8&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=9)
@@ -405,7 +420,22 @@ EMMANUELLE HAÏM
 
 
 
-2.24 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
+2.24 &nbsp;\|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [Fantasie Es-Dur, P.&nbsp;127](https://www.youtube.com/watch?v=EDc7uCzOHzE&list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&index=8)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leonhardt-pachelbel.png" width="800"> <br>
+
+Gustav Leonhardt <br>
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+2.25 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Fantasie № 4 c-Moll, KV 475](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
@@ -420,7 +450,7 @@ Paul Badura-Skoda <br>
 
 
 
-2.25 &nbsp;\|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+2.26 &nbsp;\|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [24 Préludes, Op. 28 : № 4 en mi mineur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=238s) – [№ 15 en ré bémol majeur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=1245s)
@@ -435,7 +465,7 @@ Ivan Moravec <br>
 
 
 
-2.26 &nbsp;\|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+2.27 &nbsp;\|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Préludes, 1<sup>er</sup> Livre : II.&nbsp;&lsquo;&lsquo;Voiles''](https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2) – [X.&nbsp;&lsquo;&lsquo;La cathédrale engloutie''](https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10)
@@ -450,7 +480,7 @@ Claudio Arrau <br>
 
 
 
-2.27 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+2.28 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [3 Klavierstücke, Op. 11 : II.&nbsp;Mäßig]()
@@ -467,7 +497,7 @@ Roland Pöntinen <br>
 
 
 
-2.28 &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
+2.29 &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [3 Compositions for Piano : I](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1) – [II](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=86s) – [III](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=327s)
@@ -483,7 +513,7 @@ Robert Taub <br>
 
 
 
-2.29 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+2.30 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Diabelli-Variationen_ : XXIV. Fughetta](https://www.youtube.com/watch?v=BmJqEek2nm4&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=26) – [XXXI. Largo, molto espressivo](https://www.youtube.com/watch?v=IBDIkmHhouY&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=32) – [XXXII. Fuga](https://www.youtube.com/watch?v=JmnpgsjySQo&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=33) – [XXXIII. Tempo di menuetto, moderato](https://www.youtube.com/watch?v=EEHQ-_FFkGU&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=34)
@@ -499,10 +529,10 @@ Ronald Brautigam <br>
 
 
 
-2.30 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+2.31 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [24 прелюдии и фуги : № 7 ля мажор](https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13)
+#### [24 прелюдии и фуги : № 7 ля мажор](https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13) – [№ 8 фа-диез минор](https://www.youtube.com/watch?v=BdGjQdG_J3U&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=15) – [№ 24 ре минор](https://www.youtube.com/watch?v=LF9Rhw0n4X4&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=47)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/scherbakov-shostakovich24.png" width="800"> <br>
