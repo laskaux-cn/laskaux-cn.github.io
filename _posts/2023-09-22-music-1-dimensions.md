@@ -175,7 +175,7 @@ CHARLES MUNCH
 1.10 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_L'Histoire du soldat_ : II. &lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
+#### [_L'Histoire du soldat_ : II.&nbsp;&lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/markevitch-soldat.png" width="800"> <br>
@@ -462,7 +462,7 @@ Isabelle Faust <br>
 
 
 
-1.26 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(ca. 1325–1397)
+1.26 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Ecco la primavera_](https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8)
@@ -498,7 +498,24 @@ RICHARD HICKOX
 
 
 
-1.28 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1160–1230)
+1.28 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+<p style="margin-bottom:-0.6em"> </p>
+
+#### [_O sacrum convivium_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bernius-messiaen.png" width="800"> <br>
+
+Kammerchor Stuttgart <br>
+FRIEDER BERNIUS
+<br>
+<span style="font-size:0.87em">(Evangelische Kirche Gönningen, <nobr>Reutlingen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2020-06/07)</nobr> </span> </p> 
+
+<br>
+
+
+
+1.29 &nbsp;\|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Beata viscera_](https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16)
@@ -515,20 +532,6 @@ PAUL HILLIER
 
 
 
-1.29 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
-<p style="margin-bottom:-0.6em"> </p>
-
-#### [_O sacrum convivium_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bernius-messiaen.png" width="800"> <br>
-
-Kammerchor Stuttgart <br>
-FRIEDER BERNIUS
-<br>
-<span style="font-size:0.87em">(Evangelische Kirche Gönningen, <nobr>Reutlingen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2020-06/07)</nobr> </span> </p> 
-
-<br>
 
 
 

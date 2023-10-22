@@ -28,7 +28,7 @@ KARL RICHTER
 2.2 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sinfonie № 3 : I. Allegro con brio](https://www.youtube.com/watch?v=93IOV96WHqw&t=943s)
+#### [Sinfonie № 3 : I. Allegro con brio](https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
@@ -61,7 +61,7 @@ PHILIPPE HERREWEGHE
 2.4 &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1917)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Симфония № 1 : I. Allegro](https://www.youtube.com/watch?v=_FKv9moORv0&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=1) – [IV. Finale](https://www.youtube.com/watch?v=MS6vkBMETEI&list=PL8AhTXrM6LH1jLiJ40UkQrmyNgH-TOs0j&index=4)
+#### [Симфония № 1 : I. Allegro](https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1) – [IV. Finale](https://www.youtube.com/watch?v=MS6vkBMETEI&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=4)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="800"> <br>
@@ -149,7 +149,7 @@ PIERRE BOULEZ
 
 
 
-2.10 &nbsp;\|&nbsp; WILLIAM BYRD &nbsp;(1540–1623)
+2.10 &nbsp;\|&nbsp; WILLIAM BYRD &nbsp;(c. 1540–1623)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Fantasia in G major, T.&nbsp;465 / MB&nbsp;62 / FVB&nbsp;261](https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12)
@@ -164,7 +164,7 @@ Bertrand Cuiller <br>
 
 
 
-2.10 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(1637–1707)
+2.10 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
@@ -213,10 +213,10 @@ BERNARD HAITINK
 
 
 
-2.13 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+2.13 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1936)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [_Zene húros hangszerekre, ütőkre és cselesztára_ : I. Andante tranquillo](https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1)
+#### [Zene húros hangszerekre, ütőkre és cselesztára : I. Andante tranquillo](https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1)
 
 
 <p style="text-align:center; color:grey">
@@ -306,7 +306,7 @@ KAREL ANČERL
 
 
 
-2.18 &nbsp;\|&nbsp; PEROTINUS &nbsp;(ca. 1160–1230)
+2.18 &nbsp;\|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
 <p style="margin-bottom:-0.6em"> </p>
 
 #### [_Viderunt omnes_](https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5)
@@ -468,7 +468,7 @@ Ivan Moravec <br>
 2.27 &nbsp;\|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Préludes, 1<sup>er</sup> Livre : II.&nbsp;&lsquo;&lsquo;Voiles''](https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2) – [X.&nbsp;&lsquo;&lsquo;La cathédrale engloutie''](https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10)
+#### [Préludes, 1<sup>er</sup> Livre : №&nbsp;2.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;Voiles''](https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2) – [№&nbsp;10.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;La cathédrale engloutie''](https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/arrau-debussy.png" width="800"> <br>
@@ -483,7 +483,7 @@ Claudio Arrau <br>
 2.28 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [3 Klavierstücke, Op. 11 : II.&nbsp;Mäßig]()
+#### [3 Klavierstücke, Op. 11 : II.&nbsp;Mäßig](https://www.youtube.com/watch?v=VoSmPq_7Elw&list=OLAK5uy_kUL6koULmifJlW3nID7DMlq4-63mXIaus&index=2)
 
 
 <p style="text-align:center; color:grey">
