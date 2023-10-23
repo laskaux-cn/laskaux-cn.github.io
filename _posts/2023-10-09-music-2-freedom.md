@@ -76,7 +76,7 @@ Orpheus Chamber Orchestra <br>
 2.5 &nbsp;\|&nbsp; FRANZ SCHUBERT &nbsp;(1824)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonate a-Moll für Arpeggione und Klavier, D.&nbsp;821 : I. Allegro moderato](https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1)
+#### [Sonate a-moll für Arpeggione und Klavier, D.&nbsp;821 : I. Allegro moderato](https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1)
 
 
 <p style="text-align:center; color:grey">
@@ -167,7 +167,7 @@ Bertrand Cuiller <br>
 2.10 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Präludium g-Moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
+#### [Präludium g-moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
@@ -253,7 +253,7 @@ CHARLES MUNCH
 2.15 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1797)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-Dur, Op.&nbsp;76 №&nbsp;6 / Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
+#### [Streichquartett D-dur, Op.&nbsp;76 №&nbsp;6 / Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orlando-haydn76.png" width="800"> <br>
@@ -423,7 +423,7 @@ EMMANUELLE HAÏM
 2.24 &nbsp;\|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Fantasie Es-Dur, P.&nbsp;127](https://www.youtube.com/watch?v=EDc7uCzOHzE&list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&index=8)
+#### [Fantasie Es-dur, P.&nbsp;127](https://www.youtube.com/watch?v=EDc7uCzOHzE&list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&index=8)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/leonhardt-pachelbel.png" width="800"> <br>
@@ -438,7 +438,7 @@ Gustav Leonhardt <br>
 2.25 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Fantasie № 4 c-Moll, KV 475](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
+#### [Fantasie № 4 c-moll, KV 475](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/badura-skoda-mozart475.png" width="800"> <br>

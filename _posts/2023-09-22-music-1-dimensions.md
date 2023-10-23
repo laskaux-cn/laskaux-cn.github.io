@@ -251,7 +251,7 @@ SIMON RATTLE
 1.14 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-Dur, Op.&nbsp;71 №&nbsp;2 / Hob.&nbsp;III:70 : III.&nbsp;Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
+#### [Streichquartett D-dur, Op.&nbsp;71 №&nbsp;2 / Hob.&nbsp;III:70 : III.&nbsp;Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
@@ -271,7 +271,7 @@ Pražákovo kvarteto: <br>
 1.15 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquintett № 6 Es-Dur, KV 614 : III. Menuetto](https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7)
+#### [Streichquintett № 6 Es-dur, KV 614 : III. Menuetto](https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7)
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/talich-mozart.png" width="800"> <br>
@@ -433,7 +433,7 @@ GABRIEL GARRIDO
 1.24 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
 <p style="margin-bottom:-0.6em"> </p>
 
-#### [Sonate № 3 C-Dur für Violine solo, BWV&nbsp;1005 : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
+#### [Sonate № 3 C-dur für Violine solo, BWV&nbsp;1005 : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
 
 
 <p style="text-align:center; color:grey">
