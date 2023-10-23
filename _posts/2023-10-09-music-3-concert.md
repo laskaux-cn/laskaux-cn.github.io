@@ -108,7 +108,7 @@ Lluís Vich Vocalis <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11">
-	<i>La Pellegrina</i> : 
+	<i>Intermedi della Pellegrina</i> : 
 	<nobr>IV.ii. &lsquo;&lsquo;Dal vago e bel sereno&rsquo;&rsquo;</nobr>
 </a>
 </h4>
@@ -321,7 +321,7 @@ I Musici de Montréal  <br>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
 	<i>Brandenburgische Konzerte</i> : 
-	<nobr>№ 2 F-dur </nobr>,
+	<nobr>№ 2 F-dur</nobr>,
 	<nobr>BWV 1047 </nobr>
 </a>
 </h4>
@@ -361,6 +361,8 @@ RINALDO ALESSANDRINI
 <nobr>Anthony Robson / Felix Warnock </nobr> <br>
 <span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
 Orchestra of the Age of Enlightenment <br>
+ELIZABETH WALLFISCH 
+<br>
 <span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
 
 <br>
@@ -377,7 +379,9 @@ Orchestra of the Age of Enlightenment <br>
 <a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
 	IV. Scena e canto gitano
 </a>
+</nobr>
 –
+<nobr>
 <a href="https://www.youtube.com/watch?v=3jHXgNUvxTU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=5">
 	V. Fandango asturiano
 </a>
@@ -462,7 +466,7 @@ PIERRE BOULEZ
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/koopman-handel.png" width="800"> <br>
 
-Ton Koopman <br>
+TON KOOPMAN <br>
 Amsterdam Baroque Orchestra <br>
 <span style="font-size:0.87em">(Sint-Bartholomaeuskerk, Beek, <nobr>Berg en Dal &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1984)</nobr> </span> </p> 
 
@@ -485,7 +489,7 @@ Amsterdam Baroque Orchestra <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
 
-Gustav Leonhardt & Ensemble <br>
+GUSTAV LEONHARDT & Ensemble <br>
 <span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
 
 <br>
