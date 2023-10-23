@@ -126,7 +126,6 @@ RAPHAËL PICHON
 
 
 
-
 <p style="text-align:center">
 	3.6 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
 </p>
@@ -502,11 +501,17 @@ GUSTAV LEONHARDT & Ensemble <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
 	Klavierkonzert № 1 C-dur, 
 	<nobr>Op. 15</nobr> : 
-	<nobr>I. Allegro con brio</nobr>
+<nobr>
+<a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1&t=3s">
+	I. Allegro con brio
 </a>
+–
+<a href="https://www.youtube.com/watch?v=qY64Riz2N8k&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=3">
+	III. Rondo
+</a>
+</nobr>
 </h4>
 
 

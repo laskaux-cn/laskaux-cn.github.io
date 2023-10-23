@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 22 Oct 2023 23:51:49 -0400</pubDate>
+    <pubDate>Mon, 23 Oct 2023 12:23:08 -0400</pubDate>
     
       <item>
         <title>音乐笔记 3 &amp;colon; 特立与协同</title>
@@ -453,11 +453,17 @@ GUSTAV LEONHARDT &amp;amp; Ensemble &lt;br /&gt;
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=PUYzOTb4I7Q&amp;amp;list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&amp;amp;index=1&quot;&gt;
 	Klavierkonzert № 1 C-dur, 
 	&lt;nobr&gt;Op. 15&lt;/nobr&gt; : 
-	&lt;nobr&gt;I. Allegro con brio&lt;/nobr&gt;
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=PUYzOTb4I7Q&amp;amp;list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&amp;amp;index=1&amp;amp;t=3s&quot;&gt;
+	I. Allegro con brio
 &lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=qY64Riz2N8k&amp;amp;list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&amp;amp;index=3&quot;&gt;
+	III. Rondo
+&lt;/a&gt;
+&lt;/nobr&gt;
 &lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
@@ -595,10 +601,15 @@ Concertgebouworkest &lt;br /&gt;
         <title>音乐笔记 2 &amp;colon; 约束与自由</title>
         <link>/2023/10/09/music-2-freedom.html</link>
         <guid isPermaLink="true">/2023/10/09/music-2-freedom.html</guid>
-        <description>&lt;p&gt;2.1  |  CHRISTOPH WILLIBALD GLUCK  (1762)&lt;/p&gt;
+        <description>&lt;p style=&quot;text-align:center&quot;&gt;
+	2.1 &amp;nbsp;|&amp;nbsp; CHRISTOPH WILLIBALD GLUCK &amp;nbsp;(1762)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;orfeo-ed-euridice--overtura&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=d-HwlM_AAZk&amp;amp;list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&amp;amp;index=1&quot;&gt;&lt;em&gt;Orfeo ed Euridice&lt;/em&gt; : Overtura&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=d-HwlM_AAZk&amp;amp;list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&amp;amp;index=1&quot;&gt;
+	&lt;i&gt;Orfeo ed Euridice&lt;/i&gt; : Overtura
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/richter-gluck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -610,10 +621,15 @@ KARL RICHTER
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.2  |  LUDWIG VAN BEETHOVEN  (1804)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.2 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1804)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sinfonie--3--i-allegro-con-brio&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link&quot;&gt;Sinfonie № 3 : I. Allegro con brio&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link&quot;&gt;
+	Sinfonie № 3 : &lt;nobr&gt;I. Allegro con brio&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/aureum-beethoven3.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -623,10 +639,16 @@ Collegium Aureum &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.3  |  CÉSAR FRANCK  (1888)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.3 &amp;nbsp;|&amp;nbsp; CÉSAR FRANCK &amp;nbsp;(1888)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;symphonie-en-ré-mineur--i-lento--allegro-non-troppo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=d-HwlM_AAZk&amp;amp;list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&amp;amp;index=1&quot;&gt;Symphonie en ré mineur : I. Lento – Allegro non troppo&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=d-HwlM_AAZk&amp;amp;list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&amp;amp;index=1&quot;&gt;
+	Symphonie en ré mineur, &lt;nobr&gt;FWV 48&lt;/nobr&gt; : 
+	&lt;nobr&gt;I. Lento – Allegro non troppo&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/herreweghe-franck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -638,10 +660,22 @@ PHILIPPE HERREWEGHE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.4  |  СЕРГЕЙ ПРОКОФЬЕВ  (1917)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.4 &amp;nbsp;|&amp;nbsp; СЕРГЕЙ ПРОКОФЬЕВ &amp;nbsp;(1917)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;симфония--1--i-allegro--iv-finale&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_FKv9moORv0&amp;amp;list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&amp;amp;index=1&quot;&gt;Симфония № 1 : I. Allegro&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=MS6vkBMETEI&amp;amp;list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&amp;amp;index=4&quot;&gt;IV. Finale&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Симфония № 1 : 
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=_FKv9moORv0&amp;amp;list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&amp;amp;index=1&quot;&gt;
+	I. Allegro
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=MS6vkBMETEI&amp;amp;list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&amp;amp;index=4&quot;&gt;
+	IV. Finale
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/orpheus-prokofiev1.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -651,10 +685,16 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.5  |  FRANZ SCHUBERT  (1824)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.5 &amp;nbsp;|&amp;nbsp; FRANZ SCHUBERT &amp;nbsp;(1824)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sonate-a-moll-für-arpeggione-und-klavier-d821--i-allegro-moderato&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=z05m-4uMkTw&amp;amp;list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&amp;amp;index=1&quot;&gt;Sonate a-moll für Arpeggione und Klavier, D. 821 : I. Allegro moderato&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=z05m-4uMkTw&amp;amp;list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&amp;amp;index=1&quot;&gt;
+	Sonate a-moll für Arpeggione und Klavier, &lt;nobr&gt;D. 821&lt;/nobr&gt; :
+	&lt;nobr&gt;I. Allegro moderato&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/rudin-schubert.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -664,10 +704,15 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.6  |  MAURICE RAVEL  (1905)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.6 &amp;nbsp;|&amp;nbsp; MAURICE RAVEL &amp;nbsp;(1905)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;introduction-et-allegro-m46&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;Introduction et allegro, M. 46&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;
+	Introduction et allegro, &lt;nobr&gt;M. 46&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/challan-ravel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -684,10 +729,15 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.7  |  ИГОРЬ СТРАВИНСКИЙ  (1923)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.7 &amp;nbsp;|&amp;nbsp; ИГОРЬ СТРАВИНСКИЙ &amp;nbsp;(1923)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;octuor-pour-instruments-à-vent--i-sinfonia&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;Octuor pour instruments à vent : I. Sinfonia&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;
+	Octuor pour instruments à vent, &lt;nobr&gt;I. Sinfonia&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/salonen-stravinsky-octet.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -700,10 +750,16 @@ ESA-PEKKA SALONEN
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.8  |  ANTON WEBERN  (1934)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.8 &amp;nbsp;|&amp;nbsp; ANTON WEBERN &amp;nbsp;(1934)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;konzert-für-9-instrumente-op24--ii-sehr-langsam&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vx_0zTWr5f4&amp;amp;list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&amp;amp;index=41&quot;&gt;Konzert für 9 Instrumente, Op. 24 : II. Sehr langsam&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=vx_0zTWr5f4&amp;amp;list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&amp;amp;index=41&quot;&gt;
+	Konzert für 9 Instrumente, &lt;nobr&gt;Op. 24&lt;/nobr&gt; :
+	&lt;nobr&gt;II. Sehr langsam&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/boulez-webern.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -717,10 +773,15 @@ PIERRE BOULEZ
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.10  |  WILLIAM BYRD  (c. 1540–1623)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.9 &amp;nbsp;|&amp;nbsp; WILLIAM BYRD &amp;nbsp;(c. 1540–1623)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;fantasia-in-g-major-t465--mb62--fvb261&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LBroEjQNAHQ&amp;amp;list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&amp;amp;index=12&quot;&gt;Fantasia in G major, T. 465 / MB 62 / FVB 261&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=LBroEjQNAHQ&amp;amp;list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&amp;amp;index=12&quot;&gt;
+	Fantasia in G major, &lt;nobr&gt;T. 465 / MB 62 / FVB 261&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/cuiller-byrd.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -730,10 +791,15 @@ Bertrand Cuiller &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.10  |  DIETRICH BUXTEHUDE  (c. 1637–1707)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.10 &amp;nbsp;|&amp;nbsp; DIETRICH BUXTEHUDE &amp;nbsp;(c. 1637–1707)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;präludium-g-moll-buxwv149&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7C1V-sS4Viw&amp;amp;list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&amp;amp;index=5&quot;&gt;Präludium g-moll, BuxWV 149&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=7C1V-sS4Viw&amp;amp;list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&amp;amp;index=5&quot;&gt;
+	Präludium g-moll, &lt;nobr&gt;BuxWV 149&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/chapuis-buxtehude.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -743,10 +809,15 @@ Michel Chapuis &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.11  |  WOLFGANG AMADEUS MOZART  (1788)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.11 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1788)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sinfonie--41--iv-molto-allegro&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oxv_seW2ZjY&amp;amp;list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&amp;amp;index=4&quot;&gt;Sinfonie № 41 : IV. Molto allegro&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=oxv_seW2ZjY&amp;amp;list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&amp;amp;index=4&quot;&gt;
+	Sinfonie № 41 : &lt;nobr&gt;IV. Molto allegro&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/mackerras-mozart41.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -758,10 +829,15 @@ CHARLES MACKERRAS
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.12  |  ANTON BRUCKNER  (1876/1878)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.12 &amp;nbsp;|&amp;nbsp; ANTON BRUCKNER &amp;nbsp;(1876)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sinfonie--5--iv-finale&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BtTs8RXA8Us&amp;amp;list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&amp;amp;index=4&quot;&gt;Sinfonie № 5 : IV. Finale&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=BtTs8RXA8Us&amp;amp;list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&amp;amp;index=4&quot;&gt;
+	Sinfonie № 5 : &lt;nobr&gt;IV. Finale&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/haitink-bruckner5.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -773,10 +849,15 @@ BERNARD HAITINK
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.13  |  BÉLA BARTÓK  (1936)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.13 &amp;nbsp;|&amp;nbsp; BÉLA BARTÓK &amp;nbsp;(1936)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;zene-húros-hangszerekre-ütőkre-és-cselesztára--i-andante-tranquillo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TCY0_3-IQe0&amp;amp;list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&amp;amp;index=1&quot;&gt;Zene húros hangszerekre, ütőkre és cselesztára : I. Andante tranquillo&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=TCY0_3-IQe0&amp;amp;list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&amp;amp;index=1&quot;&gt;
+	Zene húros hangszerekre, ütőkre és cselesztára : &lt;nobr&gt;I. Andante tranquillo&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kocsis-bartok-mspc.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -788,10 +869,15 @@ ZOLTÁN KOCSIS
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.14  |  DARIUS MILHAUD  (1923)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.14 &amp;nbsp;|&amp;nbsp; DARIUS MILHAUD &amp;nbsp;(1923)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;la-création-du-monde&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wuuQgM2OmtI&amp;amp;list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&amp;amp;index=1&quot;&gt;&lt;em&gt;La Création du monde&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=wuuQgM2OmtI&amp;amp;list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&amp;amp;index=1&quot;&gt;
+	&lt;i&gt;La Création du monde&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/munch-milhaud.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -804,10 +890,16 @@ CHARLES MUNCH
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.15  |  JOSEPH HAYDN  (1797)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.15 &amp;nbsp;|&amp;nbsp; JOSEPH HAYDN &amp;nbsp;(1797)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;streichquartett-d-dur-op76-6--hobiii80--iifantasia&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QA0Z5NlkAa4&amp;amp;list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&amp;amp;index=6&quot;&gt;Streichquartett D-dur, Op. 76 № 6 / Hob. III:80 : II. Fantasia&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=QA0Z5NlkAa4&amp;amp;list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&amp;amp;index=6&quot;&gt;
+	Streichquartett D-dur, &lt;nobr&gt;Op. 76 № 6 / Hob. III:80&lt;/nobr&gt; :
+	&lt;nobr&gt;II. Fantasia&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/orlando-haydn76.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -820,10 +912,16 @@ Orlando Quartet: &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.16  |  JEAN-PHILIPPE RAMEAU  (1735)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.16 &amp;nbsp;|&amp;nbsp; JEAN-PHILIPPE RAMEAU &amp;nbsp;(1735)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;les-indes-galantes--iiivii-tendre-amour&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/1ld0Eftq9ss2PyY9HsnCEvKFbRT3qAN4X/view?usp=sharing&quot;&gt;&lt;em&gt;Les Indes galantes&lt;/em&gt; : III.vii. ‘‘Tendre Amour’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=QA0Z5NlkAa4&amp;amp;list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&amp;amp;index=6&quot;&gt;
+	&lt;i&gt;Les Indes galantes&lt;/i&gt; :
+	&lt;nobr&gt;III.vii. &amp;lsquo;&amp;lsquo;Tendre Amour&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/tournet-rameau-indes.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -836,10 +934,20 @@ VALENTIN TOURNET
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.17  |  ИГОРЬ СТРАВИНСКИЙ  (1930)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.17 &amp;nbsp;|&amp;nbsp; ИГОРЬ СТРАВИНСКИЙ &amp;nbsp;(1930)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;symphonie-de-psaumes--iexaudi-orationem-meam-domine--iiexpectans-expectavi-dominum&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5WTPVUtmhmI&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=3&quot;&gt;&lt;em&gt;Symphonie de Psaumes&lt;/em&gt; : I. ‘‘Exaudi orationem meam, Domine’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=7Kppm_AtMLA&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=4&quot;&gt;II. ‘‘Expectans expectavi Dominum’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Symphonie de Psaumes&lt;/i&gt; :
+&lt;a href=&quot;https://www.youtube.com/watch?v=5WTPVUtmhmI&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=3&quot;&gt;
+	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Exaudi orationem meam, Domine&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=7Kppm_AtMLA&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=4&quot;&gt;
+	&lt;nobr&gt;II. &amp;lsquo;&amp;lsquo;Expectans expectavi Dominum&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/ancerl-stravinsky.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -853,10 +961,15 @@ KAREL ANČERL
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.18  |  PEROTINUS  (c. 1160–1230)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.18 &amp;nbsp;|&amp;nbsp; PEROTINUS &amp;nbsp;(c. 1160–1230)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;viderunt-omnes&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=H9QhVBYrhmE&amp;amp;list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&amp;amp;index=5&quot;&gt;&lt;em&gt;Viderunt omnes&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=H9QhVBYrhmE&amp;amp;list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&amp;amp;index=5&quot;&gt;
+	&lt;i&gt;Viderunt omnes&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/munrow-notre-dame.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -868,10 +981,21 @@ DAVID MUNROW
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.19  |  CLAUDIO MONTEVERDI  (1610)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.19 &amp;nbsp;|&amp;nbsp; CLAUDIO MONTEVERDI &amp;nbsp;(1610)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;vespro-della-beata-vergine--i-deus-in-adjutorium--xi-sancta-maria&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BxGF_avQwUw&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=10&quot;&gt;&lt;em&gt;Vespro della Beata Vergine&lt;/em&gt; : I. ‘‘Deus in adjutorium’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=702hPWpxJ1g&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=20&quot;&gt;XI. ‘‘Sancta Maria’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Vespro della Beata Vergine&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
+	&lt;nobr&gt;SV 206&lt;/nobr&gt; :
+&lt;a href=&quot;https://www.youtube.com/watch?v=BxGF_avQwUw&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=10&quot;&gt;
+	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Deus in adjutorium&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=702hPWpxJ1g&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=20&quot;&gt;
+	&lt;nobr&gt;XI. &amp;lsquo;&amp;lsquo;Sancta Maria&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/suzuki-monteverdi1610.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -884,10 +1008,23 @@ Concerto Palatino &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.20  |  ANTONIO VIVALDI  (1717)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.20 &amp;nbsp;|&amp;nbsp; ANTONIO VIVALDI &amp;nbsp;(1717)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;nisi-dominus--ivcum-dederit--viigloria-patri&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=diPUP_ylyF8&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=18&quot;&gt;&lt;em&gt;Nisi Dominus&lt;/em&gt; : IV. ‘‘Cum dederit’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=QyKTB57bXuw&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=21&quot;&gt;VII. ‘‘Gloria Patri’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Nisi Dominus&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
+	&lt;nobr&gt;RV 608&lt;/nobr&gt; :
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=diPUP_ylyF8&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=18&quot;&gt;
+	IV. &amp;lsquo;&amp;lsquo;Cum dederit&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=QyKTB57bXuw&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=21&quot;&gt;
+	VII. &amp;lsquo;&amp;lsquo;Gloria Patri&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/dumestre-vivaldi.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -900,10 +1037,22 @@ VINCENT DUMESTRE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.21  |  GIOACHINO ROSSINI  (1863/1867)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.21 &amp;nbsp;|&amp;nbsp; GIOACHINO ROSSINI &amp;nbsp;(1863)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;petite-messe-solennelle--iikyrie-eleison--iiiiicrucifixus&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jhLur2_7WqY&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=1&quot;&gt;&lt;em&gt;Petite messe solennelle&lt;/em&gt; : I.i. ‘‘Kyrie eleison’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=8JLbCeSAj0c&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=12&quot;&gt;III.ii. ‘‘Crucifixus’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Petite messe solennelle&lt;/i&gt; :
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jhLur2_7WqY&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=1&quot;&gt;
+	I.i. &amp;lsquo;&amp;lsquo;Kyrie eleison&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=8JLbCeSAj0c&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=12&quot;&gt;
+	III.ii. &amp;lsquo;&amp;lsquo;Crucifixus&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/spering-rossini.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -916,10 +1065,22 @@ CHRISTOPH SPERING
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.22  |  GIUSEPPE VERDI  (1874)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.22 &amp;nbsp;|&amp;nbsp; GIUSEPPE VERDI &amp;nbsp;(1874)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;messa-da-requiem--iidies-irae--viilibera-me&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tERUK57DM-Q&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=2&quot;&gt;&lt;em&gt;Messa da Requiem&lt;/em&gt; : II. ‘‘Dies irae’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=1rySbzcQvPA&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=7&quot;&gt;VII. ‘‘Libera me’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Messa da Requiem&lt;/i&gt; :
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=tERUK57DM-Q&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=2&quot;&gt;
+	II. &amp;lsquo;&amp;lsquo;Dies irae&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=1rySbzcQvPA&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=7&quot;&gt;
+	VII. &amp;lsquo;&amp;lsquo;Libera me&amp;rsquo;&amp;rsquo;
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/shaw-verdi-requiem.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -934,10 +1095,25 @@ ROBERT SHAW
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.23  |  JOHANN SEBASTIAN BACH  (1723)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.23 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(1723)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;magnificat-bwv243--imagnificat--iiiquia-respexit-humilitatem--ixesurientes-implevit-bonis&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2LhZ-tdZw7A&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=1&quot;&gt;Magnificat, BWV 243 : I. ‘‘Magnificat’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=A9il903fgsE&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=3&quot;&gt;III. ‘‘Quia respexit humilitatem’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=iJIZ5PK3ZC8&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=9&quot;&gt;IX. ‘‘Esurientes implevit bonis’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Magnificat&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
+	&lt;nobr&gt;BWV 243&lt;/nobr&gt; :
+&lt;a href=&quot;https://www.youtube.com/watch?v=2LhZ-tdZw7A&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=1&quot;&gt;
+	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Magnificat&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=A9il903fgsE&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=3&quot;&gt;
+	&lt;nobr&gt;III. &amp;lsquo;&amp;lsquo;Quia respexit humilitatem&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=iJIZ5PK3ZC8&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=9&quot;&gt;
+	&lt;nobr&gt;IX. &amp;lsquo;&amp;lsquo;Esurientes implevit bonis&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/haim-bach-magnificat.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -950,10 +1126,16 @@ EMMANUELLE HAÏM
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.24  |  JOHANN PACHELBEL  (1653–1706)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.24 &amp;nbsp;|&amp;nbsp; JOHANN PACHELBEL &amp;nbsp;(1653–1706)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;fantasie-es-dur-p127&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EDc7uCzOHzE&amp;amp;list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&amp;amp;index=8&quot;&gt;Fantasie Es-dur, P. 127&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=EDc7uCzOHzE&amp;amp;list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&amp;amp;index=8&quot;&gt;
+	Fantasie Es-dur : 
+	&lt;nobr&gt;P. 127&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/leonhardt-pachelbel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -963,10 +1145,16 @@ Gustav Leonhardt &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.25  |  WOLFGANG AMADEUS MOZART  (1785)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.25 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1785)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;fantasie--4-c-moll-kv-475&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oxv_seW2ZjY&amp;amp;list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&amp;amp;index=4&quot;&gt;Fantasie № 4 c-moll, KV 475&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=oxv_seW2ZjY&amp;amp;list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&amp;amp;index=4&quot;&gt;
+	Fantasie № 4 c-moll : 
+	&lt;nobr&gt;KV 475&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/badura-skoda-mozart475.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -976,10 +1164,21 @@ Paul Badura-Skoda &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.26  |  FRÉDÉRIC CHOPIN  (1839)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.26 &amp;nbsp;|&amp;nbsp; FRÉDÉRIC CHOPIN &amp;nbsp;(1839)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;24-préludes-op-28---4-en-mi-mineur---15-en-ré-bémol-majeur&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LUlrlysEKQk&amp;amp;t=238s&quot;&gt;24 Préludes, Op. 28 : № 4 en mi mineur&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=LUlrlysEKQk&amp;amp;t=1245s&quot;&gt;№ 15 en ré bémol majeur&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	24 Préludes,
+	&lt;nobr&gt;Op. 28&lt;/nobr&gt; :
+&lt;a href=&quot;https://www.youtube.com/watch?v=LUlrlysEKQk&amp;amp;t=238s&quot;&gt;
+	&lt;nobr&gt;№ 4 en mi mineur&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=LUlrlysEKQk&amp;amp;t=1245s&quot;&gt;
+	&lt;nobr&gt;№ 15 en ré bémol majeur&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/moravec-chopin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -989,10 +1188,20 @@ Ivan Moravec &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.27  |  CLAUDE DEBUSSY  (1910)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.27 &amp;nbsp;|&amp;nbsp; CLAUDE DEBUSSY &amp;nbsp;(1910)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;préludes-1er-livre--2voiles--10la-cathédrale-engloutie&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gAwjAxG2By4&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=2&quot;&gt;Préludes, 1&lt;sup&gt;er&lt;/sup&gt; Livre : № 2.&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;‘‘Voiles’’&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=z-Shy_JWQ8k&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=10&quot;&gt;№ 10.&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;‘‘La cathédrale engloutie’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Préludes, 1&lt;sup&gt;er&lt;/sup&gt; Livre :
+&lt;a href=&quot;https://www.youtube.com/watch?v=gAwjAxG2By4&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=2&quot;&gt;
+	&lt;nobr&gt;№ 2.&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;lsquo;&amp;lsquo;Voiles&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=z-Shy_JWQ8k&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=10&quot;&gt;
+	&lt;nobr&gt;№ 10.&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;lsquo;&amp;lsquo;La cathédrale engloutie&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/arrau-debussy.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1002,10 +1211,17 @@ Claudio Arrau &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.28  |  ARNOLD SCHÖNBERG  (1909)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.28 &amp;nbsp;|&amp;nbsp; ARNOLD SCHÖNBERG &amp;nbsp;(1909)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;3-klavierstücke-op-11--iimäßig&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VoSmPq_7Elw&amp;amp;list=OLAK5uy_kUL6koULmifJlW3nID7DMlq4-63mXIaus&amp;amp;index=2&quot;&gt;3 Klavierstücke, Op. 11 : II. Mäßig&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=VoSmPq_7Elw&amp;amp;list=OLAK5uy_kUL6koULmifJlW3nID7DMlq4-63mXIaus&amp;amp;index=2&quot;&gt;
+	3 Klavierstücke, 
+	&lt;nobr&gt;Op. 11&lt;/nobr&gt; : 
+	&lt;nobr&gt;II. Mäßig&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/pontinen-schoenberg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1015,10 +1231,15 @@ Roland Pöntinen &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.29  |  MILTON BABBITT  (1947)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.29 &amp;nbsp;|&amp;nbsp; MILTON BABBITT &amp;nbsp;(1947)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;3-compositions-for-piano--i--ii--iii&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mU9lw9uM_pE&amp;amp;list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&amp;amp;index=1&quot;&gt;3 Compositions for Piano : I&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=mU9lw9uM_pE&amp;amp;list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&amp;amp;index=1&amp;amp;t=86s&quot;&gt;II&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=mU9lw9uM_pE&amp;amp;list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&amp;amp;index=1&amp;amp;t=327s&quot;&gt;III&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=mU9lw9uM_pE&amp;amp;list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&amp;amp;index=1&quot;&gt;
+	3 Compositions for Piano
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/taub-babbitt.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1028,10 +1249,28 @@ Robert Taub &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.30  |  LUDWIG VAN BEETHOVEN  (1804)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.30 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1804)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;diabelli-variationen--xxiv-fughetta--xxxi-largo-molto-espressivo--xxxii-fuga--xxxiii-tempo-di-menuetto-moderato&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BmJqEek2nm4&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=26&quot;&gt;&lt;em&gt;Diabelli-Variationen&lt;/em&gt; : XXIV. Fughetta&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=IBDIkmHhouY&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=32&quot;&gt;XXXI. Largo, molto espressivo&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=JmnpgsjySQo&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=33&quot;&gt;XXXII. Fuga&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=EEHQ-_FFkGU&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=34&quot;&gt;XXXIII. Tempo di menuetto, moderato&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	&lt;i&gt;Diabelli-Variationen&lt;/i&gt; : 
+&lt;a href=&quot;https://www.youtube.com/watch?v=BmJqEek2nm4&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=26&quot;&gt;
+	&lt;nobr&gt;XXIV. Fughetta&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=IBDIkmHhouY&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=32&quot;&gt;
+	&lt;nobr&gt;XXXI. Largo, molto espressivo&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=JmnpgsjySQo&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=33&quot;&gt;
+	&lt;nobr&gt;XXXII. Fuga&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=EEHQ-_FFkGU&amp;amp;list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&amp;amp;index=34&quot;&gt;
+	&lt;nobr&gt;XXXIII. Tempo di Minuetto moderato&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/brautigam-diabelli.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1041,10 +1280,24 @@ Ronald Brautigam &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;2.31  |  ДМИТРИЙ ШОСТАКОВИЧ  (1937)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	2.31 &amp;nbsp;|&amp;nbsp; ДМИТРИЙ ШОСТАКОВИЧ &amp;nbsp;(1937)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;24-прелюдии-и-фуги---7-ля-мажор---8-фа-диез-минор---24-ре-минор&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RWJ-BdOyhd0&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=13&quot;&gt;24 прелюдии и фуги : № 7 ля мажор&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=BdGjQdG_J3U&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=15&quot;&gt;№ 8 фа-диез минор&lt;/a&gt; – &lt;a href=&quot;https://www.youtube.com/watch?v=LF9Rhw0n4X4&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=47&quot;&gt;№ 24 ре минор&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	24 прелюдии и фуги : 
+&lt;a href=&quot;https://www.youtube.com/watch?v=RWJ-BdOyhd0&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=13&quot;&gt;
+	&lt;nobr&gt;№ 7 ля мажор&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=BdGjQdG_J3U&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=15&quot;&gt;
+	&lt;nobr&gt;№ 8 фа-диез минор&lt;/nobr&gt;
+&lt;/a&gt;
+–
+&lt;a href=&quot;https://www.youtube.com/watch?v=LF9Rhw0n4X4&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=47&quot;&gt;
+	&lt;nobr&gt;№ 24 ре минор&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/scherbakov-shostakovich24.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1064,10 +1317,15 @@ Ronald Brautigam &lt;br /&gt;
         <title>音乐笔记 1 &amp;colon; 音乐的维度</title>
         <link>/2023/09/22/music-1-dimensions.html</link>
         <guid isPermaLink="true">/2023/09/22/music-1-dimensions.html</guid>
-        <description>&lt;p&gt;1.1  |  MAURICE RAVEL  (1920)&lt;/p&gt;
+        <description>&lt;p style=&quot;text-align:center&quot;&gt;
+	1.1 &amp;nbsp;|&amp;nbsp; MAURICE RAVEL &amp;nbsp;(1920)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;la-valse&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;&lt;em&gt;La valse&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;
+	&lt;i&gt;La valse&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/martinon-la-valse.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1079,10 +1337,16 @@ JEAN MARTINON
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.2  |  RICHARD STRAUSS  (1911/1944)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.2 &amp;nbsp;|&amp;nbsp; RICHARD STRAUSS &amp;nbsp;(1911/1944)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;der-rosenkavalier--walzerfolge--1&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7PP5cMyts58&amp;amp;list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&amp;amp;index=2&quot;&gt;&lt;em&gt;Der Rosenkavalier&lt;/em&gt; : Walzerfolge № 1&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=7PP5cMyts58&amp;amp;list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&amp;amp;index=2&quot;&gt;
+	&lt;i&gt;Der Rosenkavalier&lt;/i&gt; : 
+	&lt;nobr&gt;Walzerfolge № 1&lt;/nobr&gt;, &lt;nobr&gt;TrV 227c&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/bolmstedt-rosenkavalier.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1096,10 +1360,16 @@ HERBERT BLOMSTEDT
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.3  |  AARON COPLAND  (1942)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.3 &amp;nbsp;|&amp;nbsp; AARON COPLAND &amp;nbsp;(1942)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;rodeo--iv-saturday-night-waltz&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ZHeauV0fOA&amp;amp;t=697s&quot;&gt;&lt;em&gt;Rodeo&lt;/em&gt; : IV. ‘‘Saturday Night Waltz’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=7ZHeauV0fOA&amp;amp;t=697s&quot;&gt;
+	&lt;i&gt;Rodeo&lt;/i&gt; : 
+	&lt;nobr&gt;IV. &amp;lsquo;&amp;lsquo;Saturday Night Waltz&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/copland-copland.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1111,10 +1381,16 @@ AARON COPLAND
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.4  |  ALBAN BERG  (1925) &lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.4 &amp;nbsp;|&amp;nbsp; ALBAN BERG &amp;nbsp;(1925)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;wozzeck--iiiv-scherzo&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;&lt;em&gt;Wozzeck&lt;/em&gt; : II.iv. Scherzo&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=7ibNSFCLSxU&amp;amp;list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&amp;amp;index=9&amp;amp;t=111s&quot;&gt;
+	&lt;i&gt;Wozzeck&lt;/i&gt; : 
+	&lt;nobr&gt;II.iv. Scherzo&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/metzmacher-wozzeck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1127,10 +1403,16 @@ INGO METZMACHER
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.5  |  ДМИТРИЙ ШОСТАКОВИЧ  (1937)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.5 &amp;nbsp;|&amp;nbsp; МИТРИЙ ШОСТАКОВИЧ &amp;nbsp;(1937)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;симфония--5--ii-allegretto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Avt-KOQy1mo&amp;amp;t=907s&quot;&gt;Симфония № 5 : II. Allegretto&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=Avt-KOQy1mo&amp;amp;t=907s&quot;&gt;
+	Симфония № 5 : 
+	&lt;nobr&gt;II. Allegretto&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/mravinsky-shostakovich5.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1144,10 +1426,17 @@ INGO METZMACHER
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.6  |  PAUL HINDEMITH  (1922)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.6 &amp;nbsp;|&amp;nbsp; PAUL HINDEMITH &amp;nbsp;(1922)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;kleine-kammermusik-op24-2--ii-walzer&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=AZk7FQyAYfw&amp;amp;list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&amp;amp;index=2&quot;&gt;&lt;em&gt;Kleine Kammermusik&lt;/em&gt;, Op. 24 № 2 : II. Walzer&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=AZk7FQyAYfw&amp;amp;list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&amp;amp;index=2&quot;&gt;
+	&lt;i&gt;Kleine Kammermusik&lt;/i&gt;, 
+	&lt;nobr&gt;Op. 24 № 2&lt;/nobr&gt; : 
+	&lt;nobr&gt;II. Walzer&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/dullaert-hindemith.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1163,10 +1452,17 @@ INGO METZMACHER
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.7  |  ARNOLD SCHÖNBERG  (1923)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.7 &amp;nbsp;|&amp;nbsp; ARNOLD SCHÖNBERG &amp;nbsp;(1923)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;5-klavierstücke-op-23--vwalzer&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=PR0VCnQks7M&amp;amp;list=OLAK5uy_kX6KJ8X6x87dsrWJWOExH2XIq35gXw5UE&amp;amp;t=532&quot;&gt;5 Klavierstücke, Op. 23 : V. Walzer&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=PR0VCnQks7M&amp;amp;list=OLAK5uy_kX6KJ8X6x87dsrWJWOExH2XIq35gXw5UE&amp;amp;t=532&quot;&gt;
+	5 Klavierstücke, 
+	&lt;nobr&gt;Op. 23&lt;/nobr&gt; : 
+	&lt;nobr&gt;V. Walzer&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/helffer-schoenberg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1176,10 +1472,17 @@ Claude Helffer &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.8  |  MARC-ANTOINE CHARPENTIER  &lt;nobr&gt;(1688/1698)&lt;/nobr&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.8 &amp;nbsp;|&amp;nbsp; MARC-ANTOINE CHARPENTIER &amp;nbsp;&lt;nobr&gt;(1688/1698)&lt;/nobr&gt;
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;te-deum--h-146--i-prélude&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;&lt;em&gt;Te Deum&lt;/em&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt; &lt;/span&gt;, H. 146 : I. Prélude&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;
+	&lt;i&gt;Te Deum&lt;/i&gt;, 
+	&lt;nobr&gt;H. 146&lt;/nobr&gt; : 
+	&lt;nobr&gt;I. Prélude&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/christie-te-deum.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1191,10 +1494,16 @@ WILLIAM CHRISTIE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.9  |  HECTOR BERLIOZ  (1830)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.9 &amp;nbsp;|&amp;nbsp; HECTOR BERLIOZ &amp;nbsp;(1830)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;symphonie-fantastique--iv-marche-au-supplice&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;&lt;em&gt;Symphonie fantastique&lt;/em&gt; : IV. ‘‘Marche au supplice’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;
+	&lt;i&gt;Symphonie fantastique&lt;/i&gt; : 
+	&lt;nobr&gt;IV. &amp;lsquo;&amp;lsquo;Marche au supplice&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/munch-sym-fantas.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1208,10 +1517,16 @@ CHARLES MUNCH
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.10  |  ИГОРЬ СТРАВИНСКИЙ  (1917)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.10 &amp;nbsp;|&amp;nbsp; ИГОРЬ СТРАВИНСКИЙ &amp;nbsp;(1917)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;lhistoire-du-soldat--iimarche-royale&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;&lt;em&gt;L’Histoire du soldat&lt;/em&gt; : II. ‘‘Marche royale’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;
+	&lt;i&gt;L&amp;apos;Histoire du soldat&lt;/i&gt; : 
+	&lt;nobr&gt;II. &amp;lsquo;&amp;lsquo;Marche royale&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/markevitch-soldat.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1232,10 +1547,16 @@ CHARLES MUNCH
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.11  |  LUDWIG VAN BEETHOVEN  (1812)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.11 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1812)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sinfonie--7--ii-allegretto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=93IOV96WHqw&amp;amp;t=943s&quot;&gt;Sinfonie № 7 : II. Allegretto&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=93IOV96WHqw&amp;amp;t=943s&quot;&gt;
+	Sinfonie № 7 : 
+	&lt;nobr&gt;II. Allegretto&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/aureum-beethoven7.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1245,10 +1566,16 @@ Collegium Aureum &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.12  |  GUSTAV MAHLER  (1888)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.12 &amp;nbsp;|&amp;nbsp; GUSTAV MAHLER &amp;nbsp;(1888)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sinfonie--1--iii-feierlich-und-gemessen-ohne-zu-schleppen&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;Sinfonie № 1 : III. Feierlich und gemessen, ohne zu schleppen&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;
+	Sinfonie № 1 : 
+	III.&amp;nbsp;Feierlich und gemessen, &lt;nobr&gt;ohne zu schleppen&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kubelik-mahler1.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1259,10 +1586,16 @@ RAFAEL KUBELIK &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.13  |  ANTON WEBERN  (1909)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.13 &amp;nbsp;|&amp;nbsp; ANTON WEBERN &amp;nbsp;(1909)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;6-stücke-für-grosses-orchester-op-6--iv-langsam&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dd-pdxOYQOc&amp;amp;list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&amp;amp;index=9&quot;&gt;6 Stücke für grosses Orchester, Op. 6 : IV. Langsam&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=dd-pdxOYQOc&amp;amp;list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&amp;amp;index=9&quot;&gt;
+	6 Stücke für grosses Orchester, &lt;nobr&gt;Op. 6 : 
+	IV. Langsam&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/rattle-webern.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1274,10 +1607,16 @@ SIMON RATTLE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.14  |  JOSEPH HAYDN  (1793)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.14 &amp;nbsp;|&amp;nbsp; JOSEPH HAYDN &amp;nbsp;(1793)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;streichquartett-d-dur-op71-2--hobiii70--iiimenuetto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;Streichquartett D-dur, Op. 71 № 2 / Hob. III:70 : III. Menuetto&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;
+	Streichquartett D-dur, &lt;nobr&gt;Op. 71 № 2 / Hob. III:70&lt;/nobr&gt; : 
+	&lt;nobr&gt;III. Menuetto&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/prazak-haydn71.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1292,10 +1631,16 @@ Pražákovo kvarteto: &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.15  |  WOLFGANG AMADEUS MOZART  (1791)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.15 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1791)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;streichquintett--6-es-dur-kv-614--iii-menuetto&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9wzI3QilA2s&amp;amp;list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&amp;amp;index=7&quot;&gt;Streichquintett № 6 Es-dur, KV 614 : III. Menuetto&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=9wzI3QilA2s&amp;amp;list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&amp;amp;index=7&quot;&gt;
+	Streichquintett № 6 Es-dur, &lt;nobr&gt;KV 614&lt;/nobr&gt; : 
+	&lt;nobr&gt;III. Menuetto&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/talich-mozart.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1312,10 +1657,16 @@ Talichovo kvarteto: &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.16  |  JOHANN SEBASTIAN BACH  (1741)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.16 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(1741)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;goldberg-variationen--xxxquodlibet&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JEofuLMeGX0&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=31&quot;&gt;&lt;em&gt;Goldberg-Variationen&lt;/em&gt; : XXX. Quodlibet&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=JEofuLMeGX0&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=31&quot;&gt;
+	&lt;i&gt;Goldberg-Variationen&lt;/i&gt; : 
+	&lt;nobr&gt;XXX. Quodlibet&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/frisch-goldberg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1325,10 +1676,16 @@ Céline Frisch &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.17  |  DOMENICO SCARLATTI  (1742)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.17 &amp;nbsp;|&amp;nbsp; DOMENICO SCARLATTI &amp;nbsp;(1742)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sonata-in-si-minore-k-87&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lYJkr3NKefA&amp;amp;list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&amp;amp;index=15&quot;&gt;Sonata in si minore, K. 87&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=lYJkr3NKefA&amp;amp;list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&amp;amp;index=15&quot;&gt;
+	Sonata in si minore : 
+	&lt;nobr&gt;K. 87&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/staier-scarlatti.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1338,10 +1695,16 @@ Andreas Staier &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.18  |  GEORGE FRIDERIC HANDEL  (1720)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.18 &amp;nbsp;|&amp;nbsp; GEORGE FRIDERIC HANDEL &amp;nbsp;(1720)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;suite-in-e-major-hwv-430--iv-air-and-5-variations&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt;Suite in E major, HWV 430 : IV. Air and 5 variations&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt;
+	Suite in E major, &lt;nobr&gt;HWV 430&lt;/nobr&gt; :
+	&lt;nobr&gt;IV. Air and 5 variations&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/borgstede-handel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1351,10 +1714,16 @@ Michael Borgstede &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.19  |  JEAN-PHILIPPE RAMEAU  (1727)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.19 &amp;nbsp;|&amp;nbsp; JEAN-PHILIPPE RAMEAU &amp;nbsp;(1727)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;suite-en-la-mineur-rct-5--vii-gavotte-et-6-doubles&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt;Suite en la mineur, RCT 5 : VII. Gavotte et 6 doubles&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=xwCYo9EyfFo&amp;amp;list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&amp;amp;index=36&quot;&gt;
+	Suite en la mineur, &lt;nobr&gt;RCT 5&lt;/nobr&gt; :
+	&lt;nobr&gt;VII. Gavotte et 6 doubles&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/rousset-rameau.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1364,10 +1733,16 @@ Christophe Rousset &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.20  |  ANTONIO VIVALDI  (1705)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.20 &amp;nbsp;|&amp;nbsp; ANTONIO VIVALDI &amp;nbsp;(1705)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sonata-in-re-minore-per-2-violini-e-basso-continuo-op1-12--rv63&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;Sonata in re minore per 2 violini e basso continuo, Op. 1 № 12 / RV 63&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;
+	Sonata in re minore per 2 violini e basso continuo : 
+	&lt;nobr&gt;Op. 1 № 12 / RV 63&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/lestravagante-vivaldi.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1381,10 +1756,15 @@ L'Estravagante: &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.21  |  MARIN MARAIS  (1701)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.21 &amp;nbsp;|&amp;nbsp; MARIN MARAIS &amp;nbsp;(1701)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;les-folies-despagne&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;&lt;em&gt;Les Folies d'Espagne&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;
+	&lt;i&gt;Les Folies d&amp;apos;Espagne&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/savall-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1397,10 +1777,16 @@ L'Estravagante: &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.22  |  CLAUDIO MONTEVERDI  (1607)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.22 &amp;nbsp;|&amp;nbsp; CLAUDIO MONTEVERDI &amp;nbsp;(1607)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;lorfeo--iii-lasciate-i-monti&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=deHVf00t8yc&amp;amp;list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&amp;amp;index=15&quot;&gt;&lt;em&gt;L'Orfeo&lt;/em&gt; : I.ii. ‘‘Lasciate i monti’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=deHVf00t8yc&amp;amp;list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&amp;amp;index=15&quot;&gt;
+	&lt;i&gt;L&amp;apos;Orfeo&lt;/i&gt; : 
+	&lt;nobr&gt;I.ii. &amp;lsquo;&amp;lsquo;Lasciate i monti&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/haim-monteverdi-orfeo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1413,10 +1799,16 @@ EMMANUELLE HAÏM
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.23  |  MARCO DA GAGLIANO  (1608)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.23 &amp;nbsp;|&amp;nbsp; MARCO DA GAGLIANO &amp;nbsp;(1608)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;la-dafne--v-piangete-ninfe&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=v2Ms8jL-qp0&amp;amp;list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&amp;amp;index=9&amp;amp;t=375s&quot;&gt;&lt;em&gt;La Dafne&lt;/em&gt; : V. ‘‘Piangete Ninfe’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=v2Ms8jL-qp0&amp;amp;list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&amp;amp;index=9&amp;amp;t=375s&quot;&gt;
+	&lt;i&gt;La Dafne&lt;/i&gt; : 
+	&lt;nobr&gt;V. &amp;lsquo;&amp;lsquo;Piangete Ninfe&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/garrido-dafne.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1429,10 +1821,16 @@ GABRIEL GARRIDO
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.24  |  JOHANN SEBASTIAN BACH  (1720)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.24 &amp;nbsp;|&amp;nbsp; OHANN SEBASTIAN BACH &amp;nbsp;(1720)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sonate--3-c-dur-für-violine-solo-bwv1005--i-adagio&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=q01E5fHAZQQ&amp;amp;list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&amp;amp;index=6&quot;&gt;Sonate № 3 C-dur für Violine solo, BWV 1005 : I. Adagio&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=q01E5fHAZQQ&amp;amp;list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&amp;amp;index=6&quot;&gt;
+	Sonate № 3 C-dur für Violine solo, &lt;nobr&gt;BWV 1005&lt;/nobr&gt; :
+	&lt;nobr&gt;I. Adagio&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/faust-bach.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1442,10 +1840,16 @@ Isabelle Faust &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.25  |  BÉLA BARTÓK  (1944)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.25 &amp;nbsp;|&amp;nbsp; BÉLA BARTÓK &amp;nbsp;(1944)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;sonata-for-solo-violin-sz117--bb124--iiimelodia&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tMF8JAKc8B8&amp;amp;list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&amp;amp;index=11&quot;&gt;Sonata for Solo Violin, Sz. 117 / BB 124 : III. Melodia&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=tMF8JAKc8B8&amp;amp;list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&amp;amp;index=11&quot;&gt;
+	Sonata for Solo Violin, &lt;nobr&gt;Sz. 117 / BB 124&lt;/nobr&gt; :
+	&lt;nobr&gt;III. Melodia&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/mullova-bartok.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1455,10 +1859,15 @@ Isabelle Faust &lt;br /&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.26  |  FRANCESCO LANDINI  (c. 1325–1397)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.26 &amp;nbsp;|&amp;nbsp; FRANCESCO LANDINI &amp;nbsp;(c. 1325–1397)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;ecco-la-primavera&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pNfGIGBwVFk&amp;amp;list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&amp;amp;index=8&quot;&gt;&lt;em&gt;Ecco la primavera&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=pNfGIGBwVFk&amp;amp;list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&amp;amp;index=8&quot;&gt;
+	&lt;i&gt;Ecco la primavera&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/waverly-landini.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1470,10 +1879,16 @@ MICHAEL JAFFEE
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.27  |  BENJAMIN BRITTEN  (1949)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.27 &amp;nbsp;|&amp;nbsp; BENJAMIN BRITTEN &amp;nbsp;(1949)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;spring-symphony--iiv-the-driving-boy&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=b7FY1ZIjlt8&amp;amp;list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&amp;amp;index=4&quot;&gt;&lt;em&gt;Spring Symphony&lt;/em&gt; : I.iv. ‘‘The Driving Boy’’&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=b7FY1ZIjlt8&amp;amp;list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&amp;amp;index=4&quot;&gt;
+	&lt;i&gt;Spring Symphony&lt;/i&gt; : 
+	&lt;nobr&gt;I.iv. &amp;lsquo;&amp;lsquo;The Driving Boy&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/hickox-britten.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1487,10 +1902,15 @@ RICHARD HICKOX
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.28  |  OLIVIER MESSIAEN  (1937)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.28 &amp;nbsp;|&amp;nbsp; OLIVIER MESSIAEN &amp;nbsp;(1937)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;o-sacrum-convivium&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Gomk6NbBD2I&amp;amp;list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&amp;amp;index=6&quot;&gt;&lt;em&gt;O sacrum convivium&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=Gomk6NbBD2I&amp;amp;list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&amp;amp;index=6&quot;&gt;
+	&lt;i&gt;O sacrum convivium&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/bernius-messiaen.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
@@ -1502,10 +1922,15 @@ FRIEDER BERNIUS
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;1.29  |  PEROTINUS  (c. 1160–1230)&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.29 &amp;nbsp;|&amp;nbsp; PEROTINUS &amp;nbsp;(c. 1160–1230)
+&lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-
-&lt;h4 id=&quot;beata-viscera&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oSaGqdFNbDs&amp;amp;list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&amp;amp;index=16&quot;&gt;&lt;em&gt;Beata viscera&lt;/em&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=oSaGqdFNbDs&amp;amp;list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&amp;amp;index=16&quot;&gt;
+	&lt;i&gt;Beata viscera&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/hillier-perotin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;

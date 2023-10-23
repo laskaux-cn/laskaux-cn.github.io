@@ -7,11 +7,16 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-2.1 &nbsp;\|&nbsp; CHRISTOPH WILLIBALD GLUCK &nbsp;(1762)
+
+<p style="text-align:center">
+	2.1 &nbsp;|&nbsp; CHRISTOPH WILLIBALD GLUCK &nbsp;(1762)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Orfeo ed Euridice_ : Overtura](https://www.youtube.com/watch?v=d-HwlM_AAZk&list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&index=1)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=d-HwlM_AAZk&list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&index=1">
+	<i>Orfeo ed Euridice</i> : Overtura
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/richter-gluck.png" width="800"> <br>
@@ -25,10 +30,16 @@ KARL RICHTER
 
 
 
-2.2 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Sinfonie № 3 : I. Allegro con brio](https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link)
+<p style="text-align:center">
+	2.2 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link">
+	Sinfonie № 3 : <nobr>I. Allegro con brio</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
@@ -40,11 +51,17 @@ Collegium Aureum <br>
 
 
 
-2.3 &nbsp;\|&nbsp; CÉSAR FRANCK &nbsp;(1888)
+
+<p style="text-align:center">
+	2.3 &nbsp;|&nbsp; CÉSAR FRANCK &nbsp;(1888)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Symphonie en ré mineur : I. Lento – Allegro non troppo](https://www.youtube.com/watch?v=d-HwlM_AAZk&list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&index=1)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=d-HwlM_AAZk&list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&index=1">
+	Symphonie en ré mineur, <nobr>FWV 48</nobr> : 
+	<nobr>I. Lento – Allegro non troppo</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/herreweghe-franck.png" width="800"> <br>
@@ -58,10 +75,23 @@ PHILIPPE HERREWEGHE
 
 
 
-2.4 &nbsp;\|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1917)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Симфония № 1 : I. Allegro](https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1) – [IV. Finale](https://www.youtube.com/watch?v=MS6vkBMETEI&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=4)
+<p style="text-align:center">
+	2.4 &nbsp;|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1917)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Симфония № 1 : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1">
+	I. Allegro
+</a>
+–
+<a href="https://www.youtube.com/watch?v=MS6vkBMETEI&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=4">
+	IV. Finale
+</a>
+</nobr>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="800"> <br>
@@ -73,11 +103,17 @@ Orpheus Chamber Orchestra <br>
 
 
 
-2.5 &nbsp;\|&nbsp; FRANZ SCHUBERT &nbsp;(1824)
+
+<p style="text-align:center">
+	2.5 &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1824)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonate a-moll für Arpeggione und Klavier, D.&nbsp;821 : I. Allegro moderato](https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1">
+	Sonate a-moll für Arpeggione und Klavier, <nobr>D. 821</nobr> :
+	<nobr>I. Allegro moderato</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rudin-schubert.png" width="800"> <br>
@@ -89,11 +125,16 @@ Orpheus Chamber Orchestra <br>
 
 
 
-2.6 &nbsp;\|&nbsp; MAURICE RAVEL &nbsp;(1905)
+
+<p style="text-align:center">
+	2.6 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1905)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Introduction et allegro, M.&nbsp;46](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s">
+	Introduction et allegro, <nobr>M. 46</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/challan-ravel.png" width="800"> <br>
@@ -112,10 +153,16 @@ Orpheus Chamber Orchestra <br>
 
 
 
-2.7 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1923)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Octuor pour instruments à vent : I. Sinfonia](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
+<p style="text-align:center">
+	2.7 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1923)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
+	Octuor pour instruments à vent, <nobr>I. Sinfonia</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/salonen-stravinsky-octet.png" width="800"> <br>
@@ -130,10 +177,16 @@ ESA-PEKKA SALONEN
 
 
 
-2.8 &nbsp;\|&nbsp; ANTON WEBERN &nbsp;(1934)
+<p style="text-align:center">
+	2.8 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1934)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Konzert für 9 Instrumente, Op.&nbsp;24 : II. Sehr langsam](https://www.youtube.com/watch?v=vx_0zTWr5f4&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=41)
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vx_0zTWr5f4&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=41">
+	Konzert für 9 Instrumente, <nobr>Op. 24</nobr> :
+	<nobr>II. Sehr langsam</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/boulez-webern.png" width="800"> <br>
@@ -149,10 +202,16 @@ PIERRE BOULEZ
 
 
 
-2.10 &nbsp;\|&nbsp; WILLIAM BYRD &nbsp;(c. 1540–1623)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Fantasia in G major, T.&nbsp;465 / MB&nbsp;62 / FVB&nbsp;261](https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12)
+<p style="text-align:center">
+	2.9 &nbsp;|&nbsp; WILLIAM BYRD &nbsp;(c. 1540–1623)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12">
+	Fantasia in G major, <nobr>T. 465 / MB 62 / FVB 261</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/cuiller-byrd.png" width="800"> <br>
@@ -164,10 +223,16 @@ Bertrand Cuiller <br>
 
 
 
-2.10 &nbsp;\|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Präludium g-moll, BuxWV&nbsp;149](https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5)
+<p style="text-align:center">
+	2.10 &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7C1V-sS4Viw&list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&index=5">
+	Präludium g-moll, <nobr>BuxWV 149</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
@@ -179,10 +244,16 @@ Michel Chapuis <br>
 
 
 
-2.11 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Sinfonie № 41 : IV. Molto allegro](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
+<p style="text-align:center">
+	2.11 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4">
+	Sinfonie № 41 : <nobr>IV. Molto allegro</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/mackerras-mozart41.png" width="800"> <br>
@@ -196,10 +267,16 @@ CHARLES MACKERRAS
 
 
 
-2.12 &nbsp;\|&nbsp; ANTON BRUCKNER &nbsp;(1876/1878)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Sinfonie № 5 : IV. Finale](https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4)
+<p style="text-align:center">
+	2.12 &nbsp;|&nbsp; ANTON BRUCKNER &nbsp;(1876)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4">
+	Sinfonie № 5 : <nobr>IV. Finale</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/haitink-bruckner5.png" width="800"> <br>
@@ -213,11 +290,16 @@ BERNARD HAITINK
 
 
 
-2.13 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1936)
+
+<p style="text-align:center">
+	2.13 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1936)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Zene húros hangszerekre, ütőkre és cselesztára : I. Andante tranquillo](https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=TCY0_3-IQe0&list=PLOqF49Jxl8i8QNfEUV9KnSqDZt05wYuja&index=1">
+	Zene húros hangszerekre, ütőkre és cselesztára : <nobr>I. Andante tranquillo</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/kocsis-bartok-mspc.png" width="800"> <br>
@@ -231,10 +313,16 @@ ZOLTÁN KOCSIS
 
 
 
-2.14 &nbsp;\|&nbsp; DARIUS MILHAUD &nbsp;(1923)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_La Création du monde_](https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=1)
+<p style="text-align:center">
+	2.14 &nbsp;|&nbsp; DARIUS MILHAUD &nbsp;(1923)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=1">
+	<i>La Création du monde</i>
+</a>
+</h4>
 
 
 <p style="text-align:center; color:grey">
@@ -250,10 +338,17 @@ CHARLES MUNCH
 
 
 
-2.15 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1797)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquartett D-dur, Op.&nbsp;76 №&nbsp;6 / Hob.&nbsp;III:80 : II.&nbsp;Fantasia](https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6)
+<p style="text-align:center">
+	2.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1797)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6">
+	Streichquartett D-dur, <nobr>Op. 76 № 6 / Hob. III:80</nobr> :
+	<nobr>II. Fantasia</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/orlando-haydn76.png" width="800"> <br>
@@ -268,11 +363,17 @@ Orlando Quartet: <br>
 
 
 
-2.16 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1735)
+
+<p style="text-align:center">
+	2.16 &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1735)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Les Indes galantes_ : III.vii. &lsquo;&lsquo;Tendre Amour''](https://drive.google.com/file/d/1ld0Eftq9ss2PyY9HsnCEvKFbRT3qAN4X/view?usp=sharing)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=QA0Z5NlkAa4&list=OLAK5uy_net2WUXn3h9TWQMi0QYvrpDRCe6LBMQsI&index=6">
+	<i>Les Indes galantes</i> :
+	<nobr>III.vii. &lsquo;&lsquo;Tendre Amour&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/tournet-rameau-indes.png" width="800"> <br>
@@ -287,10 +388,21 @@ VALENTIN TOURNET
 
 
 
-2.17 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Symphonie de Psaumes_ : I.&nbsp;&lsquo;&lsquo;Exaudi orationem meam, Domine''](https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3) – [II.&nbsp;&lsquo;&lsquo;Expectans expectavi Dominum''](https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4)
+<p style="text-align:center">
+	2.17 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	<i>Symphonie de Psaumes</i> :
+<a href="https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3">
+	<nobr>I. &lsquo;&lsquo;Exaudi orationem meam, Domine&rsquo;&rsquo;</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4">
+	<nobr>II. &lsquo;&lsquo;Expectans expectavi Dominum&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/ancerl-stravinsky.png" width="800"> <br>
@@ -306,10 +418,16 @@ KAREL ANČERL
 
 
 
-2.18 &nbsp;\|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Viderunt omnes_](https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5)
+<p style="text-align:center">
+	2.18 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5">
+	<i>Viderunt omnes</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/munrow-notre-dame.png" width="800"> <br>
@@ -323,11 +441,22 @@ DAVID MUNROW
 
 
 
-2.19 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+
+<p style="text-align:center">
+	2.19 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Vespro della Beata Vergine_ : I. &lsquo;&lsquo;Deus in adjutorium''](https://www.youtube.com/watch?v=BxGF_avQwUw&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=10) – [XI. &lsquo;&lsquo;Sancta Maria''](https://www.youtube.com/watch?v=702hPWpxJ1g&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=20)
-
+<h4 style="text-align:center"> 
+	<i>Vespro della Beata Vergine</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>SV 206</nobr> :
+<a href="https://www.youtube.com/watch?v=BxGF_avQwUw&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=10">
+	<nobr>I. &lsquo;&lsquo;Deus in adjutorium&rsquo;&rsquo;</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=702hPWpxJ1g&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=20">
+	<nobr>XI. &lsquo;&lsquo;Sancta Maria&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/suzuki-monteverdi1610.png" width="800"> <br>
@@ -342,11 +471,24 @@ Concerto Palatino <br>
 
 
 
-2.20 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+
+<p style="text-align:center">
+	2.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Nisi Dominus_ : IV.&nbsp;&lsquo;&lsquo;Cum dederit''](https://www.youtube.com/watch?v=diPUP_ylyF8&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=18) – [VII.&nbsp;&lsquo;&lsquo;Gloria Patri''](https://www.youtube.com/watch?v=QyKTB57bXuw&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=21)
-
+<h4 style="text-align:center"> 
+	<i>Nisi Dominus</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>RV 608</nobr> :
+<nobr>
+<a href="https://www.youtube.com/watch?v=diPUP_ylyF8&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=18">
+	IV. &lsquo;&lsquo;Cum dederit&rsquo;&rsquo;
+</a>
+–
+<a href="https://www.youtube.com/watch?v=QyKTB57bXuw&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=21">
+	VII. &lsquo;&lsquo;Gloria Patri&rsquo;&rsquo;
+</a>
+</nobr>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/dumestre-vivaldi.png" width="800"> <br>
@@ -361,11 +503,23 @@ VINCENT DUMESTRE
 
 
 
-2.21 &nbsp;\|&nbsp; GIOACHINO ROSSINI &nbsp;(1863/1867)
+
+<p style="text-align:center">
+	2.21 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Petite messe solennelle_ : I.i.&nbsp;&lsquo;&lsquo;Kyrie eleison''](https://www.youtube.com/watch?v=jhLur2_7WqY&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=1) – [III.ii.&nbsp;&lsquo;&lsquo;Crucifixus''](https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12)
-
+<h4 style="text-align:center"> 
+	<i>Petite messe solennelle</i> :
+<nobr>
+<a href="https://www.youtube.com/watch?v=jhLur2_7WqY&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=1">
+	I.i. &lsquo;&lsquo;Kyrie eleison&rsquo;&rsquo;
+</a>
+–
+<a href="https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12">
+	III.ii. &lsquo;&lsquo;Crucifixus&rsquo;&rsquo;
+</a>
+</nobr>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/spering-rossini.png" width="800"> <br>
@@ -380,11 +534,23 @@ CHRISTOPH SPERING
 
 
 
-2.22 &nbsp;\|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+
+<p style="text-align:center">
+	2.22 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Messa da Requiem_ : II.&nbsp;&lsquo;&lsquo;Dies irae''](https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2) – [VII.&nbsp;&lsquo;&lsquo;Libera me''](https://www.youtube.com/watch?v=1rySbzcQvPA&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=7)
-
+<h4 style="text-align:center"> 
+	<i>Messa da Requiem</i> :
+<nobr>
+<a href="https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2">
+	II. &lsquo;&lsquo;Dies irae&rsquo;&rsquo;
+</a>
+–
+<a href="https://www.youtube.com/watch?v=1rySbzcQvPA&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=7">
+	VII. &lsquo;&lsquo;Libera me&rsquo;&rsquo;
+</a>
+</nobr>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/shaw-verdi-requiem.png" width="800"> <br>
@@ -401,11 +567,26 @@ ROBERT SHAW
 
 
 
-2.23 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+
+<p style="text-align:center">
+	2.23 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Magnificat, BWV&nbsp;243 : I.&nbsp;&lsquo;&lsquo;Magnificat''](https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1) – [III.&nbsp;&lsquo;&lsquo;Quia respexit humilitatem''](https://www.youtube.com/watch?v=A9il903fgsE&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=3) – [IX.&nbsp;&lsquo;&lsquo;Esurientes implevit bonis''](https://www.youtube.com/watch?v=iJIZ5PK3ZC8&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=9)
-
+<h4 style="text-align:center"> 
+	Magnificat<span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>BWV 243</nobr> :
+<a href="https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1">
+	<nobr>I. &lsquo;&lsquo;Magnificat&rsquo;&rsquo;</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=A9il903fgsE&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=3">
+	<nobr>III. &lsquo;&lsquo;Quia respexit humilitatem&rsquo;&rsquo;</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=iJIZ5PK3ZC8&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=9">
+	<nobr>IX. &lsquo;&lsquo;Esurientes implevit bonis&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/haim-bach-magnificat.png" width="800"> <br>
@@ -420,10 +601,17 @@ EMMANUELLE HAÏM
 
 
 
-2.24 &nbsp;\|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Fantasie Es-dur, P.&nbsp;127](https://www.youtube.com/watch?v=EDc7uCzOHzE&list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&index=8)
+<p style="text-align:center">
+	2.24 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=EDc7uCzOHzE&list=OLAK5uy_lr6Khr8_4bCqoRo9zNEuky2WLZXKDh-o4&index=8">
+	Fantasie Es-dur : 
+	<nobr>P. 127</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/leonhardt-pachelbel.png" width="800"> <br>
@@ -435,10 +623,18 @@ Gustav Leonhardt <br>
 
 
 
-2.25 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Fantasie № 4 c-moll, KV 475](https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4)
+<p style="text-align:center">
+	2.25 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=oxv_seW2ZjY&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=4">
+	Fantasie № 4 c-moll : 
+	<nobr>KV 475</nobr>
+</a>
+</h4>
+
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/badura-skoda-mozart475.png" width="800"> <br>
@@ -450,10 +646,22 @@ Paul Badura-Skoda <br>
 
 
 
-2.26 &nbsp;\|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [24 Préludes, Op. 28 : № 4 en mi mineur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=238s) – [№ 15 en ré bémol majeur](https://www.youtube.com/watch?v=LUlrlysEKQk&t=1245s)
+<p style="text-align:center">
+	2.26 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	24 Préludes,
+	<nobr>Op. 28</nobr> :
+<a href="https://www.youtube.com/watch?v=LUlrlysEKQk&t=238s">
+	<nobr>№ 4 en mi mineur</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=LUlrlysEKQk&t=1245s">
+	<nobr>№ 15 en ré bémol majeur</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/moravec-chopin.png" width="800"> <br>
@@ -465,10 +673,21 @@ Ivan Moravec <br>
 
 
 
-2.27 &nbsp;\|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Préludes, 1<sup>er</sup> Livre : №&nbsp;2.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;Voiles''](https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2) – [№&nbsp;10.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;La cathédrale engloutie''](https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10)
+<p style="text-align:center">
+	2.27 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Préludes, 1<sup>er</sup> Livre :
+<a href="https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2">
+	<nobr>№ 2.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;Voiles&rsquo;&rsquo;</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10">
+	<nobr>№ 10.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;La cathédrale engloutie&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/arrau-debussy.png" width="800"> <br>
@@ -480,11 +699,18 @@ Claudio Arrau <br>
 
 
 
-2.28 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+
+<p style="text-align:center">
+	2.28 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [3 Klavierstücke, Op. 11 : II.&nbsp;Mäßig](https://www.youtube.com/watch?v=VoSmPq_7Elw&list=OLAK5uy_kUL6koULmifJlW3nID7DMlq4-63mXIaus&index=2)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=VoSmPq_7Elw&list=OLAK5uy_kUL6koULmifJlW3nID7DMlq4-63mXIaus&index=2">
+	3 Klavierstücke, 
+	<nobr>Op. 11</nobr> : 
+	<nobr>II. Mäßig</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/pontinen-schoenberg.png" width="800"> <br>
@@ -497,11 +723,15 @@ Roland Pöntinen <br>
 
 
 
-2.29 &nbsp;\|&nbsp; MILTON BABBITT &nbsp;(1947)
+<p style="text-align:center">
+	2.29 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [3 Compositions for Piano : I](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1) – [II](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=86s) – [III](https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1&t=327s)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=mU9lw9uM_pE&list=OLAK5uy_mCAesGJZ7_xX_rgRREvNb_hgdF3ZKNcOQ&index=1">
+	3 Compositions for Piano
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/taub-babbitt.png" width="800"> <br>
@@ -513,11 +743,29 @@ Robert Taub <br>
 
 
 
-2.30 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+
+<p style="text-align:center">
+	2.30 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Diabelli-Variationen_ : XXIV. Fughetta](https://www.youtube.com/watch?v=BmJqEek2nm4&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=26) – [XXXI. Largo, molto espressivo](https://www.youtube.com/watch?v=IBDIkmHhouY&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=32) – [XXXII. Fuga](https://www.youtube.com/watch?v=JmnpgsjySQo&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=33) – [XXXIII. Tempo di menuetto, moderato](https://www.youtube.com/watch?v=EEHQ-_FFkGU&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=34)
-
+<h4 style="text-align:center"> 
+	<i>Diabelli-Variationen</i> : 
+<a href="https://www.youtube.com/watch?v=BmJqEek2nm4&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=26">
+	<nobr>XXIV. Fughetta</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=IBDIkmHhouY&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=32">
+	<nobr>XXXI. Largo, molto espressivo</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=JmnpgsjySQo&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=33">
+	<nobr>XXXII. Fuga</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=EEHQ-_FFkGU&list=PL8AhTXrM6LH3dMWaOmH6KSZQ6pZAZciuU&index=34">
+	<nobr>XXXIII. Tempo di Minuetto moderato</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/brautigam-diabelli.png" width="800"> <br>
@@ -529,10 +777,25 @@ Ronald Brautigam <br>
 
 
 
-2.31 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [24 прелюдии и фуги : № 7 ля мажор](https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13) – [№ 8 фа-диез минор](https://www.youtube.com/watch?v=BdGjQdG_J3U&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=15) – [№ 24 ре минор](https://www.youtube.com/watch?v=LF9Rhw0n4X4&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=47)
+<p style="text-align:center">
+	2.31 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	24 прелюдии и фуги : 
+<a href="https://www.youtube.com/watch?v=RWJ-BdOyhd0&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=13">
+	<nobr>№ 7 ля мажор</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=BdGjQdG_J3U&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=15">
+	<nobr>№ 8 фа-диез минор</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=LF9Rhw0n4X4&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=47">
+	<nobr>№ 24 ре минор</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/scherbakov-shostakovich24.png" width="800"> <br>

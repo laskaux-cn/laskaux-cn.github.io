@@ -7,11 +7,15 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-1.1 &nbsp;\|&nbsp; MAURICE RAVEL &nbsp;(1920)
+<p style="text-align:center">
+	1.1 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1920)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_La valse_](https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s">
+	<i>La valse</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/martinon-la-valse.png" width="800"> <br>
@@ -25,10 +29,17 @@ JEAN MARTINON
 
 
 
-1.2 &nbsp;\|&nbsp; RICHARD STRAUSS &nbsp;(1911/1944)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Der Rosenkavalier_ : Walzerfolge № 1](https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2)
+<p style="text-align:center">
+	1.2 &nbsp;|&nbsp; RICHARD STRAUSS &nbsp;(1911/1944)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2">
+	<i>Der Rosenkavalier</i> : 
+	<nobr>Walzerfolge № 1</nobr>, <nobr>TrV 227c</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/bolmstedt-rosenkavalier.png" width="800"> <br>
@@ -44,10 +55,17 @@ HERBERT BLOMSTEDT
 
 
 
-1.3 &nbsp;\|&nbsp; AARON COPLAND &nbsp;(1942)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Rodeo_ : IV. &lsquo;&lsquo;Saturday Night Waltz''](https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s)
+<p style="text-align:center">
+	1.3 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1942)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s">
+	<i>Rodeo</i> : 
+	<nobr>IV. &lsquo;&lsquo;Saturday Night Waltz&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/copland-copland.png" width="800"> <br>
@@ -61,10 +79,17 @@ AARON COPLAND
 
 
 
-1.4 &nbsp;\|&nbsp; ALBAN BERG &nbsp;(1925) <br> 
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Wozzeck_ : II.iv. Scherzo](https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s)
+<p style="text-align:center">
+	1.4 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1925)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s">
+	<i>Wozzeck</i> : 
+	<nobr>II.iv. Scherzo</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/metzmacher-wozzeck.png" width="800"> <br>
@@ -79,10 +104,17 @@ INGO METZMACHER
 
 
 
-1.5 &nbsp;\|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Симфония № 5 : II. Allegretto](https://www.youtube.com/watch?v=Avt-KOQy1mo&t=907s)
+<p style="text-align:center">
+	1.5 &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Avt-KOQy1mo&t=907s">
+	Симфония № 5 : 
+	<nobr>II. Allegretto</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/mravinsky-shostakovich5.png" width="800"> <br>
@@ -98,10 +130,18 @@ INGO METZMACHER
 
 
 
-1.6 &nbsp;\|&nbsp; PAUL HINDEMITH &nbsp;(1922)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Kleine Kammermusik_, Op.&nbsp;24 №&nbsp;2 : II. Walzer](https://www.youtube.com/watch?v=AZk7FQyAYfw&list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&index=2)
+<p style="text-align:center">
+	1.6 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1922)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=AZk7FQyAYfw&list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&index=2">
+	<i>Kleine Kammermusik</i>, 
+	<nobr>Op. 24 № 2</nobr> : 
+	<nobr>II. Walzer</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/dullaert-hindemith.png" width="800"> <br>
@@ -119,11 +159,17 @@ INGO METZMACHER
 
 
 
-1.7 &nbsp;\|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1923)
+<p style="text-align:center">
+	1.7 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1923)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [5 Klavierstücke, Op. 23 : V.&nbsp;Walzer](https://www.youtube.com/watch?v=PR0VCnQks7M&list=OLAK5uy_kX6KJ8X6x87dsrWJWOExH2XIq35gXw5UE&t=532)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=PR0VCnQks7M&list=OLAK5uy_kX6KJ8X6x87dsrWJWOExH2XIq35gXw5UE&t=532">
+	5 Klavierstücke, 
+	<nobr>Op. 23</nobr> : 
+	<nobr>V. Walzer</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/helffer-schoenberg.png" width="800"> <br>
@@ -136,10 +182,17 @@ Claude Helffer <br>
 
 
 
-1.8 &nbsp;\|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
+<p style="text-align:center">
+	1.8 &nbsp;|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Te Deum_<span style="font-size:0.2em"> </span>, H. 146 : I. Prélude](https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2)
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
+	<i>Te Deum</i>, 
+	<nobr>H. 146</nobr> : 
+	<nobr>I. Prélude</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/christie-te-deum.png" width="800"> <br>
@@ -153,10 +206,17 @@ WILLIAM CHRISTIE
 
 
 
-1.9 &nbsp;\|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Symphonie fantastique_ : IV. &lsquo;&lsquo;Marche au supplice''](https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4)
+<p style="text-align:center">
+	1.9 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
+	<i>Symphonie fantastique</i> : 
+	<nobr>IV. &lsquo;&lsquo;Marche au supplice&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/munch-sym-fantas.png" width="800"> <br>
@@ -172,10 +232,17 @@ CHARLES MUNCH
 
 
 
-1.10 &nbsp;\|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_L'Histoire du soldat_ : II.&nbsp;&lsquo;&lsquo;Marche royale''](https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9)
+<p style="text-align:center">
+	1.10 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
+	<i>L&apos;Histoire du soldat</i> : 
+	<nobr>II. &lsquo;&lsquo;Marche royale&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/markevitch-soldat.png" width="800"> <br>
@@ -198,10 +265,17 @@ CHARLES MUNCH
 
 
 
-1.11 &nbsp;\|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Sinfonie № 7 : II. Allegretto](https://www.youtube.com/watch?v=93IOV96WHqw&t=943s)
+<p style="text-align:center">
+	1.11 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=93IOV96WHqw&t=943s">
+	Sinfonie № 7 : 
+	<nobr>II. Allegretto</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/aureum-beethoven7.png" width="800"> <br>
@@ -213,11 +287,17 @@ Collegium Aureum <br>
 
 
 
-1.12 &nbsp;\|&nbsp; GUSTAV MAHLER &nbsp;(1888)
+
+<p style="text-align:center">
+	1.12 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1888)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sinfonie № 1 : III. Feierlich und gemessen, ohne zu schleppen](https://www.youtube.com/watch?v=tUC3x8_ofDM&list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&index=3)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=tUC3x8_ofDM&list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&index=3">
+	Sinfonie № 1 : 
+	III.&nbsp;Feierlich und gemessen, <nobr>ohne zu schleppen</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/kubelik-mahler1.png" width="800"> <br>
@@ -230,11 +310,17 @@ RAFAEL KUBELIK <br>
 
 
 
-1.13 &nbsp;\|&nbsp; ANTON WEBERN &nbsp;(1909)
+
+<p style="text-align:center">
+	1.13 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1909)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [6 Stücke für grosses Orchester, Op. 6 : IV. Langsam](https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9">
+	6 Stücke für grosses Orchester, <nobr>Op. 6 : 
+	IV. Langsam</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rattle-webern.png" width="800"> <br>
@@ -248,10 +334,16 @@ SIMON RATTLE
 
 
 
-1.14 &nbsp;\|&nbsp; JOSEPH HAYDN &nbsp;(1793)
+<p style="text-align:center">
+	1.14 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Streichquartett D-dur, Op.&nbsp;71 №&nbsp;2 / Hob.&nbsp;III:70 : III.&nbsp;Menuetto](https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7)
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
+	Streichquartett D-dur, <nobr>Op. 71 № 2 / Hob. III:70</nobr> : 
+	<nobr>III. Menuetto</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
@@ -268,10 +360,17 @@ Pražákovo kvarteto: <br>
 
 
 
-1.15 &nbsp;\|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [Streichquintett № 6 Es-dur, KV 614 : III. Menuetto](https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7)
+<p style="text-align:center">
+	1.15 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
+	Streichquintett № 6 Es-dur, <nobr>KV 614</nobr> : 
+	<nobr>III. Menuetto</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/talich-mozart.png" width="800"> <br>
@@ -290,11 +389,17 @@ Talichovo kvarteto: <br>
 
 
 
-1.16 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+
+<p style="text-align:center">
+	1.16 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Goldberg-Variationen_ : XXX.&nbsp;Quodlibet](https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31">
+	<i>Goldberg-Variationen</i> : 
+	<nobr>XXX. Quodlibet</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
@@ -306,11 +411,17 @@ Céline Frisch <br>
 
 
 
-1.17 &nbsp;\|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+
+<p style="text-align:center">
+	1.17 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonata in si minore, K. 87](https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15">
+	Sonata in si minore : 
+	<nobr>K. 87</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/staier-scarlatti.png" width="800"> <br>
@@ -322,11 +433,17 @@ Andreas Staier <br>
 
 
 
-1.18 &nbsp;\|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
+
+<p style="text-align:center">
+	1.18 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Suite in E major, HWV 430 : IV. Air and 5 variations](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23">
+	Suite in E major, <nobr>HWV 430</nobr> :
+	<nobr>IV. Air and 5 variations</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/borgstede-handel.png" width="800"> <br>
@@ -338,11 +455,17 @@ Michael Borgstede <br>
 
 
 
-1.19 &nbsp;\|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+
+<p style="text-align:center">
+	1.19 &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Suite en la mineur, RCT 5 : VII. Gavotte et 6 doubles](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36">
+	Suite en la mineur, <nobr>RCT 5</nobr> :
+	<nobr>VII. Gavotte et 6 doubles</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rousset-rameau.png" width="800"> <br>
@@ -353,11 +476,17 @@ Christophe Rousset <br>
 <br>
 
 
-1.20 &nbsp;\|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+
+<p style="text-align:center">
+	1.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonata in re minore per 2 violini e basso continuo, Op.&nbsp;1 №&nbsp;12 / RV&nbsp;63](https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1">
+	Sonata in re minore per 2 violini e basso continuo : 
+	<nobr>Op. 1 № 12 / RV 63</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
@@ -373,11 +502,16 @@ L'Estravagante: <br>
 
 
 
-1.21 &nbsp;\|&nbsp; MARIN MARAIS &nbsp;(1701)
+
+<p style="text-align:center">
+	1.21 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1701)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_Les Folies d&apos;Espagne_](https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=17">
+	<i>Les Folies d&apos;Espagne</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/savall-marais.png" width="800"> <br>
@@ -392,11 +526,17 @@ L'Estravagante: <br>
 
 
 
-1.22 &nbsp;\|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+
+<p style="text-align:center">
+	1.22 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_L&apos;Orfeo_ : I.ii. &lsquo;&lsquo;Lasciate i monti''](https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15">
+	<i>L&apos;Orfeo</i> : 
+	<nobr>I.ii. &lsquo;&lsquo;Lasciate i monti&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/haim-monteverdi-orfeo.png" width="800"> <br>
@@ -411,11 +551,17 @@ EMMANUELLE HAÏM
 
 
 
-1.23 &nbsp;\|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+
+<p style="text-align:center">
+	1.23 &nbsp;|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [_La Dafne_ : V. &lsquo;&lsquo;Piangete Ninfe''](https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s">
+	<i>La Dafne</i> : 
+	<nobr>V. &lsquo;&lsquo;Piangete Ninfe&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/garrido-dafne.png" width="800"> <br>
@@ -430,11 +576,17 @@ GABRIEL GARRIDO
 
 
 
-1.24 &nbsp;\|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
+
+<p style="text-align:center">
+	1.24 &nbsp;|&nbsp; OHANN SEBASTIAN BACH &nbsp;(1720)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonate № 3 C-dur für Violine solo, BWV&nbsp;1005 : I. Adagio](https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6">
+	Sonate № 3 C-dur für Violine solo, <nobr>BWV 1005</nobr> :
+	<nobr>I. Adagio</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/faust-bach.png" width="800"> <br>
@@ -446,11 +598,17 @@ Isabelle Faust <br>
 
 
 
-1.25 &nbsp;\|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+
+<p style="text-align:center">
+	1.25 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+</p>
 <p style="margin-bottom:-0.6em"> </p>
-
-#### [Sonata for Solo Violin, Sz.&nbsp;117 / BB&nbsp;124 : III.&nbsp;Melodia](https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11)
-
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11">
+	Sonata for Solo Violin, <nobr>Sz. 117 / BB 124</nobr> :
+	<nobr>III. Melodia</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/mullova-bartok.png" width="800"> <br>
@@ -462,10 +620,16 @@ Isabelle Faust <br>
 
 
 
-1.26 &nbsp;\|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Ecco la primavera_](https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8)
+<p style="text-align:center">
+	1.26 &nbsp;|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8">
+	<i>Ecco la primavera</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/waverly-landini.png" width="800"> <br>
@@ -479,10 +643,17 @@ MICHAEL JAFFEE
 
 
 
-1.27 &nbsp;\|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Spring Symphony_ : I.iv. &lsquo;&lsquo;The Driving Boy''](https://www.youtube.com/watch?v=b7FY1ZIjlt8&list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&index=4)
+<p style="text-align:center">
+	1.27 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=b7FY1ZIjlt8&list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&index=4">
+	<i>Spring Symphony</i> : 
+	<nobr>I.iv. &lsquo;&lsquo;The Driving Boy&rsquo;&rsquo;</nobr>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/hickox-britten.png" width="800"> <br>
@@ -498,10 +669,16 @@ RICHARD HICKOX
 
 
 
-1.28 &nbsp;\|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_O sacrum convivium_](https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6)
+<p style="text-align:center">
+	1.28 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6">
+	<i>O sacrum convivium</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/bernius-messiaen.png" width="800"> <br>
@@ -515,10 +692,16 @@ FRIEDER BERNIUS
 
 
 
-1.29 &nbsp;\|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
-<p style="margin-bottom:-0.6em"> </p>
 
-#### [_Beata viscera_](https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16)
+<p style="text-align:center">
+	1.29 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=oSaGqdFNbDs&list=OLAK5uy_nOHRNqVUbAh-Nq8wNSL8IyiSXwRDi2Y9w&index=16">
+	<i>Beata viscera</i>
+</a>
+</h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/hillier-perotin.png" width="800"> <br>
