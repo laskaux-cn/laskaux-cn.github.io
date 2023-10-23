@@ -37,7 +37,7 @@ JEAN MARTINON
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2">
 	<i>Der Rosenkavalier</i> : 
-	<nobr>Walzerfolge № 1</nobr>, <nobr>TrV 227c</nobr>
+	<nobr>Walzerfolge № 1, TrV 227c</nobr>
 </a>
 </h4>
 
@@ -605,8 +605,8 @@ Isabelle Faust <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=tMF8JAKc8B8&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=11">
-	Sonata for Solo Violin, <nobr>Sz. 117 / BB 124</nobr> :
-	<nobr>III. Melodia</nobr>
+	Sonata for Solo Violin, <nobr>Sz. 117 / BB 124 :
+	III. Melodia</nobr>
 </a>
 </h4>
 

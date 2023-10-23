@@ -160,7 +160,7 @@ Orpheus Chamber Orchestra <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
-	Octuor pour instruments à vent, <nobr>I. Sinfonia</nobr>
+	Octuor pour instruments à vent : <nobr>I. Sinfonia</nobr>
 </a>
 </h4>
 
