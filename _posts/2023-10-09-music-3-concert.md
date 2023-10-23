@@ -41,7 +41,8 @@ CHRISTOPHER HOGWOOD
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=iEpMYLBRUVg&list=OLAK5uy_lW-YJ_DAjgFOBF_rVsCquJO-s3OXNUFkk&index=8">
-	<i>Brandenburgische Konzerte</i> : №&nbsp;3 G-Dur, 
+	<i>Brandenburgische Konzerte</i> : 
+	<nobr>№ 3 G-dur, </nobr>
 	<nobr>BWV 1048 </nobr>
 </a>
 </h4>
@@ -249,7 +250,7 @@ NILS-ERIK SPARF
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
-	Klarinettenkonzert № 6 Es-Dur
+	Klarinettenkonzert № 6 Es-dur
 </a>
 </h4>
 
@@ -313,10 +314,142 @@ I Musici de Montréal  <br>
 
 
 
+<p style="text-align:center">
+	3.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
+	<i>Brandenburgische Konzerte</i> : 
+	<nobr>№ 2 F-dur </nobr>,
+	<nobr>BWV 1047 </nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/alessandrini-brandenburg.png" width="800"> <br>
+
+<nobr>Gabriele Cassone </nobr> /
+<nobr>Maria de Martini </nobr> /
+<nobr>Andrea Mion / Mauro Lopes Ferreira </nobr> <br>
+<span style="font-size:0.87em">[tpt–rec–ob–vn] </span> <br>
+Concerto Italiano <br>
+RINALDO ALESSANDRINI
+<br>
+<span style="font-size:0.87em">(Palazzo Farnese, <nobr>Roma &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2005-03)</nobr> </span> </p> 
+
+<br>
+
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
+	3.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+	Sinfonia concertante B-dur, 
+	<nobr>Hob. I:105</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
+
+<nobr>Elizabeth Wallfisch </nobr> /
+<nobr>David Watkin </nobr> /
+<nobr>Anthony Robson / Felix Warnock </nobr> <br>
+<span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
+Orchestra of the Age of Enlightenment <br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.16 &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1786)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Каприччио на испанские темы : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
+	IV. Scena e canto gitano
+</a>
+–
+<a href="https://www.youtube.com/watch?v=3jHXgNUvxTU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=5">
+	V. Fandango asturiano
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/markevitch-rimsky.png" width="800"> <br>
+
+London Symphony Orchestra <br>
+ИГОРЬ МАРКЕВИЧ
+<br>
+<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1962-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.17 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Concerto for Orchestra : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=7LbFlMkAApE&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=4">
+	IV. Intermezzo interrotto
+</a>
+–
+<a href="https://www.youtube.com/watch?v=oehJ-7ixIcQ&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=5">
+	V. Finale
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kocsis-bartok-cfo.png" width="800"> <br>
+
+Nemzeti Filharmonikusok <br>
+ZOLTÁN KOCSIS
+<br>
+<span style="font-size:0.87em">(Istituto Italiano di Cultura, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2002-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.18 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2">
+	<i>Boléro</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/boulez-bolero.png" width="800"> <br>
+
+Berliner Philharmoniker <br>
+PIERRE BOULEZ 
+<br>
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.19 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -338,14 +471,35 @@ Amsterdam Baroque Orchestra <br>
 
 
 
+<p style="text-align:center">
+	3.20 &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vWEtK7LqEmQ&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=4">
+	Cembalokonzert d-moll, 
+	<nobr>H. 427 / Wq. 23</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
+
+Gustav Leonhardt & Ensemble <br>
+<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
+
+<br>
+
+
+
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
+	3.21 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
-	Klavierkonzert № 1 C-Dur, 
+	Klavierkonzert № 1 C-dur, 
 	<nobr>Op. 15</nobr> : 
 	<nobr>I. Allegro con brio</nobr>
 </a>
@@ -366,11 +520,11 @@ CHRISTOPHER HOGWOOD
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	3.22 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Klavierkonzert № 24 c-Moll, 
+	Klavierkonzert № 24 c-moll, 
 	<nobr>KV 491</nobr> : 
 <nobr>
 <a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=0s">
@@ -390,7 +544,7 @@ Alfred Brendel <br>
 Academy of St Martin in the Fields <br>
 NEVILLE MARRINER
 <br>
-<span style="font-size:0.87em">(Brent Town Hall, Wembley, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
 
 <br>
 
@@ -489,6 +643,7 @@ Concertgebouworkest <br>
 &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1967-01)</nobr> </span> </p> 
 
 <br>
+
 
 
 
