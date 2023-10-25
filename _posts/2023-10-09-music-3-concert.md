@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 3 &colon; 特立与协同
+title: 音乐笔记 3 &colon; 引领与协同
 subtitle: 
 excerpt: ♬&nbsp; <br>
 
@@ -140,7 +140,7 @@ RAPHAËL PICHON
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/rooley-monteverdi.png" width="800"> <br>
 
-Consort of Musicke <br>
+The Consort of Musicke <br>
 ANTHONY ROOLEY
 <br>
 <span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1983-07)</nobr> </span> </p> 
@@ -296,7 +296,7 @@ New York Philharmonic <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=qPu6BX0Q60Q&list=OLAK5uy_nOZi3nXrdZ1v7VEBd2wIbj-Bv5A--iSWQ">
-	Concerto for Clarinet and String Orchestra, with Harp and Piano
+	Concerto for Clarinet and String Orchestra, <nobr>with Harp and Piano</nobr>
 </a>
 </h4>
 
@@ -369,7 +369,7 @@ ELIZABETH WALLFISCH
 
 
 <p style="text-align:center">
-	3.16 &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1786)
+	3.16 &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -456,7 +456,7 @@ PIERRE BOULEZ
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23">
+<a href="https://www.youtube.com/watch?v=YUlwaSQjOO4&list=PLawrJgP30lZyC9TkPg6AXfP7C9_l5JN-V&index=30">
 	Organ Concerto in B-flat major, 
 	<nobr>Op. 4 № 6 / HWV 294</nobr>
 </a>
@@ -576,7 +576,7 @@ NEVILLE MARRINER
 <img src="/assets/img/albums/orpheus-dumbarton.png" width="800"> <br>
 
 Orpheus Chamber Orchestra <br>
-<span style="font-size:0.87em">(RCA Studio A, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
 
 <br>
 
@@ -611,7 +611,7 @@ JAMES CONLON
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=gsHwmee4Vik&list=PL8AhTXrM6LH2PDbkNM4zEUB9dImnE-d7Z&index=1">
+<a href="https://www.youtube.com/watch?v=Ux6U6mPcqrM&list=OLAK5uy_lndPgeRA0NVo_pYblziPmaVLy-M_TgYww&index=17">
 	<i>The Unanswered Question</i>
 </a>
 </h4>
