@@ -35,286 +35,9 @@ CHRISTOPHER HOGWOOD
 
 
 
+
 <p style="text-align:center">
 	3.2 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=iEpMYLBRUVg&list=OLAK5uy_lW-YJ_DAjgFOBF_rVsCquJO-s3OXNUFkk&index=8">
-	<i>Brandenburgische Konzerte</i> : 
-	<nobr>№ 3 G-dur, </nobr>
-	<nobr>BWV 1048 </nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/goebel-brandenburg3.png" width="800"> <br>
-
-Musica Antiqua Köln <br>
-REINHARD GOEBEL
-<br>
-<span style="font-size:0.87em">(Deutschlandfunk Kammermusiksaal, <nobr>Köln &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1986-06)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.3 &nbsp;|&nbsp; MELCHIOR FRANCK &nbsp;(1602)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=7LY2zra-pGw&list=OLAK5uy_lRP6_ZDvnbNvGdvRkbJC3oQORhJ2qBJAE&index=16">
-	<i>Ein feste Burg ist unser Gott</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/vox-luminis-luther.png" width="800"> <br>
-
-Vox Luminis <br>
-LIONEL MEUNIER
-<br>
-<span style="font-size:0.87em">(Notre-Dame de la Nativité, <nobr>Gedinne &nbsp;<img src="/assets/img/flags/be.png" height="11" width="16"/>&nbsp; 2016-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.4 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=cscmDg7-XUI&list=OLAK5uy_ltmW239ijfTQ7impYGHOn_r29aqudK9EY&index=3">
-	<i>Aestimatus sum</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
-
-Lluís Vich Vocalis <br>
-<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	3.5 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11">
-	<i>Intermedi della Pellegrina</i> : 
-	<nobr>IV.ii. &lsquo;&lsquo;Dal vago e bel sereno&rsquo;&rsquo;</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pichon-pellegrina.png" width="800"> <br>
-
-Pygmalion <br>
-RAPHAËL PICHON
-<br>
-<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	3.6 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=L-Yp_LV23qE&list=OLAK5uy_nuyMzhG9YdujrpgoJ-Sodvcue8HfFERtg&index=17">
-	<i>T&apos;amo mia vita</i><span style="font-size:0.25em">&nbsp;</span>,
-	<nobr>SV 104</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/rooley-monteverdi.png" width="800"> <br>
-
-The Consort of Musicke <br>
-ANTHONY ROOLEY
-<br>
-<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1983-07)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.7 &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=94mdn2v5T_0&list=PLGHi1F2Acw0-ApSfq99EjAS3NBVKaCcFp&index=1">
-	Canzon per sonar primi toni, 
-	<nobr>Ch. 170</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pifarescha-venice.png" width="800"> <br>
-
-La Pifarescha <br>
-<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	3.8 &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=P9GxtPMZyNg&list=PLIED6bzzOEWssC4hv2mLpA9SWm8dqsH-u&index=6">
-	Intrada in C major
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/guettler-simpson.png" width="800"> <br>
-
-Blechbläserensemble LUDWIG GÜTTLER <br>
-<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="11" width="16"/>&nbsp; 1986-01)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-
-<p style="text-align:center">
-	3.9 &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
-	Ballet, 
-	<nobr>TMA 268</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/ball-praetorius.png" width="800"> <br>
-
-Praetorius Consort <br>
-CHRISTOPHER BALL
-<br>
-<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-<p style="text-align:center">
-	3.10 &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=gO4DGkdTBCI&list=PL8AhTXrM6LH2ZjtKYvPgmW3dKn7bNc4aA&index=4">
-	Sonata in D major for Trumpet and Strings, 
-	<nobr>Z. 850</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/eklund-purcell.png" width="800"> <br>
-
-Niklas Eklund <br>
-Drottningholms Barockensemble <br>
-NILS-ERIK SPARF
-<br>
-<span style="font-size:0.87em">(Petruskyrkan, <nobr>Stocksund &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 1995-08)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.11 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(1745–1801)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
-	Klarinettenkonzert № 6 Es-dur
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
-
-Karl Schlechta <br>
-Kurpfälzisches Kammerorchester <br>
-JIŘÍ MALÁT
-<br>
-<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.12 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1925)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2">
-	Concerto in F : 
-	<nobr>II. Andante con moto</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/previn-gershwin.png" width="800"> <br>
-
-André Previn / Uan Rasey <br>
-New York Philharmonic <br>
-АБРАМ КОСТЕЛЯНЕЦ
-<br>
-<span style="font-size:0.87em">(American Legion Hall, <nobr>Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1960-03)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.13 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1948)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=qPu6BX0Q60Q&list=OLAK5uy_nOZi3nXrdZ1v7VEBd2wIbj-Bv5A--iSWQ">
-	Concerto for Clarinet and String Orchestra, <nobr>with Harp and Piano</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/neidich-copland.png" width="800"> <br>
-
-Charles Neidich <br>
-I Musici de Montréal  <br>
-ЮЛИЙ ТУРОВСКИЙ
-<br>
-<span style="font-size:0.87em">(Église de la Nativité de la Sainte-Vierge, <nobr>La Prairie &nbsp;<img src="/assets/img/flags/ca.png" height="11" width="16"/>&nbsp; 1999-06)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -342,14 +65,21 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	3.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
+	3.3 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
 	Sinfonia concertante B-dur, 
 	<nobr>Hob. I:105</nobr>
+<nobr>
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+	I. Allegro
 </a>
+–
+<a href="https://www.youtube.com/watch?v=BjpgJ9zyjQY&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=2">
+	II. Andante
+</a>
+</nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
@@ -369,90 +99,377 @@ ELIZABETH WALLFISCH
 
 
 <p style="text-align:center">
-	3.16 &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
+	3.4 &nbsp;|&nbsp; MELCHIOR FRANCK &nbsp;(1602)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Каприччио на испанские темы : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
-	IV. Scena e canto gitano
+<a href="https://www.youtube.com/watch?v=7LY2zra-pGw&list=OLAK5uy_lRP6_ZDvnbNvGdvRkbJC3oQORhJ2qBJAE&index=16">
+	<i>Ein feste Burg ist unser Gott</i>
 </a>
-</nobr>
-–
-<nobr>
-<a href="https://www.youtube.com/watch?v=3jHXgNUvxTU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=5">
-	V. Fandango asturiano
-</a>
-</nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/markevitch-rimsky.png" width="800"> <br>
+<img src="/assets/img/albums/vox-luminis-luther.png" width="800"> <br>
 
+Vox Luminis <br>
+LIONEL MEUNIER
+<br>
+<span style="font-size:0.87em">(Notre-Dame de la Nativité, <nobr>Gedinne &nbsp;<img src="/assets/img/flags/be.png" height="11" width="16"/>&nbsp; 2016-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.5 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=cscmDg7-XUI&list=OLAK5uy_ltmW239ijfTQ7impYGHOn_r29aqudK9EY&index=3">
+	<i>Aestimatus sum</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
+
+Lluís Vich Vocalis <br>
+<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.6 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11">
+	<i>Intermedi della Pellegrina</i> : 
+	<nobr>IV.ii. &lsquo;&lsquo;Dal vago e bel sereno&rsquo;&rsquo;</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pichon-pellegrina.png" width="800"> <br>
+
+Pygmalion <br>
+RAPHAËL PICHON
+<br>
+<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.7 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=L-Yp_LV23qE&list=OLAK5uy_nuyMzhG9YdujrpgoJ-Sodvcue8HfFERtg&index=17">
+	<i>T&apos;amo mia vita</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>SV 104</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rooley-monteverdi.png" width="800"> <br>
+
+The Consort of Musicke <br>
+ANTHONY ROOLEY
+<br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1983-07)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.8 &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=94mdn2v5T_0&list=PLGHi1F2Acw0-ApSfq99EjAS3NBVKaCcFp&index=1">
+	Canzon per sonar primi toni, 
+	<nobr>Ch. 170</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pifarescha-venice.png" width="800"> <br>
+
+La Pifarescha <br>
+<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.9 &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=P9GxtPMZyNg&list=PLIED6bzzOEWssC4hv2mLpA9SWm8dqsH-u&index=6">
+	Intrada in C major
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/guettler-simpson.png" width="800"> <br>
+
+Blechbläserensemble LUDWIG GÜTTLER <br>
+<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="11" width="16"/>&nbsp; 1986-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.10 &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
+	Ballet, 
+	<nobr>TMA 268</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ball-praetorius.png" width="800"> <br>
+
+Praetorius Consort <br>
+CHRISTOPHER BALL
+<br>
+<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	3.11 &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=gO4DGkdTBCI&list=PL8AhTXrM6LH2ZjtKYvPgmW3dKn7bNc4aA&index=4">
+	Sonata in D major for Trumpet and Strings, 
+	<nobr>Z. 850</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/eklund-purcell.png" width="800"> <br>
+
+Niklas Eklund <br>
+Drottningholms Barockensemble <br>
+NILS-ERIK SPARF
+<br>
+<span style="font-size:0.87em">(Petruskyrkan, <nobr>Stocksund &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 1995-08)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.12 &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=-XzPiWWqGLc&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=1">
+	Concerto in re minore per oboe, archi e basso continuo, 
+	<nobr>S. Z799</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
+
+Paolo Grazzi <br>
+Orchestra Barocca di Venezia <br>
+ANDREA MARCON
+<br>
+<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.13 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(1745–1801)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
+	Klarinettenkonzert № 6 Es-dur
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
+
+Karl Schlechta <br>
+Kurpfälzisches Kammerorchester <br>
+JIŘÍ MALÁT
+<br>
+<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.14 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1925)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2">
+	Concerto in F : 
+	<nobr>II. Andante con moto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/previn-gershwin.png" width="800"> <br>
+
+André Previn / Uan Rasey <br>
+<span style="font-size:0.87em">[pf–tpt] </span> <br>
+New York Philharmonic <br>
+АБРАМ КОСТЕЛЯНЕЦ
+<br>
+<span style="font-size:0.87em">(American Legion Hall, <nobr>Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1960-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.15 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1940)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1k8M-zItyL8&list=OLAK5uy_kwdGMsCeSaOcIz5T6UtDDnYdyLH6-1tg0&index=11">
+	<i>Quiet City</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/copland-london.png" width="800"> <br>
+
+<nobr>William Lang </nobr> / 
+<nobr>Michael Winfield </nobr> <br>
+<span style="font-size:0.87em">[tpt–eh] </span> <br>
 London Symphony Orchestra <br>
-ИГОРЬ МАРКЕВИЧ
+AARON COPLAND 
 <br>
-<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1962-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1965-11)</nobr> </span> </p> 
 
 <br>
+
 
 
 
 <p style="text-align:center">
-	3.17 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
+	3.17 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1779)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Concerto for Orchestra : 
+	Sinfonia concertante Es-dur, 
+	<nobr>KV 364</nobr>
 <nobr>
-<a href="https://www.youtube.com/watch?v=7LbFlMkAApE&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=4">
-	IV. Intermezzo interrotto
+<a href="https://www.youtube.com/watch?v=-2bMCcY2odM&list=OLAK5uy_nxOtqVBxX2xJgOstM_g7Lmr-7c1n1Sb4Y&index=10">
+	I. Allegro maestoso
 </a>
 –
-<a href="https://www.youtube.com/watch?v=oehJ-7ixIcQ&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=5">
-	V. Finale
+<a href="https://www.youtube.com/watch?v=1GFOkPGtGcE&list=OLAK5uy_nxOtqVBxX2xJgOstM_g7Lmr-7c1n1Sb4Y&index=11">
+	II. Andante
 </a>
 </nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kocsis-bartok-cfo.png" width="800"> <br>
+<img src="/assets/img/albums/zehetmair-mozart.png" width="800"> <br>
 
-Nemzeti Filharmonikusok <br>
-ZOLTÁN KOCSIS
+<nobr>Thomas Zehetmair </nobr> /
+<nobr>Ruth Killius </nobr> <br>
+<span style="font-size:0.87em">[vn–va] </span> <br>
+Orkest van de Achttiende Eeuw <br>
+FRANS BRÜGGEN
 <br>
-<span style="font-size:0.87em">(Istituto Italiano di Cultura, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2002-09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(<nobr>Rotterdam &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 2005-10)</nobr> </span> </p> 
 
 <br>
-
 
 
 <p style="text-align:center">
-	3.18 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
+	3.18 &nbsp;|&nbsp; JOHANNES BRAHMS &nbsp;(1887)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2">
-	<i>Boléro</i>
+<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
+	Konzert a-moll für Violine, Violoncello und Orchester,
+	<nobr>Op. 102</nobr> :
+	<nobr>II. Andante</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/boulez-bolero.png" width="800"> <br>
+<img src="/assets/img/albums/schneiderhan-brahms.png" width="800"> <br>
 
-Berliner Philharmoniker <br>
-PIERRE BOULEZ 
+Wolfgang Schneiderhan / János Starker <br>
+<span style="font-size:0.87em">[vn–vc] </span> <br>
+Radio-Symphonie-Orchester Berlin <br>
+FERENC FRICSAY
 <br>
-<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993-03)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-06)</nobr> </span> </p> 
 
 <br>
-
 
 
 
 <p style="text-align:center">
-	3.19 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
+	3.19 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Konzert C-dur für Violine, Violoncello, Klavier und Orchester, 
+	<nobr>Op. 56</nobr> : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=AN3lLkwcV38&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=2">
+	II. Largo
+</a>
+–
+<a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
+	III. Rondo alla Polacca
+</a>
+</nobr>
+</h4>
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/aureum-beethoven-triple.png" width="800"> <br>
+
+<nobr>Franzjosef Maier </nobr> /
+<nobr>Anner Bijlsma </nobr> / 
+<nobr>Paul Badura-Skoda </nobr> <br> 
+<span style="font-size:0.87em">[vn–vc–pf] </span> <br>
+Collegium Aureum <br>
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.20 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -475,7 +492,7 @@ Amsterdam Baroque Orchestra <br>
 
 
 <p style="text-align:center">
-	3.20 &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
+	3.21 &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -497,7 +514,7 @@ GUSTAV LEONHARDT & Ensemble <br>
 
 
 <p style="text-align:center">
-	3.21 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
+	3.22 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -529,7 +546,7 @@ CHRISTOPHER HOGWOOD
 
 
 <p style="text-align:center">
-	3.22 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	3.23 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -577,6 +594,29 @@ NEVILLE MARRINER
 
 Orpheus Chamber Orchestra <br>
 <span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.X &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1934)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=LGSm_PT2-1Y&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=40">
+	Konzert für 9 Instrumente, <nobr>Op. 24</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/boulez-webern.png" width="800"> <br>
+
+Ensemble intercontemporain <br>
+PIERRE BOULEZ
+<br>
+<span style="font-size:0.87em">(Espace de projection, Ircam, <nobr>Paris
+&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1992-10)</nobr> </span> </p>  
 
 <br>
 

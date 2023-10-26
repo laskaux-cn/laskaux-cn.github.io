@@ -119,6 +119,7 @@ Orpheus Chamber Orchestra <br>
 <img src="/assets/img/albums/rudin-schubert.png" width="800"> <br>
 
 Александр Рудин / Aapo Häkkinen <br>
+<span style="font-size:0.87em">[arp–pf] </span> <br>
 <span style="font-size:0.87em">(Schaumansali, <nobr>Jakobstad &nbsp;<img src="/assets/img/flags/fi.png" height="11" width="16"/>&nbsp; 2019-09)</nobr> </span> </p> 
 
 <br>
@@ -175,30 +176,6 @@ ESA-PEKKA SALONEN
 
 <br>
 
-
-
-<p style="text-align:center">
-	2.8 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1934)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=vx_0zTWr5f4&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=41">
-	Konzert für 9 Instrumente, <nobr>Op. 24</nobr> :
-	<nobr>II. Sehr langsam</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/boulez-webern.png" width="800"> <br>
-
-Pierre-Laurent Aimard <br>
-Ensemble intercontemporain <br>
-PIERRE BOULEZ
-<br>
-<span style="font-size:0.87em">(Espace de projection, Ircam, <nobr>Paris
-&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1992-10)</nobr> </span> </p>  
-
-<br>
 
 
 
