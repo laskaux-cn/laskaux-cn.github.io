@@ -137,7 +137,7 @@ INGO METZMACHER
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=AZk7FQyAYfw&list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&index=2">
-	<i>Kleine Kammermusik</i>, 
+	<i>Kleine Kammermusik</i><span style="font-size:0.25em">&nbsp;</span>, 
 	<nobr>Op. 24 № 2</nobr> : 
 	<nobr>II. Walzer</nobr>
 </a>

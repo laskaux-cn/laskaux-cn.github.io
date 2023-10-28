@@ -178,6 +178,34 @@ ESA-PEKKA SALONEN
 
 
 
+<p style="text-align:center">
+	2.8 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1940)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ymboJ2qJ2MY&t=1666s">
+	Фортепианный квинтет соль минор, <nobr>Op. 57</nobr> : 
+	<nobr>V. Finale</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/richter-borodin-shostakovich.png" width="800"> <br>
+
+Квартет имени Бородина: <br>
+<nobr>Михаил Копельман </nobr> /
+<nobr>Андрей Абраменков </nobr> /
+<nobr>Дмитрий Шебалин / Валентин Берлинский </nobr>
+<nobr>+ Святослав Рихтер</nobr> 
+<br>
+<span style="font-size:0.87em">[pf-vn–vn–va–vc] </span> <br>
+<span style="font-size:0.87em">(Большой зал Московской консерватории, <nobr>Москва
+&nbsp;<img src="/assets/img/flags/su.png" height="11" width="16"/>&nbsp; 
+1983-12)</nobr> </span> </p>  
+
+<br>
+
+
 
 
 <p style="text-align:center">
