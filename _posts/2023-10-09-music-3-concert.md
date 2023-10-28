@@ -29,7 +29,7 @@ tags: music
 Academy of Ancient Music <br>
 CHRISTOPHER HOGWOOD
 <br>
-<span style="font-size:0.87em">(St George the Martyr, Holborn, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1980-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(St George the Martyr, Holborn, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980-11)</nobr> </span> </p> 
 
 <br>
 
@@ -58,7 +58,7 @@ CHRISTOPHER HOGWOOD
 Concerto Italiano <br>
 RINALDO ALESSANDRINI
 <br>
-<span style="font-size:0.87em">(Palazzo Farnese, <nobr>Roma &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2005-03)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Palazzo Farnese, <nobr>Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005-03)</nobr> </span> </p> 
 
 <br>
 
@@ -90,7 +90,7 @@ RINALDO ALESSANDRINI
 <nobr>Anthony Robson / Felix Warnock </nobr> <br>
 <span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
 Orchestra of the Age of Enlightenment <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
 
 <br>
 
@@ -112,7 +112,7 @@ Orchestra of the Age of Enlightenment <br>
 Vox Luminis <br>
 LIONEL MEUNIER
 <br>
-<span style="font-size:0.87em">(Notre-Dame de la Nativité, <nobr>Gedinne &nbsp;<img src="/assets/img/flags/be.png" height="11" width="16"/>&nbsp; 2016-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Notre-Dame de la Nativité, <nobr>Gedinne &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2016-05)</nobr> </span> </p> 
 
 <br>
 
@@ -132,7 +132,7 @@ LIONEL MEUNIER
 <img src="/assets/img/albums/lluis-vich-victoria.png" width="800"> <br>
 
 Lluís Vich Vocalis <br>
-<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="11" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Capella de la Sapiència, <nobr>València &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2006-09)</nobr> </span> </p> 
 
 <br>
 
@@ -156,7 +156,7 @@ Lluís Vich Vocalis <br>
 Pygmalion <br>
 RAPHAËL PICHON
 <br>
-<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
 
 <br>
 
@@ -180,7 +180,7 @@ RAPHAËL PICHON
 The Consort of Musicke <br>
 ANTHONY ROOLEY
 <br>
-<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1983-07)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983-07)</nobr> </span> </p> 
 
 <br>
 
@@ -201,7 +201,7 @@ ANTHONY ROOLEY
 <img src="/assets/img/albums/pifarescha-venice.png" width="800"> <br>
 
 La Pifarescha <br>
-<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Convento di San Nicola, <nobr>Almenno San Salvatore &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2017-05)</nobr> </span> </p> 
 
 <br>
 
@@ -222,7 +222,7 @@ La Pifarescha <br>
 <img src="/assets/img/albums/guettler-simpson.png" width="800"> <br>
 
 Blechbläserensemble LUDWIG GÜTTLER <br>
-<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="11" width="16"/>&nbsp; 1986-01)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1986-01)</nobr> </span> </p> 
 
 <br>
 
@@ -246,7 +246,7 @@ Blechbläserensemble LUDWIG GÜTTLER <br>
 Praetorius Consort <br>
 CHRISTOPHER BALL
 <br>
-<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
 
 <br>
 
@@ -271,7 +271,7 @@ Niklas Eklund <br>
 Drottningholms Barockensemble <br>
 NILS-ERIK SPARF
 <br>
-<span style="font-size:0.87em">(Petruskyrkan, <nobr>Stocksund &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 1995-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Petruskyrkan, <nobr>Stocksund &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1995-08)</nobr> </span> </p> 
 
 <br>
 
@@ -295,7 +295,7 @@ Paolo Grazzi <br>
 Orchestra Barocca di Venezia <br>
 ANDREA MARCON
 <br>
-<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
 
 <br>
 
@@ -318,7 +318,7 @@ Karl Schlechta <br>
 Kurpfälzisches Kammerorchester <br>
 JIŘÍ MALÁT
 <br>
-<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
 
 <br>
 
@@ -343,7 +343,7 @@ André Previn / Uan Rasey <br>
 New York Philharmonic <br>
 АБРАМ КОСТЕЛЯНЕЦ
 <br>
-<span style="font-size:0.87em">(American Legion Hall, <nobr>Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1960-03)</nobr> </span> </p> 
+<span style="font-size:0.87em">(American Legion Hall, <nobr>Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960-03)</nobr> </span> </p> 
 
 <br>
 
@@ -368,7 +368,7 @@ New York Philharmonic <br>
 London Symphony Orchestra <br>
 AARON COPLAND 
 <br>
-<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1965-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965-11)</nobr> </span> </p> 
 
 <br>
 
@@ -392,7 +392,7 @@ AARON COPLAND
 <nobr>Amandine Beyer </nobr> <br>
 <span style="font-size:0.87em">[vn–vn] </span> <br>
 Café Zimmermann <br>
-<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003-06)</nobr> </span> </p> 
 
 <br>
 
@@ -425,7 +425,7 @@ Café Zimmermann <br>
 Orkest van de Achttiende Eeuw <br>
 FRANS BRÜGGEN
 <br>
-<span style="font-size:0.87em">(<nobr>Rotterdam &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 2005-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(<nobr>Rotterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2005-10)</nobr> </span> </p> 
 
 <br>
 
@@ -450,7 +450,7 @@ Wolfgang Schneiderhan / János Starker <br>
 Radio-Symphonie-Orchester Berlin <br>
 FERENC FRICSAY
 <br>
-<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961-06)</nobr> </span> </p> 
 
 <br>
 
@@ -483,7 +483,7 @@ FERENC FRICSAY
 <nobr>Paul Badura-Skoda </nobr> <br> 
 <span style="font-size:0.87em">[vn–vc–pf] </span> <br>
 Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
 
 <br>
 
@@ -505,7 +505,7 @@ Collegium Aureum <br>
 
 TON KOOPMAN <br>
 Amsterdam Baroque Orchestra <br>
-<span style="font-size:0.87em">(Sint-Bartholomaeuskerk, Beek, <nobr>Berg en Dal &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1984)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Sint-Bartholomaeuskerk, Beek, <nobr>Berg en Dal &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1984)</nobr> </span> </p> 
 
 <br>
 
@@ -527,7 +527,7 @@ Amsterdam Baroque Orchestra <br>
 <img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
 
 GUSTAV LEONHARDT & Ensemble <br>
-<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
 
 <br>
 
@@ -560,7 +560,7 @@ Steven Lubin <br>
 Academy of Ancient Music <br>
 CHRISTOPHER HOGWOOD
 <br>
-<span style="font-size:0.87em">(St Barnabas Church, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1987-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(St Barnabas Church, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-06)</nobr> </span> </p> 
 
 <br>
 
@@ -591,7 +591,7 @@ Alfred Brendel <br>
 Academy of St Martin in the Fields <br>
 NEVILLE MARRINER
 <br>
-<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
 
 <br>
 
@@ -622,7 +622,7 @@ NEVILLE MARRINER
 Государственного симфонического оркестра Министерства культуры СССР <br>
 ГЕННАДИЙ РОЖДЕСТВЕНСКИЙ
 <br>
-<span style="font-size:0.87em">(Всесоюзная Студия Грамзаписи, <nobr>Москва &nbsp;<img src="/assets/img/flags/su.png" height="11" width="16"/>&nbsp; 1983)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Всесоюзная Студия Грамзаписи, <nobr>Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1983)</nobr> </span> </p> 
 
 <br>
 
@@ -645,8 +645,8 @@ Ronald Brautigam <br>
 Concertgebouworkest <br>
 RICCARDO CHAILLY
 <br>
-<span style="font-size:0.87em">(Kleine Zaal, Concertgebouw, <nobr>Amsterdam
-&nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1990-06)</nobr> </span> </p>  
+<span style="font-size:0.87em">(Concertgebouw, <nobr>Amsterdam
+&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1990-06)</nobr> </span> </p>  
 
 <br>
 
@@ -667,7 +667,7 @@ RICCARDO CHAILLY
 <img src="/assets/img/albums/orpheus-dumbarton.png" width="800"> <br>
 
 Orpheus Chamber Orchestra <br>
-<span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
 
 <br>
 
@@ -692,7 +692,7 @@ Orpheus Chamber Orchestra <br>
 Stockholms Nya Kammarorkester <br>
 ЛЕВ МАРКИЗ
 <br>
-<span style="font-size:0.87em">(Danderyds gymnasium, <nobr>Danderyd &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 1991-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Danderyds gymnasium, <nobr>Danderyd &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1991-05)</nobr> </span> </p> 
 
 <br>
 
@@ -716,7 +716,7 @@ Ensemble intercontemporain <br>
 PIERRE BOULEZ
 <br>
 <span style="font-size:0.87em">(Espace de projection, Ircam, <nobr>Paris
-&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1992-10)</nobr> </span> </p>  
+&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992-10)</nobr> </span> </p>  
 
 <br>
 
@@ -741,7 +741,7 @@ Rotterdams Philharmonisch Orkest <br>
 JAMES CONLON
 <br>
 <span style="font-size:0.87em">(De Doelen, <nobr>Rotterdam
-&nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1984-10)</nobr> </span> </p> 
+&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1984-10)</nobr> </span> </p> 
 
 <br>
 
@@ -764,7 +764,7 @@ San Francisco Symphony <br>
 MICHAEL TILSON THOMAS
 <br>
 <span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco
-&nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1999-10)</nobr> </span> </p> 
+&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999-10)</nobr> </span> </p> 
 
 <br>
 
@@ -788,8 +788,8 @@ Arthur Grumiaux <br>
 Concertgebouworkest <br>
 ИГОРЬ МАРКЕВИЧ
 <br>
-<span style="font-size:0.87em">(Grote Zaal, Concertgebouw, <nobr>Amsterdam 
-&nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1967-01)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Concertgebouw, <nobr>Amsterdam 
+&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1967-01)</nobr> </span> </p> 
 
 <br>
 

@@ -24,7 +24,7 @@ tags: music
 Münchener Bach-Orchester <br>
 KARL RICHTER
 <br>
-<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
 
 <br>
 
@@ -45,7 +45,7 @@ KARL RICHTER
 <img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
 
 Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
 
 <br>
 
@@ -69,7 +69,7 @@ Collegium Aureum <br>
 Orchestre des Champs-Elysées <br>
 PHILIPPE HERREWEGHE
 <br>
-<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2001-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2001-11)</nobr> </span> </p> 
 
 <br>
 
@@ -97,7 +97,7 @@ PHILIPPE HERREWEGHE
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="800"> <br>
 
 Orpheus Chamber Orchestra <br>
-<span style="font-size:0.87em">(Performing Arts Center, <nobr>Purchase &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1987-12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Performing Arts Center, <nobr>Purchase &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987-12)</nobr> </span> </p> 
 
 <br>
 
@@ -120,7 +120,7 @@ Orpheus Chamber Orchestra <br>
 
 Александр Рудин / Aapo Häkkinen <br>
 <span style="font-size:0.87em">[arp–pf] </span> <br>
-<span style="font-size:0.87em">(Schaumansali, <nobr>Jakobstad &nbsp;<img src="/assets/img/flags/fi.png" height="11" width="16"/>&nbsp; 2019-09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Schaumansali, <nobr>Jakobstad &nbsp;<img src="/assets/img/flags/fi.png" height="10.5" width="16"/>&nbsp; 2019-09)</nobr> </span> </p> 
 
 <br>
 
@@ -148,7 +148,7 @@ Orpheus Chamber Orchestra <br>
 <nobr>Fernand Caratgé </nobr> /
 <nobr>André Boutard </nobr> <br>
 <span style="font-size:0.87em">[hp–vn–vn–va–vc–fl–cl] </span> <br>
-<span style="font-size:0.87em">(Salle Wagram, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1964-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Salle Wagram, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1964-11)</nobr> </span> </p> 
 
 <br>
 
@@ -172,7 +172,7 @@ London Sinfonietta <br>
 ESA-PEKKA SALONEN
 <br>
 <span style="font-size:0.87em">(Abbey Road Studios, <nobr>London
-&nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1990-04)</nobr> </span> </p>  
+&nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-04)</nobr> </span> </p>  
 
 <br>
 
@@ -200,7 +200,7 @@ ESA-PEKKA SALONEN
 <br>
 <span style="font-size:0.87em">[pf-vn–vn–va–vc] </span> <br>
 <span style="font-size:0.87em">(Большой зал Московской консерватории, <nobr>Москва
-&nbsp;<img src="/assets/img/flags/su.png" height="11" width="16"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
 1983-12)</nobr> </span> </p>  
 
 <br>
@@ -222,7 +222,7 @@ ESA-PEKKA SALONEN
 <img src="/assets/img/albums/cuiller-byrd.png" width="800"> <br>
 
 Bertrand Cuiller <br>
-<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2005-02)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2005-02)</nobr> </span> </p> 
 
 <br>
 
@@ -243,15 +243,38 @@ Bertrand Cuiller <br>
 <img src="/assets/img/albums/chapuis-buxtehude.png" width="800"> <br>
 
 Michel Chapuis <br>
-<span style="font-size:0.87em">(Église Saint-Maximin, <nobr>Thionville &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1972-05/09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Église Saint-Maximin, <nobr>Thionville &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1972-05/09)</nobr> </span> </p> 
 
 <br>
 
 
 
+<p style="text-align:center">
+	2.11 &nbsp;|&nbsp; FRANÇOIS COUPERIN &nbsp;(1724)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ID9q6XjwlXQ&t=424s">
+	Concert № 7 en sol mineur : 
+	<nobr>IV. Fuguéte</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kuijken-couperin.png" width="800"> <br>
+
+<nobr>Sigiswald Kuijken </nobr> /
+<nobr>Robert Kohnen </nobr> <br>
+<span style="font-size:0.87em">[vn–hpd] </span> <br>
+<span style="font-size:0.87em">(Singelkerk, <nobr>Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 
+1974-11)</nobr> </span> </p>  
+
+<br>
+
+
 
 <p style="text-align:center">
-	2.11 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+	2.12 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -266,7 +289,7 @@ Michel Chapuis <br>
 Scottish Chamber Orchestra <br>
 CHARLES MACKERRAS 
 <br>
-<span style="font-size:0.87em">(City Halls, <nobr>Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 2007-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(City Halls, <nobr>Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007-08)</nobr> </span> </p> 
 
 <br>
 
@@ -274,7 +297,7 @@ CHARLES MACKERRAS
 
 
 <p style="text-align:center">
-	2.12 &nbsp;|&nbsp; ANTON BRUCKNER &nbsp;(1876)
+	2.13 &nbsp;|&nbsp; ANTON BRUCKNER &nbsp;(1876)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -289,7 +312,7 @@ CHARLES MACKERRAS
 Wiener Philharmoniker <br>
 BERNARD HAITINK
 <br>
-<span style="font-size:0.87em">(Große Musikvereinssaal, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1988-03/12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Große Musikvereinssaal, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1988-03/12)</nobr> </span> </p> 
 
 <br>
 
@@ -297,7 +320,7 @@ BERNARD HAITINK
 
 
 <p style="text-align:center">
-	2.13 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1936)
+	2.14 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1936)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -312,7 +335,7 @@ BERNARD HAITINK
 Nemzeti Filharmonikusok <br>
 ZOLTÁN KOCSIS
 <br>
-<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2009-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2009-10)</nobr> </span> </p> 
 
 <br>
 
@@ -320,7 +343,7 @@ ZOLTÁN KOCSIS
 
 
 <p style="text-align:center">
-	2.14 &nbsp;|&nbsp; DARIUS MILHAUD &nbsp;(1923)
+	2.15 &nbsp;|&nbsp; DARIUS MILHAUD &nbsp;(1923)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -337,7 +360,7 @@ Boston Symphony Orchestra <br>
 CHARLES MUNCH 
 <br>
 <span style="font-size:0.87em">(Symphony Hall, <nobr>Boston 
-&nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1961-03)</nobr> </span> </p>  
+&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961-03)</nobr> </span> </p>  
 
 <br>
 
@@ -345,7 +368,7 @@ CHARLES MUNCH
 
 
 <p style="text-align:center">
-	2.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1797)
+	2.16 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1797)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -362,7 +385,7 @@ Orlando Quartet: <br>
 <nobr>István Párkányi </nobr> /
 <nobr>Heinz Oberdorfer </nobr> /
 <nobr>Ferdinand Erblich / Stefan Metz </nobr> <br>
-<span style="font-size:0.87em">(<nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16"/>&nbsp; 1981-10)</nobr> </span> </p>  
+<span style="font-size:0.87em">(<nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-10)</nobr> </span> </p>  
 
 <br>
 
@@ -370,7 +393,7 @@ Orlando Quartet: <br>
 
 
 <p style="text-align:center">
-	2.16 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
+	2.17 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -386,7 +409,7 @@ Orlando Quartet: <br>
 Les Arts Florissants <br>
 WILLIAM CHRISTIE 
 <br>
-<span style="font-size:0.87em">(Église Saint-Martin du Méjan, <nobr>Arles &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 1985-07)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Église Saint-Martin du Méjan, <nobr>Arles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1985-07)</nobr> </span> </p> 
 
 <br>
 
@@ -394,7 +417,7 @@ WILLIAM CHRISTIE
 
 
 <p style="text-align:center">
-	2.17 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
+	2.18 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -416,7 +439,7 @@ WILLIAM CHRISTIE
 KAREL ANČERL
 <br>
 <span style="font-size:0.87em">(Rudolfinum, <nobr>Praha
-&nbsp;<img src="/assets/img/flags/cs.png" height="11" width="16"/>&nbsp; 1966-06)</nobr> </span> </p>  
+&nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1966-06)</nobr> </span> </p>  
 
 <br>
 
@@ -424,7 +447,7 @@ KAREL ANČERL
 
 
 <p style="text-align:center">
-	2.18 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
+	2.19 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -439,7 +462,7 @@ KAREL ANČERL
 Early Music Consort of London <br>
 DAVID MUNROW
 <br>
-<span style="font-size:0.87em">(Charterhouse Chapel, Godalming / <nobr>Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1975-04/10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Charterhouse Chapel, Godalming / <nobr>Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975-04/10)</nobr> </span> </p> 
 
 <br>
 
@@ -447,7 +470,7 @@ DAVID MUNROW
 
 
 <p style="text-align:center">
-	2.19 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+	2.20 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -477,7 +500,7 @@ Concerto Palatino <br>
 
 
 <p style="text-align:center">
-	2.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+	2.21 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -501,7 +524,7 @@ Eva Zaïcik <br>
 Le Poème Harmonique <br>
 VINCENT DUMESTRE
 <br>
-<span style="font-size:0.87em">(Chapelle Corneille, <nobr>Rouen &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2020-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle Corneille, <nobr>Rouen &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020-08)</nobr> </span> </p> 
 
 <br>
 
@@ -509,7 +532,7 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
-	2.21 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
+	2.22 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -532,7 +555,7 @@ Margot Pares-Reyna <br>
 Chorus Musicus Köln <br>
 CHRISTOPH SPERING
 <br>
-<span style="font-size:0.87em">(Festhalle, <nobr>Viersen &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1994-09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Festhalle, <nobr>Viersen &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-09)</nobr> </span> </p> 
 
 <br>
 
@@ -540,7 +563,7 @@ CHRISTOPH SPERING
 
 
 <p style="text-align:center">
-	2.22 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+	2.23 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -565,7 +588,7 @@ CHRISTOPH SPERING
 Atlanta Symphony Orchestra & Chorus <br>
 ROBERT SHAW
 <br>
-<span style="font-size:0.87em">(Symphony Hall, <nobr>Atlanta &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1987-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Symphony Hall, <nobr>Atlanta &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987-04)</nobr> </span> </p> 
 
 <br>
 
@@ -573,7 +596,7 @@ ROBERT SHAW
 
 
 <p style="text-align:center">
-	2.23 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+	2.24 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -599,7 +622,7 @@ Natalie Dessay / Philippe Jaroussky <br>
 Le Concert d'Astrée <br>
 EMMANUELLE HAÏM 
 <br>
-<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2006-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2006-10)</nobr> </span> </p> 
 
 <br>
 
@@ -607,7 +630,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	2.24 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
+	2.25 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -621,7 +644,7 @@ EMMANUELLE HAÏM
 <img src="/assets/img/albums/leonhardt-pachelbel.png" width="800"> <br>
 
 Gustav Leonhardt <br>
-<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16"/>&nbsp; 2003-02)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003-02)</nobr> </span> </p> 
 
 <br>
 
@@ -629,7 +652,7 @@ Gustav Leonhardt <br>
 
 
 <p style="text-align:center">
-	2.25 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
+	2.26 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -644,7 +667,7 @@ Gustav Leonhardt <br>
 <img src="/assets/img/albums/badura-skoda-mozart475.png" width="800"> <br>
 
 Paul Badura-Skoda <br>
-<span style="font-size:0.87em">(Casino Baumgarten, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="11" width="16"/>&nbsp; 1989-12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Casino Baumgarten, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1989-12)</nobr> </span> </p> 
 
 <br>
 
@@ -652,7 +675,7 @@ Paul Badura-Skoda <br>
 
 
 <p style="text-align:center">
-	2.26 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+	2.27 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -671,7 +694,7 @@ Paul Badura-Skoda <br>
 <img src="/assets/img/albums/moravec-chopin.png" width="800"> <br>
 
 Ivan Moravec <br>
-<span style="font-size:0.87em">(<nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1965)</nobr> </span> </p> 
+<span style="font-size:0.87em">(<nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1965)</nobr> </span> </p> 
 
 <br>
 
@@ -679,7 +702,7 @@ Ivan Moravec <br>
 
 
 <p style="text-align:center">
-	2.27 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+	2.28 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -705,7 +728,7 @@ Claudio Arrau <br>
 
 
 <p style="text-align:center">
-	2.28 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+	2.29 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -720,7 +743,7 @@ Claudio Arrau <br>
 <img src="/assets/img/albums/pontinen-schoenberg.png" width="800"> <br>
 
 Roland Pöntinen <br>
-<span style="font-size:0.87em">(Musikaliska Kvarteret, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 2001-03)</nobr> </span> </p>  
+<span style="font-size:0.87em">(Musikaliska Kvarteret, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2001-03)</nobr> </span> </p>  
 
 <br>
 
@@ -728,7 +751,7 @@ Roland Pöntinen <br>
 
 
 <p style="text-align:center">
-	2.29 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
+	2.30 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -741,7 +764,7 @@ Roland Pöntinen <br>
 <img src="/assets/img/albums/taub-babbitt.png" width="800"> <br>
 
 Robert Taub <br>
-<span style="font-size:0.87em">(Church of the Holy Trinity, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="11" width="16"/>&nbsp; 1985-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Church of the Holy Trinity, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1985-04)</nobr> </span> </p> 
 
 <br>
 
@@ -749,7 +772,7 @@ Robert Taub <br>
 
 
 <p style="text-align:center">
-	2.30 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	2.31 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -775,7 +798,7 @@ Robert Taub <br>
 <img src="/assets/img/albums/brautigam-diabelli.png" width="800"> <br>
 
 Ronald Brautigam <br>
-<span style="font-size:0.87em">(Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 2015-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015-08)</nobr> </span> </p> 
 
 <br>
 
@@ -783,7 +806,7 @@ Ronald Brautigam <br>
 
 
 <p style="text-align:center">
-	2.31 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	2.32 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -806,7 +829,7 @@ Ronald Brautigam <br>
 
 Константин Щербаков <br>
 <span style="font-size:0.87em">(St Martin's Church, East Woodhay, <nobr>Hampshire 
-&nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 
 1999-06)</nobr> </span> </p> 
 
 <br>
