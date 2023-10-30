@@ -602,7 +602,7 @@ NEVILLE MARRINER
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Концерт для фортепиано с оркестром <nobr>№ 2</nobr> <nobr>соль минор</nobr>, 
+	Концерт <nobr>№ 2</nobr> для фортепиано с оркестром <nobr>соль минор</nobr>, 
 	<nobr>Op. 16</nobr> : 
 <nobr>
 <a href="https://www.youtube.com/watch?v=HGmJ_9_5ojk&list=OLAK5uy_mkWUWdKIpEt9w69m3XiE1gRQuGaqy6Xks&index=1">
