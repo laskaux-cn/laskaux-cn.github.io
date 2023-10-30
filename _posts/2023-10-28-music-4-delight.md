@@ -36,7 +36,7 @@ tags: music
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Klavierquintett A-dur, <nobr>Op. 114 / D. 667</nobr> : 
+	Klavierquintett A-dur, <nobr>D. 667</nobr> : 
 <nobr>
 <a href="https://www.youtube.com/watch?v=jYkHyn_7FiM&list=PL8AhTXrM6LH2PGB4WfZxRj2g89kHW2ok5&index=2">
 	II. Andante
