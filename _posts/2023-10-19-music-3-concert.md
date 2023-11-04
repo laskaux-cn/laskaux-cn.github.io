@@ -301,31 +301,9 @@ ANDREA MARCON
 
 
 
-<p style="text-align:center">
-	3.13 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(1745–1801)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
-	Klarinettenkonzert № 6 Es-dur
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
-
-Karl Schlechta <br>
-Kurpfälzisches Kammerorchester <br>
-JIŘÍ MALÁT
-<br>
-<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
-
-<br>
-
-
 
 <p style="text-align:center">
-	3.14 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1925)
+	3.13 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1925)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -350,7 +328,7 @@ New York Philharmonic <br>
 
 
 <p style="text-align:center">
-	3.15 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1940)
+	3.14 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1940)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -375,7 +353,7 @@ AARON COPLAND
 
 
 <p style="text-align:center">
-	3.16 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(c. 1730)
+	3.15 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(c. 1730)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -399,7 +377,7 @@ Café Zimmermann <br>
 
 
 <p style="text-align:center">
-	3.17 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1779)
+	3.16 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1779)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -431,7 +409,7 @@ FRANS BRÜGGEN
 
 
 <p style="text-align:center">
-	3.18 &nbsp;|&nbsp; JOHANNES BRAHMS &nbsp;(1887)
+	3.17 &nbsp;|&nbsp; JOHANNES BRAHMS &nbsp;(1887)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -457,7 +435,7 @@ FERENC FRICSAY
 
 
 <p style="text-align:center">
-	3.19 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	3.18 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -490,7 +468,7 @@ Collegium Aureum <br>
 
 
 <p style="text-align:center">
-	3.20 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
+	3.19 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1738)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -513,7 +491,7 @@ Amsterdam Baroque Orchestra <br>
 
 
 <p style="text-align:center">
-	3.21 &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
+	3.20 &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -535,7 +513,7 @@ GUSTAV LEONHARDT & Ensemble <br>
 
 
 <p style="text-align:center">
-	3.22 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
+	3.21 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -567,7 +545,7 @@ CHRISTOPHER HOGWOOD
 
 
 <p style="text-align:center">
-	3.23 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	3.22 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -598,11 +576,11 @@ NEVILLE MARRINER
 
 
 <p style="text-align:center">
-	3.24 &nbsp;|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1913/1923)
+	3.23 &nbsp;|&nbsp; СЕРГЕЙ ПРОКОФЬЕВ &nbsp;(1913/1923)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Концерт <nobr>№ 2</nobr> для фортепиано с оркестром <nobr>соль минор</nobr>, 
+	Концерт для фортепиано с оркестром <nobr>№ 2</nobr> <nobr>соль минор</nobr>, 
 	<nobr>Op. 16</nobr> : 
 <nobr>
 <a href="https://www.youtube.com/watch?v=HGmJ_9_5ojk&list=OLAK5uy_mkWUWdKIpEt9w69m3XiE1gRQuGaqy6Xks&index=1">
@@ -629,7 +607,7 @@ NEVILLE MARRINER
 
 
 <p style="text-align:center">
-	3.25 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1925)
+	3.24 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1925)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -653,7 +631,7 @@ RICCARDO CHAILLY
 
 
 <p style="text-align:center">
-	3.26 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1938)
+	3.25 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1938)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -674,7 +652,7 @@ Orpheus Chamber Orchestra <br>
 
 
 <p style="text-align:center">
-	3.27 &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
+	3.26 &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -699,7 +677,7 @@ Stockholms Nya Kammarorkester <br>
 
 
 <p style="text-align:center">
-	3.28 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1934)
+	3.27 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1934)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -723,7 +701,7 @@ PIERRE BOULEZ
 
 
 <p style="text-align:center">
-	3.29 &nbsp;|&nbsp; FRANCIS POULENC &nbsp;(1938)
+	3.28 &nbsp;|&nbsp; FRANCIS POULENC &nbsp;(1938)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -747,7 +725,7 @@ JAMES CONLON
 
 
 <p style="text-align:center">
-	3.30 &nbsp;|&nbsp; CHARLES IVES &nbsp;(1908)
+	3.29 &nbsp;|&nbsp; CHARLES IVES &nbsp;(1908)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -771,7 +749,7 @@ MICHAEL TILSON THOMAS
 
 
 <p style="text-align:center">
-	3.31 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)
+	3.30 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

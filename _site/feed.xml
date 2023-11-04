@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 30 Oct 2023 19:29:24 -0400</pubDate>
+    <pubDate>Sat, 04 Nov 2023 00:56:05 -0400</pubDate>
     
       <item>
         <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
@@ -33,7 +33,32 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.2 &amp;nbsp;|&amp;nbsp; FRANZ SCHUBERT &amp;nbsp;(1819)
+	4.2 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1806)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Violinkonzert D-dur, 
+	&lt;nobr&gt;Op. 61&lt;/nobr&gt; : 
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=-AUglC2tMfA&amp;amp;list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&amp;amp;index=2&quot;&gt;
+	II. Larghetto
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mullova-beethoven.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Виктория Муллова &lt;br /&gt;
+Orchestre Révolutionnaire et Romantique &lt;br /&gt;
+JOHN ELIOT GARDINER
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Colosseum, &lt;nobr&gt;Watford &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2002-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.3 &amp;nbsp;|&amp;nbsp; FRANZ SCHUBERT &amp;nbsp;(1819)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -63,7 +88,56 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.X &amp;nbsp;|&amp;nbsp; GIOVANNI PAISIELLO &amp;nbsp;(1782)
+	4.4 &amp;nbsp;|&amp;nbsp; JOHANN CHRISTIAN BACH &amp;nbsp;(1770)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Keyboard Concerto in E-flat major, &lt;nobr&gt;Op. 7 № 5 / W. C59&lt;/nobr&gt; : 
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kaWo866elOc&amp;amp;list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&amp;amp;index=23&quot;&gt;
+	I. Allegro di molto
+&lt;/a&gt;
+– 
+&lt;a href=&quot;https://www.youtube.com/watch?v=lLVhgPwiONk&amp;amp;list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&amp;amp;index=24&quot;&gt;
+	II. Andante
+&lt;/a&gt;
+&lt;/nobr&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/haebler-jcbach.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+&lt;nobr&gt;Ingrid Haebler &lt;/nobr&gt; &lt;br /&gt;
+Capella Academica Wien &lt;br /&gt;
+EDUARD MELKUS
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(&lt;nobr&gt;Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.5 &amp;nbsp;|&amp;nbsp; CARL STAMITZ &amp;nbsp;(1745–1801)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=Yf1b3iZL82I&amp;amp;list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&amp;amp;index=10&quot;&gt;
+	Klarinettenkonzert № 6 Es-dur
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schlechta-stamitz.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Karl Schlechta &lt;br /&gt;
+Kurpfälzisches Kammerorchester &lt;br /&gt;
+JIŘÍ MALÁT
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(SWR Studio, &lt;nobr&gt;Kaiserslautern &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1994-05/12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.6 &amp;nbsp;|&amp;nbsp; GIOVANNI PAISIELLO &amp;nbsp;(1782)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -85,31 +159,109 @@ RAPHAËL PICHON
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.X &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1806)
+	4.7 &amp;nbsp;|&amp;nbsp; DOMENICO GALLO &amp;nbsp;(c. 1730–1775)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-	Violinkonzert D-dur, 
-	&lt;nobr&gt;Op. 61&lt;/nobr&gt; : 
-&lt;nobr&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=-AUglC2tMfA&amp;amp;list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&amp;amp;index=2&quot;&gt;
-	II. Larghetto
+&lt;a href=&quot;https://www.youtube.com/watch?v=4Ql0RyRK1Xw&amp;amp;list=OLAK5uy_kDoOVtVitnQ0Sv2bYrYAA5ZzE7oo6vRSE&amp;amp;index=1&quot;&gt;
+	Sonata a tre № 1 in sol maggiore
 &lt;/a&gt;
-–
-&lt;a href=&quot;https://www.youtube.com/watch?v=2mE-ns92CQE&amp;amp;list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&amp;amp;index=3&quot;&gt;
-	III. Rondo
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/parnassi-gallo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Parnassi musici: &lt;br /&gt;
+&lt;nobr&gt;Margaret MacDuffie &lt;/nobr&gt; /
+&lt;nobr&gt;Matthias Fischer &lt;/nobr&gt; /
+&lt;nobr&gt;Stephan Schrader / Martin Lutz &lt;/nobr&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–vc–hpd] &lt;/span&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Hans-Rosbaud-Studio, &lt;nobr&gt;Baden-Baden &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992-02/06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.X &amp;nbsp;|&amp;nbsp; MAURICE RAVEL &amp;nbsp;(1931)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+	Concerto en sol majeur pour piano et orchestre, &lt;nobr&gt;M. 83&lt;/nobr&gt; : 
+&lt;nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=CjULZmPXTzE&amp;amp;list=PLZdAlno7O9qYXFU29iuDsddxNPn3sv_rE&amp;amp;index=2&amp;amp;t=3s&quot;&gt;
+	I. Allegramente
+&lt;/a&gt;
+– 
+&lt;a href=&quot;https://www.youtube.com/watch?v=A0fFZndqh20&amp;amp;list=PLZdAlno7O9qYXFU29iuDsddxNPn3sv_rE&amp;amp;index=2&quot;&gt;
+	II. Adagio assai
 &lt;/a&gt;
 &lt;/nobr&gt;
 &lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/mullova-beethoven.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/argerich-ravel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Виктория Муллова &lt;br /&gt;
-Orchestre Révolutionnaire et Romantique &lt;br /&gt;
-JOHN ELIOT GARDINER
+Martha Argerich &lt;br /&gt;
+Berliner Philharmoniker &lt;br /&gt;
+CLAUDIO ABBADO
 &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Colosseum, &lt;nobr&gt;Watford &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2002-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Jesus-Christus-Kirche, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967-05/06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.X &amp;nbsp;|&amp;nbsp; HONORÉ D&amp;apos;AMBRUIS &amp;nbsp;&lt;nobr&gt;(1685)&lt;/nobr&gt;
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=3NcM12Sd0Vw&amp;amp;list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&amp;amp;index=14&quot;&gt;
+	&lt;i&gt;Le doux silence de nos bois&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/christie-dambrius.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Marc Mauillon &lt;br /&gt;
+Les Arts Florissants &lt;br /&gt;
+WILLIAM CHRISTIE 
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Auditorium Jean-Pierre Miquel, &lt;nobr&gt;Vincennes &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013-12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.X &amp;nbsp;|&amp;nbsp; ROBERT SCHUMANN &amp;nbsp;(1838)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=D9P-nBh6jJ8&amp;amp;list=OLAK5uy_n5LUOrq9jJIzGiUbC8kO5mULZUFuuMs3I&amp;amp;index=1&quot;&gt;
+	&lt;i&gt;Kinderszenen&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;, &lt;nobr&gt;Op. 15&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/achatz-schumann.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Dag Achatz &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Nacka aula, &lt;nobr&gt;Nacka &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1980-04/05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.X &amp;nbsp;|&amp;nbsp; JOSEPH HAYDN &amp;nbsp;(1793)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=caiBJxBTAdA&amp;amp;list=OLAK5uy_lGF3AaJUW69YdWRnNuGa8Ye-Yu4Dm16MY&amp;amp;index=32&quot;&gt;
+	Andante mit Variationen f-moll, &lt;nobr&gt;Hob. XVII:6&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/brendel-haydn.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Alfred Brendel &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Henry Wood Hall, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1985-07)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -121,11 +273,11 @@ JOHN ELIOT GARDINER
 	Klavierkonzert № 17 G-dur, 
 	&lt;nobr&gt;KV 453&lt;/nobr&gt;
 &lt;nobr&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=-2bMCcY2odM&amp;amp;list=OLAK5uy_nxOtqVBxX2xJgOstM_g7Lmr-7c1n1Sb4Y&amp;amp;index=10&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kUhR3Xf0ihI&amp;amp;list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&amp;amp;index=2&quot;&gt;
 	II. Andante
 &lt;/a&gt;
 –
-&lt;a href=&quot;https://www.youtube.com/watch?v=1GFOkPGtGcE&amp;amp;list=OLAK5uy_nxOtqVBxX2xJgOstM_g7Lmr-7c1n1Sb4Y&amp;amp;index=11&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=85c_-D9-0uM&amp;amp;list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&amp;amp;index=3&quot;&gt;
 	III. Allegretto
 &lt;/a&gt;
 &lt;/nobr&gt;
@@ -414,28 +566,7 @@ ANDREA MARCON
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.13 &amp;nbsp;|&amp;nbsp; CARL STAMITZ &amp;nbsp;(1745–1801)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=Yf1b3iZL82I&amp;amp;list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&amp;amp;index=10&quot;&gt;
-	Klarinettenkonzert № 6 Es-dur
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/schlechta-stamitz.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Karl Schlechta &lt;br /&gt;
-Kurpfälzisches Kammerorchester &lt;br /&gt;
-JIŘÍ MALÁT
-&lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(SWR Studio, &lt;nobr&gt;Kaiserslautern &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1994-05/12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	3.14 &amp;nbsp;|&amp;nbsp; GEORGE GERSHWIN &amp;nbsp;(1925)
+	3.13 &amp;nbsp;|&amp;nbsp; GEORGE GERSHWIN &amp;nbsp;(1925)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -458,7 +589,7 @@ New York Philharmonic &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.15 &amp;nbsp;|&amp;nbsp; AARON COPLAND &amp;nbsp;(1940)
+	3.14 &amp;nbsp;|&amp;nbsp; AARON COPLAND &amp;nbsp;(1940)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -481,7 +612,7 @@ AARON COPLAND
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.16 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(c. 1730)
+	3.15 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(c. 1730)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -503,7 +634,7 @@ Café Zimmermann &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.17 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1779)
+	3.16 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1779)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -534,7 +665,7 @@ FRANS BRÜGGEN
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.18 &amp;nbsp;|&amp;nbsp; JOHANNES BRAHMS &amp;nbsp;(1887)
+	3.17 &amp;nbsp;|&amp;nbsp; JOHANNES BRAHMS &amp;nbsp;(1887)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -558,7 +689,7 @@ FERENC FRICSAY
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.19 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1804)
+	3.18 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1804)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -588,7 +719,7 @@ Collegium Aureum &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.20 &amp;nbsp;|&amp;nbsp; GEORGE FRIDERIC HANDEL &amp;nbsp;(1738)
+	3.19 &amp;nbsp;|&amp;nbsp; GEORGE FRIDERIC HANDEL &amp;nbsp;(1738)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -608,7 +739,7 @@ Amsterdam Baroque Orchestra &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.21 &amp;nbsp;|&amp;nbsp; CARL PHILIPP EMANUEL BACH &amp;nbsp;(1748)
+	3.20 &amp;nbsp;|&amp;nbsp; CARL PHILIPP EMANUEL BACH &amp;nbsp;(1748)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -627,7 +758,7 @@ GUSTAV LEONHARDT &amp;amp; Ensemble &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.22 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1795)
+	3.21 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1795)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -656,7 +787,7 @@ CHRISTOPHER HOGWOOD
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.23 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1786)
+	3.22 &amp;nbsp;|&amp;nbsp; WOLFGANG AMADEUS MOZART &amp;nbsp;(1786)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -685,11 +816,11 @@ NEVILLE MARRINER
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.24 &amp;nbsp;|&amp;nbsp; СЕРГЕЙ ПРОКОФЬЕВ &amp;nbsp;(1913/1923)
+	3.23 &amp;nbsp;|&amp;nbsp; СЕРГЕЙ ПРОКОФЬЕВ &amp;nbsp;(1913/1923)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-	Концерт &lt;nobr&gt;№ 2&lt;/nobr&gt; для фортепиано с оркестром &lt;nobr&gt;соль минор&lt;/nobr&gt;, 
+	Концерт для фортепиано с оркестром &lt;nobr&gt;№ 2&lt;/nobr&gt; &lt;nobr&gt;соль минор&lt;/nobr&gt;, 
 	&lt;nobr&gt;Op. 16&lt;/nobr&gt; : 
 &lt;nobr&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=HGmJ_9_5ojk&amp;amp;list=OLAK5uy_mkWUWdKIpEt9w69m3XiE1gRQuGaqy6Xks&amp;amp;index=1&quot;&gt;
@@ -714,7 +845,7 @@ NEVILLE MARRINER
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.25 &amp;nbsp;|&amp;nbsp; PAUL HINDEMITH &amp;nbsp;(1925)
+	3.24 &amp;nbsp;|&amp;nbsp; PAUL HINDEMITH &amp;nbsp;(1925)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -736,7 +867,7 @@ RICCARDO CHAILLY
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.26 &amp;nbsp;|&amp;nbsp; ИГОРЬ СТРАВИНСКИЙ &amp;nbsp;(1938)
+	3.25 &amp;nbsp;|&amp;nbsp; ИГОРЬ СТРАВИНСКИЙ &amp;nbsp;(1938)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -755,7 +886,7 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.27 &amp;nbsp;|&amp;nbsp; АЛЬФРЕД ШНИТКЕ &amp;nbsp;(1985)
+	3.26 &amp;nbsp;|&amp;nbsp; АЛЬФРЕД ШНИТКЕ &amp;nbsp;(1985)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -778,7 +909,7 @@ Stockholms Nya Kammarorkester &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.28 &amp;nbsp;|&amp;nbsp; ANTON WEBERN &amp;nbsp;(1934)
+	3.27 &amp;nbsp;|&amp;nbsp; ANTON WEBERN &amp;nbsp;(1934)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -800,7 +931,7 @@ PIERRE BOULEZ
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.29 &amp;nbsp;|&amp;nbsp; FRANCIS POULENC &amp;nbsp;(1938)
+	3.28 &amp;nbsp;|&amp;nbsp; FRANCIS POULENC &amp;nbsp;(1938)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -823,7 +954,7 @@ JAMES CONLON
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.30 &amp;nbsp;|&amp;nbsp; CHARLES IVES &amp;nbsp;(1908)
+	3.29 &amp;nbsp;|&amp;nbsp; CHARLES IVES &amp;nbsp;(1908)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -845,7 +976,7 @@ MICHAEL TILSON THOMAS
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	3.31 &amp;nbsp;|&amp;nbsp; ALBAN BERG &amp;nbsp;(1935)
+	3.30 &amp;nbsp;|&amp;nbsp; ALBAN BERG &amp;nbsp;(1935)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
