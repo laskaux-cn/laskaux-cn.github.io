@@ -32,67 +32,32 @@ tags: music
 
 
 <p style="text-align:center">
-	4.2 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
+	4.2 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(1745–1801)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Violinkonzert D-dur, 
-	<nobr>Op. 61</nobr> : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=-AUglC2tMfA&list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&index=2">
-	II. Larghetto
+<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
+	Klarinettenkonzert № 6 Es-dur
 </a>
-</nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/mullova-beethoven.png" width="800"> <br>
+<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
 
-Виктория Муллова <br>
-Orchestre Révolutionnaire et Romantique <br>
-JOHN ELIOT GARDINER
+Karl Schlechta <br>
+Kurpfälzisches Kammerorchester <br>
+JIŘÍ MALÁT
 <br>
-<span style="font-size:0.87em">(Colosseum, <nobr>Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2002-06)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	4.3 &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1819)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Klavierquintett A-dur, <nobr>D. 667</nobr> : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=jYkHyn_7FiM&list=PL8AhTXrM6LH2PGB4WfZxRj2g89kHW2ok5&index=2">
-	II. Andante
-</a>
-– 
-<a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=PL8AhTXrM6LH2PGB4WfZxRj2g89kHW2ok5&index=4">
-	IV. Tema con variazioni
-</a>
-</nobr>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lubin-schubert.png" width="800"> <br>
-
-<nobr>Steven Lubin </nobr> /
-<nobr>Simon Standage </nobr> /
-<nobr>Trevor Jones </nobr> / 
-<nobr>David Watkin </nobr> / 
-<nobr>Amanda McNamara </nobr> <br>
-<span style="font-size:0.87em">[pf–vn–va–vc-db] </span> <br>
-<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
 
 <br>
+
 
 
 
 
 <p style="text-align:center">
-	4.4 &nbsp;|&nbsp; JOHANN CHRISTIAN BACH &nbsp;(1770)
+	4.3 &nbsp;|&nbsp; JOHANN CHRISTIAN BACH &nbsp;(1770)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -121,30 +86,9 @@ EDUARD MELKUS
 
 
 
-<p style="text-align:center">
-	4.5 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(1745–1801)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
-	Klarinettenkonzert № 6 Es-dur
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
-
-Karl Schlechta <br>
-Kurpfälzisches Kammerorchester <br>
-JIŘÍ MALÁT
-<br>
-<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
-
-<br>
-
 
 <p style="text-align:center">
-	4.6 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
+	4.4 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -168,24 +112,95 @@ RAPHAËL PICHON
 
 
 <p style="text-align:center">
-	4.7 &nbsp;|&nbsp; DOMENICO GALLO &nbsp;(c. 1730–1775)
+	4.X &nbsp;|&nbsp; HONORÉ D&apos;AMBRUIS &nbsp;<nobr>(1685)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=4Ql0RyRK1Xw&list=OLAK5uy_kDoOVtVitnQ0Sv2bYrYAA5ZzE7oo6vRSE&index=1">
-	Sonata a tre № 1 in sol maggiore
+<a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
+	<i>Le doux silence de nos bois</i>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/parnassi-gallo.png" width="800"> <br>
+<img src="/assets/img/albums/christie-dambrius.png" width="800"> <br>
 
-Parnassi musici: <br>
-<nobr>Margaret MacDuffie </nobr> /
-<nobr>Matthias Fischer </nobr> /
-<nobr>Stephan Schrader / Martin Lutz </nobr> <br>
-<span style="font-size:0.87em">[vn–vn–vc–hpd] </span> <br>
-<span style="font-size:0.87em">(Hans-Rosbaud-Studio, <nobr>Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1992-02/06)</nobr> </span> </p> 
+Marc Mauillon <br>
+Les Arts Florissants <br>
+WILLIAM CHRISTIE 
+<br>
+<span style="font-size:0.87em">(Auditorium Jean-Pierre Miquel, <nobr>Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013-12)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=y5XdgnPJJ_A&list=OLAK5uy_lyxNN-aFqnYDqF1fZ5kl1sdt9IQ_RNHOg&index=11">
+	<i>Melancholy Galliard</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>P. 25</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bream-dowland.png" width="800"> <br>
+
+Julian Bream <br>
+<span style="font-size:0.87em">(Mozart-Saal, Konzerthaus, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Violinkonzert D-dur, 
+	<nobr>Op. 61</nobr> : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=-AUglC2tMfA&list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&index=2">
+	II. Larghetto
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mullova-beethoven.png" width="800"> <br>
+
+Виктория Муллова <br>
+Orchestre Révolutionnaire et Romantique <br>
+JOHN ELIOT GARDINER
+<br>
+<span style="font-size:0.87em">(Colosseum, <nobr>Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2002-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; AARON COPLAND &nbsp;<nobr>(1936)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=LY-JUbgCxsU&list=OLAK5uy_kre9d9HK3o_ZrMkErpGkzN7gLoCaAjWzw&index=9">
+	<i>El Salón México</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bernstein-copland-mexico.png" width="800"> <br>
+
+New York Philharmonic <br>
+LEONARD BERNSTEIN
+<br>
+<span style="font-size:0.87em">(Manhattan Center, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961-05)</nobr> </span> </p> 
 
 <br>
 
@@ -221,32 +236,6 @@ CLAUDIO ABBADO
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; HONORÉ D&apos;AMBRUIS &nbsp;<nobr>(1685)</nobr>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
-	<i>Le doux silence de nos bois</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/christie-dambrius.png" width="800"> <br>
-
-Marc Mauillon <br>
-Les Arts Florissants <br>
-WILLIAM CHRISTIE 
-<br>
-<span style="font-size:0.87em">(Auditorium Jean-Pierre Miquel, <nobr>Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013-12)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-
 
 <p style="text-align:center">
 	4.X &nbsp;|&nbsp; ROBERT SCHUMANN &nbsp;(1838)
@@ -266,6 +255,25 @@ Dag Achatz <br>
 
 <br>
 
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1825)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=6FUXmvVkGQY&list=OLAK5uy_l0oEwFmslWaV-_jm4xjguhoxY7n3HC7qs&index=2">
+	Klaviersonate a-moll, <nobr>Op. 42 / D. 845</nobr> : <nobr>II. Andante poco moto </nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/zechlin-schubert845.png" width="800"> <br>
+
+Dieter Zechlin <br>
+<span style="font-size:0.87em">(Studio Brunnenstraße, <nobr>Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972-01)</nobr> </span> </p> 
+
+<br>
 
 
 <p style="text-align:center">
