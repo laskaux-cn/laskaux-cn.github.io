@@ -164,7 +164,7 @@ INGO METZMACHER
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=PR0VCnQks7M&list=OLAK5uy_kX6KJ8X6x87dsrWJWOExH2XIq35gXw5UE&t=532">
+<a href="https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing">
 	5 Klavierstücke, 
 	<nobr>Op. 23</nobr> : 
 	<nobr>V. Walzer</nobr>
@@ -172,10 +172,11 @@ INGO METZMACHER
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/helffer-schoenberg.png" width="800"> <br>
+<img src="/assets/img/albums/helffer-schoenberg-new.png" width="800"> <br>
 
 Claude Helffer <br>
-<span style="font-size:0.87em">(1969) </span> </p> 
+<span style="font-size:0.87em">(Espace de projection, Ircam, <nobr>Paris
+&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992-10)</nobr> </span> </p>  
 
 <br>
 
@@ -381,7 +382,7 @@ Talichovo kvarteto: <br>
 <nobr>Jan Talich / Evžen Rattay </nobr> 
 <nobr> + Karel Řehák </nobr> <br>
 <span style="font-size:0.87em">[vn–vn–va–vc–va] </span> <br>
-<span style="font-size:0.87em">(Fondation Tibor Varga, <nobr>Sion
+<span style="font-size:0.87em">(Salle de la Fondation Tibor Varga, <nobr>Sion
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
 1995)</nobr> </span> </p>  
 
