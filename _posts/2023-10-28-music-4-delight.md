@@ -21,8 +21,8 @@ tags: music
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/bilson-mozart.png" width="800"> <br>
 
-<nobr>Malcolm Bilson </nobr> /
-<nobr>Elizabeth Wilcock </nobr> /
+<nobr>Malcolm Bilson /</nobr>
+<nobr>Elizabeth Wilcock /</nobr>
 <nobr>Jan Schlapp / Timothy Mason </nobr> <br>
 <span style="font-size:0.87em">[pf–vn–va–vc] </span> <br>
 <span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-03)</nobr> </span> </p> 
@@ -125,11 +125,11 @@ RAPHAËL PICHON
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/lislevand-vivaldi.png" width="800"> <br>
 
-<nobr>Rolf Lislevand </nobr> /
-<nobr>Manfredo Kraemer </nobr> /
-<nobr>Pablo Valetti </nobr> / 
-<nobr>Brigitte Täubl </nobr> / 
-<nobr>Laura Johnson </nobr> / 
+<nobr>Rolf Lislevand /</nobr>
+<nobr>Manfredo Kraemer /</nobr>
+<nobr>Pablo Valetti /</nobr> 
+<nobr>Brigitte Täubl /</nobr> 
+<nobr>Laura Johnson /</nobr> 
 <nobr>Lorenz Duftschmid </nobr> <br>
 <span style="font-size:0.87em">[lute–vn–vn–vn–va–vlne] </span> <br>
 <span style="font-size:0.87em">(Salle de la Fondation Tibor Varga, <nobr>Sion
@@ -197,7 +197,7 @@ Julian Bream <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/savall-bach1028.png" width="800"> <br>
 
-<nobr>Jordi Savall </nobr> /
+<nobr>Jordi Savall /</nobr>
 <nobr>Ton Koopman </nobr> <br> 
 <span style="font-size:0.87em">[viol–hpd] </span> <br>
 <span style="font-size:0.87em">(Església de Sant Vicenç, <nobr>Castell de Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000-01)</nobr> </span> </p> 
@@ -328,8 +328,8 @@ FERENC FRICSAY
 <img src="/assets/img/albums/emerson-barber.png" width="800"> <br>
 
 Emerson String Quartet: <br>
-<nobr>Philip Setzer </nobr> /
-<nobr>Eugene Drucker </nobr> /
+<nobr>Philip Setzer /</nobr>
+<nobr>Eugene Drucker /</nobr>
 <nobr>Lawrence Dutton / David Finckel </nobr> <br>
 <span style="font-size:0.87em">(American Academy of Arts and Letters, <nobr>New York 
 &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 

@@ -193,8 +193,8 @@ ESA-PEKKA SALONEN
 <img src="/assets/img/albums/richter-borodin-shostakovich.png" width="800"> <br>
 
 Квартет имени Бородина: <br>
-<nobr>Михаил Копельман </nobr> /
-<nobr>Андрей Абраменков </nobr> /
+<nobr>Михаил Копельман /</nobr>
+<nobr>Андрей Абраменков /</nobr>
 <nobr>Дмитрий Шебалин / Валентин Берлинский </nobr>
 <nobr>+ Святослав Рихтер</nobr> 
 <br>
@@ -382,8 +382,8 @@ CHARLES MUNCH
 <img src="/assets/img/albums/orlando-haydn76.png" width="800"> <br>
 
 Orlando Quartet: <br>
-<nobr>István Párkányi </nobr> /
-<nobr>Heinz Oberdorfer </nobr> /
+<nobr>István Párkányi /</nobr>
+<nobr>Heinz Oberdorfer /</nobr>
 <nobr>Ferdinand Erblich / Stefan Metz </nobr> <br>
 <span style="font-size:0.87em">(<nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-10)</nobr> </span> </p>  
 
@@ -582,8 +582,8 @@ CHRISTOPH SPERING
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/shaw-verdi-requiem.png" width="800"> <br>
 
-<nobr>Susan Dunn </nobr> /
-<nobr>Diane Curry </nobr> /
+<nobr>Susan Dunn /</nobr> 
+<nobr>Diane Curry /</nobr> 
 <nobr>Jerry Hadley / Paul Plishka </nobr> <br>
 Atlanta Symphony Orchestra & Chorus <br>
 ROBERT SHAW
