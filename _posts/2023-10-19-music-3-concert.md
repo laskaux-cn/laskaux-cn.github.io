@@ -15,15 +15,15 @@ tags: music
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=_FqYdr2NAyM&list=OLAK5uy_nXVY-iyVSvkKkW4aEQFXY3NHc2f6om-yk&index=52">
 	Concerto in si minore per 4 violini, violoncello e basso continuo, 
-	<nobr>Op. 3 № 10 / RV 580 </nobr>
+	<nobr>Op. 3 № 10 / RV 580</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/hogwood-vivaldi3.png" width="800"> <br>
 
-<nobr>Monica Huggett </nobr> /
-<nobr>Catherine Mackintosh </nobr> /
+<nobr>Monica Huggett /</nobr>
+<nobr>Catherine Mackintosh /</nobr>
 <nobr>Elizabeth Wilcock / John Holloway </nobr> <br>
 <span style="font-size:0.87em">[vn–vn–vn–vn] </span> <br>
 Academy of Ancient Music <br>
@@ -51,8 +51,8 @@ CHRISTOPHER HOGWOOD
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/alessandrini-brandenburg.png" width="800"> <br>
 
-<nobr>Gabriele Cassone </nobr> /
-<nobr>Maria de Martini </nobr> /
+<nobr>Gabriele Cassone /</nobr>
+<nobr>Maria de Martini /</nobr>
 <nobr>Andrea Mion / Mauro Lopes Ferreira </nobr> <br>
 <span style="font-size:0.87em">[tpt–rec–ob–vn] </span> <br>
 Concerto Italiano <br>
@@ -85,8 +85,8 @@ RINALDO ALESSANDRINI
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
 
-<nobr>Elizabeth Wallfisch </nobr> /
-<nobr>David Watkin </nobr> /
+<nobr>Elizabeth Wallfisch /</nobr>
+<nobr>David Watkin /</nobr>
 <nobr>Anthony Robson / Felix Warnock </nobr> <br>
 <span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
 Orchestra of the Age of Enlightenment <br>
@@ -340,7 +340,7 @@ New York Philharmonic <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/copland-london.png" width="800"> <br>
 
-<nobr>William Lang </nobr> / 
+<nobr>William Lang /</nobr> 
 <nobr>Michael Winfield </nobr> <br>
 <span style="font-size:0.87em">[tpt–eh] </span> <br>
 London Symphony Orchestra <br>
@@ -366,7 +366,7 @@ AARON COPLAND
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/zimmermann-bach1043.png" width="800"> <br>
 
-<nobr>Pablo Valetti </nobr> /
+<nobr>Pablo Valetti /</nobr>
 <nobr>Amandine Beyer </nobr> <br>
 <span style="font-size:0.87em">[vn–vn] </span> <br>
 Café Zimmermann <br>
@@ -397,7 +397,7 @@ Café Zimmermann <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/zehetmair-mozart.png" width="800"> <br>
 
-<nobr>Thomas Zehetmair </nobr> /
+<nobr>Thomas Zehetmair /</nobr>
 <nobr>Ruth Killius </nobr> <br>
 <span style="font-size:0.87em">[vn–va] </span> <br>
 Orkest van de Achttiende Eeuw <br>
@@ -456,8 +456,8 @@ FERENC FRICSAY
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/aureum-beethoven-triple.png" width="800"> <br>
 
-<nobr>Franzjosef Maier </nobr> /
-<nobr>Anner Bijlsma </nobr> / 
+<nobr>Franzjosef Maier /</nobr>
+<nobr>Anner Bijlsma /</nobr> 
 <nobr>Paul Badura-Skoda </nobr> <br> 
 <span style="font-size:0.87em">[vn–vc–pf] </span> <br>
 Collegium Aureum <br>
@@ -664,7 +664,7 @@ Orpheus Chamber Orchestra <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/markiz-schnittke-cg3.png" width="800"> <br>
 
-<nobr>Patrik Swedrup </nobr> /
+<nobr>Patrik Swedrup /</nobr>
 <nobr>Tale Olsson </nobr> <br>
 <span style="font-size:0.87em">[vn–vn] </span> <br>
 Stockholms Nya Kammarorkester <br>

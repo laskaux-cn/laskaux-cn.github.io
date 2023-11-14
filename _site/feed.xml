@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 09 Nov 2023 22:18:48 -0500</pubDate>
+    <pubDate>Tue, 14 Nov 2023 01:11:21 -0500</pubDate>
     
       <item>
         <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
@@ -104,11 +104,32 @@ RAPHAËL PICHON
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.5 &amp;nbsp;|&amp;nbsp; ANTONIO VIVALDI &amp;nbsp;(c. 1730)
+	4.5 &amp;nbsp;|&amp;nbsp; HONORÉ D&amp;apos;AMBRUIS &amp;nbsp;&lt;nobr&gt;(1685)&lt;/nobr&gt;
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=5k7kRD_9JP0&amp;amp;list=OLAK5uy_kAAz-JjfNXPZ4BaF3NjEW1aXnRGpNNDQo&amp;amp;index=16&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=3NcM12Sd0Vw&amp;amp;list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&amp;amp;index=14&quot;&gt;
+	&lt;i&gt;Le doux silence de nos bois&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/christie-dambrius.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Marc Mauillon &lt;br /&gt;
+Les Arts Florissants &lt;br /&gt;
+WILLIAM CHRISTIE 
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Auditorium Jean-Pierre Miquel, &lt;nobr&gt;Vincennes &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013-12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.6 &amp;nbsp;|&amp;nbsp; ANTONIO VIVALDI &amp;nbsp;(c. 1730)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=WWxpSSJjJJ4&amp;amp;list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&amp;amp;index=10&quot;&gt;
 	Concerto in re maggiore per liuto, 2 violini e basso continuo, 
 	&lt;nobr&gt;RV 93 &lt;/nobr&gt;
 &lt;/a&gt;
@@ -127,27 +148,6 @@ RAPHAËL PICHON
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Salle de la Fondation Tibor Varga, &lt;nobr&gt;Sion
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 
 1996-04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	4.6 &amp;nbsp;|&amp;nbsp; HONORÉ D&amp;apos;AMBRUIS &amp;nbsp;&lt;nobr&gt;(1685)&lt;/nobr&gt;
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=3NcM12Sd0Vw&amp;amp;list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&amp;amp;index=14&quot;&gt;
-	&lt;i&gt;Le doux silence de nos bois&lt;/i&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/christie-dambrius.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Marc Mauillon &lt;br /&gt;
-Les Arts Florissants &lt;br /&gt;
-WILLIAM CHRISTIE 
-&lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Auditorium Jean-Pierre Miquel, &lt;nobr&gt;Vincennes &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013-12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -171,7 +171,27 @@ Julian Bream &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.X &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(c. 1740)
+	4.8 &amp;nbsp;|&amp;nbsp; MARIN MARAIS &amp;nbsp;(1717)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=nZJngsHZng0&amp;amp;list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&amp;amp;index=61&quot;&gt;
+	&lt;i&gt;La Rêveuse&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/joubert-caillet-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+&lt;nobr&gt;François Joubert-Caillet /&lt;/nobr&gt;
+&lt;nobr&gt;André Heinrich&lt;/nobr&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;[viol–lute] &lt;/span&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Notre-Dame de Centeilles, &lt;nobr&gt;Siran, Hérault &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2019-09/&amp;#8203;2021-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.9 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(c. 1740)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -191,14 +211,14 @@ Julian Bream &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	4.X &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1806)
+	4.10 &amp;nbsp;|&amp;nbsp; LUDWIG VAN BEETHOVEN &amp;nbsp;(1806)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 	Violinkonzert D-dur, 
 	&lt;nobr&gt;Op. 61&lt;/nobr&gt; : 
 &lt;nobr&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=-AUglC2tMfA&amp;amp;list=OLAK5uy_k5z2B8fw2vwNzVDHCYXKp64CYk-12Hrqk&amp;amp;index=2&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=y-Dd5KNqr8c&amp;amp;list=OLAK5uy_kdmZXqGhCzXsq_Hops9zvrQSwWRZf1ASU&amp;amp;index=2&quot;&gt;
 	II. Larghetto
 &lt;/a&gt;
 &lt;/nobr&gt;
@@ -212,6 +232,47 @@ Václav Hudeček &lt;br /&gt;
 JIŘÍ BĚLOHLÁVEK
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Dvořákova síň, &lt;nobr&gt;Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1985-03)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.11 &amp;nbsp;|&amp;nbsp; ARCANGELO CORELLI &amp;nbsp;(1700)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=AjnwL_0T0oI&amp;amp;list=OLAK5uy_l9vlP5kj3vt8pquCIXa6jqc_9cAcfHllM&amp;amp;index=1&quot;&gt;
+	Sonata in re maggiore per violino e violone o cimbalo, &lt;nobr&gt;Op. 5 № 1&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/van-dael-corelli.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+&lt;nobr&gt;Lucy van Dael /&lt;/nobr&gt;
+&lt;nobr&gt;Bob van Asperen &lt;/nobr&gt; &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–org] &lt;/span&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Hervormde Kerk, &lt;nobr&gt;Bennebroek &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2002-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	4.12 &amp;nbsp;|&amp;nbsp; QUELDRYK &amp;nbsp;(c. 1400)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=LERkwobUDoY&amp;amp;list=OLAK5uy_n916jU9ZUpPuTfM9lMfjYTOcSS0e98X1c&amp;amp;index=16&quot;&gt;
+	&lt;i&gt;Gloria in excelsis&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/gothic-voices-queldryk.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Gothic Voices: &lt;br /&gt;
+&lt;nobr&gt;Catherine King /&lt;/nobr&gt;
+&lt;nobr&gt;Steven Harrold /&lt;/nobr&gt;
+&lt;nobr&gt;Julian Podger / Stephen Charlesworth &lt;/nobr&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Boxgrove Priory, &lt;nobr&gt;Chichester &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2018-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -460,15 +521,15 @@ CHRISTOPHER HOGWOOD
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=_FqYdr2NAyM&amp;amp;list=OLAK5uy_nXVY-iyVSvkKkW4aEQFXY3NHc2f6om-yk&amp;amp;index=52&quot;&gt;
 	Concerto in si minore per 4 violini, violoncello e basso continuo, 
-	&lt;nobr&gt;Op. 3 № 10 / RV 580 &lt;/nobr&gt;
+	&lt;nobr&gt;Op. 3 № 10 / RV 580&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/hogwood-vivaldi3.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Monica Huggett &lt;/nobr&gt; /
-&lt;nobr&gt;Catherine Mackintosh &lt;/nobr&gt; /
+&lt;nobr&gt;Monica Huggett /&lt;/nobr&gt;
+&lt;nobr&gt;Catherine Mackintosh /&lt;/nobr&gt;
 &lt;nobr&gt;Elizabeth Wilcock / John Holloway &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–vn–vn] &lt;/span&gt; &lt;br /&gt;
 Academy of Ancient Music &lt;br /&gt;
@@ -493,8 +554,8 @@ CHRISTOPHER HOGWOOD
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/alessandrini-brandenburg.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Gabriele Cassone &lt;/nobr&gt; /
-&lt;nobr&gt;Maria de Martini &lt;/nobr&gt; /
+&lt;nobr&gt;Gabriele Cassone /&lt;/nobr&gt;
+&lt;nobr&gt;Maria de Martini /&lt;/nobr&gt;
 &lt;nobr&gt;Andrea Mion / Mauro Lopes Ferreira &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[tpt–rec–ob–vn] &lt;/span&gt; &lt;br /&gt;
 Concerto Italiano &lt;br /&gt;
@@ -525,8 +586,8 @@ RINALDO ALESSANDRINI
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/wallfisch-haydn-sc.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Elizabeth Wallfisch &lt;/nobr&gt; /
-&lt;nobr&gt;David Watkin &lt;/nobr&gt; /
+&lt;nobr&gt;Elizabeth Wallfisch /&lt;/nobr&gt;
+&lt;nobr&gt;David Watkin /&lt;/nobr&gt;
 &lt;nobr&gt;Anthony Robson / Felix Warnock &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vc–ob–bn] &lt;/span&gt; &lt;br /&gt;
 Orchestra of the Age of Enlightenment &lt;br /&gt;
@@ -752,7 +813,7 @@ New York Philharmonic &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/copland-london.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;William Lang &lt;/nobr&gt; / 
+&lt;nobr&gt;William Lang /&lt;/nobr&gt; 
 &lt;nobr&gt;Michael Winfield &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[tpt–eh] &lt;/span&gt; &lt;br /&gt;
 London Symphony Orchestra &lt;br /&gt;
@@ -776,7 +837,7 @@ AARON COPLAND
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/zimmermann-bach1043.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Pablo Valetti &lt;/nobr&gt; /
+&lt;nobr&gt;Pablo Valetti /&lt;/nobr&gt;
 &lt;nobr&gt;Amandine Beyer &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn] &lt;/span&gt; &lt;br /&gt;
 Café Zimmermann &lt;br /&gt;
@@ -805,7 +866,7 @@ Café Zimmermann &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/zehetmair-mozart.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Thomas Zehetmair &lt;/nobr&gt; /
+&lt;nobr&gt;Thomas Zehetmair /&lt;/nobr&gt;
 &lt;nobr&gt;Ruth Killius &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–va] &lt;/span&gt; &lt;br /&gt;
 Orkest van de Achttiende Eeuw &lt;br /&gt;
@@ -860,8 +921,8 @@ FERENC FRICSAY
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/aureum-beethoven-triple.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Franzjosef Maier &lt;/nobr&gt; /
-&lt;nobr&gt;Anner Bijlsma &lt;/nobr&gt; / 
+&lt;nobr&gt;Franzjosef Maier /&lt;/nobr&gt;
+&lt;nobr&gt;Anner Bijlsma /&lt;/nobr&gt; 
 &lt;nobr&gt;Paul Badura-Skoda &lt;/nobr&gt; &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vc–pf] &lt;/span&gt; &lt;br /&gt;
 Collegium Aureum &lt;br /&gt;
@@ -1049,7 +1110,7 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/markiz-schnittke-cg3.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Patrik Swedrup &lt;/nobr&gt; /
+&lt;nobr&gt;Patrik Swedrup /&lt;/nobr&gt;
 &lt;nobr&gt;Tale Olsson &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn] &lt;/span&gt; &lt;br /&gt;
 Stockholms Nya Kammarorkester &lt;br /&gt;
@@ -2023,10 +2084,10 @@ INGO METZMACHER
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/dullaert-hindemith.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Emile Biessen &lt;/nobr&gt; /
-&lt;nobr&gt;Maarten Dekkers &lt;/nobr&gt; /
-&lt;nobr&gt;Pierre Woudenberg &lt;/nobr&gt; /
-&lt;nobr&gt;Hans Dullaert &lt;/nobr&gt; /
+&lt;nobr&gt;Emile Biessen /&lt;/nobr&gt;
+&lt;nobr&gt;Maarten Dekkers /&lt;/nobr&gt;
+&lt;nobr&gt;Pierre Woudenberg /&lt;/nobr&gt;
+&lt;nobr&gt;Hans Dullaert /&lt;/nobr&gt;
 &lt;nobr&gt;Johan Steinmann &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[fl–ob–cl–hn–bn] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(DRS Studio, &lt;nobr&gt;Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 
@@ -2114,12 +2175,12 @@ CHARLES MUNCH
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/markevitch-soldat.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Manoug Parikian &lt;/nobr&gt; /
-&lt;nobr&gt;Ulysse Delécluse &lt;/nobr&gt; /
-&lt;nobr&gt;Henri Helaerts &lt;/nobr&gt; /
-&lt;nobr&gt;Maurice André &lt;/nobr&gt; /
-&lt;nobr&gt;Roland Schnorkh &lt;/nobr&gt; /
-&lt;nobr&gt;Joachim Gut &lt;/nobr&gt; /
+&lt;nobr&gt;Manoug Parikian /&lt;/nobr&gt;
+&lt;nobr&gt;Ulysse Delécluse /&lt;/nobr&gt;
+&lt;nobr&gt;Henri Helaerts /&lt;/nobr&gt;
+&lt;nobr&gt;Maurice André /&lt;/nobr&gt;
+&lt;nobr&gt;Roland Schnorkh /&lt;/nobr&gt;
+&lt;nobr&gt;Joachim Gut /&lt;/nobr&gt;
 &lt;nobr&gt;Charles Peschier &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–cl–bn–crt–tbn–db–perc] &lt;/span&gt; &lt;br /&gt;
 ИГОРЬ МАРКЕВИЧ 
@@ -2205,8 +2266,8 @@ SIMON RATTLE
 &lt;img src=&quot;/assets/img/albums/prazak-haydn71.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Pražákovo kvarteto: &lt;br /&gt;
-&lt;nobr&gt;Pavel Hůla &lt;/nobr&gt; /
-&lt;nobr&gt;Vlastimil Holek &lt;/nobr&gt; /
+&lt;nobr&gt;Pavel Hůla /&lt;/nobr&gt;
+&lt;nobr&gt;Vlastimil Holek /&lt;/nobr&gt;
 &lt;nobr&gt;Josef Klusoň / Michal Kaňka &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Kulturní zařízení Domovina, &lt;nobr&gt;Praha
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
@@ -2229,8 +2290,8 @@ Pražákovo kvarteto: &lt;br /&gt;
 &lt;img src=&quot;/assets/img/albums/talich-mozart.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Talichovo kvarteto: &lt;br /&gt;
-&lt;nobr&gt;Petr Messiereur &lt;/nobr&gt; /
-&lt;nobr&gt;Jan Kvapil &lt;/nobr&gt; /
+&lt;nobr&gt;Petr Messiereur /&lt;/nobr&gt;
+&lt;nobr&gt;Jan Kvapil /&lt;/nobr&gt;
 &lt;nobr&gt;Jan Talich / Evžen Rattay &lt;/nobr&gt; 
 &lt;nobr&gt; + Karel Řehák &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–va–vc–va] &lt;/span&gt; &lt;br /&gt;
@@ -2331,8 +2392,8 @@ Christophe Rousset &lt;br /&gt;
 &lt;img src=&quot;/assets/img/albums/lestravagante-vivaldi.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 L'Estravagante: &lt;br /&gt;
-&lt;nobr&gt;Stefano Montanari &lt;/nobr&gt; /
-&lt;nobr&gt;Stefano Rossi &lt;/nobr&gt; /
+&lt;nobr&gt;Stefano Montanari /&lt;/nobr&gt;
+&lt;nobr&gt;Stefano Rossi /&lt;/nobr&gt;
 &lt;nobr&gt;Francesco Galligioni / Maurizio Salerno &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–vc–hpd] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Studio Giardino, &lt;nobr&gt;Crema &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -2352,8 +2413,8 @@ L'Estravagante: &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/savall-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Jordi Savall &lt;/nobr&gt; /
-&lt;nobr&gt;Anne Gallet &lt;/nobr&gt; / 
+&lt;nobr&gt;Jordi Savall /&lt;/nobr&gt;
+&lt;nobr&gt;Anne Gallet /&lt;/nobr&gt; 
 &lt;nobr&gt;Hopkinson Smith &lt;/nobr&gt; &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[viol–hpd–lute] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Lambert, &lt;nobr&gt;Yvelines &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1975-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
