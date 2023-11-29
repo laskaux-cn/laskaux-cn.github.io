@@ -35,21 +35,21 @@ JEAN MARTINON
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=7PP5cMyts58&list=OLAK5uy_mLQmJNN3JcUqHQDpRokUii3sXoSiIZnBw&index=2">
+<a href="https://drive.google.com/file/d/1VsNUE2-9AQceO19tnK0239G0oXmdaREZ/view?usp=sharing">
 	<i>Der Rosenkavalier</i> : 
 	<nobr>Walzerfolge № 1, TrV 227c</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bolmstedt-rosenkavalier.png" width="800"> <br>
+<img src="/assets/img/albums/maazel-rosenkavalier.png" width="800"> <br>
 
-Gewandhausorchester Leipzig <br>
-HERBERT BLOMSTEDT 
+Wiener Philharmoniker <br>
+LORIN MAAZEL 
 <br>
-<span style="font-size:0.87em">(Gewandhaus, <nobr>Leipzig
-&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 
-1996-04)</nobr> </span> </p>  
+<span style="font-size:0.87em">(Sofiensäle, <nobr>Wien
+&nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
+1966-10)</nobr> </span> </p>  
 
 <br>
 
@@ -63,7 +63,7 @@ HERBERT BLOMSTEDT
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=7ZHeauV0fOA&t=697s">
 	<i>Rodeo</i> : 
-	<nobr>IV. &lsquo;&lsquo;Saturday Night Waltz&rsquo;&rsquo;</nobr>
+	<nobr>IV. "Saturday Night Waltz"</nobr>
 </a>
 </h4>
 
@@ -215,7 +215,7 @@ WILLIAM CHRISTIE
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
 	<i>Symphonie fantastique</i> : 
-	<nobr>IV. &lsquo;&lsquo;Marche au supplice&rsquo;&rsquo;</nobr>
+	<nobr>IV. "Marche au supplice"</nobr>
 </a>
 </h4>
 
@@ -241,7 +241,7 @@ CHARLES MUNCH
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
 	<i>L&apos;Histoire du soldat</i> : 
-	<nobr>II. &lsquo;&lsquo;Marche royale&rsquo;&rsquo;</nobr>
+	<nobr>II. "Marche royale"</nobr>
 </a>
 </h4>
 
@@ -336,34 +336,7 @@ SIMON RATTLE
 
 
 <p style="text-align:center">
-	1.14 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
-	Streichquartett D-dur, <nobr>Op. 71 № 2 / Hob. III:70</nobr> : 
-	<nobr>III. Menuetto</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
-
-Pražákovo kvarteto: <br>
-<nobr>Pavel Hůla /</nobr>
-<nobr>Vlastimil Holek /</nobr>
-<nobr>Josef Klusoň / Michal Kaňka </nobr> <br>
-<span style="font-size:0.87em">(Kulturní zařízení Domovina, <nobr>Praha
-&nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 
-2011-10)</nobr> </span> </p>  
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	1.15 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
+	1.14 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -385,6 +358,32 @@ Talichovo kvarteto: <br>
 <span style="font-size:0.87em">(Salle de la Fondation Tibor Varga, <nobr>Sion
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
 1995)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	1.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
+	Streichquartett D-dur, <nobr>Op. 71 № 2 / Hob. III:70</nobr> : 
+	<nobr>III. Menuetto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
+
+Pražákovo kvarteto: <br>
+<nobr>Pavel Hůla /</nobr>
+<nobr>Vlastimil Holek /</nobr>
+<nobr>Josef Klusoň / Michal Kaňka </nobr> <br>
+<span style="font-size:0.87em">(Kulturní zařízení Domovina, <nobr>Praha
+&nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 
+2011-10)</nobr> </span> </p>  
 
 <br>
 
@@ -425,7 +424,7 @@ Céline Frisch <br>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/staier-scarlatti.png" width="800"> <br>
+<img src="/assets/img/albums/staier-scarlatti-2.png" width="800"> <br>
 
 Andreas Staier <br>
 <span style="font-size:0.87em">(Kulturzentrum, <nobr>Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991-02)</nobr> </span> </p> 
@@ -434,78 +433,8 @@ Andreas Staier <br>
 
 
 
-
 <p style="text-align:center">
-	1.18 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1720)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23">
-	Suite in E major, <nobr>HWV 430</nobr> :
-	<nobr>IV. Air and 5 variations</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/borgstede-handel.png" width="800"> <br>
-
-Michael Borgstede <br>
-<span style="font-size:0.87em">(Penninckshuis, <nobr>Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2007-10/&#8203;2008-01)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	1.19 &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36">
-	Suite en la mineur, <nobr>RCT 5</nobr> :
-	<nobr>VII. Gavotte et 6 doubles</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/rousset-rameau.png" width="800"> <br>
-
-Christophe Rousset <br>
-<span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989-06)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	1.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1">
-	Sonata in re minore per 2 violini e basso continuo : 
-	<nobr>Op. 1 № 12 / RV 63</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lestravagante-vivaldi.png" width="800"> <br>
-
-L'Estravagante: <br>
-<nobr>Stefano Montanari /</nobr>
-<nobr>Stefano Rossi /</nobr>
-<nobr>Francesco Galligioni / Maurizio Salerno </nobr> <br>
-<span style="font-size:0.87em">[vn–vn–vc–hpd] </span> <br>
-<span style="font-size:0.87em">(Studio Giardino, <nobr>Crema &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	1.21 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1701)
+	1.18 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1701)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -527,6 +456,33 @@ L'Estravagante: <br>
 
 
 
+<p style="text-align:center">
+	1.19 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1700)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=TnxLstPy9mk&list=OLAK5uy_ljnNfbk6aLKBleFd7AITIX-_D_58-O6Ws&index=53">
+	Sonata in re minore per violino e violone o cimbalo, <nobr>Op. 5 № 12</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/avison-corelli.png" width="800"> <br>
+
+The Avison Ensemble: <br>
+<nobr>Pavlo Beznosiuk /</nobr>
+<nobr>Richard Tunnicliffe /</nobr>
+<nobr>Paula Chateauneuf / Roger Hamilton </nobr> <br>
+<span style="font-size:0.87em">[vn–vc–lute/gtr–hpd] </span> <br>
+<span style="font-size:0.87em">(St George's Chesterton, <nobr>Cambridge &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2012-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+
+
 
 <p style="text-align:center">
 	1.22 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
@@ -535,7 +491,7 @@ L'Estravagante: <br>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=deHVf00t8yc&list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&index=15">
 	<i>L&apos;Orfeo</i> : 
-	<nobr>I.ii. &lsquo;&lsquo;Lasciate i monti&rsquo;&rsquo;</nobr>
+	<nobr>I.ii. "Lasciate i monti"</nobr>
 </a>
 </h4>
 
@@ -560,14 +516,14 @@ EMMANUELLE HAÏM
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s">
 	<i>La Dafne</i> : 
-	<nobr>V. &lsquo;&lsquo;Piangete Ninfe&rsquo;&rsquo;</nobr>
+	<nobr>V. "Piangete Ninfe"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/garrido-dafne.png" width="800"> <br>
 
-Studio di musica antica &lsquo;&lsquo;Antonio Il Verso&rsquo;&rsquo; <br>
+Studio di musica antica "Antonio Il Verso" <br>
 Ensemble Elyma <br>
 GABRIEL GARRIDO
 <br>
@@ -635,7 +591,7 @@ Isabelle Faust <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/waverly-landini.png" width="800"> <br>
 
-Waverly Consort <br>
+The Waverly Consort <br>
 MICHAEL JAFFEE
 <br>
 <span style="font-size:0.87em">(Vanguard 23rd Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
@@ -652,7 +608,7 @@ MICHAEL JAFFEE
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=b7FY1ZIjlt8&list=OLAK5uy_lu9wHQXt0pc4YyCFWI5MMOBRfF-hzRI8k&index=4">
 	<i>Spring Symphony</i> : 
-	<nobr>I.iv. &lsquo;&lsquo;The Driving Boy&rsquo;&rsquo;</nobr>
+	<nobr>I.iv. "The Driving Boy"</nobr>
 </a>
 </h4>
 
