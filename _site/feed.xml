@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 28 Nov 2023 22:29:14 -0500</pubDate>
+    <pubDate>Tue, 05 Dec 2023 01:16:46 -0500</pubDate>
     
       <item>
         <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
@@ -1335,12 +1335,12 @@ Orpheus Chamber Orchestra &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/challan-ravel.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Annie Challan &lt;/nobr&gt; /
-&lt;nobr&gt;Georges Tessier &lt;/nobr&gt; /
-&lt;nobr&gt;Pierre Simon &lt;/nobr&gt; /
-&lt;nobr&gt;Colette Lequien &lt;/nobr&gt; /
-&lt;nobr&gt;Robert Bex &lt;/nobr&gt; /
-&lt;nobr&gt;Fernand Caratgé &lt;/nobr&gt; /
+&lt;nobr&gt;Annie Challan /&lt;/nobr&gt;
+&lt;nobr&gt;Georges Tessier /&lt;/nobr&gt;
+&lt;nobr&gt;Pierre Simon /&lt;/nobr&gt;
+&lt;nobr&gt;Colette Lequien /&lt;/nobr&gt;
+&lt;nobr&gt;Robert Bex /&lt;/nobr&gt;
+&lt;nobr&gt;Fernand Caratgé /&lt;/nobr&gt;
 &lt;nobr&gt;André Boutard &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[hp–vn–vn–va–vc–fl–cl] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Salle Wagram, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1964-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -1445,7 +1445,7 @@ Michel Chapuis &lt;br /&gt;
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kuijken-couperin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-&lt;nobr&gt;Sigiswald Kuijken &lt;/nobr&gt; /
+&lt;nobr&gt;Sigiswald Kuijken /&lt;/nobr&gt;
 &lt;nobr&gt;Robert Kohnen &lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–hpd] &lt;/span&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Singelkerk, &lt;nobr&gt;Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
@@ -1563,7 +1563,7 @@ Orlando Quartet: &lt;br /&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=ecbGFgY9wkU&amp;amp;t=2926s&quot;&gt;
 	&lt;i&gt;Dido and Aeneas&lt;/i&gt; : 
-	&lt;nobr&gt;III.ii. &amp;lsquo;&amp;lsquo;With drooping wings&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;III.ii. &quot;With drooping wings&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -1584,11 +1584,11 @@ WILLIAM CHRISTIE
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 	&lt;i&gt;Symphonie de Psaumes&lt;/i&gt; :
 &lt;a href=&quot;https://www.youtube.com/watch?v=5WTPVUtmhmI&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=3&quot;&gt;
-	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Exaudi orationem meam, Domine&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;I. &quot;Exaudi orationem meam, Domine&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=7Kppm_AtMLA&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=4&quot;&gt;
-	&lt;nobr&gt;II. &amp;lsquo;&amp;lsquo;Expectans expectavi Dominum&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;II. &quot;Expectans expectavi Dominum&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -1632,11 +1632,11 @@ DAVID MUNROW
 	&lt;i&gt;Vespro della Beata Vergine&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
 	&lt;nobr&gt;SV 206&lt;/nobr&gt; :
 &lt;a href=&quot;https://www.youtube.com/watch?v=BxGF_avQwUw&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=10&quot;&gt;
-	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Deus in adjutorium&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;I. &quot;Deus in adjutorium&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=702hPWpxJ1g&amp;amp;list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&amp;amp;index=20&quot;&gt;
-	&lt;nobr&gt;XI. &amp;lsquo;&amp;lsquo;Sancta Maria&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;XI. &quot;Sancta Maria&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -1660,11 +1660,11 @@ Concerto Palatino &lt;br /&gt;
 	&lt;nobr&gt;RV 608&lt;/nobr&gt; :
 &lt;nobr&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=diPUP_ylyF8&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=18&quot;&gt;
-	IV. &amp;lsquo;&amp;lsquo;Cum dederit&amp;rsquo;&amp;rsquo;
+	IV. &quot;Cum dederit&quot;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=QyKTB57bXuw&amp;amp;list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&amp;amp;index=21&quot;&gt;
-	VII. &amp;lsquo;&amp;lsquo;Gloria Patri&amp;rsquo;&amp;rsquo;
+	VII. &quot;Gloria Patri&quot;
 &lt;/a&gt;
 &lt;/nobr&gt;
 &lt;/h4&gt;
@@ -1688,11 +1688,11 @@ VINCENT DUMESTRE
 	&lt;i&gt;Petite messe solennelle&lt;/i&gt; :
 &lt;nobr&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jhLur2_7WqY&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=1&quot;&gt;
-	I.i. &amp;lsquo;&amp;lsquo;Kyrie eleison&amp;rsquo;&amp;rsquo;
+	I.i. &quot;Kyrie eleison&quot;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=8JLbCeSAj0c&amp;amp;list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&amp;amp;index=12&quot;&gt;
-	III.ii. &amp;lsquo;&amp;lsquo;Crucifixus&amp;rsquo;&amp;rsquo;
+	III.ii. &quot;Crucifixus&quot;
 &lt;/a&gt;
 &lt;/nobr&gt;
 &lt;/h4&gt;
@@ -1716,11 +1716,11 @@ CHRISTOPH SPERING
 	&lt;i&gt;Messa da Requiem&lt;/i&gt; :
 &lt;nobr&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=tERUK57DM-Q&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=2&quot;&gt;
-	II. &amp;lsquo;&amp;lsquo;Dies irae&amp;rsquo;&amp;rsquo;
+	II. &quot;Dies irae&quot;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=1rySbzcQvPA&amp;amp;list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&amp;amp;index=7&quot;&gt;
-	VII. &amp;lsquo;&amp;lsquo;Libera me&amp;rsquo;&amp;rsquo;
+	VII. &quot;Libera me&quot;
 &lt;/a&gt;
 &lt;/nobr&gt;
 &lt;/h4&gt;
@@ -1746,15 +1746,15 @@ ROBERT SHAW
 	&lt;i&gt;Magnificat&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
 	&lt;nobr&gt;BWV 243&lt;/nobr&gt; :
 &lt;a href=&quot;https://www.youtube.com/watch?v=2LhZ-tdZw7A&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=1&quot;&gt;
-	&lt;nobr&gt;I. &amp;lsquo;&amp;lsquo;Magnificat&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;I. &quot;Magnificat&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=A9il903fgsE&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=3&quot;&gt;
-	&lt;nobr&gt;III. &amp;lsquo;&amp;lsquo;Quia respexit humilitatem&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;III. &quot;Quia respexit humilitatem&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=iJIZ5PK3ZC8&amp;amp;list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&amp;amp;index=9&quot;&gt;
-	&lt;nobr&gt;IX. &amp;lsquo;&amp;lsquo;Esurientes implevit bonis&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;IX. &quot;Esurientes implevit bonis&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -1838,11 +1838,11 @@ Ivan Moravec &lt;br /&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 	Préludes, 1&lt;sup&gt;er&lt;/sup&gt; Livre :
 &lt;a href=&quot;https://www.youtube.com/watch?v=gAwjAxG2By4&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=2&quot;&gt;
-	&lt;nobr&gt;№ 2.&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;lsquo;&amp;lsquo;Voiles&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;II. &quot;Voiles&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 –
 &lt;a href=&quot;https://www.youtube.com/watch?v=z-Shy_JWQ8k&amp;amp;list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&amp;amp;index=10&quot;&gt;
-	&lt;nobr&gt;№ 10.&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;lsquo;&amp;lsquo;La cathédrale engloutie&amp;rsquo;&amp;rsquo;&lt;/nobr&gt;
+	&lt;nobr&gt;X. &quot;La cathédrale engloutie&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -2383,29 +2383,7 @@ The Avison Ensemble: &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	1.22 &amp;nbsp;|&amp;nbsp; CLAUDIO MONTEVERDI &amp;nbsp;(1607)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=deHVf00t8yc&amp;amp;list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&amp;amp;index=15&quot;&gt;
-	&lt;i&gt;L&amp;apos;Orfeo&lt;/i&gt; : 
-	&lt;nobr&gt;I.ii. &quot;Lasciate i monti&quot;&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/haim-monteverdi-orfeo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-European Voices &lt;br /&gt;
-Le Concert d'Astrée &lt;br /&gt;
-EMMANUELLE HAÏM 
-&lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Notre-Dame du Liban, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2003-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.23 &amp;nbsp;|&amp;nbsp; MARCO DA GAGLIANO &amp;nbsp;(1608)
+	1.20 &amp;nbsp;|&amp;nbsp; MARCO DA GAGLIANO &amp;nbsp;(1608)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -2427,65 +2405,71 @@ GABRIEL GARRIDO
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	1.24 &amp;nbsp;|&amp;nbsp; OHANN SEBASTIAN BACH &amp;nbsp;(1720)
+	1.21 &amp;nbsp;|&amp;nbsp; CLAUDIO MONTEVERDI &amp;nbsp;(1607)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=q01E5fHAZQQ&amp;amp;list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&amp;amp;index=6&quot;&gt;
-	Sonate № 3 C-dur für Violine solo, &lt;nobr&gt;BWV 1005&lt;/nobr&gt; :
-	&lt;nobr&gt;I. Adagio&lt;/nobr&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=deHVf00t8yc&amp;amp;list=OLAK5uy_ke07ZdYC0dFHbVnq1xB6ps7yBXO4BJsUY&amp;amp;index=15&quot;&gt;
+	&lt;i&gt;L&amp;apos;Orfeo&lt;/i&gt; : 
+	&lt;nobr&gt;I.ii. &quot;Lasciate i monti&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/faust-bach.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/haim-monteverdi-orfeo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Isabelle Faust &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Teldex Studio, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2009-09)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.25 &amp;nbsp;|&amp;nbsp; BÉLA BARTÓK &amp;nbsp;(1944)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=tMF8JAKc8B8&amp;amp;list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&amp;amp;index=11&quot;&gt;
-	Sonata for Solo Violin, &lt;nobr&gt;Sz. 117 / BB 124 :
-	III. Melodia&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/mullova-bartok.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Виктория Муллова &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(&lt;nobr&gt;Utrecht &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.26 &amp;nbsp;|&amp;nbsp; FRANCESCO LANDINI &amp;nbsp;(c. 1325–1397)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=pNfGIGBwVFk&amp;amp;list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&amp;amp;index=8&quot;&gt;
-	&lt;i&gt;Ecco la primavera&lt;/i&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/waverly-landini.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-The Waverly Consort &lt;br /&gt;
-MICHAEL JAFFEE
+European Voices &lt;br /&gt;
+Le Concert d'Astrée &lt;br /&gt;
+EMMANUELLE HAÏM 
 &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Vanguard 23rd Street Studio, &lt;nobr&gt;New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Notre-Dame du Liban, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2003-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	1.27 &amp;nbsp;|&amp;nbsp; BENJAMIN BRITTEN &amp;nbsp;(1949)
+	1.22 &amp;nbsp;|&amp;nbsp; BOHUSLAV MARTINŮ &amp;nbsp;(1959)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=gPSy9LHBuwk&amp;amp;list=OLAK5uy_nInK7oXHK0DnlQCpwTqzBNjG_SYsW60MU&amp;amp;index=38&quot;&gt;
+	4 madrigaly,
+	&lt;nobr&gt;H. 380&lt;/nobr&gt; : 
+	&lt;nobr&gt;III. &quot;Na tom světě nic stálého&quot;&lt;/nobr&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/kuhn-martinu.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Kühnův smíšený sbor &lt;br /&gt;
+PAVEL KÜHN
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Nahrávací Studio 1, Český rozhlas, &lt;nobr&gt;Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1989-11/&amp;#8203;1990-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.23 &amp;nbsp;|&amp;nbsp; LUCA MARENZIO &amp;nbsp;(1599)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=2QVbmCTgtXc&amp;amp;list=OLAK5uy_m34J5t1Ylk2-Dt_whXhgXze7zBXKzVANA&amp;amp;index=8&quot;&gt;
+	&lt;i&gt;Solo e pensoso&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/la-venexiana-marenzio.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+La Venexiana &lt;br /&gt;
+CLAUDIO CAVINA
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Chiesa della Beata Vergine Maria del Monte Carmelo, &lt;nobr&gt;Roletto &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999-04)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.26 &amp;nbsp;|&amp;nbsp; BENJAMIN BRITTEN &amp;nbsp;(1949)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
@@ -2504,6 +2488,26 @@ London Symphony Orchestra &lt;br /&gt;
 RICHARD HICKOX
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(St Jude's Church, Hampstead, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.27 &amp;nbsp;|&amp;nbsp; FRANCESCO LANDINI &amp;nbsp;(c. 1325–1397)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=pNfGIGBwVFk&amp;amp;list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&amp;amp;index=8&quot;&gt;
+	&lt;i&gt;Ecco la primavera&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/waverly-landini.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+The Waverly Consort &lt;br /&gt;
+MICHAEL JAFFEE
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Vanguard 23rd Street Studio, &lt;nobr&gt;New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -2544,6 +2548,64 @@ Theatre of Voices &lt;br /&gt;
 PAUL HILLIER
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(St. Vincent's Church, &lt;nobr&gt;San Rafael &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.30 &amp;nbsp;|&amp;nbsp; WIPO &amp;nbsp;(c. 995–1050)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=9XO6kBrRtYU&amp;amp;list=OLAK5uy_nPjIKmsN-u7V70yoPaGbr_X2NvN8jhask&amp;amp;index=10&quot;&gt;
+	&lt;i&gt;Victimae paschali laudes&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schweitzer-wipo.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Consortium Vocale Oslo &lt;br /&gt;
+ALEXANDER M. SCHWEITZER
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Kirche St. Stephan, &lt;nobr&gt;Denklingen &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.31 &amp;nbsp;|&amp;nbsp; AMBROSIUS &amp;nbsp;(c. 339–397)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=RvheqbdazZ4&amp;amp;list=OLAK5uy_nVbGn1Xs-6CALKj5iICjFguQZ_UAeWubY&amp;amp;index=2&quot;&gt;
+	&lt;i&gt;Veni, Redemptor gentium&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schola-hungarica-ambrose.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Schola Hungarica &lt;br /&gt;
+LÁSZLÓ DOBSZAY / JANKA SZENDREI 
+&lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Ócsai Református Templom, &lt;nobr&gt;Ócsa &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1970)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+	1.32 &amp;nbsp;|&amp;nbsp; EDGARD VARÈSE &amp;nbsp;(1936)
+&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
+&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;a href=&quot;https://www.youtube.com/watch?v=xTYSbe8HCdU&amp;amp;list=OLAK5uy_nkTespjOPqCxoj0eokeHBvWj6EFJxKPx4&amp;amp;index=12&quot;&gt;
+	&lt;i&gt;Density 21.5&lt;/i&gt;
+&lt;/a&gt;
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/graf-varese.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+
+Peter Lukas Graf &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;(Johanneskirche, &lt;nobr&gt;Thun &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1970-08)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

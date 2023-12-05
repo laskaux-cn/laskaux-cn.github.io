@@ -140,12 +140,12 @@ Orpheus Chamber Orchestra <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/challan-ravel.png" width="800"> <br>
 
-<nobr>Annie Challan </nobr> /
-<nobr>Georges Tessier </nobr> /
-<nobr>Pierre Simon </nobr> /
-<nobr>Colette Lequien </nobr> /
-<nobr>Robert Bex </nobr> /
-<nobr>Fernand Caratgé </nobr> /
+<nobr>Annie Challan /</nobr>
+<nobr>Georges Tessier /</nobr>
+<nobr>Pierre Simon /</nobr>
+<nobr>Colette Lequien /</nobr>
+<nobr>Robert Bex /</nobr>
+<nobr>Fernand Caratgé /</nobr>
 <nobr>André Boutard </nobr> <br>
 <span style="font-size:0.87em">[hp–vn–vn–va–vc–fl–cl] </span> <br>
 <span style="font-size:0.87em">(Salle Wagram, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1964-11)</nobr> </span> </p> 
@@ -263,7 +263,7 @@ Michel Chapuis <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/kuijken-couperin.png" width="800"> <br>
 
-<nobr>Sigiswald Kuijken </nobr> /
+<nobr>Sigiswald Kuijken /</nobr>
 <nobr>Robert Kohnen </nobr> <br>
 <span style="font-size:0.87em">[vn–hpd] </span> <br>
 <span style="font-size:0.87em">(Singelkerk, <nobr>Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 
@@ -399,7 +399,7 @@ Orlando Quartet: <br>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=ecbGFgY9wkU&t=2926s">
 	<i>Dido and Aeneas</i> : 
-	<nobr>III.ii. &lsquo;&lsquo;With drooping wings&rsquo;&rsquo;</nobr>
+	<nobr>III.ii. "With drooping wings"</nobr>
 </a>
 </h4>
 
@@ -423,11 +423,11 @@ WILLIAM CHRISTIE
 <h4 style="text-align:center"> 
 	<i>Symphonie de Psaumes</i> :
 <a href="https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3">
-	<nobr>I. &lsquo;&lsquo;Exaudi orationem meam, Domine&rsquo;&rsquo;</nobr>
+	<nobr>I. "Exaudi orationem meam, Domine"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4">
-	<nobr>II. &lsquo;&lsquo;Expectans expectavi Dominum&rsquo;&rsquo;</nobr>
+	<nobr>II. "Expectans expectavi Dominum"</nobr>
 </a>
 </h4>
 
@@ -477,11 +477,11 @@ DAVID MUNROW
 	<i>Vespro della Beata Vergine</i><span style="font-size:0.25em">&nbsp;</span>,
 	<nobr>SV 206</nobr> :
 <a href="https://www.youtube.com/watch?v=BxGF_avQwUw&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=10">
-	<nobr>I. &lsquo;&lsquo;Deus in adjutorium&rsquo;&rsquo;</nobr>
+	<nobr>I. "Deus in adjutorium"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=702hPWpxJ1g&list=OLAK5uy_l7f28wZ8in4XMTegTliPXCeDBlppKGp9Y&index=20">
-	<nobr>XI. &lsquo;&lsquo;Sancta Maria&rsquo;&rsquo;</nobr>
+	<nobr>XI. "Sancta Maria"</nobr>
 </a>
 </h4>
 
@@ -508,11 +508,11 @@ Concerto Palatino <br>
 	<nobr>RV 608</nobr> :
 <nobr>
 <a href="https://www.youtube.com/watch?v=diPUP_ylyF8&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=18">
-	IV. &lsquo;&lsquo;Cum dederit&rsquo;&rsquo;
+	IV. "Cum dederit"
 </a>
 –
 <a href="https://www.youtube.com/watch?v=QyKTB57bXuw&list=OLAK5uy_nO3CTdoVLh3uk9-XCS9RpQDUYiYpWtMCY&index=21">
-	VII. &lsquo;&lsquo;Gloria Patri&rsquo;&rsquo;
+	VII. "Gloria Patri"
 </a>
 </nobr>
 </h4>
@@ -539,11 +539,11 @@ VINCENT DUMESTRE
 	<i>Petite messe solennelle</i> :
 <nobr>
 <a href="https://www.youtube.com/watch?v=jhLur2_7WqY&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=1">
-	I.i. &lsquo;&lsquo;Kyrie eleison&rsquo;&rsquo;
+	I.i. "Kyrie eleison"
 </a>
 –
 <a href="https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12">
-	III.ii. &lsquo;&lsquo;Crucifixus&rsquo;&rsquo;
+	III.ii. "Crucifixus"
 </a>
 </nobr>
 </h4>
@@ -570,11 +570,11 @@ CHRISTOPH SPERING
 	<i>Messa da Requiem</i> :
 <nobr>
 <a href="https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2">
-	II. &lsquo;&lsquo;Dies irae&rsquo;&rsquo;
+	II. "Dies irae"
 </a>
 –
 <a href="https://www.youtube.com/watch?v=1rySbzcQvPA&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=7">
-	VII. &lsquo;&lsquo;Libera me&rsquo;&rsquo;
+	VII. "Libera me"
 </a>
 </nobr>
 </h4>
@@ -603,15 +603,15 @@ ROBERT SHAW
 	<i>Magnificat</i><span style="font-size:0.25em">&nbsp;</span>,
 	<nobr>BWV 243</nobr> :
 <a href="https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1">
-	<nobr>I. &lsquo;&lsquo;Magnificat&rsquo;&rsquo;</nobr>
+	<nobr>I. "Magnificat"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=A9il903fgsE&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=3">
-	<nobr>III. &lsquo;&lsquo;Quia respexit humilitatem&rsquo;&rsquo;</nobr>
+	<nobr>III. "Quia respexit humilitatem"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=iJIZ5PK3ZC8&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=9">
-	<nobr>IX. &lsquo;&lsquo;Esurientes implevit bonis&rsquo;&rsquo;</nobr>
+	<nobr>IX. "Esurientes implevit bonis"</nobr>
 </a>
 </h4>
 
@@ -708,11 +708,11 @@ Ivan Moravec <br>
 <h4 style="text-align:center"> 
 	Préludes, 1<sup>er</sup> Livre :
 <a href="https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2">
-	<nobr>№ 2.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;Voiles&rsquo;&rsquo;</nobr>
+	<nobr>II. "Voiles"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10">
-	<nobr>№ 10.<span style="font-size:0.5em">&nbsp;</span>&lsquo;&lsquo;La cathédrale engloutie&rsquo;&rsquo;</nobr>
+	<nobr>X. "La cathédrale engloutie"</nobr>
 </a>
 </h4>
 
