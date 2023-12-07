@@ -94,7 +94,7 @@ EDUARD MELKUS
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=89HRzpzxOJM&list=OLAK5uy_kHQmWZ-WbZPGt3xWJC5z1XtBhnGBaUoTw&index=4">
 	<i>Il barbiere di Siviglia</i> : 
-	<nobr>I.vi. &lsquo;&lsquo;Saper bramate&rsquo;&rsquo;</nobr>
+	<nobr>I.vi. "Saper bramate"</nobr>
 </a>
 </h4>
 
@@ -307,7 +307,7 @@ Gothic Voices: <br>
 <h4 style="text-align:center"> 
 <a href="https://drive.google.com/file/d/1mG4tdtQ8eMM6JU0Xo_QOhrhvF-srdX9s/view?usp=sharing">
 	<i>Roméo et Juliette</i> : 
-	<nobr>II/ii. &lsquo;&lsquo;Roméo seul&rsquo;&rsquo;</nobr>
+	<nobr>II/ii. "Roméo seul"</nobr>
 </a>
 </h4>
 

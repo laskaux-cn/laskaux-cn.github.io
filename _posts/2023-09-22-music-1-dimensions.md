@@ -530,14 +530,36 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	1.22 &nbsp;|&nbsp; BOHUSLAV MARTINŮ &nbsp;(1959)
+	1.22 &nbsp;|&nbsp; GIACOMO FOGLIANO &nbsp;(1468–1548)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=gPSy9LHBuwk&list=OLAK5uy_nInK7oXHK0DnlQCpwTqzBNjG_SYsW60MU&index=38">
+<a href="https://www.youtube.com/watch?v=2I8MR-_tEog&list=OLAK5uy_lVVqCDv0D_So3cS4kZrn1TBg6KER4wGfg&index=13">
+	<i>L'amor, donna, ch'io te porto</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/toronto-consort-fogliano.png" width="800"> <br>
+
+The Toronto Consort <br>
+DAVID FALLIS
+<br>
+<span style="font-size:0.87em">(Humbercrest United Church, <nobr>Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 2006-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	1.23 &nbsp;|&nbsp; BOHUSLAV MARTINŮ &nbsp;(1959)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=nnyoY5ZlsXU&list=OLAK5uy_nInK7oXHK0DnlQCpwTqzBNjG_SYsW60MU&index=36">
 	4 madrigaly,
 	<nobr>H. 380</nobr> : 
-	<nobr>III. "Na tom světě nic stálého"</nobr>
+	<nobr>I. "Tam z tej strany Dunaja"</nobr>
 </a>
 </h4>
 
@@ -554,29 +576,29 @@ PAVEL KÜHN
 
 
 <p style="text-align:center">
-	1.23 &nbsp;|&nbsp; LUCA MARENZIO &nbsp;(1599)
+	1.24 &nbsp;|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=2QVbmCTgtXc&list=OLAK5uy_m34J5t1Ylk2-Dt_whXhgXze7zBXKzVANA&index=8">
-	<i>Solo e pensoso</i>
+<a href="https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8">
+	<i>Ecco la primavera</i>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/la-venexiana-marenzio.png" width="800"> <br>
+<img src="/assets/img/albums/waverly-landini.png" width="800"> <br>
 
-La Venexiana <br>
-CLAUDIO CAVINA
+The Waverly Consort <br>
+MICHAEL JAFFEE
 <br>
-<span style="font-size:0.87em">(Chiesa della Beata Vergine Maria del Monte Carmelo, <nobr>Roletto &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Vanguard 23rd Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
 
 <br>
 
 
 
 <p style="text-align:center">
-	1.26 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
+	1.25 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -601,30 +623,7 @@ RICHARD HICKOX
 
 
 <p style="text-align:center">
-	1.27 &nbsp;|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=pNfGIGBwVFk&list=OLAK5uy_lLGeNk1U_x3fWgCe9LBXvNPbFIORAzVHU&index=8">
-	<i>Ecco la primavera</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/waverly-landini.png" width="800"> <br>
-
-The Waverly Consort <br>
-MICHAEL JAFFEE
-<br>
-<span style="font-size:0.87em">(Vanguard 23rd Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1973-06)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	1.28 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+	1.26 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -647,7 +646,7 @@ FRIEDER BERNIUS
 
 
 <p style="text-align:center">
-	1.29 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
+	1.27 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -669,7 +668,7 @@ PAUL HILLIER
 
 
 <p style="text-align:center">
-	1.30 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–1050)
+	1.28 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–1050)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -691,7 +690,7 @@ ALEXANDER M. SCHWEITZER
 
 
 <p style="text-align:center">
-	1.31 &nbsp;|&nbsp; AMBROSIUS &nbsp;(c. 339–397)
+	1.29 &nbsp;|&nbsp; AMBROSIUS &nbsp;(c. 339–397)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -714,7 +713,7 @@ LÁSZLÓ DOBSZAY / JANKA SZENDREI
 
 
 <p style="text-align:center">
-	1.32 &nbsp;|&nbsp; EDGARD VARÈSE &nbsp;(1936)
+	1.30 &nbsp;|&nbsp; EDGARD VARÈSE &nbsp;(1936)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

@@ -146,7 +146,7 @@ Lluís Vich Vocalis <br>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11">
 	<i>Intermedi della Pellegrina</i> : 
-	<nobr>IV.ii. &lsquo;&lsquo;Dal vago e bel sereno&rsquo;&rsquo;</nobr>
+	<nobr>IV.ii. "Dal vago e bel sereno"</nobr>
 </a>
 </h4>
 
@@ -637,7 +637,7 @@ RICCARDO CHAILLY
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=9s">
 	Concerto in E-flat major
-	<nobr>&lsquo;&lsquo;Dumbarton Oaks&rsquo;&rsquo;</nobr>
+	<nobr>"Dumbarton Oaks"</nobr>
 </a>
 </h4>
 
@@ -755,7 +755,7 @@ MICHAEL TILSON THOMAS
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=gsHwmee4Vik&list=PL8AhTXrM6LH2PDbkNM4zEUB9dImnE-d7Z&index=1">
 	Violinkonzert 
-	<nobr>&lsquo;&lsquo;Dem Andenken eines Engels&rsquo;&rsquo;</nobr>
+	<nobr>"Dem Andenken eines Engels"</nobr>
 </a>
 </h4>
 
