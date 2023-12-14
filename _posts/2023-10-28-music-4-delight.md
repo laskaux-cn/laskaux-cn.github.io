@@ -31,58 +31,7 @@ tags: music
 
 
 
-<p style="text-align:center">
-	4.2 &nbsp;|&nbsp; CARL STAMITZ &nbsp;(c. 1771/1776)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
-	Klarinettenkonzert № 6 Es-dur
-</a>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/schlechta-stamitz.png" width="800"> <br>
-
-Karl Schlechta <br>
-Kurpfälzisches Kammerorchester <br>
-JIŘÍ MALÁT
-<br>
-<span style="font-size:0.87em">(SWR Studio, <nobr>Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994-05/12)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-<p style="text-align:center">
-	4.3 &nbsp;|&nbsp; JOHANN CHRISTIAN BACH &nbsp;(1770)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Keyboard Concerto in E-flat major, <nobr>Op. 7 № 5 / W. C59</nobr> : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=kaWo866elOc&list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&index=23">
-	I. Allegro di molto
-</a>
-– 
-<a href="https://www.youtube.com/watch?v=lLVhgPwiONk&list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&index=24">
-	II. Andante
-</a>
-</nobr>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/haebler-jcbach.png" width="800"> <br>
-
-<nobr>Ingrid Haebler </nobr> <br>
-Capella Academica Wien <br>
-EDUARD MELKUS
-<br>
-<span style="font-size:0.87em">(<nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973-10)</nobr> </span> </p> 
-
-<br>
 
 
 
@@ -325,34 +274,7 @@ JOHN ELIOT GARDINER
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1945)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Симфония № 9 : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
-	I. Allegro
-</a>
-–
-<a href="https://www.youtube.com/watch?v=I6QexYv16t0&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=29">
-	II. Moderato
-</a>
-</nobr>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
-
-Симфонический оркестр Московской государственной Филармонии <br>
-КИРИЛЛ КОНДРАШИН
-<br>
-<span style="font-size:0.87em">(<nobr>Москва 
-&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
-1965-05)</nobr> </span> </p> 
-
-<br>
 
 
 <p style="text-align:center">
