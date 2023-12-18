@@ -302,29 +302,7 @@ FERENC FRICSAY
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; SAMUEL BARBER &nbsp;(1936)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=kxtMe9CPZ9M&list=PL8AhTXrM6LH1VS8uBh0aIYXg8m3uP5pxf&index=2">
-	String Quartet in B minor, <nobr>Op. 11</nobr> : 
-	<nobr>II. Molto adagio</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/emerson-barber.png" width="800"> <br>
-
-Emerson String Quartet: <br>
-<nobr>Philip Setzer /</nobr>
-<nobr>Eugene Drucker /</nobr>
-<nobr>Lawrence Dutton / David Finckel </nobr> <br>
-<span style="font-size:0.87em">(American Academy of Arts and Letters, <nobr>New York 
-&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
-1990-11)</nobr> </span> </p>  
-
-<br>
+xw
 
 
 <p style="text-align:center">

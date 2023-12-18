@@ -60,29 +60,7 @@ PIERRE BOULEZ
 
 
 <p style="text-align:center">
-	3.3 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1778)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=aQXW0U1ZtSc&list=PL8AhTXrM6LH2XAShsxjs4u8geChvZotfh&index=3">
-	Sonate für Klavier und Violine <nobr>№ 17</nobr> <nobr>C-dur,</nobr> <nobr>KV 296</nobr> : <nobr>III. Allegro</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kuijken-mozart.png" width="800"> <br>
-
-<nobr>Sigiswald Kuijken /</nobr>
-<nobr>Luc Devos </nobr> <br>
-<span style="font-size:0.87em">[vn–pf] </span> <br>
-<span style="font-size:0.87em">(Doopsgezinde Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.4 &nbsp;|&nbsp; CARL&nbsp;STAMITZ <span style="font-size:0.25em">&nbsp;</span>&<span style="font-size:0.25em">&nbsp;</span> JOSEPH&nbsp;BEER &nbsp;(1771/1776)
+	3.3 &nbsp;|&nbsp; CARL&nbsp;STAMITZ <span style="font-size:0.25em">&nbsp;</span>&<span style="font-size:0.25em">&nbsp;</span> JOSEPH&nbsp;BEER &nbsp;(1771/1776)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -105,7 +83,51 @@ JIŘÍ MALÁT
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
+	3.4 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1778)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=aQXW0U1ZtSc&list=PL8AhTXrM6LH2XAShsxjs4u8geChvZotfh&index=3">
+	Sonate für Klavier und Violine <nobr>№ 17</nobr> <nobr>C-dur,</nobr> <nobr>KV 296</nobr> : <nobr>III. Allegro</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kuijken-mozart.png" width="800"> <br>
+
+<nobr>Sigiswald Kuijken /</nobr>
+<nobr>Luc Devos </nobr> <br>
+<span style="font-size:0.87em">[vn–pf] </span> <br>
+<span style="font-size:0.87em">(Doopsgezinde Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.5 &nbsp;|&nbsp; JOSQUIN DES PRÉS &nbsp;(1497)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=VqEkwVViM9c&list=OLAK5uy_nBUqEtf-D0G0L1h13FVOQ2LuiCObWwME0&index=20">
+	<i>Nymphes des bois</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/visse-josquin.png" width="800"> <br>
+
+Ensemble Clément Janequin <br>
+DOMINIQUE VISSE 
+<br>
+<span style="font-size:0.87em">(Théâtre élisabéthain, Château d'Hardelot, <nobr>Condette &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.6 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -125,7 +147,7 @@ Lluís Vich Vocalis <br>
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; GREGORIO ALLEGRI &nbsp;(c. 1638)
+	3.7 &nbsp;|&nbsp; GREGORIO ALLEGRI &nbsp;(c. 1638)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -147,7 +169,7 @@ BERNARD FABRE-GARRUS
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+	3.8 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -169,7 +191,7 @@ HANS-MARTIN LINDE
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
+	3.9 &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -190,7 +212,7 @@ La Pifarescha <br>
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
+	3.10 &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -210,7 +232,7 @@ Blechbläserensemble LUDWIG GÜTTLER <br>
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
+	3.11 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -233,7 +255,7 @@ ANTHONY ROOLEY
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
+	3.12 &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -257,7 +279,7 @@ NILS-ERIK SPARF
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1653–1713)
+	3.13 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1653–1713)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -283,7 +305,7 @@ TREVOR PINNOCK
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
+	3.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -307,16 +329,8 @@ REINHARD GOEBEL
 
 
 
-
-
-
-
-
-
-
-
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
+	3.15 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -348,7 +362,7 @@ CHRISTOPHER HOGWOOD
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1794)
+	3.16 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1794)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -371,7 +385,7 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	3.17 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -402,30 +416,32 @@ NEVILLE MARRINER
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
+	3.18 &nbsp;|&nbsp; LUIGI NONO &nbsp;(1982)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
-	Cembalokonzert d-moll, 
-	<nobr>H. 427 / Wq. 23</nobr> : 
-	<nobr>II. Poco andante</nobr>
+<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+	<i>¿Donde estás hermano?</i>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
+<img src="/assets/img/albums/weeks-nono.png" width="800"> <br>
 
-Leonhardt-Consort <br>
-GUSTAV LEONHARDT <br>
-<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
+EXAUDI: <br>
+<nobr>Juliet Fraser /</nobr>
+<nobr>Natalie Clifton-Griffith /</nobr>
+<nobr>Amy Moore / Lucy Goddard </nobr> <br>
+JAMES WEEKS
+<br>
+<span style="font-size:0.87em">(All Saints' East Finchley, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2012-02)</nobr> </span> </p> 
 
 <br>
 
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
+	3.19 &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -448,9 +464,30 @@ Stockholms Nya Kammarorkester <br>
 
 
 
+<p style="text-align:center">
+	3.20 &nbsp;|&nbsp; PIERRE BOULEZ &nbsp;(1948)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vVOtLdU1hYM&list=OLAK5uy_nOmef3h3J6XqjW7FZNbv9M0ojGE8_Ympo&index=3">
+	Sonate pour piano № 2 : 
+	<nobr>I. Extrêmement rapide – Encore plus vif</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/biret-boulez-naxos.png" width="800"> <br>
+
+İdil Biret <br>
+<span style="font-size:0.87em">(Studio 106, Maison de la Radio, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1995-01/02)</nobr> </span> </p> 
+
+<br>
+
+
+
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; ГЕОРГИЙ СВИРИДОВ &nbsp;(1965)
+	3.21 &nbsp;|&nbsp; ГЕОРГИЙ СВИРИДОВ &nbsp;(1965)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -462,7 +499,7 @@ Stockholms Nya Kammarorkester <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/fedoseyev-time-forward.png" width="800"> <br>
 
-Большой симфонический оркестр имени П. И. Чайковского <br>
+Большой симфонический оркестр <nobr>имени П. И. Чайковского</nobr> <br>
 ВЛАДИМИР ФЕДОСЕЕВ
 <br>
 <span style="font-size:0.87em">(<nobr>Москва 
@@ -471,6 +508,70 @@ Stockholms Nya Kammarorkester <br>
 <br>
 
 
+
+<p style="text-align:center">
+	3.22 &nbsp;|&nbsp; PANCRACE ROYER &nbsp;(1746)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+	<i>Le Vertigo</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rousset-royer.png" width="800"> <br>
+
+Christophe Rousset <br>
+<span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991-08)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.23 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1740)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=EQqiRYIF5Vs&list=OLAK5uy_l6CMamgPdDoM2Zg0K-W4Z0_y4-WkRz5LU&index=1">
+	Concerto in do maggiore, 
+	<nobr>RV 558</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/antonini-vivaldi.png" width="800"> <br>
+
+Il Giardino Armonico <br>
+GIOVANNI ANTONINI
+<br>
+<span style="font-size:0.87em">(Auditorio Radiotelevisione svizzera, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1992-04/05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.X &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
+	Cembalokonzert d-moll, 
+	<nobr>H. 427 / Wq. 23</nobr> : 
+	<nobr>II. Poco andante</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
+
+Leonhardt-Consort <br>
+GUSTAV LEONHARDT <br>
+<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
+
+<br>
 
 
 

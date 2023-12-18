@@ -55,9 +55,34 @@ LORIN MAAZEL
 
 
 
+<p style="text-align:center">
+	1.3 &nbsp;|&nbsp; СЕРГЕЙ РАХМАНИНОВ &nbsp;(1940)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=LEAd02COZ7E&list=OLAK5uy_lM6T5dx7VbXkTXC5dBJVR7GjGJkckiceU&index=6&t=1s">
+	Симфонические танцы : 
+	<nobr>II. Andante con moto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/svetlanov-rachmaninov.png" width="800"> <br>
+
+Государственный симфонический оркестр СССР <br>
+ЕВГЕНИЙ СВЕТЛАНОВ 
+<br>
+<span style="font-size:0.87em">(Большой зал Московской консерватории, <nobr>Москва 
+&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
+1986-02)</nobr> </span> </p> 
+
+<br>
+
+
+
 
 <p style="text-align:center">
-	1.3 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1942)
+	1.4 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1942)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -81,7 +106,7 @@ AARON COPLAND
 
 
 <p style="text-align:center">
-	1.4 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1925)
+	1.5 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1925)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -106,7 +131,7 @@ INGO METZMACHER
 
 
 <p style="text-align:center">
-	1.5 &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	1.6 &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -132,7 +157,7 @@ INGO METZMACHER
 
 
 <p style="text-align:center">
-	1.6 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1922)
+	1.7 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1922)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -160,7 +185,7 @@ INGO METZMACHER
 
 
 <p style="text-align:center">
-	1.7 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1923)
+	1.8 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1923)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -184,7 +209,7 @@ Claude Helffer <br>
 
 
 <p style="text-align:center">
-	1.8 &nbsp;|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
+	1.9 &nbsp;|&nbsp; MARC-ANTOINE CHARPENTIER &nbsp;<nobr>(1688/1698)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -209,7 +234,7 @@ WILLIAM CHRISTIE
 
 
 <p style="text-align:center">
-	1.9 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
+	1.10 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1830)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -235,7 +260,7 @@ CHARLES MUNCH
 
 
 <p style="text-align:center">
-	1.10 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
+	1.11 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1917)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -268,7 +293,7 @@ CHARLES MUNCH
 
 
 <p style="text-align:center">
-	1.11 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
+	1.12 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1812)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -290,7 +315,7 @@ Collegium Aureum <br>
 
 
 <p style="text-align:center">
-	1.12 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1888)
+	1.13 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1888)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -313,7 +338,7 @@ RAFAEL KUBELIK <br>
 
 
 <p style="text-align:center">
-	1.13 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1909)
+	1.14 &nbsp;|&nbsp; ANTON WEBERN &nbsp;(1909)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -336,7 +361,7 @@ SIMON RATTLE
 
 
 <p style="text-align:center">
-	1.14 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
+	1.15 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1791)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -364,7 +389,7 @@ Talichovo kvarteto: <br>
 
 
 <p style="text-align:center">
-	1.15 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
+	1.16 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -391,7 +416,7 @@ Pražákovo kvarteto: <br>
 
 
 <p style="text-align:center">
-	1.16 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+	1.17 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -413,7 +438,7 @@ Céline Frisch <br>
 
 
 <p style="text-align:center">
-	1.17 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+	1.18 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -434,7 +459,7 @@ Andreas Staier <br>
 
 
 <p style="text-align:center">
-	1.18 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1701)
+	1.19 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1701)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -457,7 +482,7 @@ Andreas Staier <br>
 
 
 <p style="text-align:center">
-	1.19 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1700)
+	1.20 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1700)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -482,7 +507,7 @@ The Avison Ensemble: <br>
 
 
 <p style="text-align:center">
-	1.20 &nbsp;|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
+	1.21 &nbsp;|&nbsp; MARCO DA GAGLIANO &nbsp;(1608)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -506,7 +531,7 @@ GABRIEL GARRIDO
 
 
 <p style="text-align:center">
-	1.21 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
+	1.22 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1607)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -530,7 +555,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	1.22 &nbsp;|&nbsp; GIACOMO FOGLIANO &nbsp;(1468–1548)
+	1.23 &nbsp;|&nbsp; GIACOMO FOGLIANO &nbsp;(1468–1548)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -552,7 +577,7 @@ DAVID FALLIS
 
 
 <p style="text-align:center">
-	1.23 &nbsp;|&nbsp; BOHUSLAV MARTINŮ &nbsp;(1959)
+	1.24 &nbsp;|&nbsp; BOHUSLAV MARTINŮ &nbsp;(1959)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -576,7 +601,7 @@ PAVEL KÜHN
 
 
 <p style="text-align:center">
-	1.24 &nbsp;|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
+	1.25 &nbsp;|&nbsp; FRANCESCO LANDINI &nbsp;(c. 1325–1397)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -598,7 +623,7 @@ MICHAEL JAFFEE
 
 
 <p style="text-align:center">
-	1.25 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
+	1.26 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1949)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -623,7 +648,7 @@ RICHARD HICKOX
 
 
 <p style="text-align:center">
-	1.26 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
+	1.27 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -646,7 +671,7 @@ FRIEDER BERNIUS
 
 
 <p style="text-align:center">
-	1.27 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
+	1.28 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -668,7 +693,7 @@ PAUL HILLIER
 
 
 <p style="text-align:center">
-	1.28 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–1050)
+	1.29 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–1050)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -690,7 +715,7 @@ ALEXANDER M. SCHWEITZER
 
 
 <p style="text-align:center">
-	1.29 &nbsp;|&nbsp; AMBROSIUS &nbsp;(c. 339–397)
+	1.30 &nbsp;|&nbsp; AMBROSIUS &nbsp;(c. 339–397)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -713,7 +738,7 @@ LÁSZLÓ DOBSZAY / JANKA SZENDREI
 
 
 <p style="text-align:center">
-	1.30 &nbsp;|&nbsp; EDGARD VARÈSE &nbsp;(1936)
+	1.31 &nbsp;|&nbsp; EDGARD VARÈSE &nbsp;(1936)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
