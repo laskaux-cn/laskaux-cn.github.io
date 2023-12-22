@@ -169,7 +169,33 @@ BERNARD FABRE-GARRUS
 
 
 <p style="text-align:center">
-	3.8 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+	3.8 &nbsp;|&nbsp; SAMUEL BARBER &nbsp;(1936)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=kxtMe9CPZ9M&list=PL8AhTXrM6LH1VS8uBh0aIYXg8m3uP5pxf&index=2">
+	String Quartet in B minor, <nobr>Op. 11</nobr> : 
+	<nobr>II. Molto adagio</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/emerson-barber.png" width="800"> <br>
+
+Emerson String Quartet: <br>
+<nobr>Philip Setzer /</nobr>
+<nobr>Eugene Drucker /</nobr>
+<nobr>Lawrence Dutton / David Finckel </nobr> <br>
+<span style="font-size:0.87em">(American Academy of Arts and Letters, <nobr>New York 
+&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
+1990-11)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.9 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -191,7 +217,7 @@ HANS-MARTIN LINDE
 
 
 <p style="text-align:center">
-	3.9 &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
+	3.10 &nbsp;|&nbsp; GIOVANNI GABRIELI &nbsp;(1597)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -212,7 +238,7 @@ La Pifarescha <br>
 
 
 <p style="text-align:center">
-	3.10 &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
+	3.11 &nbsp;|&nbsp; THOMAS SIMPSON &nbsp;(1617)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -232,7 +258,7 @@ Blechbläserensemble LUDWIG GÜTTLER <br>
 
 
 <p style="text-align:center">
-	3.11 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
+	3.13 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1605)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -255,7 +281,7 @@ ANTHONY ROOLEY
 
 
 <p style="text-align:center">
-	3.12 &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
+	3.14 &nbsp;|&nbsp; HENRY PURCELL &nbsp;(1659–1695)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -279,7 +305,7 @@ NILS-ERIK SPARF
 
 
 <p style="text-align:center">
-	3.13 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1653–1713)
+	3.15 &nbsp;|&nbsp; ARCANGELO CORELLI &nbsp;(1653–1713)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -305,7 +331,7 @@ TREVOR PINNOCK
 
 
 <p style="text-align:center">
-	3.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
+	3.16 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -328,9 +354,30 @@ REINHARD GOEBEL
 
 
 
+<p style="text-align:center">
+	3.17 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1938)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=9s">
+	Concerto in E-flat major
+	<nobr>"Dumbarton Oaks"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/orpheus-dumbarton.png" width="800"> <br>
+
+Orpheus Chamber Orchestra <br>
+<span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
+
+<br>
+
+
+
 
 <p style="text-align:center">
-	3.15 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
+	3.18 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -362,7 +409,7 @@ CHRISTOPHER HOGWOOD
 
 
 <p style="text-align:center">
-	3.16 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1794)
+	3.19 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1794)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -385,7 +432,7 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	3.17 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	3.20 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -416,7 +463,7 @@ NEVILLE MARRINER
 
 
 <p style="text-align:center">
-	3.18 &nbsp;|&nbsp; LUIGI NONO &nbsp;(1982)
+	3.21 &nbsp;|&nbsp; LUIGI NONO &nbsp;(1982)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -441,7 +488,28 @@ JAMES WEEKS
 
 
 <p style="text-align:center">
-	3.19 &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
+	3.22 &nbsp;|&nbsp; PIERRE BOULEZ &nbsp;(1948)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vVOtLdU1hYM&list=OLAK5uy_nOmef3h3J6XqjW7FZNbv9M0ojGE8_Ympo&index=3">
+	Sonate pour piano № 2 : 
+	<nobr>I. Extrêmement rapide – Encore plus vif</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/biret-boulez-naxos.png" width="800"> <br>
+
+İdil Biret <br>
+<span style="font-size:0.87em">(Studio 106, Maison de la Radio, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1995-01/02)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.23 &nbsp;|&nbsp; АЛЬФРЕД ШНИТКЕ &nbsp;(1985)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -464,30 +532,9 @@ Stockholms Nya Kammarorkester <br>
 
 
 
-<p style="text-align:center">
-	3.20 &nbsp;|&nbsp; PIERRE BOULEZ &nbsp;(1948)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=vVOtLdU1hYM&list=OLAK5uy_nOmef3h3J6XqjW7FZNbv9M0ojGE8_Ympo&index=3">
-	Sonate pour piano № 2 : 
-	<nobr>I. Extrêmement rapide – Encore plus vif</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/biret-boulez-naxos.png" width="800"> <br>
-
-İdil Biret <br>
-<span style="font-size:0.87em">(Studio 106, Maison de la Radio, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1995-01/02)</nobr> </span> </p> 
-
-<br>
-
-
-
 
 <p style="text-align:center">
-	3.21 &nbsp;|&nbsp; ГЕОРГИЙ СВИРИДОВ &nbsp;(1965)
+	3.24 &nbsp;|&nbsp; ГЕОРГИЙ СВИРИДОВ &nbsp;(1965)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -524,130 +571,6 @@ Stockholms Nya Kammarorkester <br>
 
 Christophe Rousset <br>
 <span style="font-size:0.87em">(Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991-08)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.23 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1740)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=EQqiRYIF5Vs&list=OLAK5uy_l6CMamgPdDoM2Zg0K-W4Z0_y4-WkRz5LU&index=1">
-	Concerto in do maggiore, 
-	<nobr>RV 558</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/antonini-vivaldi.png" width="800"> <br>
-
-Il Giardino Armonico <br>
-GIOVANNI ANTONINI
-<br>
-<span style="font-size:0.87em">(Auditorio Radiotelevisione svizzera, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1992-04/05)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.X &nbsp;|&nbsp; CARL PHILIPP EMANUEL BACH &nbsp;(1748)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
-	Cembalokonzert d-moll, 
-	<nobr>H. 427 / Wq. 23</nobr> : 
-	<nobr>II. Poco andante</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="800"> <br>
-
-Leonhardt-Consort <br>
-GUSTAV LEONHARDT <br>
-<span style="font-size:0.87em">(Lutherse Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.X &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1938)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=9s">
-	Concerto in E-flat major
-	<nobr>"Dumbarton Oaks"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/orpheus-dumbarton.png" width="800"> <br>
-
-Orpheus Chamber Orchestra <br>
-<span style="font-size:0.87em">(RCA 24th Street Studios, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.X &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1945)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Симфония № 9 : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
-	I. Allegro
-</a>
-–
-<a href="https://www.youtube.com/watch?v=I6QexYv16t0&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=29">
-	II. Moderato
-</a>
-</nobr>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
-
-Симфонический оркестр Московской государственной Филармонии <br>
-КИРИЛЛ КОНДРАШИН
-<br>
-<span style="font-size:0.87em">(<nobr>Москва 
-&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
-1965-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	3.X &nbsp;|&nbsp; SAMUEL BARBER &nbsp;(1936)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=kxtMe9CPZ9M&list=PL8AhTXrM6LH1VS8uBh0aIYXg8m3uP5pxf&index=2">
-	String Quartet in B minor, <nobr>Op. 11</nobr> : 
-	<nobr>II. Molto adagio</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/emerson-barber.png" width="800"> <br>
-
-Emerson String Quartet: <br>
-<nobr>Philip Setzer /</nobr>
-<nobr>Eugene Drucker /</nobr>
-<nobr>Lawrence Dutton / David Finckel </nobr> <br>
-<span style="font-size:0.87em">(American Academy of Arts and Letters, <nobr>New York 
-&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
-1990-11)</nobr> </span> </p>  
 
 <br>
 
