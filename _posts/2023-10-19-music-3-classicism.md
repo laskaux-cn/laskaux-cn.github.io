@@ -93,7 +93,7 @@ JIŘÍ MALÁT
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kuijken-mozart.png" width="800"> <br>
+<img src="/assets/img/albums/kuijken-mozart296.png" width="800"> <br>
 
 <nobr>Sigiswald Kuijken /</nobr>
 <nobr>Luc Devos </nobr> <br>
@@ -574,6 +574,29 @@ Christophe Rousset <br>
 
 <br>
 
+
+
+<p style="text-align:center">
+	3.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1722)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	<i>Das Wohltemperierte Klavier</i><span style="font-size:0.25em">&nbsp;</span>, <nobr>Teil I</nobr> : 
+	<a href="https://www.youtube.com/watch?v=J6j9RrNqHls&list=OLAK5uy_n_27bMDYctnHO6yW3pon7DYDdD6GWHFSU&index=24">
+	<nobr>Fuge № 12 f-moll, BWV 857</nobr> </a>
+	–
+	<a href="https://www.youtube.com/watch?v=NVhNCoNtmdQ&list=OLAK5uy_n_27bMDYctnHO6yW3pon7DYDdD6GWHFSU&index=48">
+	<nobr>Fuge № 24 h-moll, BWV 869</nobr> </a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/frisch-bach-wtc1.png" width="800"> <br>
+
+Céline Frisch
+<br>
+<span style="font-size:0.87em">(Église Saint-Rémi de Franc-Warêt, <nobr>Fernelmont &nbsp;<img src="/assets/img/flags/be.png" height="11" width="16"/>&nbsp; 2014-10)</nobr> </span> </p> 
+
+<br>
 
 
 
