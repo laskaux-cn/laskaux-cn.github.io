@@ -443,13 +443,13 @@ Céline Frisch <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15">
-	Sonata in si minore : 
-	<nobr>K. 87</nobr>
+	Sonata in si minore per tastiera, 
+	<nobr>K. 87 / L. 33</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/staier-scarlatti-2.png" width="800"> <br>
+<img src="/assets/img/albums/staier-scarlatti87.png" width="800"> <br>
 
 Andreas Staier <br>
 <span style="font-size:0.87em">(Kulturzentrum, <nobr>Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991-02)</nobr> </span> </p> 
