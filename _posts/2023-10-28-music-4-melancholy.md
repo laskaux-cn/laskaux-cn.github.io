@@ -8,6 +8,28 @@ tags: music
 ---
 
 
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=-XzPiWWqGLc&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=1">
+	Concerto in re minore per oboe, archi e basso continuo, 
+	<nobr>S. Z799</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
+
+Paolo Grazzi <br>
+Orchestra Barocca di Venezia <br>
+ANDREA MARCON
+<br>
+<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
+
+<br>
+
 
 
 
@@ -100,7 +122,7 @@ Julian Bream <br>
 <nobr>François Joubert-Caillet /</nobr>
 <nobr>André Heinrich</nobr> <br>
 <span style="font-size:0.87em">[viol–lute] </span> <br>
-<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
 
 <br>
 
@@ -225,6 +247,36 @@ JOHN ELIOT GARDINER
 
 
 
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1945)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Симфония № 9 : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
+	I. Allegro
+</a>
+–
+<a href="https://www.youtube.com/watch?v=I6QexYv16t0&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=29">
+	II. Moderato
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
+
+Симфонический оркестр Московской государственной Филармонии <br>
+КИРИЛЛ КОНДРАШИН
+<br>
+<span style="font-size:0.87em">(<nobr>Москва 
+&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
+1965-05)</nobr> </span> </p> 
+
+<br>
+
+
 
 
 
@@ -252,8 +304,6 @@ FERENC FRICSAY
 <br>
 
 
-
-xw
 
 
 <p style="text-align:center">
@@ -327,44 +377,6 @@ Dag Achatz <br>
 
 <br>
 
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1825)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=6FUXmvVkGQY&list=OLAK5uy_l0oEwFmslWaV-_jm4xjguhoxY7n3HC7qs&index=2">
-	Klaviersonate a-moll, <nobr>Op. 42 / D. 845</nobr> : <nobr>II. Andante poco moto </nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/zechlin-schubert845.png" width="800"> <br>
-
-Dieter Zechlin <br>
-<span style="font-size:0.87em">(Studio Brunnenstraße, <nobr>Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972-01)</nobr> </span> </p> 
-
-<br>
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1793)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=caiBJxBTAdA&list=OLAK5uy_lGF3AaJUW69YdWRnNuGa8Ye-Yu4Dm16MY&index=32">
-	Andante mit Variationen f-moll, <nobr>Hob. XVII:6</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/brendel-haydn.png" width="800"> <br>
-
-Alfred Brendel <br>
-<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1985-07)</nobr> </span> </p> 
-
-<br>
 
 
 

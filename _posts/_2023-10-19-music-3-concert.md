@@ -277,30 +277,6 @@ NILS-ERIK SPARF
 
 
 
-<p style="text-align:center">
-	3.12 &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=-XzPiWWqGLc&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=1">
-	Concerto in re minore per oboe, archi e basso continuo, 
-	<nobr>S. Z799</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
-
-Paolo Grazzi <br>
-Orchestra Barocca di Venezia <br>
-ANDREA MARCON
-<br>
-<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
-
-<br>
-
-
-
 
 <p style="text-align:center">
 	3.13 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1925)
