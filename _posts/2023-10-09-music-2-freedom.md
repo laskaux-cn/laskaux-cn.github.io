@@ -447,30 +447,7 @@ KAREL ANČERL
 
 
 <p style="text-align:center">
-	2.19 &nbsp;|&nbsp; PEROTINUS &nbsp;(c. 1160–1230)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5">
-	<i>Viderunt omnes</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/munrow-perotin.png" width="800"> <br>
-
-Early Music Consort of London <br>
-DAVID MUNROW
-<br>
-<span style="font-size:0.87em">(Charterhouse Chapel, Godalming / <nobr>Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975-04/10)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	2.20 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+	2.19 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -500,7 +477,7 @@ Concerto Palatino <br>
 
 
 <p style="text-align:center">
-	2.21 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+	2.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -532,7 +509,7 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
-	2.22 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
+	2.21 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -563,7 +540,7 @@ CHRISTOPH SPERING
 
 
 <p style="text-align:center">
-	2.23 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+	2.22 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -596,7 +573,7 @@ ROBERT SHAW
 
 
 <p style="text-align:center">
-	2.24 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+	2.23 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -630,7 +607,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	2.25 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
+	2.24 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -652,7 +629,7 @@ Gustav Leonhardt <br>
 
 
 <p style="text-align:center">
-	2.26 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
+	2.25 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -675,7 +652,7 @@ Paul Badura-Skoda <br>
 
 
 <p style="text-align:center">
-	2.27 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+	2.26 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -702,7 +679,7 @@ Ivan Moravec <br>
 
 
 <p style="text-align:center">
-	2.28 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+	2.27 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -728,7 +705,7 @@ Claudio Arrau <br>
 
 
 <p style="text-align:center">
-	2.29 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+	2.28 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -751,7 +728,7 @@ Roland Pöntinen <br>
 
 
 <p style="text-align:center">
-	2.30 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
+	2.29 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -772,7 +749,7 @@ Robert Taub <br>
 
 
 <p style="text-align:center">
-	2.31 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	2.30 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -806,7 +783,7 @@ Ronald Brautigam <br>
 
 
 <p style="text-align:center">
-	2.32 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	2.31 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

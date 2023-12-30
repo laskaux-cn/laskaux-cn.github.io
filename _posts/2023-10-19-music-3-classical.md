@@ -60,7 +60,7 @@ PIERRE BOULEZ
 
 
 <p style="text-align:center">
-	3.3 &nbsp;|&nbsp; CARL&nbsp;STAMITZ <span style="font-size:0.25em">&nbsp;</span>&<span style="font-size:0.25em">&nbsp;</span> JOSEPH&nbsp;BEER &nbsp;(c. 1771/1776)
+	3.3 &nbsp;|&nbsp; CARL&nbsp;STAMITZ <span style="font-size:0.25em">&nbsp;</span>&<span style="font-size:0.25em">&nbsp;</span> JOSEPH&nbsp;BEER &nbsp;(c.&nbsp;1771/1776)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -636,7 +636,7 @@ Christophe Rousset <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=lYJkr3NKefA&list=OLAK5uy_mxcTJFmVGgZR24KW-qmLzzkaNS4bfYKUk&index=15">
+<a href="https://www.youtube.com/watch?v=qdPnxPeJU0I&list=OLAK5uy_lWlmkWFNg_uR5mszRj6yuZjxEQM-OUTHE&index=7">
 	Sonata in la minore per tastiera, 
 	<nobr>K. 175 / L. 429</nobr>
 </a>
@@ -653,7 +653,72 @@ Justin Taylor <br>
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1722)
+	3.29 &nbsp;|&nbsp; CARLO GESUALDO &nbsp;(1611)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=RS3Fioi5VHQ&list=OLAK5uy_kEyW3K4CftIGaJs1pQkPGYrCzbIdOUu2o&index=17">
+	<i>Moro, lasso, al mio duolo</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bourbon-gesualdo.png" width="800"> <br>
+
+Métamorphoses <br>
+MAURICE BOURBON
+<br>
+<span style="font-size:0.87em">(Abbaye de Sylvanès, <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1996-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.30 &nbsp;|&nbsp; GUILLAUME DE MACHAUT &nbsp;(1365)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=0-g1MihAu-E&list=OLAK5uy_kwfoJWjUHYZ3rhEuDr2aObqaY4jDuLsTA&index=2">
+	<i>Messe de Nostre Dame</i> : <nobr>II. Kyrie</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/guerber-machaut.png" width="800"> <br>
+
+Diabolus in Musica <br>
+ANTOINE GUERBER
+<br>
+<span style="font-size:0.87em">(Abbaye royale de Fontevraud, <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	3.31 &nbsp;|&nbsp; PEROTINUS &nbsp;<nobr>(c.&nbsp;1160–1230)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=H9QhVBYrhmE&list=OLAK5uy_lpbMvu5Azvk0OHYzFNKsW7StS3ND6DJng&index=5">
+	<i>Viderunt omnes</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/munrow-perotin.png" width="800"> <br>
+
+Early Music Consort of London <br>
+DAVID MUNROW
+<br>
+<span style="font-size:0.87em">(Charterhouse Chapel, Godalming / <nobr>Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975-04/10)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	3.32 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1722)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -677,7 +742,7 @@ Céline Frisch
 
 
 <p style="text-align:center">
-	3.X &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)
+	3.33 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

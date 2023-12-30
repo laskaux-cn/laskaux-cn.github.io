@@ -693,7 +693,7 @@ PAUL HILLIER
 
 
 <p style="text-align:center">
-	1.29 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–1050)
+	1.29 &nbsp;|&nbsp; WIPO &nbsp;(c. 995–&#8203;1050)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

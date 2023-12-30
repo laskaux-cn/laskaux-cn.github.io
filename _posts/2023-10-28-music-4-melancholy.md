@@ -8,55 +8,6 @@ tags: music
 ---
 
 
-<p style="text-align:center">
-	4.1 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=aQXW0U1ZtSc&list=PL8AhTXrM6LH2XAShsxjs4u8geChvZotfh&index=3">
-	Klavierquartett № 1 g-moll, <nobr>KV 478</nobr> : <nobr>III. Rondo</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bilson-mozart.png" width="800"> <br>
-
-<nobr>Malcolm Bilson /</nobr>
-<nobr>Elizabeth Wilcock /</nobr>
-<nobr>Jan Schlapp / Timothy Mason </nobr> <br>
-<span style="font-size:0.87em">[pf–vn–va–vc] </span> <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-03)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-
-
-
-<p style="text-align:center">
-	4.4 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=89HRzpzxOJM&list=OLAK5uy_kHQmWZ-WbZPGt3xWJC5z1XtBhnGBaUoTw&index=4">
-	<i>Il barbiere di Siviglia</i> : 
-	<nobr>I.vi. "Saper bramate"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/pichon-liberta.png" width="800"> <br>
-
-Linard Vrielink <br>
-Pygmalion <br>
-RAPHAËL PICHON
-<br>
-<span style="font-size:0.87em">(Église Protestante Unie du Saint-Esprit, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2018-10)</nobr> </span> </p> 
-
-<br>
 
 
 
