@@ -9,6 +9,37 @@ tags: music
 
 
 <p style="text-align:center">
+	4.1 &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1945)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Симфония № 9 : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
+	I. Allegro
+</a>
+–
+<a href="https://www.youtube.com/watch?v=I6QexYv16t0&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=29">
+	II. Moderato
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
+
+Симфонический оркестр Московской государственной Филармонии <br>
+КИРИЛЛ КОНДРАШИН
+<br>
+<span style="font-size:0.87em">(<nobr>Москва 
+&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
+1965-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	4.X &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -247,34 +278,7 @@ JOHN ELIOT GARDINER
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1945)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Симфония № 9 : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
-	I. Allegro
-</a>
-–
-<a href="https://www.youtube.com/watch?v=I6QexYv16t0&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=29">
-	II. Moderato
-</a>
-</nobr>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
-
-Симфонический оркестр Московской государственной Филармонии <br>
-КИРИЛЛ КОНДРАШИН
-<br>
-<span style="font-size:0.87em">(<nobr>Москва 
-&nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
-1965-05)</nobr> </span> </p> 
-
-<br>
 
 
 
