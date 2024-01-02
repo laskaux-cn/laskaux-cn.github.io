@@ -469,19 +469,20 @@ CHRISTOPHE ROUSSET
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=20axD-_uyV0&list=OLAK5uy_nB1IbkbrjGKo31i8UsMCT7R15MO337ZEk&index=5">
+<a href="https://www.youtube.com/watch?v=PO5QOzHGfi4&list=OLAK5uy_l6bVWfGWFrlDDKzYpRcdvmFtkaZkqySyw&index=30">
 	<i>Iphigénie en Tauride</i> : <nobr>II.vi. "Ô malheureuse Iphigénie"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/graham-gluck.png" width="800"> <br>
+<img src="/assets/img/albums/vashegyi-gluck.png" width="800"> <br>
 
-Susan Graham <br>
-Orchestra of the Age of Enlightenment <br>
-HARRY BICKET
+Chantal Santon-Jeffery <br>
+Purcell Kórus <br> 
+Orfeo Zenekar <br>
+GYÖRGY VASHEGYI
 <br>
-<span style="font-size:0.87em">(Lyndhurst Hall, <nobr>München &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2000-08/09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
 
 <br>
 
