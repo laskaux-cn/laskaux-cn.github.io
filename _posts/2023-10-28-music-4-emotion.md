@@ -61,41 +61,9 @@ GEORG SOLTI
 
 
 
-<p style="text-align:center">
-	4.3 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Konzert C-dur für Violine, Violoncello, Klavier und Orchester, 
-	<nobr>Op. 56</nobr> : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=AN3lLkwcV38&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=2">
-	II. Largo
-</a>
-–
-<a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
-	III. Rondo alla Polacca
-</a>
-</nobr>
-</h4>
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/aureum-beethoven-triple.png" width="800"> <br>
-
-<nobr>Franzjosef Maier /</nobr>
-<nobr>Anner Bijlsma /</nobr> 
-<nobr>Paul Badura-Skoda </nobr> <br> 
-<span style="font-size:0.87em">[vn–vc–pf] </span> <br>
-Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
-
-<br>
-
-
 
 <p style="text-align:center">
-	4.4 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(c. 1740)
+	4.3 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(c. 1740)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -117,9 +85,8 @@ Collegium Aureum <br>
 
 
 
-
 <p style="text-align:center">
-	4.6 &nbsp;|&nbsp; QUELDRYK &nbsp;(c. 1400)
+	4.5 &nbsp;|&nbsp; QUELDRYK &nbsp;(c. 1400)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -140,8 +107,31 @@ Gothic Voices: <br>
 <br>
 
 
+
 <p style="text-align:center">
-	4.X &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
+	4.X &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Z0cEYOPSxuM&list=OLAK5uy_mfA2zs-DVOv4qiL3NdnNm0u-EftZ__9DI&index=11">
+	<i>Intermedi della Pellegrina</i> : 
+	<nobr>IV.ii. "Dal vago e bel sereno"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pichon-pellegrina.png" width="800"> <br>
+
+Pygmalion <br>
+RAPHAËL PICHON
+<br>
+<span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	4.6 &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -157,6 +147,110 @@ Julian Bream <br>
 <span style="font-size:0.87em">(Mozart-Saal, Konzerthaus, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956-05)</nobr> </span> </p> 
 
 <br>
+
+
+
+
+
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
+	Concerto in re minore per oboe, archi e basso continuo, 
+	<nobr>S. Z799</nobr> : <nobr>II. Adagio</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
+
+Paolo Grazzi <br>
+Orchestra Barocca di Venezia <br>
+ANDREA MARCON
+<br>
+<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1730)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=zMMLZRB6QDU&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=11">
+	Concerto in re maggiore per liuto, 2 violini e basso continuo, 
+	<nobr>RV 93 </nobr> : <nobr>II. Largo</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/lislevand-vivaldi.png" width="800"> <br>
+
+<nobr>Rolf Lislevand /</nobr>
+<nobr>Manfredo Kraemer /</nobr>
+<nobr>Pablo Valetti /</nobr> 
+<nobr>Brigitte Täubl /</nobr> 
+<nobr>Laura Johnson /</nobr> 
+<nobr>Lorenz Duftschmid </nobr> <br>
+<span style="font-size:0.87em">[lute–vn–vn–vn–va–vlne] </span> <br>
+<span style="font-size:0.87em">(Salle de la Fondation Tibor Varga, <nobr>Sion
+&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
+1996-04)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1736)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=r5mTXPl8ZMc&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=22">
+	Harp Concerto in B-flat major, 
+	<nobr>Op. 4 № 6 / HWV 294</nobr> : <nobr>II. Larghetto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/pinnock-handel-op4.png" width="800"> <br>
+
+Ursula Holliger <br>
+The English Concert <br>
+TREVOR PINNOCK <br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983-04)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
+	<i>La Rêveuse</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/joubert-caillet-marais.png" width="800"> <br>
+
+<nobr>François Joubert-Caillet /</nobr>
+<nobr>André Heinrich</nobr> <br>
+<span style="font-size:0.87em">[viol–lute] </span> <br>
+<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
+
+<br>
+
+
 
 
 <p style="text-align:center">
@@ -183,80 +277,27 @@ WILLIAM CHRISTIE
 
 
 <p style="text-align:center">
-	4.X &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
+	4.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
-	<i>La Rêveuse</i>
+<a href="https://www.youtube.com/watch?v=xi_pg7gkiCc&list=OLAK5uy_n52PXct-Y49IQ1ZwHYRq5ovqq01LwsUL4&index=5">
+	Klavierkonzert № 23 A-dur, 
+	<nobr>KV 488</nobr> : <nobr>II. Andante</nobr>
 </a>
+
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/joubert-caillet-marais.png" width="800"> <br>
+<img src="/assets/img/albums/lubin-mozart-pc23.png" width="800"> <br>
 
-<nobr>François Joubert-Caillet /</nobr>
-<nobr>André Heinrich</nobr> <br>
-<span style="font-size:0.87em">[viol–lute] </span> <br>
-<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
+Steven Lubin <br>
+The Mozartean Players <br>
+RANSOM WILSON
+<br>
+<span style="font-size:0.87em">(Rutgers Presbyterian Church, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982-04)</nobr> </span> </p> 
 
 <br>
-
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=-XzPiWWqGLc&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=1">
-	Concerto in re minore per oboe, archi e basso continuo, 
-	<nobr>S. Z799</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
-
-Paolo Grazzi <br>
-Orchestra Barocca di Venezia <br>
-ANDREA MARCON
-<br>
-<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1730)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=WWxpSSJjJJ4&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=10">
-	Concerto in re maggiore per liuto, 2 violini e basso continuo, 
-	<nobr>RV 93 </nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/lislevand-vivaldi.png" width="800"> <br>
-
-<nobr>Rolf Lislevand /</nobr>
-<nobr>Manfredo Kraemer /</nobr>
-<nobr>Pablo Valetti /</nobr> 
-<nobr>Brigitte Täubl /</nobr> 
-<nobr>Laura Johnson /</nobr> 
-<nobr>Lorenz Duftschmid </nobr> <br>
-<span style="font-size:0.87em">[lute–vn–vn–vn–va–vlne] </span> <br>
-<span style="font-size:0.87em">(Salle de la Fondation Tibor Varga, <nobr>Sion
-&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
-1996-04)</nobr> </span> </p>  
-
-<br>
-
-
-
 
 
 
@@ -417,6 +458,71 @@ Dag Achatz <br>
 
 <br>
 
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Sinfonia concertante B-dur, 
+	<nobr>Hob. I:105</nobr>
+<nobr>
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+	I. Allegro
+</a>
+–
+<a href="https://www.youtube.com/watch?v=BjpgJ9zyjQY&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=2">
+	II. Andante
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
+
+<nobr>Elizabeth Wallfisch /</nobr>
+<nobr>David Watkin /</nobr>
+<nobr>Anthony Robson / Felix Warnock </nobr> <br>
+<span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
+Orchestra of the Age of Enlightenment <br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Konzert C-dur für Violine, Violoncello, Klavier und Orchester, 
+	<nobr>Op. 56</nobr> : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=AN3lLkwcV38&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=2">
+	II. Largo
+</a>
+–
+<a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
+	III. Rondo alla Polacca
+</a>
+</nobr>
+</h4>
+
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/aureum-beethoven-triple.png" width="800"> <br>
+
+<nobr>Franzjosef Maier /</nobr>
+<nobr>Anner Bijlsma /</nobr> 
+<nobr>Paul Badura-Skoda </nobr> <br> 
+<span style="font-size:0.87em">[vn–vc–pf] </span> <br>
+Collegium Aureum <br>
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+
+<br>
 
 
 
