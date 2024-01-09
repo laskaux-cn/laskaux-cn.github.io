@@ -84,9 +84,97 @@ GEORG SOLTI
 
 
 
+<p style="text-align:center">
+	4.4 &nbsp;|&nbsp; RICHARD CŒUR DE LION &nbsp;<nobr>(1157–1199)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
+	<i>Ja nus hons pris</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/munrow-crusades.png" width="800"> <br>
+
+James Bowman <br>
+Early Music Consort of London <br>
+DAVID MUNROW
+<br>
+<span style="font-size:0.87em">(St John's, Smith Square, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1970-09)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
-	4.5 &nbsp;|&nbsp; QUELDRYK &nbsp;(c. 1400)
+	4.5 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1624)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=8Rt7o619o3M&list=OLAK5uy_lABMOUq5aC3eITdStvC4uZqO_DEUyeNco&index=2">
+	<i>Sì dolce è&apos;l tormento</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>SV 332</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/alarcon-monteverdi.png" width="800"> <br>
+
+Mariana Flores <br>
+Cappella Mediterranea <br>
+LEONARDO GARCÍA ALARCÓN
+<br>
+<span style="font-size:0.87em">(Temple du Sentier, <nobr>Le Chenit &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2016-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.6 &nbsp;|&nbsp; HONORÉ D&apos;AMBRUIS &nbsp;<nobr>(1685)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
+	<i>Le doux silence de nos bois</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/christie-dambrius.png" width="800"> <br>
+
+Marc Mauillon <br>
+Les Arts Florissants <br>
+WILLIAM CHRISTIE 
+<br>
+<span style="font-size:0.87em">(Auditorium Jean-Pierre Miquel, <nobr>Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013-12)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.7 &nbsp;|&nbsp; JOSEPH KOSMA &nbsp;<nobr>(1945)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=pvp0NTFfLPk&list=OLAK5uy_nX18lKkQ7hjB1du4AdAvBpyRGfQ4zj4HQ&index=26">
+	<i>Les Feuilles mortes</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/otter-chanson.png" width="800"> <br>
+
+Anne Sofie von Otter <br>
+<span style="font-size:0.87em">(Atlantis Studios, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2013-05)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	4.8 &nbsp;|&nbsp; QUELDRYK &nbsp;(c. 1400)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -215,7 +303,7 @@ ANDREA MARCON
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=r5mTXPl8ZMc&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=22">
 	Harp Concerto in B-flat major, 
-	<nobr>Op. 4 № 6 / HWV 294</nobr> : <nobr>II. Larghetto</nobr>
+	<nobr>Op. 4 № 6 / HWV 294 :</nobr> <nobr>II. Larghetto</nobr>
 </a>
 </h4>
 
@@ -253,26 +341,7 @@ TREVOR PINNOCK <br>
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; HONORÉ D&apos;AMBRUIS &nbsp;<nobr>(1685)</nobr>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
-	<i>Le doux silence de nos bois</i>
-</a>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/christie-dambrius.png" width="800"> <br>
-
-Marc Mauillon <br>
-Les Arts Florissants <br>
-WILLIAM CHRISTIE 
-<br>
-<span style="font-size:0.87em">(Auditorium Jean-Pierre Miquel, <nobr>Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013-12)</nobr> </span> </p> 
-
-<br>
 
 
 
@@ -337,7 +406,7 @@ JIŘÍ BĚLOHLÁVEK
 <h4 style="text-align:center"> 
 <a href="https://drive.google.com/file/d/1mG4tdtQ8eMM6JU0Xo_QOhrhvF-srdX9s/view?usp=sharing">
 	<i>Roméo et Juliette</i> : 
-	<nobr>II/ii. "Roméo seul"</nobr>
+	<nobr>II. "Roméo seul"</nobr>
 </a>
 </h4>
 
@@ -352,12 +421,6 @@ JOHN ELIOT GARDINER
 1995-10)</nobr> </span> </p>  
 
 <br>
-
-
-
-
-
-
 
 
 
@@ -386,6 +449,28 @@ FERENC FRICSAY
 
 
 
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1903)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+	<i>Estampes</i> : 
+	<nobr>II. "La soirée dans Grenade"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/francois-debussy.png" width="800"> <br>
+
+Samson François <br>
+<span style="font-size:0.87em">(Salle de l'Alcazar, <nobr>Monte Carlo 
+&nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 
+1969-05)</nobr> </span> </p>  
+
+<br>
+
+
 
 <p style="text-align:center">
 	4.X &nbsp;|&nbsp; AARON COPLAND &nbsp;<nobr>(1936)</nobr>
@@ -404,6 +489,45 @@ New York Philharmonic <br>
 LEONARD BERNSTEIN
 <br>
 <span style="font-size:0.87em">(Manhattan Center, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961-05)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; ERIK SATIE &nbsp;<nobr>(1890)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
+	3 Gnossiennes
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/varsano-satie.png" width="800"> <br>
+
+Daniel Varsano <br>
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;<nobr>(1926)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=w1S09_dxsxY&list=OLAK5uy_k11uyJMI4gcxs4H9APr-ImjL27J0BPY6w&index=7">
+	3 Preludes
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/siegel-gershwin.png" width="800"> <br>
+
+Jeffrey Siegel <br>
+<span style="font-size:0.87em">(Powell Hall, <nobr>St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
 
 <br>
 
@@ -446,7 +570,7 @@ CLAUDIO ABBADO
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=D9P-nBh6jJ8&list=OLAK5uy_n5LUOrq9jJIzGiUbC8kO5mULZUFuuMs3I&index=1">
-	<i>Kinderszenen</i><span style="font-size:0.25em">&nbsp;</span>, <nobr>Op. 15</nobr>
+	<i>Kinderszenen</i><span style="font-size:0.25em">&nbsp;</span>
 </a>
 </h4>
 
@@ -460,36 +584,36 @@ Dag Achatz <br>
 
 
 
+
 <p style="text-align:center">
-	4.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
+	4.X &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1819)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Sinfonia concertante B-dur, 
-	<nobr>Hob. I:105</nobr>
+	Klavierquintett A-dur, <nobr>D. 667</nobr> : 
 <nobr>
-<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
-	I. Allegro
-</a>
-–
-<a href="https://www.youtube.com/watch?v=BjpgJ9zyjQY&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=2">
+<a href="https://www.youtube.com/watch?v=jYkHyn_7FiM&list=PL8AhTXrM6LH2PGB4WfZxRj2g89kHW2ok5&index=2">
 	II. Andante
+</a>
+– 
+<a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=PL8AhTXrM6LH2PGB4WfZxRj2g89kHW2ok5&index=4">
+	IV. Tema con variazioni
 </a>
 </nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
+<img src="/assets/img/albums/lubin-schubert.png" width="800"> <br>
 
-<nobr>Elizabeth Wallfisch /</nobr>
-<nobr>David Watkin /</nobr>
-<nobr>Anthony Robson / Felix Warnock </nobr> <br>
-<span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
-Orchestra of the Age of Enlightenment <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
+<nobr>Steven Lubin </nobr> /
+<nobr>Simon Standage </nobr> /
+<nobr>Trevor Jones </nobr> / 
+<nobr>David Watkin </nobr> / 
+<nobr>Amanda McNamara </nobr> <br>
+<span style="font-size:0.87em">[pf–vn–va–vc-db] </span> <br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991-06)</nobr> </span> </p> 
 
 <br>
-
 
 
 
@@ -521,6 +645,38 @@ Orchestra of the Age of Enlightenment <br>
 <span style="font-size:0.87em">[vn–vc–pf] </span> <br>
 Collegium Aureum <br>
 <span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Sinfonia concertante B-dur, 
+	<nobr>Hob. I:105</nobr> : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+	I. Allegro
+</a>
+–
+<a href="https://www.youtube.com/watch?v=BjpgJ9zyjQY&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=2">
+	II. Andante
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
+
+<nobr>Elizabeth Wallfisch /</nobr>
+<nobr>David Watkin /</nobr>
+<nobr>Anthony Robson / Felix Warnock </nobr> <br>
+<span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
+Orchestra of the Age of Enlightenment <br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
 
 <br>
 
