@@ -167,7 +167,12 @@ WILLIAM CHRISTIE
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/otter-chanson.png" width="800"> <br>
 
-Anne Sofie von Otter 
+Anne Sofie von Otter <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> Ensemble: <br>
+<nobr>Magnus Wiklund /</nobr>
+<nobr>Mats Bergström /</nobr> 
+<nobr>Carl Bagge /</nobr> 
+<nobr>Olle Linder / Per Ekdahl</nobr> <br>
+<span style="font-size:0.87em">[tbn–gtr–pf–db–perc]</span> <br>
 <span style="font-size:0.87em">(Atlantis Studios, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2013-05)</nobr> </span> </p> 
 
 <br>
@@ -437,6 +442,31 @@ FERENC FRICSAY
 <span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin 
 &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 
 1959-10)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; CARL NIELSEN &nbsp;(1902)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
+	Symfoni № 2 : 
+	<nobr>IV. Allegro sanguineo</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/gould-nielsen2.png" width="800"> <br>
+
+Chicago Symphony Orchestra <br>
+MORTON GOULD
+<br>
+<span style="font-size:0.87em">(Orchestra Hall, <nobr>Chicago 
+&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
+1966-06)</nobr> </span> </p>  
 
 <br>
 
