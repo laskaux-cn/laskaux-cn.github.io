@@ -669,7 +669,7 @@ Justin Taylor <br>
 Métamorphoses <br>
 MAURICE BOURBON
 <br>
-<span style="font-size:0.87em">(Abbaye de Sylvanès, <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1996-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Abbaye de Sylvanès <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1996-10)</nobr> </span> </p> 
 
 <br>
 
@@ -691,7 +691,7 @@ MAURICE BOURBON
 Diabolus in Musica <br>
 ANTOINE GUERBER
 <br>
-<span style="font-size:0.87em">(Abbaye royale de Fontevraud, <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Abbaye royale de Fontevraud <nobr> &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007-10)</nobr> </span> </p> 
 
 <br>
 

@@ -167,10 +167,11 @@ WILLIAM CHRISTIE
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/otter-chanson.png" width="800"> <br>
 
-Anne Sofie von Otter <br>
+Anne Sofie von Otter 
 <span style="font-size:0.87em">(Atlantis Studios, <nobr>Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2013-05)</nobr> </span> </p> 
 
 <br>
+
 
 
 <p style="text-align:center">
@@ -219,7 +220,7 @@ RAPHAËL PICHON
 
 
 <p style="text-align:center">
-	4.6 &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
+	4.X &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -238,7 +239,25 @@ Julian Bream <br>
 
 
 
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
+	<i>La Rêveuse</i>
+</a>
+</h4>
 
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/joubert-caillet-marais.png" width="800"> <br>
+
+<nobr>François Joubert-Caillet /</nobr>
+<nobr>André Heinrich</nobr> <br>
+<span style="font-size:0.87em">[viol–lute] </span> <br>
+<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
+
+<br>
 
 
 
@@ -316,32 +335,6 @@ TREVOR PINNOCK <br>
 <span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983-04)</nobr> </span> </p> 
 
 <br>
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
-	<i>La Rêveuse</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/joubert-caillet-marais.png" width="800"> <br>
-
-<nobr>François Joubert-Caillet /</nobr>
-<nobr>André Heinrich</nobr> <br>
-<span style="font-size:0.87em">[viol–lute] </span> <br>
-<span style="font-size:0.87em">(Notre-Dame de Centeilles, <nobr>Siran &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019-09/&#8203;2021-05)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
 
 
 
@@ -450,6 +443,46 @@ FERENC FRICSAY
 
 
 <p style="text-align:center">
+	4.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;<nobr>(1926)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=w1S09_dxsxY&list=OLAK5uy_k11uyJMI4gcxs4H9APr-ImjL27J0BPY6w&index=7">
+	3 Preludes
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/siegel-gershwin.png" width="800"> <br>
+
+Jeffrey Siegel <br>
+<span style="font-size:0.87em">(Powell Hall, <nobr>St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; ERIK SATIE &nbsp;<nobr>(1890)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
+	3 Gnossiennes
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/varsano-satie.png" width="800"> <br>
+
+Daniel Varsano <br>
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	4.X &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1903)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -467,6 +500,37 @@ Samson François <br>
 <span style="font-size:0.87em">(Salle de l'Alcazar, <nobr>Monte Carlo 
 &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 
 1969-05)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.X &nbsp;|&nbsp; MANUEL DE FALLA &nbsp;(1919)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	<i>El sombrero de tres picos</i> :
+<nobr>
+<a href="https://www.youtube.com/watch?v=oos034Z7CRU&list=OLAK5uy_mfT4k2UT5kaqp_YVOJLu9i4l1IjqLfZ6w&index=3">
+	I.iii. ''Danza de la Molinera''
+</a>
+</nobr>
+–
+<nobr>
+<a href="https://www.youtube.com/watch?v=fTjkZWYhexk&list=OLAK5uy_mfT4k2UT5kaqp_YVOJLu9i4l1IjqLfZ6w&index=8">
+	II.iv. ''Danza final''
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/dutoit-falla.png" width="800"> <br>
+
+Orchestre symphonique de Montréal <br>
+CHARLES DUTOIT
+<br>
+<span style="font-size:0.87em">(Église de Saint-Eustache, <nobr>Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1981-07)</nobr> </span> </p> 
 
 <br>
 
@@ -493,41 +557,24 @@ LEONARD BERNSTEIN
 <br>
 
 
+
 <p style="text-align:center">
-	4.X &nbsp;|&nbsp; ERIK SATIE &nbsp;<nobr>(1890)</nobr>
+	4.X &nbsp;|&nbsp; LEONARD BERNSTEIN &nbsp;<nobr>(1957)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
-	3 Gnossiennes
+<a href="https://www.youtube.com/watch?v=ktzzIfKk8rE&list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&index=11">
+	<i>West Side Story</i> : <nobr>I.iv. Mambo</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/varsano-satie.png" width="800"> <br>
+<img src="/assets/img/albums/dudamel-bernstein.png" width="800"> <br>
 
-Daniel Varsano <br>
-<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979-03)</nobr> </span> </p> 
-
+Orquesta Juvenil Simón Bolívar de Venezuela <br>
+GUSTAVO DUDAMEL
 <br>
-
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;<nobr>(1926)</nobr>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=w1S09_dxsxY&list=OLAK5uy_k11uyJMI4gcxs4H9APr-ImjL27J0BPY6w&index=7">
-	3 Preludes
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/siegel-gershwin.png" width="800"> <br>
-
-Jeffrey Siegel <br>
-<span style="font-size:0.87em">(Powell Hall, <nobr>St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1974-06)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Sala Simón Bolivar, Centro de Acción Social por la Música, <nobr>Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008-01)</nobr> </span> </p> 
 
 <br>
 
@@ -650,35 +697,7 @@ Collegium Aureum <br>
 
 
 
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1792)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Sinfonia concertante B-dur, 
-	<nobr>Hob. I:105</nobr> : 
-<nobr>
-<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
-	I. Allegro
-</a>
-–
-<a href="https://www.youtube.com/watch?v=BjpgJ9zyjQY&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=2">
-	II. Andante
-</a>
-</nobr>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="800"> <br>
-
-<nobr>Elizabeth Wallfisch /</nobr>
-<nobr>David Watkin /</nobr>
-<nobr>Anthony Robson / Felix Warnock </nobr> <br>
-<span style="font-size:0.87em">[vn–vc–ob–bn] </span> <br>
-Orchestra of the Age of Enlightenment <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-02)</nobr> </span> </p> 
-
-<br>
 
 
 

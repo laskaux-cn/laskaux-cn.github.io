@@ -594,7 +594,7 @@ DAVID FALLIS
 Kühnův smíšený sbor <br>
 PAVEL KÜHN
 <br>
-<span style="font-size:0.87em">(Studio 1, Český rozhlas, <nobr>Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1989-11/&#8203;1990-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Nahrávací Studio 1, Český rozhlas, <nobr>Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1989-11/&#8203;1990-05)</nobr> </span> </p> 
 
 <br>
 
