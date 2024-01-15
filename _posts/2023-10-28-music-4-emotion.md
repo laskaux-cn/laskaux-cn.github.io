@@ -28,7 +28,7 @@ tags: music
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
 
-Симфонический оркестр Московской государственной Филармонии <br>
+Симфонический оркестр Московской государственной&nbsp;Филармонии <br>
 КИРИЛЛ КОНДРАШИН
 <br>
 <span style="font-size:0.87em">(<nobr>Москва 
@@ -203,6 +203,29 @@ Gothic Voices: <br>
 
 
 <p style="text-align:center">
+	4.9 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1734)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=d-TcMLpvWB8&list=PL6HHKZcLsEna0fXglKsQCusMA5fREg44F&index=1">
+	<i>Weihnachts-Oratorium</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>BWV 248 :</nobr> <nobr>I.i. "Jauchzet, frohlocket"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/suzuki-bach248.png" width="800"> <br>
+
+バッハ・コレギウム・ジャパン <br>
+鈴木雅明
+<br>
+<span style="font-size:0.87em">(彩の国さいたま芸術劇場 音楽ホール, <nobr>さいたま市 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1998-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	4.X &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -296,10 +319,18 @@ ANDREA MARCON
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=zMMLZRB6QDU&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=11">
-	Concerto in re maggiore per liuto, 2 violini e basso continuo, 
-	<nobr>RV 93 </nobr> : <nobr>II. Largo</nobr>
+Concerto in re maggiore per liuto, 2 violini e basso continuo, 
+<nobr>RV 93 :</nobr>
+<nobr>
+<a href="https://www.youtube.com/watch?v=WWxpSSJjJJ4&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=10">
+	I. Allegro giusto
 </a>
+–
+<a href="https://www.youtube.com/watch?v=zMMLZRB6QDU&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=11">
+	II. Largo
+</a>
+</nobr>
+
 </h4>
 
 <p style="text-align:center; color:grey">
@@ -325,10 +356,17 @@ ANDREA MARCON
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=r5mTXPl8ZMc&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=22">
 	Harp Concerto in B-flat major, 
-	<nobr>Op. 4 № 6 / HWV 294 :</nobr> <nobr>II. Larghetto</nobr>
+	<nobr>Op. 4 № 6 / HWV 294 :</nobr> 
+<nobr>
+<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
+	I. Andante allegro
 </a>
+–
+<a href="https://www.youtube.com/watch?v=r5mTXPl8ZMc&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=22">
+	II. Larghetto
+</a>
+</nobr>
 </h4>
 
 <p style="text-align:center; color:grey">
@@ -543,13 +581,13 @@ Samson François <br>
 	<i>El sombrero de tres picos</i> :
 <nobr>
 <a href="https://www.youtube.com/watch?v=oos034Z7CRU&list=OLAK5uy_mfT4k2UT5kaqp_YVOJLu9i4l1IjqLfZ6w&index=3">
-	I.iii. ''Danza de la Molinera''
+	I.iii. "Danza de la Molinera"
 </a>
 </nobr>
 –
 <nobr>
 <a href="https://www.youtube.com/watch?v=fTjkZWYhexk&list=OLAK5uy_mfT4k2UT5kaqp_YVOJLu9i4l1IjqLfZ6w&index=8">
-	II.iv. ''Danza final''
+	II.iv. "Danza final"
 </a>
 </nobr>
 </h4>
@@ -640,14 +678,13 @@ CLAUDIO ABBADO
 
 
 
-
 <p style="text-align:center">
 	4.X &nbsp;|&nbsp; ROBERT SCHUMANN &nbsp;(1838)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=D9P-nBh6jJ8&list=OLAK5uy_n5LUOrq9jJIzGiUbC8kO5mULZUFuuMs3I&index=1">
-	<i>Kinderszenen</i><span style="font-size:0.25em">&nbsp;</span>
+	<i>Kinderszenen</i><span style="font-size:0.25em">&nbsp;</span>, Op. 15
 </a>
 </h4>
 
