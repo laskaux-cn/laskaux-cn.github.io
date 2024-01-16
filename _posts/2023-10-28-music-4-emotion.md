@@ -167,7 +167,7 @@ WILLIAM CHRISTIE
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/otter-chanson.png" width="800"> <br>
 
-Anne Sofie von Otter <span style="font-size:0.4em">&nbsp;</span>&<span style="font-size:0.4em">&nbsp;</span> Ensemble: <br>
+Anne Sofie von Otter <span style="font-size:0.3em">&nbsp;</span>&<span style="font-size:0.3em">&nbsp;</span> Ensemble: <br>
 <nobr>Magnus Wiklund /</nobr>
 <nobr>Mats Bergström /</nobr> 
 <nobr>Carl Bagge /</nobr> 
@@ -226,7 +226,32 @@ Gothic Voices: <br>
 
 
 <p style="text-align:center">
-	4.X &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
+	4.10 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1944)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6">
+	<i>3 petites liturgies de la présence divine</i> : <nobr>II. "Séquence du verbe, cantique divin"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/couraud-messiaen.png" width="800"> <br>
+
+
+Maîtrise&nbsp;<span style="font-size:0.3em">&nbsp;</span>&<span style="font-size:0.3em">&nbsp;</span>&nbsp;Orchestre de Chambre de la <nobr>Radio-télévision française</nobr> <br>
+Yvonne Loriod / Jeanne Loriod <br>
+<span style="font-size:0.87em">[pf–om]</span> <br>
+MARCEL COURAUD
+<br>
+<span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1964-02)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.11 &nbsp;|&nbsp; CRISTOFANO MALVEZZI &nbsp;(1589)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -245,6 +270,57 @@ RAPHAËL PICHON
 <span style="font-size:0.87em">(Chapelle royale, <nobr>Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2016-11)</nobr> </span> </p> 
 
 <br>
+
+
+
+<p style="text-align:center">
+	4.12 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1839)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing">
+	<i>Roméo et Juliette</i> : 
+	<nobr>V. "Jetez des fleurs"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/gardiner-romeo-juliette.png" width="800"> <br>
+
+Monteverdi Choir <br>
+Orchestre Révolutionnaire et Romantique <br>
+JOHN ELIOT GARDINER
+<br>
+<span style="font-size:0.87em">(Colosseum, <nobr>Watford 
+&nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 
+1995-10)</nobr> </span> </p>  
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.13 &nbsp;|&nbsp; GIACOMO PUCCINI &nbsp;(1904)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing">
+	<i>Madama Butterfly</i> : 
+	<nobr>II.i. "Coro a bocca chiusa"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
+
+Magyar Állami Operaház Kamarakórusa&nbsp;<span style="font-size:0.3em">&nbsp;</span>&<span style="font-size:0.3em">&nbsp;</span>&nbsp;Zenekara <br>
+GUISEPPE PATANÉ
+<br>
+<span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
+
+<br>
+
+
 
 
 <p style="text-align:center">
@@ -426,35 +502,6 @@ Václav Hudeček <br>
 JIŘÍ BĚLOHLÁVEK
 <br>
 <span style="font-size:0.87em">(Dvořákova síň, <nobr>Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1985-03)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-
-
-
-<p style="text-align:center">
-	4.X &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1839)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://drive.google.com/file/d/1mG4tdtQ8eMM6JU0Xo_QOhrhvF-srdX9s/view?usp=sharing">
-	<i>Roméo et Juliette</i> : 
-	<nobr>II. "Roméo seul"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/gardiner-romeo-juliette.png" width="800"> <br>
-
-Orchestre Révolutionnaire et Romantique <br>
-JOHN ELIOT GARDINER
-<br>
-<span style="font-size:0.87em">(Colosseum, <nobr>Watford 
-&nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 
-1995-10)</nobr> </span> </p>  
 
 <br>
 
