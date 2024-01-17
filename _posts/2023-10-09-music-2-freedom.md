@@ -24,7 +24,7 @@ tags: music
 Münchener Bach-Orchester <br>
 KARL RICHTER
 <br>
-<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
 
 <br>
 
@@ -546,7 +546,7 @@ CHRISTOPH SPERING
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Requiem :
+	<i>Requiem</i> :
 <nobr>
 <a href="https://www.youtube.com/watch?v=tERUK57DM-Q&list=PLIqzrguMlP8TLj6nEQ8XkbF6H9_t6b0qW&index=2">
 	II. "Dies irae"
@@ -579,7 +579,7 @@ ROBERT SHAW
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Magnificat,
+	<i>Magnificat</i><span style="font-size:0.25em">&nbsp;</span>,
 	<nobr>BWV 243</nobr> :
 <a href="https://www.youtube.com/watch?v=2LhZ-tdZw7A&list=OLAK5uy_kK9tBsYOveQnvYMqjaC4GvaZwfWU8rNE4&index=1">
 	<nobr>I. "Magnificat"</nobr>
@@ -685,13 +685,13 @@ Ivan Moravec <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	Préludes, Livre I :
+	Préludes, 1<sup>er</sup> Livre :
 <a href="https://www.youtube.com/watch?v=gAwjAxG2By4&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=2">
-	<nobr>№ 2 "Voiles"</nobr>
+	<nobr>II. "Voiles"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=z-Shy_JWQ8k&list=PLg9gZGjgtLWqAREZB_sBxuztPJ0ypnasz&index=10">
-	<nobr>№ 10 "La cathédrale engloutie"</nobr>
+	<nobr>X. "La cathédrale engloutie"</nobr>
 </a>
 </h4>
 

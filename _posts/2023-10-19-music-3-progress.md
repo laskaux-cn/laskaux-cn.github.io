@@ -309,7 +309,7 @@ ANTHONY ROOLEY
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=gO4DGkdTBCI&list=PL8AhTXrM6LH2ZjtKYvPgmW3dKn7bNc4aA&index=4">
-	Sonata in D major for Trumpet and Strings, 
+	Sonata in D major for <nobr>Trumpet and Strings,</nobr> 
 	<nobr>Z. 850</nobr>
 </a>
 </h4>
