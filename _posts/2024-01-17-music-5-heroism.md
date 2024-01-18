@@ -69,8 +69,8 @@ Serge Baudo
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=-XgMsqMZC0I&list=OLAK5uy_nbcF7mrmpW-iaP-hVj9GbFa_yKpQd46So&index=52">
-	<i>Saint François d&apos;Assise</i> : 
-	III/vii. "Une lueur rouge et violette enflamme toute la scène"
+	<i>Saint François d&apos;Assise</i> : <br> 
+	III/vii. "Une lueur rouge et violette enflamme <nobr>toute la scène"</nobr>
 </a>
 </h4>
 
