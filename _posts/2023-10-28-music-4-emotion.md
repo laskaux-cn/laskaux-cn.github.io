@@ -95,7 +95,7 @@ GEORG SOLTI
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/munrow-crusades.png" width="800"> <br>
+<img src="/assets/img/albums/munrow-richard.png" width="800"> <br>
 
 James Bowman <br>
 Early Music Consort of London <br>

@@ -131,11 +131,11 @@ INGO METZMACHER
 
 
 <p style="text-align:center">
-	1.6 &nbsp;|&nbsp; МИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	1.6 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Avt-KOQy1mo&t=907s">
+<a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
 	Симфония № 5 : 
 	<nobr>II. Allegretto</nobr>
 </a>
@@ -400,7 +400,7 @@ Talichovo kvarteto: <br>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/prazak-haydn71.png" width="800"> <br>
+<img src="/assets/img/albums/prazak-haydn-op71.png" width="800"> <br>
 
 Pražákovo kvarteto: <br>
 <nobr>Pavel Hůla /</nobr>

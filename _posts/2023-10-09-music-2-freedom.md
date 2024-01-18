@@ -36,7 +36,7 @@ KARL RICHTER
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1vg5J6uIoMSJiJfratJpJ-UpPa7BWp-87/view?usp=sharing">
 	Sinfonie № 3 : <nobr>I. Allegro con brio</nobr>
 </a>
 </h4>
