@@ -157,6 +157,37 @@ MICHAEL TILSON THOMAS
 
 
 
+<p style="text-align:center">
+	5.X &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1927)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<i>Oedipus rex</i> :
+<a href="https://www.youtube.com/watch?v=zXtIXa1-qVw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=2">
+	<nobr>I.i. "Caedit nos pestis" –</nobr>
+</a>
+<a href="https://www.youtube.com/watch?v=e4bOmJC0k00&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=14">
+	<nobr>II.i. "Nonn&apos; erubescite, reges"</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=F5HseH7JlIw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=20">
+	II.iii. <nobr>"Divum Jocastae caput mortuum"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ozawa-stravinsky-oedipus.png" width="800"> <br>
+
+Jessye Norman <br>
+東京オペラ・シンガーズ <br>
+晋友会合唱団 <br>
+サイトウ・キネン・オーケストラ <br>
+小澤征爾 
+<br>
+<span style="font-size:0.87em">(岡谷市文化会館 カノラホール &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1992-09) </span> </p> 
+
+<br>
+
 
 
 
