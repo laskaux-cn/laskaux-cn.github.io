@@ -231,7 +231,7 @@ Gothic Voices: <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6">
-	<i>3 petites liturgies de la présence divine</i> : II. "Séquence du verbe, cantique&nbsp;divin"
+	<i>3 petites liturgies de la présence divine</i> : II.&nbsp;"Séquence du verbe, cantique&nbsp;divin"
 </a>
 </h4>
 
@@ -240,7 +240,7 @@ Gothic Voices: <br>
 
 Yvonne Loriod / Jeanne Loriod <br>
 <span style="font-size:0.87em">[pf–om]</span> <br>
-Maîtrise&nbsp;<span style="font-size:0.3em">&nbsp;</span>&<span style="font-size:0.3em">&nbsp;</span>&nbsp;Orchestre de Chambre de la <nobr>Radio-télévision française</nobr> <br>
+Maîtrise & Orchestre de Chambre de la <nobr>Radio-télévision française</nobr> <br>
 MARCEL COURAUD
 <br>
 <span style="font-size:0.87em">(Notre-Dame du Liban, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1964-02)</nobr> </span> </p> 
@@ -312,7 +312,7 @@ JOHN ELIOT GARDINER
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
 
-Magyar Állami Operaház Kamarakórusa&nbsp;<span style="font-size:0.3em">&nbsp;</span>&<span style="font-size:0.3em">&nbsp;</span>&nbsp;Zenekara <br>
+Magyar Állami Operaház Kamarakórusa & Zenekara <br>
 GUISEPPE PATANÉ
 <br>
 <span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
