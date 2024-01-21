@@ -312,7 +312,7 @@ JOHN ELIOT GARDINER
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
 
-Magyar Állami Operaház Kamarakórusa & Zenekara <br>
+Magyar Állami Operaház <nobr>Kamarakórusa & Zenekara</nobr> <br>
 GUISEPPE PATANÉ
 <br>
 <span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
@@ -705,7 +705,7 @@ LEONARD BERNSTEIN
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/dudamel-bernstein.png" width="800"> <br>
 
-Orquesta Juvenil Simón Bolívar de Venezuela <br>
+Orquesta Juvenil Simón Bolívar <nobr>de Venezuela</nobr> <br>
 GUSTAVO DUDAMEL
 <br>
 <span style="font-size:0.87em">(Sala Simón Bolivar, Centro de Acción Social por la Música, <nobr>Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008-01)</nobr> </span> </p> 

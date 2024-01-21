@@ -74,10 +74,11 @@ VINCENT DUMESTRE
 <nobr>René Brun /</nobr>
 <nobr>Anne-Marie Rodde /</nobr>
 <nobr>Huguette Brachet</nobr> <br>
+<span style="font-size:0.87em">[v–sop–v–sop–alt]</span> <br>
 Pražský filharmonický sbor <br>
 Kühnův dětský sbor <br>
 Česká filharmonie <br>
-Serge Baudo 
+SERGE BAUDO 
 <br>
 <span style="font-size:0.87em">(Dvořákova síň, <nobr>Praha 
 &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 

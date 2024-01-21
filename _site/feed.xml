@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 21 Jan 2024 15:15:26 -0500</pubDate>
+    <pubDate>Sun, 21 Jan 2024 17:14:54 -0500</pubDate>
     
       <item>
         <title>音乐笔记 5 &amp;colon; 英雄的历程</title>
@@ -73,10 +73,11 @@ VINCENT DUMESTRE
 &lt;nobr&gt;René Brun /&lt;/nobr&gt;
 &lt;nobr&gt;Anne-Marie Rodde /&lt;/nobr&gt;
 &lt;nobr&gt;Huguette Brachet&lt;/nobr&gt; &lt;br /&gt;
+&lt;span style=&quot;font-size:0.87em&quot;&gt;[v–sop–v–sop–alt]&lt;/span&gt; &lt;br /&gt;
 Pražský filharmonický sbor &lt;br /&gt;
 Kühnův dětský sbor &lt;br /&gt;
 Česká filharmonie &lt;br /&gt;
-Serge Baudo 
+SERGE BAUDO 
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Dvořákova síň, &lt;nobr&gt;Praha 
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
@@ -488,7 +489,7 @@ JOHN ELIOT GARDINER
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/patane-butterfly.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Magyar Állami Operaház Kamarakórusa &amp;amp; Zenekara &lt;br /&gt;
+Magyar Állami Operaház &lt;nobr&gt;Kamarakórusa &amp;amp; Zenekara&lt;/nobr&gt; &lt;br /&gt;
 GUISEPPE PATANÉ
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(&lt;nobr&gt;Budapest &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1980)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -847,7 +848,7 @@ LEONARD BERNSTEIN
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/dudamel-bernstein.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
-Orquesta Juvenil Simón Bolívar de Venezuela &lt;br /&gt;
+Orquesta Juvenil Simón Bolívar &lt;nobr&gt;de Venezuela&lt;/nobr&gt; &lt;br /&gt;
 GUSTAVO DUDAMEL
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Sala Simón Bolivar, Centro de Acción Social por la Música, &lt;nobr&gt;Caracas &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ve.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2008-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
@@ -1452,8 +1453,7 @@ CHRISTOPHE ROUSSET
 &lt;img src=&quot;/assets/img/albums/vashegyi-gluck.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
 
 Chantal Santon-Jeffery &lt;br /&gt;
-Purcell Kórus &lt;br /&gt; 
-Orfeo Zenekar &lt;br /&gt;
+Purcell Kórus &amp;amp; Orfeo Zenekar &lt;br /&gt;
 GYÖRGY VASHEGYI
 &lt;br /&gt;
 &lt;span style=&quot;font-size:0.87em&quot;&gt;(Bartók Béla Nemzeti Hangversenyterem, &lt;nobr&gt;Budapest &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2016-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
