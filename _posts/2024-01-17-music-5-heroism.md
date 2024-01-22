@@ -115,6 +115,40 @@ KENT NAGANO
 
 
 <p style="text-align:center">
+	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806/14)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=61odlEOu0HI&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=18">
+	<i>Fidelio</i> : 
+	<nobr>I.x. "O welche Lust"</nobr> 
+</a> <br>
+<span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span> 
+<a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
+	<nobr><i>Leonoren</i>-Ouvertüre № 3</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay-fidelio.png" width="800"> <br>
+
+<p style="margin-bottom:-1em"> </p>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay-beethoven9.png" width="800"> <br>
+
+Chor der Bayrischen Staataoper <br>
+Bayerisches Staatsorchester <br> <span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span> 
+<nobr>Berliner Philharmoniker</nobr> <br>
+FERENC FRICSAY <br>
+<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05</nobr> <br> <span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span>  
+Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
