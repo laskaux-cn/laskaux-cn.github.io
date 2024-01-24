@@ -532,8 +532,7 @@ JIŘÍ BĚLOHLÁVEK
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=TrCbRZV252c&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=2">
-	Symfonie № 9 : 
-	<nobr>II. Largo</nobr>
+	Symfonie № 9 : II. Largo
 </a>
 </h4>
 

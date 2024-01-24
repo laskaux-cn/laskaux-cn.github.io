@@ -129,7 +129,6 @@ INGO METZMACHER
 
 
 
-
 <p style="text-align:center">
 	1.6 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>

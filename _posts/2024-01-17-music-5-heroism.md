@@ -56,6 +56,52 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
+	5.X &nbsp;|&nbsp; CARL ORFF &nbsp;(1949)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=souQmX7LJkw&list=OLAK5uy_m6vjwBT-ViNA-Dij2zrbkfvCMRyB-8_DQ&index=9">
+	<i>Antigonae</i> : 
+	<nobr>II.i. "Ungeheuer ist viel"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/leitner-orff-antigonae.png" width="800"> <br>
+
+Chor & Symphonieorchester <nobr>des Bayerischen Rundfunks</nobr> <br>
+FERDINAND LEITNER <br>
+<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	5.X &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ODZ1laysiFI&list=OLAK5uy_k8WbHLZHHLRat6gmDDMCtzOQ2YAGqovxc&index=6">
+	<i>L&apos;incoronazione di Poppea</i> : 
+	<nobr>III.vii. "Addio, Roma"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haim-monteverdi-poppea.png" width="800"> <br>
+
+Joyce DiDonato <br>
+Le Concert d'Astrée <br>
+EMMANUELLE HAÏM 
+<br>
+<span style="font-size:0.87em">(Chapelle de l'hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007-02/&#8203;2008-05)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
 	5.X &nbsp;|&nbsp; ARTHUR HONEGGER &nbsp;(1938)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -114,55 +160,65 @@ KENT NAGANO
 
 
 
+
+
+
 <p style="text-align:center">
 	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806/14)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=61odlEOu0HI&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=18">
-	<i>Fidelio</i> : 
-	<nobr>I.x. "O welche Lust"</nobr> 
-</a> <br>
-<span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span> 
 <a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
 	<nobr><i>Leonoren</i>-Ouvertüre № 3</nobr>
 </a>
+–
+<a href="https://www.youtube.com/watch?v=61odlEOu0HI&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=18">
+	<nobr><i>Fidelio</i> : I.x. "O welche Lust"</nobr> 
+</a> 
 </h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/fricsay-fidelio.png" width="800"> <br>
-
-<p style="margin-bottom:-1em"> </p>
 
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/fricsay-beethoven9.png" width="800"> <br>
 
-Chor der Bayrischen Staataoper <br>
-Bayerisches Staatsorchester <br> <span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span> 
-<nobr>Berliner Philharmoniker</nobr> <br>
+Berliner Philharmoniker <br>
 FERENC FRICSAY <br>
-<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1957-05</nobr> <br> <span style="font-size:0.2em">&nbsp;</span>&<span style="font-size:0.2em">&nbsp;</span>  
-Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958-09)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958-09)</nobr></span> </p>
+
+<p style="margin-bottom:1.2em"> </p>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay-fidelio.png" width="800"> <br>
+
+Chor der Bayrischen Staataoper <br>
+Bayerisches Staatsorchester <br>
+FERENC FRICSAY <br>
+<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957-05)</nobr></span> </p>
 
 <br>
 
 
 
+
+
+
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	5.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1946)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://drive.google.com/file/d/1x9kzFv6Ptm2eXv0_KOORjxgsMWXRZ2Ay/view?usp=sharing">
-	Sinfonie № 3 : <nobr>II. Marcia funebre</nobr>
+<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8">
+	Symphony № 3 : 
+	<nobr>IV. Molto deliberato – Allegro risoluto</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
+<img src="/assets/img/albums/tilson-thomas-copland3.png" width="800"> <br>
 
-Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
+San Francisco Symphony <br>
+MICHAEL TILSON THOMAS 
+<br>
+<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018-03)</nobr> </span> </p> 
 
 <br>
 
@@ -194,23 +250,28 @@ BERNARD HAITINK
 
 
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1946)
+	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8">
-	Symphony № 3 : 
-	<nobr>IV. Molto deliberato – Allegro risoluto</nobr>
+	Sinfonie № 3 : 
+<nobr>
+<a href="https://drive.google.com/file/d/1x9kzFv6Ptm2eXv0_KOORjxgsMWXRZ2Ay/view?usp=sharing">
+	II. Marcia funebre
 </a>
+–
+<a href="https://drive.google.com/file/d/1hdvpCGDZQvQrTIZ_R2UfdoliA8kuanD_/view?usp=sharing">
+	IV. Finale
+</a>
+</nobr>
 </h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/tilson-thomas-copland3.png" width="800"> <br>
 
-San Francisco Symphony <br>
-MICHAEL TILSON THOMAS 
-<br>
-<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018-03)</nobr> </span> </p> 
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
+
+Collegium Aureum <br>
+<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
 
 <br>
 
