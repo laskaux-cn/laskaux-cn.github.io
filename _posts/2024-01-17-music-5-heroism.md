@@ -56,6 +56,29 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
+	5.3 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ecbGFgY9wkU&t=2926s">
+	<i>Dido and Aeneas</i> : 
+	<nobr>III.ii. "With drooping wings"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/christie-dido-aeneas.png" width="800"> <br>
+
+Les Arts Florissants <br>
+WILLIAM CHRISTIE 
+<br>
+<span style="font-size:0.87em">(Église Saint-Martin du Méjan, <nobr>Arles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1985-07)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	5.X &nbsp;|&nbsp; CARL ORFF &nbsp;(1949)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -120,7 +143,6 @@ EMMANUELLE HAÏM
 <nobr>René Brun /</nobr>
 <nobr>Anne-Marie Rodde /</nobr>
 <nobr>Huguette Brachet</nobr> <br>
-<span style="font-size:0.87em">[v–sop–v–sop–alt]</span> <br>
 Pražský filharmonický sbor <br>
 Kühnův dětský sbor <br>
 Česká filharmonie <br>

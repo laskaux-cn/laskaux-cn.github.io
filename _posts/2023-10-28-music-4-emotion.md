@@ -321,29 +321,8 @@ GUISEPPE PATANÉ
 
 
 
-
 <p style="text-align:center">
-	4.14 &nbsp;|&nbsp; FRANCESCO SPINACINO &nbsp;<nobr>(1507)</nobr>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
-	Recercare № 12
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/ragossnig-spinacino.png" width="800"> <br>
-
-Konrad Ragossnig <br>
-<span style="font-size:0.87em">(Plenarsaal der Akademie der Wissenschaften, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973-10)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	4.15 &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
+	4.14 &nbsp;|&nbsp; JOHN DOWLAND &nbsp;<nobr>(c. 1563–1626)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -363,7 +342,7 @@ Julian Bream <br>
 
 
 <p style="text-align:center">
-	4.16 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
+	4.15 &nbsp;|&nbsp; MARIN MARAIS &nbsp;(1717)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -383,34 +362,8 @@ Julian Bream <br>
 <br>
 
 
-
-
 <p style="text-align:center">
-	4.17 &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
-	Concerto in re minore per oboe, archi e basso continuo, 
-	<nobr>S. Z799</nobr> : <nobr>II. Adagio</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
-
-Paolo Grazzi <br>
-Orchestra Barocca di Venezia <br>
-ANDREA MARCON
-<br>
-<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	4.18 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1730)
+	4.16 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(c. 1730)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -447,7 +400,7 @@ Concerto in re maggiore per liuto, 2 violini e basso continuo,
 
 
 <p style="text-align:center">
-	4.19 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1736)
+	4.17 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1736)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -477,7 +430,31 @@ TREVOR PINNOCK <br>
 
 
 <p style="text-align:center">
-	4.20 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
+	4.18 &nbsp;|&nbsp; ALESSANDRO MARCELLO &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
+	Concerto in re minore per oboe, archi e basso continuo, 
+	<nobr>S. Z799</nobr> : <nobr>II. Adagio</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/grazzi-marcello.png" width="800"> <br>
+
+Paolo Grazzi <br>
+Orchestra Barocca di Venezia <br>
+ANDREA MARCON
+<br>
+<span style="font-size:0.87em">(Villa Contarini, <nobr>Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	4.19 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1786)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -502,7 +479,7 @@ RANSOM WILSON
 
 
 <p style="text-align:center">
-	4.21 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
+	4.20 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -527,7 +504,7 @@ JIŘÍ BĚLOHLÁVEK
 
 
 <p style="text-align:center">
-	4.22 &nbsp;|&nbsp; ANTON DVOŘÁK &nbsp;(1893)
+	4.21 &nbsp;|&nbsp; ANTON DVOŘÁK &nbsp;(1893)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -551,7 +528,7 @@ FERENC FRICSAY
 
 
 <p style="text-align:center">
-	4.23 &nbsp;|&nbsp; CARL NIELSEN &nbsp;(1902)
+	4.22 &nbsp;|&nbsp; CARL NIELSEN &nbsp;(1902)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -576,7 +553,7 @@ MORTON GOULD
 
 
 <p style="text-align:center">
-	4.24 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;<nobr>(1926)</nobr>
+	4.23 &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;<nobr>(1926)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -596,7 +573,7 @@ Jeffrey Siegel <br>
 
 
 <p style="text-align:center">
-	4.25 &nbsp;|&nbsp; ERIK SATIE &nbsp;<nobr>(1890)</nobr>
+	4.24 &nbsp;|&nbsp; ERIK SATIE &nbsp;<nobr>(1890)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -616,7 +593,7 @@ Daniel Varsano <br>
 
 
 <p style="text-align:center">
-	4.26 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1903)
+	4.25 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1903)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -639,7 +616,7 @@ Samson François <br>
 
 
 <p style="text-align:center">
-	4.27 &nbsp;|&nbsp; MANUEL DE FALLA &nbsp;(1919)
+	4.26 &nbsp;|&nbsp; MANUEL DE FALLA &nbsp;(1919)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -670,7 +647,7 @@ CHARLES DUTOIT
 
 
 <p style="text-align:center">
-	4.28 &nbsp;|&nbsp; AARON COPLAND &nbsp;<nobr>(1936)</nobr>
+	4.27 &nbsp;|&nbsp; AARON COPLAND &nbsp;<nobr>(1936)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -692,7 +669,7 @@ LEONARD BERNSTEIN
 
 
 <p style="text-align:center">
-	4.29 &nbsp;|&nbsp; LEONARD BERNSTEIN &nbsp;<nobr>(1957)</nobr>
+	4.28 &nbsp;|&nbsp; LEONARD BERNSTEIN &nbsp;<nobr>(1957)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -714,7 +691,7 @@ GUSTAVO DUDAMEL
 
 
 <p style="text-align:center">
-	4.30 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1931)
+	4.29 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1931)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -744,7 +721,7 @@ CLAUDIO ABBADO
 
 
 <p style="text-align:center">
-	4.31 &nbsp;|&nbsp; FRANZ LISZT &nbsp;<nobr>(1848/1854)</nobr>
+	4.30 &nbsp;|&nbsp; FRANZ LISZT &nbsp;<nobr>(1848/1854)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -764,7 +741,7 @@ Georges Cziffra <br>
 
 
 <p style="text-align:center">
-	4.32 &nbsp;|&nbsp; ROBERT SCHUMANN &nbsp;(1838)
+	4.31 &nbsp;|&nbsp; ROBERT SCHUMANN &nbsp;(1838)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -785,7 +762,7 @@ Dag Achatz <br>
 
 
 <p style="text-align:center">
-	4.33 &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1819)
+	4.32 &nbsp;|&nbsp; FRANZ SCHUBERT &nbsp;(1819)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -817,7 +794,7 @@ Dag Achatz <br>
 
 
 <p style="text-align:center">
-	4.34 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	4.33 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -850,7 +827,7 @@ Collegium Aureum <br>
 
 
 <p style="text-align:center">
-	4.35 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1784)
+	4.34 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1784)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

@@ -207,9 +207,28 @@ ESA-PEKKA SALONEN
 
 
 
+<p style="text-align:center">
+	2.9 &nbsp;|&nbsp; FRANCESCO SPINACINO &nbsp;<nobr>(1507)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
+	Recercare № 12
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ragossnig-spinacino.png" width="800"> <br>
+
+Konrad Ragossnig <br>
+<span style="font-size:0.87em">(Plenarsaal der Akademie der Wissenschaften, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973-10)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
-	2.9 &nbsp;|&nbsp; WILLIAM BYRD &nbsp;(c. 1540–1623)
+	2.10 &nbsp;|&nbsp; WILLIAM BYRD &nbsp;(c. 1540–1623)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -230,7 +249,7 @@ Bertrand Cuiller <br>
 
 
 <p style="text-align:center">
-	2.10 &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
+	2.11 &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -250,7 +269,7 @@ Michel Chapuis <br>
 
 
 <p style="text-align:center">
-	2.11 &nbsp;|&nbsp; FRANÇOIS COUPERIN &nbsp;(1724)
+	2.12 &nbsp;|&nbsp; FRANÇOIS COUPERIN &nbsp;(1724)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -274,7 +293,7 @@ Michel Chapuis <br>
 
 
 <p style="text-align:center">
-	2.12 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+	2.13 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -297,7 +316,7 @@ CHARLES MACKERRAS
 
 
 <p style="text-align:center">
-	2.13 &nbsp;|&nbsp; ANTON BRUCKNER &nbsp;(1876)
+	2.14 &nbsp;|&nbsp; ANTON BRUCKNER &nbsp;(1876)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -318,9 +337,30 @@ BERNARD HAITINK
 
 
 
+<p style="text-align:center">
+	2.15 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1876)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4">
+	Sinfonie № 5 : <nobr>V. Rondo-Finale</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/karajan-mahler5.png" width="800"> <br>
+
+Berliner Philharmoniker <br>
+HERBERT VON KARAJAN
+<br>
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973-02)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
-	2.14 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1936)
+	2.16 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1936)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -343,7 +383,7 @@ ZOLTÁN KOCSIS
 
 
 <p style="text-align:center">
-	2.15 &nbsp;|&nbsp; DARIUS MILHAUD &nbsp;(1923)
+	2.17 &nbsp;|&nbsp; DARIUS MILHAUD &nbsp;(1923)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -368,7 +408,7 @@ CHARLES MUNCH
 
 
 <p style="text-align:center">
-	2.16 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1797)
+	2.18 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1797)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -391,33 +431,8 @@ Orlando Quartet: <br>
 
 
 
-
 <p style="text-align:center">
-	2.17 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=ecbGFgY9wkU&t=2926s">
-	<i>Dido and Aeneas</i> : 
-	<nobr>III.ii. "With drooping wings"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/christie-dido-aeneas.png" width="800"> <br>
-
-Les Arts Florissants <br>
-WILLIAM CHRISTIE 
-<br>
-<span style="font-size:0.87em">(Église Saint-Martin du Méjan, <nobr>Arles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1985-07)</nobr> </span> </p> 
-
-<br>
-
-
-
-
-<p style="text-align:center">
-	2.18 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
+	2.19 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1930)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -447,7 +462,7 @@ KAREL ANČERL
 
 
 <p style="text-align:center">
-	2.19 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
+	2.20 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1610)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -477,7 +492,7 @@ Concerto Palatino <br>
 
 
 <p style="text-align:center">
-	2.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
+	2.21 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1717)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -509,7 +524,7 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
-	2.21 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
+	2.22 &nbsp;|&nbsp; GIOACHINO ROSSINI &nbsp;(1863)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -542,7 +557,7 @@ CHRISTOPH SPERING
 
 
 <p style="text-align:center">
-	2.22 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
+	2.23 &nbsp;|&nbsp; GIUSEPPE VERDI &nbsp;(1874)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -575,7 +590,7 @@ ROBERT SHAW
 
 
 <p style="text-align:center">
-	2.23 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
+	2.24 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1723)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -609,7 +624,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	2.24 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
+	2.25 &nbsp;|&nbsp; JOHANN PACHELBEL &nbsp;(1653–1706)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -631,7 +646,7 @@ Gustav Leonhardt <br>
 
 
 <p style="text-align:center">
-	2.25 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
+	2.26 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1785)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -654,7 +669,7 @@ Paul Badura-Skoda <br>
 
 
 <p style="text-align:center">
-	2.26 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
+	2.27 &nbsp;|&nbsp; FRÉDÉRIC CHOPIN &nbsp;(1839)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -681,7 +696,7 @@ Ivan Moravec <br>
 
 
 <p style="text-align:center">
-	2.27 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
+	2.28 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -707,7 +722,7 @@ Claudio Arrau <br>
 
 
 <p style="text-align:center">
-	2.28 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
+	2.29 &nbsp;|&nbsp; ARNOLD SCHÖNBERG &nbsp;(1909)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -730,7 +745,7 @@ Roland Pöntinen <br>
 
 
 <p style="text-align:center">
-	2.29 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
+	2.30 &nbsp;|&nbsp; MILTON BABBITT &nbsp;(1947)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -751,7 +766,7 @@ Robert Taub <br>
 
 
 <p style="text-align:center">
-	2.30 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
+	2.31 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -785,7 +800,7 @@ Ronald Brautigam <br>
 
 
 <p style="text-align:center">
-	2.31 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	2.32 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
