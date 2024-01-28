@@ -94,7 +94,7 @@ WILLIAM CHRISTIE
 
 Chor & Symphonieorchester <nobr>des Bayerischen Rundfunks</nobr> <br>
 FERDINAND LEITNER <br>
-<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1961-03/04)</nobr> </span> </p> 
 
 <br>
 
@@ -214,7 +214,7 @@ FERENC FRICSAY <br>
 Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
 FERENC FRICSAY <br>
-<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957-05)</nobr></span> </p>
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957-05)</nobr></span> </p>
 
 <br>
 

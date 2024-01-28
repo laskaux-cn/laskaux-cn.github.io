@@ -329,7 +329,7 @@ Collegium Aureum <br>
 
 Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
 RAFAEL KUBELIK <br>
-<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1979-11)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1979-11)</nobr> </span> </p> 
 
 <br>
 

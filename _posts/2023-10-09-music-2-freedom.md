@@ -24,7 +24,7 @@ tags: music
 Münchener Bach-Orchester <br>
 KARL RICHTER
 <br>
-<span style="font-size:0.87em">(Herkulessaal, Residenz, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p> 
 
 <br>
 
@@ -320,40 +320,40 @@ CHARLES MACKERRAS
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4">
+<a href="https://www.youtube.com/watch?v=0Si7oLj_bio&list=OLAK5uy_nJ5jJ3wRYLBgf_ogEu7zdIfKD3pfpzLJ8&index=20">
 	Sinfonie № 5 : <nobr>IV. Finale</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/haitink-bruckner5.png" width="800"> <br>
+<img src="/assets/img/albums/jochum-bruckner5.png" width="800"> <br>
 
-Wiener Philharmoniker <br>
-BERNARD HAITINK
+Symphonieorchester des&#160;Bayerischen&#160;Rundfunks <br>
+EUGEN JOCHUM
 <br>
-<span style="font-size:0.87em">(Große Musikvereinssaal, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1988-03/12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967-08)</nobr> </span> </p>
 
 <br>
 
 
 
 <p style="text-align:center">
-	2.15 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1876)
+	2.15 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1902)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=BtTs8RXA8Us&list=OLAK5uy_lsp4CpE6g38lODQ9V8QdrJl-rkWp_fztc&index=4">
+<a href="https://www.youtube.com/watch?v=yRijWTMXRDw&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=5">
 	Sinfonie № 5 : <nobr>V. Rondo-Finale</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/karajan-mahler5.png" width="800"> <br>
+<img src="/assets/img/albums/haitink-mahler5.png" width="800"> <br>
 
 Berliner Philharmoniker <br>
-HERBERT VON KARAJAN
+BERNARD HAITINK
 <br>
-<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973-02)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Philharmonie, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988-05)</nobr> </span> </p> 
 
 <br>
 
