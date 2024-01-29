@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 27 Jan 2024 23:09:06 -0800</pubDate>
+    <pubDate>Mon, 29 Jan 2024 12:06:37 -0500</pubDate>
     
       <item>
         <title>音乐笔记 5 &amp;colon; 英雄的历程</title>
@@ -305,7 +305,7 @@ Jessye Norman &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 17 Jan 2024 00:00:00 -0800</pubDate>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 -0500</pubDate>
       </item>
     
       <item>
@@ -1092,7 +1092,7 @@ CHRISTOPHER HOGWOOD
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 28 Oct 2023 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 28 Oct 2023 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -1800,7 +1800,7 @@ Concertgebouworkest &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 19 Oct 2023 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 19 Oct 2023 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -2188,13 +2188,8 @@ Orlando Quartet: &lt;br /&gt;
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-	&lt;i&gt;Symphonie de Psaumes&lt;/i&gt; :
-&lt;a href=&quot;https://www.youtube.com/watch?v=5WTPVUtmhmI&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=3&quot;&gt;
-	&lt;nobr&gt;I. &quot;Exaudi orationem meam, Domine&quot;&lt;/nobr&gt;
-&lt;/a&gt;
-–
 &lt;a href=&quot;https://www.youtube.com/watch?v=7Kppm_AtMLA&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=4&quot;&gt;
-	&lt;nobr&gt;II. &quot;Expectans expectavi Dominum&quot;&lt;/nobr&gt;
+	&lt;i&gt;Symphonie de Psaumes&lt;/i&gt; : &lt;nobr&gt;II. &quot;Expectans expectavi Dominum&quot;&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -2541,7 +2536,7 @@ Ronald Brautigam &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 09 Oct 2023 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 09 Oct 2023 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -3221,7 +3216,7 @@ Peter Lukas Graf &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 22 Sep 2023 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 22 Sep 2023 00:00:00 -0400</pubDate>
       </item>
     
   </channel>

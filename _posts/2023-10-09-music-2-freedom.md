@@ -436,13 +436,8 @@ Orlando Quartet: <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	<i>Symphonie de Psaumes</i> :
-<a href="https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3">
-	<nobr>I. "Exaudi orationem meam, Domine"</nobr>
-</a>
-–
 <a href="https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4">
-	<nobr>II. "Expectans expectavi Dominum"</nobr>
+	<i>Symphonie de Psaumes</i> : <nobr>II. "Expectans expectavi Dominum"</nobr>
 </a>
 </h4>
 
