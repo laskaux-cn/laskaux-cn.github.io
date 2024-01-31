@@ -83,12 +83,13 @@ WILLIAM CHRISTIE
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<i>Oedipus rex</i> : 
+<i>Oedipus rex</i> :
 <a href="https://www.youtube.com/watch?v=zXtIXa1-qVw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=2">
-	<nobr>I.i. "Caedit nos pestis" – </nobr>
+	<nobr>I.i. "Caedit nos pestis"</nobr>
 </a>
+–
 <a href="https://www.youtube.com/watch?v=F5HseH7JlIw&list=OLAK5uy_lTrlYHVaGfKzrtR3Vc59qLvNsN9yxTwJQ&index=20">
-	II.iii. <nobr>"Divum Jocastae caput mortuum"</nobr>
+	<nobr>II.iii. "Divum Jocastae caput mortuum"</nobr>
 </a>
 </h4>
 
