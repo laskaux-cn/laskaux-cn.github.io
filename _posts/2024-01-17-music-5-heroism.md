@@ -129,9 +129,56 @@ FERDINAND LEITNER <br>
 
 
 
+<p style="text-align:center">
+	5.6 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1708)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=qJAD0NwGY54&list=OLAK5uy_k2atKXgipE2V7wr9D6lRE-aFS5Hauy38U&index=30">
+	<i>Aci, Galatea e Polifemo</i> : 
+	<nobr>II.v. "Verso già l’alma col sangue"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bonizzoni-handel-aci.png" width="800"> <br>
+
+Roberta Invernizzi <br>
+La Risonanza <br>
+FABIO BONIZZONI 
+<br>
+<span style="font-size:0.87em">(Abbaye de Saint-Michel en Thiérache, <nobr>&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2012-06)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
-	5.6 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
+	5.7 &nbsp;|&nbsp; RICHARD STRAUSS &nbsp;(1912/1916)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=KkIj433fxlE&list=OLAK5uy_kuwL2m4dvs7WKiUopOfZDh9lfHlmBHs5M&index=19">
+	<i>Ariadne auf Naxos</i> : 
+	<nobr>I.iii. "Es gibt ein Reich"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kempe-strauss-ariadne.png" width="800"> <br>
+
+Gundula Janowitz <br>
+Staatskapelle Dresden <br>
+RUDOLF KEMPE 
+<br>
+<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1968-06/07)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.8 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -155,7 +202,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	5.7 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
+	5.9 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -176,6 +223,51 @@ RICHARD HICKOX
 
 <br>
 
+
+
+<p style="text-align:center">
+	5.10 &nbsp;|&nbsp; JACOB OBRECHT &nbsp;(1503)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=abe9uLEIxIU">
+	<i>Parce Domine</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/da-col-obrecht.png" width="800"> <br>
+
+Odhecaton <br>
+PAOLO DA COL
+<br>
+<span style="font-size:0.87em">(Chiesa di San Pietro, <nobr>Belluno &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2001-05)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	5.X &nbsp;|&nbsp; ALESSANDRO SCARLATTI &nbsp;(c. 1685)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=F3W2g77oOwo&list=OLAK5uy_kt_lL5ZHNg8eUcfxag0Srzg1PVE4bBcUU&index=1">
+	<i>Passio secundum Joannem</i> : 
+	<nobr>I. "Passio domini nostri Jesu Christi"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/naef-scarlatti.png" width="800"> <br>
+
+Basler Madrigalisten <br>
+Schola Cantorum Basiliensis <br>
+FRITZ NÄF 
+<br>
+<span style="font-size:0.87em">(Reformierte Kirche, <nobr>Arlesheim 
+&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1981-10)</nobr> </span> </p> 
+
+<br>
 
 
 <p style="text-align:center">
