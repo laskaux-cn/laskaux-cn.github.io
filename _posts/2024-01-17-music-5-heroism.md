@@ -129,56 +129,9 @@ FERDINAND LEITNER <br>
 
 
 
-<p style="text-align:center">
-	5.6 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1708)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=qJAD0NwGY54&list=OLAK5uy_k2atKXgipE2V7wr9D6lRE-aFS5Hauy38U&index=30">
-	<i>Aci, Galatea e Polifemo</i> : 
-	<nobr>II.v. "Verso già l’alma col sangue"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bonizzoni-handel-aci.png" width="800"> <br>
-
-Roberta Invernizzi <br>
-La Risonanza <br>
-FABIO BONIZZONI 
-<br>
-<span style="font-size:0.87em">(Abbaye de Saint-Michel en Thiérache, <nobr>&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2012-06)</nobr> </span> </p> 
-
-<br>
-
-
 
 <p style="text-align:center">
-	5.7 &nbsp;|&nbsp; RICHARD STRAUSS &nbsp;(1912/1916)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=KkIj433fxlE&list=OLAK5uy_kuwL2m4dvs7WKiUopOfZDh9lfHlmBHs5M&index=19">
-	<i>Ariadne auf Naxos</i> : 
-	<nobr>I.iii. "Es gibt ein Reich"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/kempe-strauss-ariadne.png" width="800"> <br>
-
-Gundula Janowitz <br>
-Staatskapelle Dresden <br>
-RUDOLF KEMPE 
-<br>
-<span style="font-size:0.87em">(Lukaskirche, <nobr>Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1968-06/07)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	5.8 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
+	5.6 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -202,7 +155,31 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	5.9 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
+	5.7 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1709)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ZmeyKo5cxPo&list=OLAK5uy_nam9jUfufAImqqIq15_YSAUh3kqOojk0E&index=62">
+	<i>Agrippina</i> : 
+	<nobr>II.v. "Voi ch'udite"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/emelyanychev-handel-agrippina.png" width="800"> <br>
+
+Jakub Orlinski <br>
+Il Pomo d'Oro <br>
+МАКСИМ ЕМЕЛЬЯНЫЧЕВ
+<br>
+<span style="font-size:0.87em">(Gustav-Mahler-Saal, Euregio Kulturzentrum, <nobr>Toblach &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2019-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.8 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -226,48 +203,97 @@ RICHARD HICKOX
 
 
 <p style="text-align:center">
-	5.10 &nbsp;|&nbsp; JACOB OBRECHT &nbsp;(1503)
+	5.9 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=abe9uLEIxIU">
-	<i>Parce Domine</i>
+<a href="https://www.youtube.com/watch?v=09KEVSf4mz4&list=PL8AhTXrM6LH0-PzRllLIeQKHeb-QPtFJY&index=8">
+	<i>Tenebrae Responsoria</i> : 
+	<nobr>XII. "Caligaverunt oculi mei"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/da-col-obrecht.png" width="800"> <br>
+<img src="/assets/img/albums/corcelle-victoria.png" width="800"> <br>
 
-Odhecaton <br>
-PAOLO DA COL
+Ensemble la Sportelle <br>
+LAETITIA CORCELLE
 <br>
-<span style="font-size:0.87em">(Chiesa di San Pietro, <nobr>Belluno &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2001-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Le Grand Couvent, <nobr>Gramat &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2023-01)</nobr> </span> </p> 
 
 <br>
+
 
 
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; ALESSANDRO SCARLATTI &nbsp;(c. 1685)
+	5.10 &nbsp;|&nbsp; CARLO GESUALDO &nbsp;(1603)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=F3W2g77oOwo&list=OLAK5uy_kt_lL5ZHNg8eUcfxag0Srzg1PVE4bBcUU&index=1">
-	<i>Passio secundum Joannem</i> : 
-	<nobr>I. "Passio domini nostri Jesu Christi"</nobr>
+<a href="https://www.youtube.com/watch?v=xEMrtvk6Uvk&list=PL8AhTXrM6LH2o0VUnB6SHeqD-GLIKPv18&index=28">
+	<i>Tenebrae Responsoria</i> : 
+	<nobr>III.ix. "Caligaverunt oculi mei"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/naef-scarlatti.png" width="800"> <br>
+<img src="/assets/img/albums/schmelzer-gesualdo.png" width="800"> <br>
 
-Basler Madrigalisten <br>
-Schola Cantorum Basiliensis <br>
-FRITZ NÄF 
+Graindelavoix <br>
+BJÖRN SCHMELZER
 <br>
-<span style="font-size:0.87em">(Reformierte Kirche, <nobr>Arlesheim 
-&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1981-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Église de Saint-Jean l'Évangéliste, <nobr>Beaufays &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2019-07/08)</nobr> </span> </p> 
 
 <br>
+
+
+
+<p style="text-align:center">
+	5.11 &nbsp;|&nbsp; FRANCIS POULENC &nbsp;(1961)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=wMXBUD7BPn0&list=OLAK5uy_mVvZhUU2SfM_55b8afRn1R0udhoaR-MkI&index=4">
+	<i>7 Répons des Ténèbres</i> : 
+	<nobr>IV. "Caligaverunt oculi mei"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/reuss-poulenc.png" width="800"> <br>
+
+Cappella Amsterdam <br>
+Eesti Filharmoonia Kammerkoor <br>
+Eesti Riiklik Sümfooniaorkester <br>
+DANIEL REUSS
+<br>
+<span style="font-size:0.87em">(Estonia kontserdisaal, <nobr>Tallinn &nbsp;<img src="/assets/img/flags/ee.png" height="10.5" width="16"/>&nbsp; 2012-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.12 &nbsp;|&nbsp; CYPRIAN DE RORE &nbsp;(1557)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=iu6QaMsLJTI&list=OLAK5uy_lse-urq0l22RKZd3Jg5GqtIDQpLlfZpcA&index=6">
+	<i>Passio secundum Joannem</i> : 
+	<nobr>Intermedium III. "Agnus Dei"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/van-nevel-rore.png" width="800"> <br>
+
+Huelgas Ensemble <br>
+PAUL VAN NEVEL 
+<br>
+<span style="font-size:0.87em">(Grand Auditorium, Irish College, <nobr>Leuven &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
+
+<br>
+
 
 
 <p style="text-align:center">
@@ -415,33 +441,6 @@ BERNARD HAITINK
 
 <br>
 
-
-
-<p style="text-align:center">
-	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Sinfonie № 3 : 
-<nobr>
-<a href="https://drive.google.com/file/d/1x9kzFv6Ptm2eXv0_KOORjxgsMWXRZ2Ay/view?usp=sharing">
-	II. Marcia funebre
-</a>
-–
-<a href="https://drive.google.com/file/d/1hdvpCGDZQvQrTIZ_R2UfdoliA8kuanD_/view?usp=sharing">
-	IV. Finale
-</a>
-</nobr>
-</h4>
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
-
-Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
-
-<br>
 
 
 

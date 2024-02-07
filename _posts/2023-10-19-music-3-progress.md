@@ -132,7 +132,7 @@ DOMINIQUE VISSE
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=cscmDg7-XUI&list=OLAK5uy_ltmW239ijfTQ7impYGHOn_r29aqudK9EY&index=3">
-	<i>Aestimatus sum</i>
+	<i>Tenebrae Responsoria</i> : <nobr>XVII. "Aestimatus sum"</nobr> 
 </a>
 </h4>
 
