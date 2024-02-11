@@ -297,7 +297,33 @@ PAUL VAN NEVEL
 
 
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; ARTHUR HONEGGER &nbsp;(1938)
+	5.15 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1911)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=3gxQv432cac&list=OLAK5uy_l2Yws0kWNS6pqBV9IFMfaT9YZYGNWopVg&index=137">
+	<i>Le Martyre de saint Sébastien</i> : 
+	<nobr>IV. "Le laurier blessé"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/munch-debussy-sebastien.png" width="800"> <br>
+
+New England Conservatory Chorus <br>
+Boston Symphony Orchestra <br>
+CHARLES MUNCH 
+<br>
+<span style="font-size:0.87em">(Symphony Hall, <nobr>Boston 
+&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
+1956-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.16 &nbsp;|&nbsp; ARTHUR HONEGGER &nbsp;(1938)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -329,7 +355,7 @@ SERGE BAUDO
 
 
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
+	5.17 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
