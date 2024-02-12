@@ -32,7 +32,30 @@ RAPHAËL PICHON
 
 
 <p style="text-align:center">
-	5.2 &nbsp;|&nbsp; GIULIO CACCINI &nbsp;(1600)
+	5.2 &nbsp;|&nbsp; LUCA MARENZIO &nbsp;(1589)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=GsqE_TlFG3U&list=OLAK5uy_kAcSJxPXFjo8KQ6MdeEHMsW4kUvjh7gfI&index=15">
+	<i>Intermedi della Pellegrina</i> : 
+	<nobr>III.iv. "O mille volte"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/sempe-pellegrina.png" width="800"> <br>
+
+Collegium Vocale Gent <br>
+SKIP SEMPÉ
+<br>
+<span style="font-size:0.87em">(Palais des Beaux-Arts, <nobr>Bruxelles &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2007-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.3 &nbsp;|&nbsp; GIULIO CACCINI &nbsp;(1600)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -56,7 +79,7 @@ VINCENT DUMESTRE
 
 
 <p style="text-align:center">
-	5.3 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
+	5.4 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -79,7 +102,7 @@ WILLIAM CHRISTIE
 
 
 <p style="text-align:center">
-	5.4 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1927)
+	5.5 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1927)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -108,7 +131,7 @@ WILLIAM CHRISTIE
 
 
 <p style="text-align:center">
-	5.5 &nbsp;|&nbsp; CARL ORFF &nbsp;(1949)
+	5.6 &nbsp;|&nbsp; CARL ORFF &nbsp;(1949)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -131,7 +154,7 @@ FERDINAND LEITNER <br>
 
 
 <p style="text-align:center">
-	5.6 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
+	5.7 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1643)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -155,7 +178,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	5.7 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1709)
+	5.8 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1709)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -168,7 +191,7 @@ EMMANUELLE HAÏM
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/emelyanychev-handel-agrippina.png" width="800"> <br>
 
-Jakub Orlinski <br>
+Jakub Orliński <br>
 Il Pomo d'Oro <br>
 МАКСИМ ЕМЕЛЬЯНЫЧЕВ
 <br>
@@ -179,7 +202,7 @@ Il Pomo d'Oro <br>
 
 
 <p style="text-align:center">
-	5.8 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
+	5.9 &nbsp;|&nbsp; BENJAMIN BRITTEN &nbsp;(1968)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -203,7 +226,7 @@ RICHARD HICKOX
 
 
 <p style="text-align:center">
-	5.9 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
+	5.10 &nbsp;|&nbsp; TOMÁS LUIS DE VICTORIA &nbsp;(1585)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -226,7 +249,7 @@ LAETITIA CORCELLE
 
 
 <p style="text-align:center">
-	5.10 &nbsp;|&nbsp; CARLO GESUALDO &nbsp;(1603)
+	5.11 &nbsp;|&nbsp; CARLO GESUALDO &nbsp;(1603)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -249,7 +272,7 @@ BJÖRN SCHMELZER
 
 
 <p style="text-align:center">
-	5.11 &nbsp;|&nbsp; FRANCIS POULENC &nbsp;(1961)
+	5.12 &nbsp;|&nbsp; FRANCIS POULENC &nbsp;(1961)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -273,31 +296,54 @@ DANIEL REUSS
 
 
 
+
 <p style="text-align:center">
-	5.12 &nbsp;|&nbsp; CYPRIAN DE RORE &nbsp;(1557)
+	5.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1724)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=iu6QaMsLJTI&list=OLAK5uy_lse-urq0l22RKZd3Jg5GqtIDQpLlfZpcA&index=6">
-	<i>Passio secundum Joannem</i> : 
-	<nobr>Intermedium III. "Agnus Dei"</nobr>
+<a href="https://www.youtube.com/watch?v=axXBuLzNsng&list=OLAK5uy_njDuPDsOH-Ltjub-Jigq3HY1cbvbhBxVE&index=1">
+	<i>Passio secundum Joannem</i> : <nobr>I.i. "Herr, unser Herrscher"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/van-nevel-rore.png" width="800"> <br>
+<img src="/assets/img/albums/suzuki-bach-john.png" width="800"> <br>
 
-Huelgas Ensemble <br>
-PAUL VAN NEVEL 
+バッハ・コレギウム・ジャパン <br>
+鈴木雅明
 <br>
-<span style="font-size:0.87em">(Grand Auditorium, Irish College, <nobr>Leuven &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 1988-10)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Kölner Philharmonie, <nobr>Köln &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 2020-03)</nobr> </span> </p> 
 
 <br>
 
 
 
 <p style="text-align:center">
-	5.15 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1911)
+	5.15 &nbsp;|&nbsp; KRZYSZTOF PENDERECKI &nbsp;(1966)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=CTGEBoO_ksE&list=OLAK5uy_k8NiL-HcD_9ajHHhyQ3XBRpN9l7roJmjc&index=1">
+	<i>Passio secundum Joannem</i> : <nobr>I.i. "O Crux ave"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/wit-penderecki.png" width="800"> <br>
+
+Warszawski Chór Chłopięcy <br> 
+Chór & Orkiestra Filharmonii Narodowej <br>
+ANTONI WIT
+<br>
+<span style="font-size:0.87em">(Filharmonia Narodowa, <nobr>Warszawa &nbsp;<img src="/assets/img/flags/po.png" height="11" width="16"/>&nbsp; 2002-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.16 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1911)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -323,7 +369,7 @@ CHARLES MUNCH
 
 
 <p style="text-align:center">
-	5.16 &nbsp;|&nbsp; ARTHUR HONEGGER &nbsp;(1938)
+	5.17 &nbsp;|&nbsp; ARTHUR HONEGGER &nbsp;(1938)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -355,7 +401,7 @@ SERGE BAUDO
 
 
 <p style="text-align:center">
-	5.17 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
+	5.18 &nbsp;|&nbsp; OLIVIER MESSIAEN &nbsp;(1983)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
