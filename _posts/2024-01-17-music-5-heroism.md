@@ -296,6 +296,34 @@ DANIEL REUSS
 
 
 
+<p style="text-align:center">
+	5.13 &nbsp;|&nbsp; HEINRICH SCHÜTZ &nbsp;(1666)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	<i>Matthäus-Passion</i><span style="font-size:0.25em">&nbsp;</span>, SWV 479 : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=wFeo4doRuaU&list=OLAK5uy_lytGnk65aNkhi52ZqtlAHN7ZFtB_5DeMQ&index=13">
+	Introitus
+</a>
+–
+<a href="https://www.youtube.com/watch?v=0j31jrALz5o&list=OLAK5uy_lytGnk65aNkhi52ZqtlAHN7ZFtB_5DeMQ&index=32">
+	Beschulss
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/messori-schuetz.png" width="800"> <br>
+
+Cappella Augustana <br>
+MATTEO MESSORI
+<br>
+<span style="font-size:0.87em">(Chiesa di San Pietro Apostolo, <nobr>Albareto &nbsp;<img src="/assets/img/flags/it.png" height="11" width="16"/>&nbsp; 2005-08)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
 	5.14 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1724)
@@ -303,7 +331,7 @@ DANIEL REUSS
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=axXBuLzNsng&list=OLAK5uy_njDuPDsOH-Ltjub-Jigq3HY1cbvbhBxVE&index=1">
-	<i>Passio secundum Joannem</i> : <nobr>I.i. "Herr, unser Herrscher"</nobr>
+	<i>Johannes-Passion</i><span style="font-size:0.25em">&nbsp;</span>, BWV 245 : <nobr>I.i. "Herr, unser Herrscher"</nobr>
 </a>
 </h4>
 
@@ -325,7 +353,7 @@ DANIEL REUSS
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=CTGEBoO_ksE&list=OLAK5uy_k8NiL-HcD_9ajHHhyQ3XBRpN9l7roJmjc&index=1">
-	<i>Passio secundum Joannem</i> : <nobr>I.i. "O Crux ave"</nobr>
+	<i>Passio secundum Lucam</i> : <nobr>I.i. "O Crux ave"</nobr>
 </a>
 </h4>
 
@@ -426,9 +454,6 @@ KENT NAGANO
 
 
 
-
-
-
 <p style="text-align:center">
 	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
 </p>
@@ -445,32 +470,6 @@ KENT NAGANO
 Berliner Philharmoniker <br>
 FERENC FRICSAY <br>
 <span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958-09)</nobr></span> </p>
-
-<br>
-
-
-
-
-
-
-<p style="text-align:center">
-	5.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1946)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8">
-	Symphony № 3 : 
-	<nobr>IV. Molto deliberato – Allegro risoluto</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/tilson-thomas-copland3.png" width="800"> <br>
-
-San Francisco Symphony <br>
-MICHAEL TILSON THOMAS 
-<br>
-<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018-03)</nobr> </span> </p> 
 
 <br>
 
