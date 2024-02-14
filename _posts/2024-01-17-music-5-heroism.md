@@ -326,7 +326,7 @@ PAUL VAN NEVEL
 	<i>Matthäus-Passion</i> : 
 <span style="font-size:1.0em">
 <a href="https://www.youtube.com/watch?v=4U2H08tj8Z8&list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&index=1">
-	I/i. "Kommt, ihr Töchter"
+	<nobr>I/i. "Kommt, ihr Töchter"</nobr>
 </a>
 –
 <a href="https://www.youtube.com/watch?v=-DXVJ75BgN0&list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&index=27">
@@ -461,6 +461,29 @@ KENT NAGANO
 
 <br>
 
+
+<p style="text-align:center">
+	5.X &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=0Yyr4_DExrE&list=PL9yl-ZQyD9w8y8cAgBD5H21Lao6fKL5qN&index=1">
+	<i>Juditha triumphans</i> : <nobr>II.xi. "Armatae face, et anguibus"</nobr> 
+</a>  
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fasolis-vivaldi644.png" width="800"> <br>
+
+Roberta Invernizzi <br>
+I Barocchisti <br>
+DIEGO FASOLIS
+<br>
+<span style="font-size:0.87em">(Auditorio Stelio Molo, <nobr>Lugano
+&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
+2007)</nobr> </span> </p>  
+
+<br>
 
 
 <p style="text-align:center">
