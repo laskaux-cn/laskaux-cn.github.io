@@ -381,22 +381,25 @@ ANTONI WIT
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=3gxQv432cac&list=OLAK5uy_l2Yws0kWNS6pqBV9IFMfaT9YZYGNWopVg&index=137">
+<a href="https://www.youtube.com/watch?v=7YmU8M3GWNs&list=OLAK5uy_kIkapjjgtTxRUxIjFLMK5XJqzx8j9IRXU&index=28">
 	<i>Le Martyre de saint Sébastien</i> : 
 	<nobr>IV. "Le laurier blessé"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/munch-debussy-sebastien.png" width="800"> <br>
+<img src="/assets/img/albums/cluytens-debussy-sebastien.png" width="800"> <br>
 
-New England Conservatory Chorus <br>
-Boston Symphony Orchestra <br>
-CHARLES MUNCH 
+<nobr>Paul Guers /</nobr>
+<nobr>Véra Korène /</nobr>
+<nobr>Jean Marchat</nobr> <br>
+Chœurs Raymond Saint-Paul <br>
+Orchestre national de la <nobr>Radiodiffusion-télévision française</nobr> <br>
+ANDRÉ CLUYTENS 
 <br>
-<span style="font-size:0.87em">(Symphony Hall, <nobr>Boston 
-&nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 
-1956-01)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Maison de la Mutualité, <nobr>Paris 
+&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
+1954-04)</nobr> </span> </p> 
 
 <br>
 
