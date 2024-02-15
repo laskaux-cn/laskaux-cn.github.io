@@ -344,7 +344,6 @@ PAUL VAN NEVEL
 Barbara Schlick / René Jacobs <br>
 La Chapelle Royale <br>
 Collegium Vocale Gent <br>
-Orchestre des Champs-Elysées <br>
 PHILIPPE HERREWEGHE
 <br>
 <span style="font-size:0.87em">(Sint-Gilliskerk, <nobr>Brugge &nbsp;<img src="/assets/img/flags/be.png" height="11" width="16"/>&nbsp; 1984-09)</nobr> </span> </p> 
@@ -461,12 +460,39 @@ KENT NAGANO
 <br>
 
 
+
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1716)
+	5.19 &nbsp;|&nbsp; FRANCESCO CAVALLI &nbsp;(1649)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=0Yyr4_DExrE&list=PL9yl-ZQyD9w8y8cAgBD5H21Lao6fKL5qN&index=1">
+<a href="https://www.youtube.com/watch?v=_qdRwCZSvcc&list=OLAK5uy_k5Eh54KsjINx40r-gg-j5YAeQ9fQ1fSF4&index=16">
+	<i>Il Giasone</i> : <nobr>I.xiv. "Dell'antro magico"</nobr> 
+</a>  
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/jacobs-cavalli-giasone.png" width="800"> <br>
+
+Gloria Banditelli <br>
+Concerto Vocale <br>
+RENÉ JACOBS
+<br>
+<span style="font-size:0.87em">(Tiroler Landestheater, <nobr>Innsbruck
+&nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
+1988-05/08)</nobr> </span> </p>  
+ 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.20 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1716)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=O7WDPoUxCVI&t=7645s">
 	<i>Juditha triumphans</i> : <nobr>II.xi. "Armatae face, et anguibus"</nobr> 
 </a>  
 </h4>
@@ -480,13 +506,14 @@ DIEGO FASOLIS
 <br>
 <span style="font-size:0.87em">(Auditorio Stelio Molo, <nobr>Lugano
 &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
-2007)</nobr> </span> </p>  
+1988-05/08)</nobr> </span> </p>  
 
 <br>
 
 
+
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1787)
+	5.21 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1787)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -516,7 +543,7 @@ RENÉ JACOBS
 
 
 <p style="text-align:center">
-	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
+	5.22 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1806)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -567,6 +594,59 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
+	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
+	Sinfonie № 9 : <nobr>IV. Finale</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/herreweghe-beethoven9.png" width="800"> <br>
+
+<nobr>Melanie Diener /</nobr>
+<nobr>Petra Lang /</nobr>
+<nobr>Endrik Wottrich / Dietrich Henschel </nobr> <br>
+La Chapelle Royale <br>
+Collegium Vocale Gent <br>
+Orchestre des Champs-Elysées <br>
+PHILIPPE HERREWEGHE
+<br>
+<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	5.X &nbsp;|&nbsp; ANTON DVOŘÁK &nbsp;(1893)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center">
+<a href="https://www.youtube.com/watch?v=HottsuV-lkc&list=OLAK5uy_kE2nUJWiQY4a4W-OeNl0PKnpp5NWZoKZI&index=1">
+	Symfonie № 9 : <nobr>I. Adagio–Allegro molto</nobr> 
+</a>
+–
+<a href="https://www.youtube.com/watch?v=TrCbRZV252c&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=2">
+	<nobr>IV. Allegro con fuoco</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bernstein-dvorak9.png" width="800"> <br>
+
+New York Philharmonic <br>
+LEONARD BERNSTEIN
+<br>
+<span style="font-size:0.87em">(Manhattan Center, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	5.X &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1909)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -589,31 +669,6 @@ KAREL ANČERL
 
 
 
-<p style="text-align:center">
-	5.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1804)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-	Sinfonie № 3 : 
-<nobr>
-<a href="https://drive.google.com/file/d/1x9kzFv6Ptm2eXv0_KOORjxgsMWXRZ2Ay/view?usp=sharing">
-	II. Marcia funebre
-</a>
-–
-<a href="https://drive.google.com/file/d/1hdvpCGDZQvQrTIZ_R2UfdoliA8kuanD_/view?usp=sharing">
-	IV. Finale
-</a>
-</nobr>
-</h4>
-
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/aureum-beethoven3.png" width="800"> <br>
-
-Collegium Aureum <br>
-<span style="font-size:0.87em">(Zedernsaal, Schloss Kirchheim <nobr>&nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976-06)</nobr> </span> </p> 
-
-<br>
 
 
 <p style="text-align:center">
