@@ -323,16 +323,15 @@ PAUL VAN NEVEL
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-	<i>Matthäus-Passion</i> : 
-<span style="font-size:1.0em">
+<span style="font-size:0.92em">
+	<i>Matthäus-Passion</i><span style="font-size:0.25em">&nbsp;</span>,
+	<nobr>BWV 244 :</nobr> 
 <a href="https://www.youtube.com/watch?v=4U2H08tj8Z8&list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&index=1">
-	<nobr>I/i. "Kommt, ihr Töchter"</nobr>
+	<nobr>I/i. "Kommt, ihr Töchter, helft mir klagen"</nobr>
 </a>
-–
 <a href="https://www.youtube.com/watch?v=-DXVJ75BgN0&list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&index=27">
-	I/xxvii. <nobr>"So ist mein Jesus nun gefangen"</nobr>
-</a>
-–
+	<nobr>– I/xxvii. "So ist mein Jesus nun gefangen"</nobr>
+</a> –
 <a href="https://www.youtube.com/watch?v=2mpdx2VrOZY&list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&index=39">
 	<nobr>II/xxxix. "Erbarme dich, mein Gott"</nobr>
 </a>

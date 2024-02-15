@@ -230,9 +230,12 @@ Gothic Voices: <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
+<span style="font-size:0.97em">
 <a href="https://www.youtube.com/watch?v=Gomk6NbBD2I&list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&index=6">
-	<i>3 petites liturgies de la présence divine</i> : II.&nbsp;"Séquence du verbe, cantique&nbsp;divin"
+	<i>3 petites liturgies de la présence divine</i> : 
+	<nobr>II. "Séquence du verbe, cantique divin"</nobr>
 </a>
+</span>
 </h4>
 
 <p style="text-align:center; color:grey">
@@ -674,7 +677,7 @@ LEONARD BERNSTEIN
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=ktzzIfKk8rE&list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&index=11">
-	<i>West Side Story</i> : <nobr>I.iv. Mambo</nobr>
+	<i>West Side Story</i> : <nobr>I.iv.c. Mambo</nobr>
 </a>
 </h4>
 
@@ -832,7 +835,7 @@ Collegium Aureum <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 	Klavierkonzert № 17 G-dur, 
-	<nobr>KV 453</nobr>
+	<nobr>KV 453 :</nobr>
 <nobr>
 <a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
 	II. Andante

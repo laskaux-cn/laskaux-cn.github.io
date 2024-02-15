@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 14 Feb 2024 18:03:40 -0500</pubDate>
+    <pubDate>Wed, 14 Feb 2024 23:41:20 -0500</pubDate>
     
       <item>
         <title>音乐笔记 5 &amp;colon; 英雄的历程</title>
@@ -299,16 +299,15 @@ PAUL VAN NEVEL
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
-	&lt;i&gt;Matthäus-Passion&lt;/i&gt; : 
-&lt;span style=&quot;font-size:1.0em&quot;&gt;
+&lt;span style=&quot;font-size:0.92em&quot;&gt;
+	&lt;i&gt;Matthäus-Passion&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
+	&lt;nobr&gt;BWV 244 :&lt;/nobr&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=4U2H08tj8Z8&amp;amp;list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&amp;amp;index=1&quot;&gt;
-	&lt;nobr&gt;I/i. &quot;Kommt, ihr Töchter&quot;&lt;/nobr&gt;
+	&lt;nobr&gt;I/i. &quot;Kommt, ihr Töchter, helft mir klagen&quot;&lt;/nobr&gt;
 &lt;/a&gt;
-–
 &lt;a href=&quot;https://www.youtube.com/watch?v=-DXVJ75BgN0&amp;amp;list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&amp;amp;index=27&quot;&gt;
-	I/xxvii. &lt;nobr&gt;&quot;So ist mein Jesus nun gefangen&quot;&lt;/nobr&gt;
-&lt;/a&gt;
-–
+	&lt;nobr&gt;– I/xxvii. &quot;So ist mein Jesus nun gefangen&quot;&lt;/nobr&gt;
+&lt;/a&gt; –
 &lt;a href=&quot;https://www.youtube.com/watch?v=2mpdx2VrOZY&amp;amp;list=OLAK5uy_km3_5b9RnpWfrTWl1W5k9BVR7WsfF2o_M&amp;amp;index=39&quot;&gt;
 	&lt;nobr&gt;II/xxxix. &quot;Erbarme dich, mein Gott&quot;&lt;/nobr&gt;
 &lt;/a&gt;
@@ -811,9 +810,12 @@ Gothic Voices: &lt;br /&gt;
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;span style=&quot;font-size:0.97em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=Gomk6NbBD2I&amp;amp;list=OLAK5uy_m9kKqh6CHAQbWcfYY11v2mJKw_wG6nxuw&amp;amp;index=6&quot;&gt;
-	&lt;i&gt;3 petites liturgies de la présence divine&lt;/i&gt; : II.&amp;nbsp;&quot;Séquence du verbe, cantique&amp;nbsp;divin&quot;
+	&lt;i&gt;3 petites liturgies de la présence divine&lt;/i&gt; : 
+	&lt;nobr&gt;II. &quot;Séquence du verbe, cantique divin&quot;&lt;/nobr&gt;
 &lt;/a&gt;
+&lt;/span&gt;
 &lt;/h4&gt;
 
 &lt;p style=&quot;text-align:center; color:grey&quot;&gt;
@@ -1220,7 +1222,7 @@ LEONARD BERNSTEIN
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=ktzzIfKk8rE&amp;amp;list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&amp;amp;index=11&quot;&gt;
-	&lt;i&gt;West Side Story&lt;/i&gt; : &lt;nobr&gt;I.iv. Mambo&lt;/nobr&gt;
+	&lt;i&gt;West Side Story&lt;/i&gt; : &lt;nobr&gt;I.iv.c. Mambo&lt;/nobr&gt;
 &lt;/a&gt;
 &lt;/h4&gt;
 
@@ -1364,7 +1366,7 @@ Collegium Aureum &lt;br /&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
 	Klavierkonzert № 17 G-dur, 
-	&lt;nobr&gt;KV 453&lt;/nobr&gt;
+	&lt;nobr&gt;KV 453 :&lt;/nobr&gt;
 &lt;nobr&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=kUhR3Xf0ihI&amp;amp;list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&amp;amp;index=2&quot;&gt;
 	II. Andante
