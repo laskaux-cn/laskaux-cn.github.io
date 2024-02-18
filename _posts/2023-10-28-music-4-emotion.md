@@ -208,8 +208,7 @@ Gothic Voices: <br>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=d-TcMLpvWB8&list=PL6HHKZcLsEna0fXglKsQCusMA5fREg44F&index=1">
-	<i>Weihnachts-Oratorium</i><span style="font-size:0.25em">&nbsp;</span>,
-	<nobr>BWV 248 :</nobr> <nobr>I.i. "Jauchzet, frohlocket"</nobr>
+	<i>Weihnachts-Oratorium</i> : <nobr>I.i. "Jauchzet, frohlocket"</nobr>
 </a>
 </h4>
 
