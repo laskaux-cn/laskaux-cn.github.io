@@ -28,7 +28,7 @@ tags: music
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/kondrashin-shostakovich.png" width="800"> <br>
 
-Симфонический оркестр Московской государственной&nbsp;Филармонии <br>
+Симфонический оркестр Московской государственной&nbsp;филармонии <br>
 КИРИЛЛ КОНДРАШИН
 <br>
 <span style="font-size:0.87em">(<nobr>Москва 
@@ -314,7 +314,7 @@ JOHN ELIOT GARDINER
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
 
-Magyar Állami Operaház <nobr>Kamarakórusa & Zenekara</nobr> <br>
+Magyar Állami Operaház <nobr>Zenekara & Kamarakórusa</nobr> <br>
 GUISEPPE PATANÉ
 <br>
 <span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
