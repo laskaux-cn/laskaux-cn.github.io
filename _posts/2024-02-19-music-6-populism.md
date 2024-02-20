@@ -1,0 +1,324 @@
+---
+layout: post
+title: 音乐笔记 6 &colon; 民众的时代
+subtitle: 
+excerpt: ♬&nbsp; <br>
+
+tags: music
+---
+
+
+<p style="text-align:center">
+	6.1 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1911)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=eFP_sN4OWmY&list=OLAK5uy_lpnUN23_yNcpvlBhxqDzkm_PQ6tECrduo&index=1">
+	<i>Pétrouchka</i> : <nobr>I. "La foire du mardi gras"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ansermet-stravinsky-petrouchka.png" width="800"> <br>
+
+Orchestre de la Suisse Romande <br>
+ERNEST ANSERMET 
+<br>
+<span style="font-size:0.87em">(Victoria Hall, <nobr>Genève
+&nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 
+1957-10/11)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.2 &nbsp;|&nbsp; CLAUDE DEBUSSY &nbsp;(1899)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
+	<i>Nocturnes</i> : 
+	<nobr>II. "Fêtes"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/martinon-debussy-nocturnes.png" width="800"> <br>
+
+Orchestre national de l'Office de <nobr>radiodiffusion-télévision française</nobr> <br>
+JEAN MARTINON 
+<br>
+<span style="font-size:0.87em">(Salle Wagram, <nobr>Paris 
+&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
+1973-02/&#8203;1974-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.3 &nbsp;|&nbsp; CHARLES IVES &nbsp;(1913)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
+	<i>A Symphony: New England Holidays</i> : 
+	<nobr>III. "The Fourth of July"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/tilson-thomas-ives-holidays.png" width="800"> <br>
+
+Chicago Symphony Orchestra <br>
+MICHAEL TILSON THOMAS 
+<br>
+<span style="font-size:0.87em">(Medinah Temple, <nobr>Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ttqvnFE02BM&list=OLAK5uy_kgLlEJgOMmC__fpky_0T_y_93dCcffigM&index=12">
+	<i>L&apos;Oiseau de feu</i> : 
+</a>
+<a href="https://www.youtube.com/watch?v=7jYK7wGDW2g&list=OLAK5uy_kgLlEJgOMmC__fpky_0T_y_93dCcffigM&index=15">
+	II/xiv. "Disparition du palais et des sortilèges de Kachtcheï"
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/gergiev-firebird.png" width="800"> <br>
+
+Симфонический оркестр <nobr>Мариинского театра</nobr> <br>
+ВАЛЕРИЙ ГЕРГИЕВ
+<br>
+<span style="font-size:0.87em">(Большой зал Санкт-Петербургской филармонии, <nobr>Санкт-Петербург 
+&nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 
+1995-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
+	Ballet, 
+	<nobr>TMA 268</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ball-praetorius.png" width="800"> <br>
+
+Praetorius Consort <br>
+CHRISTOPHER BALL
+<br>
+<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
+	<i>Brandenburgische Konzerte</i> : 
+	<nobr>№ 2 F-dur, BWV 1047 </nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/alessandrini-brandenburg.png" width="800"> <br>
+
+<nobr>Gabriele Cassone /</nobr>
+<nobr>Maria de Martini /</nobr>
+<nobr>Andrea Mion / Mauro Lopes Ferreira </nobr> <br>
+<span style="font-size:0.87em">[tpt–rec–ob–vn] </span> <br>
+Concerto Italiano <br>
+RINALDO ALESSANDRINI
+<br>
+<span style="font-size:0.87em">(Palazzo Farnese, <nobr>Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Каприччио на испанские темы : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
+	IV. Scena e canto gitano
+</a>
+</nobr>
+–
+<nobr>
+<a href="https://www.youtube.com/watch?v=3jHXgNUvxTU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=5">
+	V. Fandango asturiano
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/markevitch-rimsky.png" width="800"> <br>
+
+London Symphony Orchestra <br>
+ИГОРЬ МАРКЕВИЧ
+<br>
+<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16"/>&nbsp; 1962-10)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2">
+	<i>Boléro</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/boulez-bolero.png" width="800"> <br>
+
+Berliner Philharmoniker <br>
+PIERRE BOULEZ 
+<br>
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993-03)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+	Concerto for Orchestra : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=7LbFlMkAApE&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=4">
+	IV. Intermezzo interrotto
+</a>
+–
+<a href="https://www.youtube.com/watch?v=oehJ-7ixIcQ&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=5">
+	V. Finale
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kocsis-bartok-cfo.png" width="800"> <br>
+
+Nemzeti Filharmonikusok <br>
+ZOLTÁN KOCSIS
+<br>
+<span style="font-size:0.87em">(Istituto Italiano di Cultura, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="11" width="16"/>&nbsp; 2002-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1814)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=61odlEOu0HI&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=18">
+	<nobr><i>Fidelio</i> : I.x. "O welche Lust"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay-fidelio.png" width="800"> <br>
+
+Chor der Bayrischen Staataoper <br>
+Bayerisches Staatsorchester <br>
+FERENC FRICSAY <br>
+<span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957-05)</nobr></span> </p>
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1946)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8">
+	Symphony № 3 : 
+	<nobr>IV. Molto deliberato – Allegro risoluto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/tilson-thomas-copland3.png" width="800"> <br>
+
+San Francisco Symphony <br>
+MICHAEL TILSON THOMAS 
+<br>
+<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1957)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1umNIRtBPes&list=PL8AhTXrM6LH0VDpUhenrDcETNAy7a1kTM&index=1">
+	Симфония № 11 : 
+	<nobr>I. Adagio</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haitink-shostakovich11.png" width="800"> <br>
+
+Concertgebouworkest <br>
+BERNARD HAITINK 
+<br>
+<span style="font-size:0.87em">(Concertgebouw, <nobr>Amsterdam 
+&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 
+1983-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
