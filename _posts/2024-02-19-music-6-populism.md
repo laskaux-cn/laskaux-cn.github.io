@@ -63,7 +63,7 @@ JEAN MARTINON
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
-	<i>A Symphony: New England Holidays</i> : 
+	<i>New England Holidays</i> : 
 	<nobr>III. "The Fourth of July"</nobr>
 </a>
 </h4>
@@ -81,6 +81,76 @@ MICHAEL TILSON THOMAS
 
 
 <p style="text-align:center">
+	6.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1795)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=ncP6VVNrlD0&list=OLAK5uy_lFIIzfis8pTbZnE2gyeBRXtSSssa1Y1wE&index=8">
+	Sinfonie № 104 : 
+	<nobr>IV. Finale</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/kuijken-haydn104.png" width="800"> <br>
+
+La Petite Bande <br>
+SIGISWALD KUIJKEN
+<br>
+<span style="font-size:0.87em">(Doopsgezinde Kerk, <nobr>Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1878)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=3f6_X7eyqMA&list=OLAK5uy_lLSJPa9VN1F7XFfSpVMkcyFQIc8fmKk4c&index=4">
+	Симфония № 4 : 
+	<nobr>IV. Finale</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mravinsky-tchaikovsky456.png" width="800"> <br>
+
+Симфонический оркестр Ленинградской <nobr>государственной филармонии</nobr> <br>
+ЕВГЕНИЙ МРАВИНСКИЙ 
+<br>
+<span style="font-size:0.87em">(Wembley Town Hall, <nobr>London 
+&nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 
+1960-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; BEDŘICH SMETANA &nbsp;(1874)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=jUqqM4I0riI&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=5">
+	<i>Má vlast</i> : 
+	<nobr>IV. "Vltava"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fricsay-smetana.png" width="800"> <br>
+
+Berliner Philharmoniker <br>
+FERENC FRICSAY <br>
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1960-01)</nobr></span> </p>
+
+<br>
+
+
+
+<p style="text-align:center">
 	6.X &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -89,7 +159,7 @@ MICHAEL TILSON THOMAS
 	<i>L&apos;Oiseau de feu</i> : 
 </a>
 <a href="https://www.youtube.com/watch?v=7jYK7wGDW2g&list=OLAK5uy_kgLlEJgOMmC__fpky_0T_y_93dCcffigM&index=15">
-	II/xiv. "Disparition du palais et des sortilèges de Kachtcheï"
+	II/xiv. "Disparition du palais <nobr>et des sortilèges de Kachtcheï"</nobr>
 </a>
 </h4>
 
@@ -105,6 +175,53 @@ MICHAEL TILSON THOMAS
 
 <br>
 
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1934)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=UhrbGTngiqA&list=OLAK5uy_k45ewCOwFnukwPq3VMMx9SSTC1oDv2iDI&index=1">
+	<i>Symphonie Mathis der Maler</i> : <nobr>I. "Engelkonzert"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/belohlavek-hindemith-mathis.png" width="800"> <br>
+
+Česká filharmonie <br>
+JIŘÍ BĚLOHLÁVEK
+<br>
+<span style="font-size:0.87em">(Dvořákova síň, <nobr>Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1938)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://youtu.be/bVfot8Og4yw&t=0s">
+	<i>Billy the Kid</i> : <nobr>I. "The Open Prairie"</nobr>
+</a>
+–
+<a href="https://youtu.be/bVfot8Og4yw&t=198s">
+	<nobr>II. "Street Scene in a Frontier Town"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
+
+London Symphony Orchestra <br>
+AARON COPLAND 
+<br>
+<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1969-11/12)</nobr> </span> </p> 
+
+<br>
 
 
 
@@ -128,6 +245,30 @@ CHRISTOPHER BALL
 <span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
 
 <br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
+	Sinfonie № 9 : <nobr>II. Molto vivace</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bruggen-beethoven9.png" width="800"> <br>
+
+Orkest van de 18e Eeuw <br>
+FRANS BRÜGGEN
+<br>
+<span style="font-size:0.87em">(Muziekcentrum Vredenburg, <nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992-11)</nobr> </span> </p> 
+
+<br>
+
+
 
 
 <p style="text-align:center">

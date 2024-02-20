@@ -80,7 +80,6 @@ LORIN MAAZEL
 
 
 
-
 <p style="text-align:center">
 	1.4 &nbsp;|&nbsp; AARON COPLAND &nbsp;(1942)
 </p>
@@ -101,7 +100,6 @@ AARON COPLAND
 <span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968-10)</nobr> </span> </p> 
 
 <br>
-
 
 
 
