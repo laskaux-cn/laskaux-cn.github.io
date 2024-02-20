@@ -231,8 +231,7 @@ AARON COPLAND
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
-	Ballet, 
-	<nobr>TMA 268</nobr>
+	<i>Terpsichore</i> : Ballet, TMA 268
 </a>
 </h4>
 
@@ -299,7 +298,7 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	<span style="font-size:0.99em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
+	<span style="font-size:0.97em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -379,6 +378,72 @@ ZOLTÁN KOCSIS
 
 
 
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; KURT WEILL &nbsp;(1928)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=7tMQSM1GOjs&list=PL8AhTXrM6LH1AMXq6kVPuVRSpKeb6D5kb&index=2">
+	<i>Die Dreigroschenoper</i> : Vorspiel <nobr>"Die Moritat von Mackie Messer"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mauceri-weill.png" width="800"> <br>
+
+Rolf Boysen <br>
+RIAS-Sinfonietta Berlin  <br>
+JOHN MAUCERI 
+<br>
+<span style="font-size:0.87em">(RIAS-Funkhaus, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; JEROME KERN &nbsp;(1927)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=3HNamB44-HQ&list=PLeSvAgVi4cK9WWQt6RQjmU0aFz6oh_N3g&index=9">
+	<i>Show Boat</i> : <nobr>I.i. "Ol' Man River"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mcglinn-show-boat.png" width="800"> <br>
+
+Bruce Hubbard <br>
+London Sinfonietta  <br>
+JOHN McGLINN 
+<br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-06/08)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1935)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=SBHqLQd9-T4&list=OLAK5uy_kGsFT2s-EmDEWlyuozbG9oS5shKVLYNG4&index=1">
+	<i>Porgy and Bess</i> : <nobr>I. "Summertime"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/henderson-gershwin.png" width="800"> <br>
+
+Leontyne Price <br>
+RCA Victor Symphony Orchestra <br>
+SKITCH HENDERSON 
+<br>
+<span style="font-size:0.87em">(Hotel St. George, Brooklyn, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963-05)</nobr> </span> </p> 
+
+<br>
 
 
 
@@ -451,12 +516,102 @@ BERNARD HAITINK
 <br>
 
 
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
+	Suite C-dur, <nobr>BuxWV 230</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/stella-buxtehude.png" width="800"> <br>
+
+Simone Stella <br>
+<span style="font-size:0.87em">(OnClassical Studio, <nobr>Pove del Grappa &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010-11)</nobr> </span> </p> 
+
+<br>
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<span style="font-size:0.98em">
+	Suite en la mineur, <nobr>RCT 5</nobr> :
+<nobr>
+<a href="https://www.youtube.com/watch?v=OXllQgFPpy8&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=24">
+	I. Allemande
+</a>
+–
+<a href="https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30">
+	VII. Gavotte et 6 doubles
+</a>
+</nobr>
+</span>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/rannou-rameau.png" width="800"> <br>
+
+Blandine Rannou <br>
+<span style="font-size:0.87em">(Lycée Carnot, <nobr>Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000-07/08)</nobr> </span> </p> 
+
+<br>
 
 
 
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<span style="font-size:0.98em">
+<a href="https://www.youtube.com/watch?v=nB4aWugwjfM&list=OLAK5uy_l_JoHJbYYl_Rb5C2W6K8TTRdUjHsqzopY&index=1">
+	Sonaten und Partiten für Violine solo : 
+</a>
+<a href="https://www.youtube.com/watch?v=c0FWj7OAceU&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=1">
+	<nobr>Partita № 2 d-moll, BWV 1004</nobr>
+</a>
+–
+<a href="https://www.youtube.com/watch?v=q01E5fHAZQQ&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=6">
+	<nobr>Sonate № 3 C-dur, BWV 1005</nobr>
+</a>
+</span>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/faust-bach.png" width="800"> <br>
+
+Isabelle Faust <br>
+<span style="font-size:0.87em">(Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2009-09)</nobr> </span> </p> 
+
+<br>
 
 
 
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<span style="font-size:0.98em">
+<a href="https://www.youtube.com/watch?v=4GVAU7sgOwY&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=9">
+	Sonata for Solo Violin, <nobr>Sz. 117 / BB 124</nobr>
+</a>
+</span>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mullova-bartok.png" width="800"> <br>
+
+Виктория Муллова <br>
+<span style="font-size:0.87em">(<nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987-06)</nobr> </span> </p> 
+
+<br>
 
 
 
