@@ -299,7 +299,7 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
+	<span style="font-size:0.99em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
