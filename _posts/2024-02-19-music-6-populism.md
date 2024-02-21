@@ -81,6 +81,54 @@ MICHAEL TILSON THOMAS
 
 
 <p style="text-align:center">
+	6.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1938)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://youtu.be/bVfot8Og4yw&t=0s">
+	<i>Billy the Kid</i> : <nobr>I. "The Open Prairie"</nobr>
+</a>
+–
+<a href="https://youtu.be/bVfot8Og4yw&t=198s">
+	<nobr>II. "Street Scene in a Frontier Town"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
+
+London Symphony Orchestra <br>
+AARON COPLAND 
+<br>
+<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1969-11/12)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
+	<i>Terpsichore</i> : Ballet, TMA 268
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/ball-praetorius.png" width="800"> <br>
+
+Praetorius Consort <br>
+CHRISTOPHER BALL
+<br>
+<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	6.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -200,54 +248,6 @@ JIŘÍ BĚLOHLÁVEK
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1938)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://youtu.be/bVfot8Og4yw&t=0s">
-	<i>Billy the Kid</i> : <nobr>I. "The Open Prairie"</nobr>
-</a>
-–
-<a href="https://youtu.be/bVfot8Og4yw&t=198s">
-	<nobr>II. "Street Scene in a Frontier Town"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
-
-London Symphony Orchestra <br>
-AARON COPLAND 
-<br>
-<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1969-11/12)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
-	<i>Terpsichore</i> : Ballet, TMA 268
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/ball-praetorius.png" width="800"> <br>
-
-Praetorius Consort <br>
-CHRISTOPHER BALL
-<br>
-<span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
 	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -298,7 +298,7 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	<span style="font-size:0.97em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
+	<span style="font-size:0.95em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -378,28 +378,6 @@ ZOLTÁN KOCSIS
 
 
 
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; KURT WEILL &nbsp;(1928)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=7tMQSM1GOjs&list=PL8AhTXrM6LH1AMXq6kVPuVRSpKeb6D5kb&index=2">
-	<i>Die Dreigroschenoper</i> : Vorspiel <nobr>"Die Moritat von Mackie Messer"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/mauceri-weill.png" width="800"> <br>
-
-Rolf Boysen <br>
-RIAS-Sinfonietta Berlin  <br>
-JOHN MAUCERI 
-<br>
-<span style="font-size:0.87em">(RIAS-Funkhaus, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988-09)</nobr> </span> </p> 
-
-<br>
-
-
 
 <p style="text-align:center">
 	6.X &nbsp;|&nbsp; JEROME KERN &nbsp;(1927)
@@ -464,29 +442,6 @@ Chor der Bayrischen Staataoper <br>
 Bayerisches Staatsorchester <br>
 FERENC FRICSAY <br>
 <span style="font-size:0.87em">(Herkulessaal, <nobr>München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957-05)</nobr></span> </p>
-
-<br>
-
-
-
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; AARON COPLAND &nbsp;(1946)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8">
-	Symphony № 3 : 
-	<nobr>IV. Molto deliberato – Allegro risoluto</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/tilson-thomas-copland3.png" width="800"> <br>
-
-San Francisco Symphony <br>
-MICHAEL TILSON THOMAS 
-<br>
-<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018-03)</nobr> </span> </p> 
 
 <br>
 
