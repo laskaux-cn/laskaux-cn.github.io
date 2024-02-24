@@ -111,25 +111,70 @@ AARON COPLAND
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=4Rb3Cwsjr7A&list=OLAK5uy_lLahqgOZcDhTWajRMemMFU0eDAsGFDaxA&index=2">
+<a href="https://www.youtube.com/watch?v=jWSq33Hn9oA&list=OLAK5uy_mYWMGuzTwZndESTBqLUxaw8hbhg98DDKQ&index=5">
 	<i>La morra</i>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/toffano-isaac.png" width="800"> <br>
+<img src="/assets/img/albums/harnoncourt-isaac.png" width="800"> <br>
 
-Consort Veneto <br>
-GIOVANNI TOFFANO
+Concentus Musicus Wien <br>
+NIKOLAUS HARNONCOURT
 <br>
-<span style="font-size:0.87em">(Odeo Cornaro, <nobr>Padova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2006-04)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Synchronhalle, <nobr>Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1963-04/05)</nobr> </span> </p> 
 
 <br>
 
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
+	6.6 &nbsp;|&nbsp; JOSQUIN DES PRÉS &nbsp;(c. 1450–1521)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Sd334ebeRgw&list=OLAK5uy_lAWXn4ubg_fSfilQTzl1kRAon_W-17BFk&index=1">
+	<i>Mon mari m&apos;a diffamée</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/davies-josquin.png" width="800"> <br>
+
+The Medieval Ensemble of London <br> 
+PETER DAVIES / TIMOTHY DAVIES
+<br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1984-01)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.7 &nbsp;|&nbsp; ORLANDO DI LASSO &nbsp;(1581)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=FatW8mdfgn8&list=OLAK5uy_nmYqw9hHZhs34QWy4U2kQWOMASJ5LTIYQ&index=23">
+	<i>Matona, mia cara</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/katschner-lasso.png" width="800"> <br>
+
+Calmus Ensemble Leipzig <br> 
+Lautten Compagney Berlin <br>
+WOLFGANG KATSCHNER
+<br>
+<span style="font-size:0.87em">(Evangelisch-lutherische Kirchgemeinde Gundorf, <nobr>Leipzig &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2016-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.8 &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -150,31 +195,8 @@ CHRISTOPHER BALL
 
 
 
-
 <p style="text-align:center">
-<span style="font-size:0.98em">
-	6.X | GIOVANNI GIROLAMO KAPSBERGER (1640)
-</span>
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=Xu4sSspJTOk&list=OLAK5uy_nIGulle2C375vFqeemrYKSWwyxJzzhBY8&index=25">
-	<i>Canario</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/odette-kapsberger.png" width="800"> <br>
-
-Paul O'Dette <br>
-<span style="font-size:0.87em">(Bethel United Church of Christ, <nobr>Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989-11)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
+	6.9 &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -199,7 +221,7 @@ EMMANUELLE HAÏM
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+	6.10 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -221,7 +243,7 @@ CHARLES MACKERRAS
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+	6.11 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -243,7 +265,7 @@ FRANS BRÜGGEN
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1795)
+	6.14 &nbsp;|&nbsp; JOSEPH HAYDN &nbsp;(1795)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -266,7 +288,7 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1878)
+	6.15 &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1878)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -291,7 +313,7 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; BEDŘICH SMETANA &nbsp;(1874)
+	6.16 &nbsp;|&nbsp; BEDŘICH SMETANA &nbsp;(1874)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -313,7 +335,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
+	6.17 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -340,7 +362,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1934)
+	6.18 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1934)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -423,27 +445,6 @@ London Symphony Orchestra <br>
 
 
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2">
-	<i>Boléro</i>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/boulez-bolero.png" width="800"> <br>
-
-Berliner Philharmoniker <br>
-PIERRE BOULEZ 
-<br>
-<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993-03)</nobr> </span> </p> 
-
-<br>
-
-
-<p style="text-align:center">
 	6.X &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -472,48 +473,23 @@ ZOLTÁN KOCSIS
 
 
 
-
 <p style="text-align:center">
-	6.X &nbsp;|&nbsp; JEROME KERN &nbsp;(1927)
+	6.X &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=3HNamB44-HQ&list=PLeSvAgVi4cK9WWQt6RQjmU0aFz6oh_N3g&index=9">
-	<i>Show Boat</i> : <nobr>I.i. "Ol' Man River"</nobr>
+<a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2">
+	<i>Boléro</i>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/mcglinn-show-boat.png" width="800"> <br>
+<img src="/assets/img/albums/boulez-bolero.png" width="800"> <br>
 
-Bruce Hubbard <br>
-London Sinfonietta  <br>
-JOHN McGLINN 
+Berliner Philharmoniker <br>
+PIERRE BOULEZ 
 <br>
-<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-06/08)</nobr> </span> </p> 
-
-<br>
-
-
-
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1935)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=SBHqLQd9-T4&list=OLAK5uy_kGsFT2s-EmDEWlyuozbG9oS5shKVLYNG4&index=1">
-	<i>Porgy and Bess</i> : <nobr>I. "Summertime"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/henderson-gershwin.png" width="800"> <br>
-
-Leontyne Price <br>
-RCA Victor Symphony Orchestra <br>
-SKITCH HENDERSON 
-<br>
-<span style="font-size:0.87em">(Hotel St. George, Brooklyn, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963-05)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993-03)</nobr> </span> </p> 
 
 <br>
 
@@ -563,6 +539,56 @@ BERNARD HAITINK
 1983-05)</nobr> </span> </p> 
 
 <br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; JEROME KERN &nbsp;(1927)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=3HNamB44-HQ&list=PLeSvAgVi4cK9WWQt6RQjmU0aFz6oh_N3g&index=9">
+	<i>Show Boat</i> : <nobr>I.i. "Ol' Man River"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mcglinn-show-boat.png" width="800"> <br>
+
+Bruce Hubbard <br>
+London Sinfonietta  <br>
+JOHN McGLINN 
+<br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-06/08)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; GEORGE GERSHWIN &nbsp;(1935)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=SBHqLQd9-T4&list=OLAK5uy_kGsFT2s-EmDEWlyuozbG9oS5shKVLYNG4&index=1">
+	<i>Porgy and Bess</i> : <nobr>I. "Summertime"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/henderson-gershwin.png" width="800"> <br>
+
+Leontyne Price <br>
+RCA Victor Symphony Orchestra <br>
+SKITCH HENDERSON 
+<br>
+<span style="font-size:0.87em">(Hotel St. George, Brooklyn, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963-05)</nobr> </span> </p> 
+
+<br>
+
+
+
+
 
 
 <p style="text-align:center">
@@ -618,7 +644,7 @@ Blandine Rannou <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<span style="font-size:0.98em">
+<span style="font-size:0.99em">
 <a href="https://www.youtube.com/watch?v=nB4aWugwjfM&list=OLAK5uy_l_JoHJbYYl_Rb5C2W6K8TTRdUjHsqzopY&index=1">
 	Sonaten und Partiten für Violine solo : 
 </a>
@@ -647,7 +673,7 @@ Isabelle Faust <br>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<span style="font-size:0.98em">
+<span style="font-size:0.99em">
 <a href="https://www.youtube.com/watch?v=4GVAU7sgOwY&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=9">
 	Sonata for Solo Violin, <nobr>Sz. 117 / BB 124</nobr>
 </a>
