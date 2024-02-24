@@ -150,9 +150,10 @@ CHRISTOPHER BALL
 
 
 
+
 <p style="text-align:center">
-<span style="font-size:0.94em">
-	6.X &nbsp;|&nbsp; GIOVANNI GIROLAMO KAPSBERGER &nbsp;(1640)
+<span style="font-size:0.98em">
+	6.X | GIOVANNI GIROLAMO KAPSBERGER (1640)
 </span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -389,8 +390,8 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-<span style="font-size:0.96em">
-	6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
+<span style="font-size:1.0em">
+	6.X | НИКОЛАЙ РИМСКИЙ-КОРСАКОВ (1887)
 </span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
