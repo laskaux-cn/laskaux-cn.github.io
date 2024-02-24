@@ -107,6 +107,28 @@ AARON COPLAND
 
 
 <p style="text-align:center">
+	6.5 &nbsp;|&nbsp; HEINRICH ISAAC &nbsp;(c. 1450–1517)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=4Rb3Cwsjr7A&list=OLAK5uy_lLahqgOZcDhTWajRMemMFU0eDAsGFDaxA&index=2">
+	<i>La morra</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/toffano-isaac.png" width="800"> <br>
+
+Consort Veneto <br>
+GIOVANNI TOFFANO
+<br>
+<span style="font-size:0.87em">(Odeo Cornaro, <nobr>Padova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2006-04)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
 	6.X &nbsp;|&nbsp; MICHAEL PRAETORIUS &nbsp;(1612)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -123,6 +145,97 @@ Praetorius Consort <br>
 CHRISTOPHER BALL
 <br>
 <span style="font-size:0.87em">(Eden Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+<span style="font-size:0.95em">
+	6.X &nbsp;|&nbsp; GIOVANNI GIROLAMO KAPSBERGER &nbsp;(1640)
+</span>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=Xu4sSspJTOk&list=OLAK5uy_nIGulle2C375vFqeemrYKSWwyxJzzhBY8&index=25">
+	<i>Canario</i>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/odette-kapsberger.png" width="800"> <br>
+
+Paul O'Dette <br>
+<span style="font-size:0.87em">(Bethel United Church of Christ, <nobr>Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; HENRY PURCELL &nbsp;<nobr>(1689)</nobr>
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
+	<i>Dido and Aeneas</i> : 
+	<nobr>III.i. "Come away, fellow sailors"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haim-purcell-dido.png" width="800"> <br>
+
+Paul Agnew <br>
+European Voices <br>
+Le Concert d'Astrée <br>
+EMMANUELLE HAÏM 
+<br>
+<span style="font-size:0.87em">(Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003-03)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=A-AI0HT4218&list=OLAK5uy_mTvFodARexcF-Hcs4P_dVjNxEjr43BEW0&index=6">
+	Sinfonie № 39 : <nobr>III. Meneutto</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mackerras-mozart41.png" width="800"> <br>
+
+Scottish Chamber Orchestra <br>
+CHARLES MACKERRAS 
+<br>
+<span style="font-size:0.87em">(City Halls, <nobr>Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007-08)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=agligoLgauA&list=OLAK5uy_loYpdgXYfYlZknqcorhtxMwy_xed9NfYY&index=2">
+	Sinfonie № 9 : <nobr>II. Molto vivace</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bruggen-beethoven9.png" width="800"> <br>
+
+Orkest van de 18e Eeuw <br>
+FRANS BRÜGGEN
+<br>
+<span style="font-size:0.87em">(Muziekcentrum Vredenburg, <nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992-11)</nobr> </span> </p> 
 
 <br>
 
@@ -183,7 +296,7 @@ SIGISWALD KUIJKEN
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=jUqqM4I0riI&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=5">
 	<i>Má vlast</i> : 
-	<nobr>IV. "Vltava"</nobr>
+	<nobr>II. "Vltava"</nobr>
 </a>
 </h4>
 
@@ -247,28 +360,6 @@ JIŘÍ BĚLOHLÁVEK
 
 
 
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
-	Sinfonie № 9 : <nobr>II. Molto vivace</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/bruggen-beethoven9.png" width="800"> <br>
-
-Orkest van de 18e Eeuw <br>
-FRANS BRÜGGEN
-<br>
-<span style="font-size:0.87em">(Muziekcentrum Vredenburg, <nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992-11)</nobr> </span> </p> 
-
-<br>
-
-
-
 
 <p style="text-align:center">
 	6.X &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
@@ -298,7 +389,9 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	<span style="font-size:0.95em">6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)</span>
+<span style="font-size:0.96em">
+	6.X &nbsp;|&nbsp; НИКОЛАЙ РИМСКИЙ-КОРСАКОВ &nbsp;(1887)
+</span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
