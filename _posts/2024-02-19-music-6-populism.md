@@ -163,8 +163,8 @@ PETER DAVIES / TIMOTHY DAVIES
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/katschner-lasso.png" width="800"> <br>
 
-Calmus Ensemble Leipzig <br> 
-Lautten Compagney Berlin <br>
+Calmus Ensemble <br> 
+Lautten Compagney <br>
 WOLFGANG KATSCHNER
 <br>
 <span style="font-size:0.87em">(Evangelisch-lutherische Kirchgemeinde Gundorf, <nobr>Leipzig &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2016-09)</nobr> </span> </p> 
@@ -259,6 +259,51 @@ Orkest van de 18e Eeuw <br>
 FRANS BRÜGGEN
 <br>
 <span style="font-size:0.87em">(Muziekcentrum Vredenburg, <nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992-11)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.12 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1896)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=4hvt87ktz3w&list=OLAK5uy_nbYkDnlOnm2d2BZjAslxKf5QQRFMcEDWI&index=3">
+	Sinfonie № 3 : <nobr>III. Comodo</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/fischer-mahler3.png" width="800"> <br>
+
+Budapesti Fesztiválzenekar <br>
+IVÁN FISCHER
+<br>
+<span style="font-size:0.87em">(Bartók Béla Nemzeti Hangversenyterem, <nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2016-09)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.13 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1915)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=wVQAnpbT8ls&list=OLAK5uy_mGn8qua8B1Z7tLbRNpt2jkwwnK1Dg_rOI&index=11">
+	3 Orchesterstücke, Op. 6 : 
+	<nobr>II. Reigen</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/tilson-thomas-berg-op6.png" width="800"> <br>
+
+San Francisco Symphony <br>
+MICHAEL TILSON THOMAS 
+<br>
+<span style="font-size:0.87em">(Davies Symphony Hall, <nobr>San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2015-01)</nobr> </span> </p> 
 
 <br>
 
@@ -378,6 +423,31 @@ FERENC FRICSAY <br>
 JIŘÍ BĚLOHLÁVEK
 <br>
 <span style="font-size:0.87em">(Dvořákova síň, <nobr>Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.19 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1957)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=1umNIRtBPes&list=PL8AhTXrM6LH0VDpUhenrDcETNAy7a1kTM&index=1">
+	Симфония № 11 : 
+	<nobr>I. Adagio</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/haitink-shostakovich11.png" width="800"> <br>
+
+Concertgebouworkest <br>
+BERNARD HAITINK 
+<br>
+<span style="font-size:0.87em">(Concertgebouw, <nobr>Amsterdam 
+&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 
+1983-05)</nobr> </span> </p> 
 
 <br>
 
@@ -517,28 +587,7 @@ FERENC FRICSAY <br>
 
 
 
-<p style="text-align:center">
-	6.X &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1957)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=1umNIRtBPes&list=PL8AhTXrM6LH0VDpUhenrDcETNAy7a1kTM&index=1">
-	Симфония № 11 : 
-	<nobr>I. Adagio</nobr>
-</a>
-</h4>
 
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/haitink-shostakovich11.png" width="800"> <br>
-
-Concertgebouworkest <br>
-BERNARD HAITINK 
-<br>
-<span style="font-size:0.87em">(Concertgebouw, <nobr>Amsterdam 
-&nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 
-1983-05)</nobr> </span> </p> 
-
-<br>
 
 
 
