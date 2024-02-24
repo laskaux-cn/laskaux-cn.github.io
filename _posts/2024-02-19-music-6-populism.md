@@ -151,7 +151,7 @@ CHRISTOPHER BALL
 
 
 <p style="text-align:center">
-<span style="font-size:0.95em">
+<span style="font-size:0.94em">
 	6.X &nbsp;|&nbsp; GIOVANNI GIROLAMO KAPSBERGER &nbsp;(1640)
 </span>
 </p>
