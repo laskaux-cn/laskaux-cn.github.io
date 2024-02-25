@@ -528,7 +528,7 @@ GIOVANNI ANTONINI
 
 
 <p style="text-align:center">
-<span style="font-size:1.0em">
+<span style="font-size:0.99em">
 	6.24 | НИКОЛАЙ РИМСКИЙ-КОРСАКОВ (1887)
 </span>
 </p>
