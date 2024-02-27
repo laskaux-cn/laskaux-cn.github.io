@@ -265,7 +265,7 @@ Blechbläserensemble LUDWIG GÜTTLER <br>
 <a href="https://www.youtube.com/watch?v=cjx8YkBKxDU&list=OLAK5uy_k5MnlLUyqzY9Y5AK46xWx01qtl388eajU&index=8">
 	Suite № 2 in F major for Military Band, 
 	<nobr>Op. 28 № 2 / H. 106</nobr> : 
-	<nobr>II. Song without Words</nobr>
+	<nobr>II. Song without words</nobr>
 </a>
 </h4>
 
