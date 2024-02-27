@@ -139,7 +139,7 @@ JOHN NELSON
 <a href="https://www.youtube.com/watch?v=KysZIik07xk&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=7">
 	Klaviersonate № 14 cis-moll, 
 	<nobr>Op. 27 № 2</nobr> : 
-	<nobr>I. Allegro con brio</nobr>
+	<nobr>I. Adagio sostenuto</nobr>
 </a>
 </h4>
 
