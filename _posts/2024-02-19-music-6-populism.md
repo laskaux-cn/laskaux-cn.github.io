@@ -244,7 +244,32 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	6.11 &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1878)
+	6.11 &nbsp;|&nbsp; GEORGES BIZET &nbsp;(1872)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">
+	<i>L&apos;Arlésienne</i> : 
+	Prélude
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/markevitch-bizet.png" width="800"> <br>
+
+Orchestre Lamoureux <br>
+ИГОРЬ МАРКЕВИЧ 
+<br>
+<span style="font-size:0.87em">(Maison de la Chimie, <nobr>Paris 
+&nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
+1960-05/06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	6.12 &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1878)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -269,7 +294,7 @@ SIGISWALD KUIJKEN
 
 
 <p style="text-align:center">
-	6.12 &nbsp;|&nbsp; BEDŘICH SMETANA &nbsp;(1874)
+	6.13 &nbsp;|&nbsp; BEDŘICH SMETANA &nbsp;(1874)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -291,7 +316,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	6.13 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
+	6.14 &nbsp;|&nbsp; ИГОРЬ СТРАВИНСКИЙ &nbsp;(1910)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -318,7 +343,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	6.14 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1934)
+	6.15 &nbsp;|&nbsp; PAUL HINDEMITH &nbsp;(1934)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -340,7 +365,7 @@ JIŘÍ BĚLOHLÁVEK
 
 
 <p style="text-align:center">
-	6.15 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1957)
+	6.16 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1957)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -365,7 +390,7 @@ BERNARD HAITINK
 
 
 <p style="text-align:center">
-	6.16 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
+	6.17 &nbsp;|&nbsp; WOLFGANG AMADEUS MOZART &nbsp;(1788)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -387,7 +412,7 @@ CHARLES MACKERRAS
 
 
 <p style="text-align:center">
-	6.17 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+	6.18 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -409,7 +434,7 @@ FRANS BRÜGGEN
 
 
 <p style="text-align:center">
-	6.18 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1896)
+	6.19 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1896)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -431,7 +456,7 @@ IVÁN FISCHER
 
 
 <p style="text-align:center">
-	6.19 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1915)
+	6.20 &nbsp;|&nbsp; ALBAN BERG &nbsp;(1915)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -454,7 +479,7 @@ MICHAEL TILSON THOMAS
 
 
 <p style="text-align:center">
-	6.20 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1839)
+	6.21 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1839)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -479,7 +504,7 @@ JOHN ELIOT GARDINER
 
 
 <p style="text-align:center">
-	6.21 &nbsp;|&nbsp; MANUEL DE FALLA &nbsp;(1915)
+	6.22 &nbsp;|&nbsp; MANUEL DE FALLA &nbsp;(1915)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -506,7 +531,7 @@ RAFAEL FRÜHBECK DE BURGOS
 
 
 <p style="text-align:center">
-	6.22 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
+	6.23 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1721)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -533,7 +558,7 @@ RINALDO ALESSANDRINI
 
 
 <p style="text-align:center">
-	6.23 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1740)
+	6.24 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1740)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -554,9 +579,10 @@ GIOVANNI ANTONINI
 <br>
 
 
+
 <p style="text-align:center">
 <span style="font-size:0.98em">
-	6.24 | НИКОЛАЙ РИМСКИЙ-КОРСАКОВ (1887)
+	6.25 | НИКОЛАЙ РИМСКИЙ-КОРСАКОВ (1887)
 </span>
 </p>
 <p style="margin-bottom:-0.6em"> </p>
@@ -588,7 +614,7 @@ London Symphony Orchestra <br>
 
 
 <p style="text-align:center">
-	6.25 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
+	6.26 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1943)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -617,7 +643,7 @@ ZOLTÁN KOCSIS
 
 
 <p style="text-align:center">
-	6.26 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
+	6.27 &nbsp;|&nbsp; MAURICE RAVEL &nbsp;(1928)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -639,7 +665,7 @@ PIERRE BOULEZ
 
 
 <p style="text-align:center">
-	6.27 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1638)
+	6.28 &nbsp;|&nbsp; CLAUDIO MONTEVERDI &nbsp;(1638)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -663,7 +689,7 @@ CLAUDIO CAVINA
 
 
 <p style="text-align:center">
-	6.28 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
+	6.29 &nbsp;|&nbsp; ANTONIO VIVALDI &nbsp;(1705)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -688,7 +714,7 @@ L'Estravagante: <br>
 
 
 <p style="text-align:center">
-	6.29 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1733)
+	6.30 &nbsp;|&nbsp; GEORGE FRIDERIC HANDEL &nbsp;(1733)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -708,7 +734,7 @@ Andreas Staier <br>
 
 
 <p style="text-align:center">
-	6.30 &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
+	6.31 &nbsp;|&nbsp; JEAN-PHILIPPE RAMEAU &nbsp;(1727)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -731,7 +757,7 @@ Blandine Rannou <br>
 
 
 <p style="text-align:center">
-	6.31 &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
+	6.32 &nbsp;|&nbsp; DIETRICH BUXTEHUDE &nbsp;(c. 1637–1707)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -751,7 +777,7 @@ Simone Stella <br>
 
 
 <p style="text-align:center">
-	6.32 &nbsp;|&nbsp; FRANÇOIS COUPERIN &nbsp;(1728)
+	6.33 &nbsp;|&nbsp; FRANÇOIS COUPERIN &nbsp;(1728)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -775,7 +801,7 @@ Simone Stella <br>
 
 
 <p style="text-align:center">
-	6.33 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
+	6.34 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1720)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -804,7 +830,7 @@ Isabelle Faust <br>
 
 
 <p style="text-align:center">
-	6.34 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1944)
+	6.35 &nbsp;|&nbsp; BÉLA BARTÓK &nbsp;(1944)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
