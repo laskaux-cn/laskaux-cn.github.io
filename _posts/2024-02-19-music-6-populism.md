@@ -85,22 +85,22 @@ MICHAEL TILSON THOMAS
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://youtu.be/bVfot8Og4yw&t=0s">
+<a href="https://www.youtube.com/watch?v=6-yv6S2tlGw&list=OLAK5uy_mK7-8pMrx95pA0LgHiyDrOcUSnt3FshQM&index=1">
 	<i>Billy the Kid</i> : <nobr>I. "The open prairie"</nobr>
 </a>
 –
-<a href="https://youtu.be/bVfot8Og4yw&t=198s">
+<a href="https://www.youtube.com/watch?v=q_S0M6HIeQo&list=OLAK5uy_mK7-8pMrx95pA0LgHiyDrOcUSnt3FshQM&index=2">
 	<nobr>II. "Street scene in a frontier town"</nobr>
 </a>
 </h4>
 
 <p style="text-align:center; color:grey">
-<img src="/assets/img/albums/copland-copland.png" width="800"> <br>
+<img src="/assets/img/albums/slatkin-copland-rodeo.png" width="800"> <br>
 
-London Symphony Orchestra <br>
-AARON COPLAND 
+St. Louis Symphony Orchestra <br>
+LEONARD SLATKIN 
 <br>
-<span style="font-size:0.87em">(Walthamstow Assembly Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1969-11/12)</nobr> </span> </p> 
+<span style="font-size:0.87em">(Powell Hall, <nobr>St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1985-10)</nobr> </span> </p> 
 
 <br>
 
