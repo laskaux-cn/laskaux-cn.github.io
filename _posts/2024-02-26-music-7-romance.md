@@ -63,7 +63,7 @@ ARNOLD ÖSTMAN
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=fTY-4zlPPQY&list=PL8AhTXrM6LH0kU7eMSumLxV4fK_q-18uX&index=30">
-	<i>Die lustige Witwe</i> : <nobr>III/xv. "Lippen schweigen"</nobr>
+	<i>Die lustige Witwe</i> : <nobr>III. "Lippen schweigen"</nobr>
 </a>  
 </h4>
 
@@ -82,7 +82,7 @@ HEINZ WALLBERG
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
+	7.4 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -106,7 +106,7 @@ RAPHAËL PICHON
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1838)
+	7.5 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1838)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -132,7 +132,31 @@ JOHN NELSON
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; GILES FARNABY &nbsp;(c. 1563–1640)
+	7.6 &nbsp;|&nbsp; GIACOMO PUCCINI &nbsp;(1904)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=jiCt_S5ksmQ&list=OLAK5uy_mkaiQhK5NGH0kvH3CSDY-H6Uhf_25xcEQ&index=22">
+	<i>Madama Butterfly</i> : 
+	<nobr>II.i. "Un bel dì, vedremo"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
+
+Veronika Kincses <br>
+Magyar Állami Operaház <nobr>Zenekara & Kamarakórusa</nobr> <br>
+GUISEPPE PATANÉ
+<br>
+<span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	7.7 &nbsp;|&nbsp; GILES FARNABY &nbsp;(c. 1563–1640)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center">
@@ -154,7 +178,7 @@ Jovanka Marville <br>
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1801)
+	7.8 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1801)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center">
@@ -176,7 +200,7 @@ Steven Lubin <br>
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1902)
+	7.11 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1902)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -198,7 +222,7 @@ BERNARD HAITINK
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+	7.12 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
