@@ -636,7 +636,7 @@ Christophe Rousset <br>
 
 
 <p style="text-align:center">
-	3.28 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1742)
+	3.28 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1752)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
