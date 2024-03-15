@@ -156,7 +156,31 @@ JOHN NELSON
 
 
 <p style="text-align:center">
-	7.7 &nbsp;|&nbsp; GILES FARNABY &nbsp;(c. 1563–1640)
+	7.7 &nbsp;|&nbsp; FREDERICK LOEWE &nbsp;(1956)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=tGlH0JDMSGM&list=OLAK5uy_kh3mxBefVDqctUEkddJHG7rIHl0lfpvtA&index=9">
+	<i>My Fair Lady</i> : 
+	<nobr>I.vii. "On the Street Where You Live"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mauceri-my-fair-lady.png" width="800"> <br>
+
+Jerry Hadley <br>
+London Symphony Orchestra <br>
+JOHN MAUCERI
+<br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-02/05)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	7.8 &nbsp;|&nbsp; GILES FARNABY &nbsp;(c. 1563–1640)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center">
@@ -178,7 +202,7 @@ Jovanka Marville <br>
 
 
 <p style="text-align:center">
-	7.8 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1801)
+	7.9 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1801)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center">
@@ -200,7 +224,7 @@ Steven Lubin <br>
 
 
 <p style="text-align:center">
-	7.X &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1755)
+	7.10 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1755)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -221,7 +245,7 @@ Peter-Jan Belder <br>
 
 
 <p style="text-align:center">
-	7.11 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1902)
+	7.12 &nbsp;|&nbsp; GUSTAV MAHLER &nbsp;(1902)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -243,7 +267,7 @@ BERNARD HAITINK
 
 
 <p style="text-align:center">
-	7.12 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+	7.13 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -264,7 +288,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	7.13 &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1888)
+	7.14 &nbsp;|&nbsp; ПЁТР ЧАЙКОВСКИЙ &nbsp;(1888)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -289,7 +313,7 @@ FERENC FRICSAY <br>
 
 
 <p style="text-align:center">
-	7.14 &nbsp;|&nbsp; СЕРГЕЙ РАХМАНИНОВ &nbsp;(1907)
+	7.15 &nbsp;|&nbsp; СЕРГЕЙ РАХМАНИНОВ &nbsp;(1907)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

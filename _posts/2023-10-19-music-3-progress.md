@@ -430,7 +430,7 @@ GUSTAV LEONHARDT <span style="font-size:0.3em">&nbsp;</span>&<span style="font-s
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=QfwMTl01y3o&list=OLAK5uy_kKBlV3JQgkNHFWl9Cb5m75CWrK25bTxZA&index=8">
+<a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
 	Klaviersonate D-dur, 
 	<nobr>Op. 30 № 3 / Hob. XVI:37 / L. 50</nobr> : 
 	<nobr>II. Largo e sostenuto</nobr>
