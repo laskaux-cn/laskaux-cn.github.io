@@ -69,7 +69,7 @@ LORIN MAAZEL
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/svetlanov-rachmaninov.png" width="800"> <br>
 
-Государственный симфонический оркестр СССР <br>
+Государственный академический <nobr>симфонический оркестр СССР</nobr> <br>
 ЕВГЕНИЙ СВЕТЛАНОВ 
 <br>
 <span style="font-size:0.87em">(Большой зал Московской консерватории, <nobr>Москва 

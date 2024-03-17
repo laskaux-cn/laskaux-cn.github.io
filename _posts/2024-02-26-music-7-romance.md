@@ -104,9 +104,31 @@ HEINZ WALLBERG
 <br>
 
 
+<p style="text-align:center">
+	7.5 &nbsp;|&nbsp; JEROME KERN &nbsp;(1927)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=daEREN23Ugc&list=PLeSvAgVi4cK9WWQt6RQjmU0aFz6oh_N3g&index=9&t=203s">
+	<i>Show Boat</i> : <nobr>I.i. "Make Belive"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/mcglinn-show-boat.png" width="800"> <br>
+
+Jerry Hadley / Frederica von Stade <br>
+London Sinfonietta  <br>
+JOHN McGLINN 
+<br>
+<span style="font-size:0.87em">(Abbey Road Studios, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-06/08)</nobr> </span> </p> 
+
+<br>
+
+
 
 <p style="text-align:center">
-	7.5 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
+	7.6 &nbsp;|&nbsp; GIOVANNI PAISIELLO &nbsp;(1782)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -130,7 +152,7 @@ RAPHAËL PICHON
 
 
 <p style="text-align:center">
-	7.6 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1838)
+	7.7 &nbsp;|&nbsp; HECTOR BERLIOZ &nbsp;(1838)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 
@@ -154,28 +176,6 @@ JOHN NELSON
 <br>
 
 
-
-<p style="text-align:center">
-	7.7 &nbsp;|&nbsp; FREDERICK LOEWE &nbsp;(1956)
-</p>
-<p style="margin-bottom:-0.6em"> </p>
-<h4 style="text-align:center"> 
-<a href="https://www.youtube.com/watch?v=tGlH0JDMSGM&list=OLAK5uy_kh3mxBefVDqctUEkddJHG7rIHl0lfpvtA&index=9">
-	<i>My Fair Lady</i> : 
-	<nobr>I.vii. "On the Street Where You Live"</nobr>
-</a>
-</h4>
-
-<p style="text-align:center; color:grey">
-<img src="/assets/img/albums/mauceri-my-fair-lady.png" width="800"> <br>
-
-Jerry Hadley <br>
-London Symphony Orchestra <br>
-JOHN MAUCERI
-<br>
-<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987-02/05)</nobr> </span> </p> 
-
-<br>
 
 
 
