@@ -1170,7 +1170,48 @@ JOHN MAUCERI
 <br>
 
 
+<p style="text-align:center">
+	7.10 &nbsp;|&nbsp; DOMENICO SCARLATTI &nbsp;(1755)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=plhpTKabZHY&list=OLAK5uy_lbRpK0Y2kdY1g7VH-UE_r6vr9hQVGQr_Q&index=37">
+	Sonata in fa minore per tastiera, 
+	<nobr>K. 481 / L. 187</nobr>
+</a>
+</h4>
 
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/belder-scarlatti.png" width="800"> <br>
+
+Peter-Jan Belder <br>
+<span style="font-size:0.87em">(Penninckshuis, <nobr>Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2007)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center">
+	7.X &nbsp;|&nbsp; GIACOMO PUCCINI &nbsp;(1904)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=jiCt_S5ksmQ&list=OLAK5uy_mkaiQhK5NGH0kvH3CSDY-H6Uhf_25xcEQ&index=22">
+	<i>Madama Butterfly</i> : 
+	<nobr>II.i. "Un bel dì, vedremo"</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/patane-butterfly.png" width="800"> <br>
+
+Veronika Kincses <br>
+Magyar Állami Operaház Zenekara <br>
+GUISEPPE PATANÉ
+<br>
+<span style="font-size:0.87em">(<nobr>Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1980)</nobr> </span> </p> 
+
+<br>
 
 
 

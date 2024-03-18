@@ -418,7 +418,7 @@ Pražákovo kvarteto: <br>
 <h4 style="text-align:center"> 
 <a href="https://www.youtube.com/watch?v=JEofuLMeGX0&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=31">
 	<i>Goldberg-Variationen</i> : 
-	<nobr>XXX. Quodlibet</nobr>
+	<nobr>Variatio 30</nobr>
 </a>
 </h4>
 
