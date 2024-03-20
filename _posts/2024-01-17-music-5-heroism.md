@@ -800,7 +800,7 @@ PHILIPPE HERREWEGHE
 	Symfonie № 9 : <nobr>I. Adagio–Allegro molto</nobr> 
 </a>
 –
-<a href="https://www.youtube.com/watch?v=TrCbRZV252c&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=2">
+<a href="https://www.youtube.com/watch?v=3ZF4n7lshik&list=OLAK5uy_kE2nUJWiQY4a4W-OeNl0PKnpp5NWZoKZI&index=4">
 	<nobr>IV. Allegro con fuoco</nobr>
 </a>
 </h4>
