@@ -1215,6 +1215,60 @@ GUISEPPE PATANÉ
 
 
 
+<p style="text-align:center">
+	7.13 &nbsp;|&nbsp; JOHANN SEBASTIAN BACH &nbsp;(1741)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<i>Goldberg-Variationen</i> : 
+<nobr>
+<a href="https://www.youtube.com/watch?v=u2oNIDjWSbY&list=OLAK5uy_lZocaLEG1DwqIosYIKLCanfXmAOU_YDoY&index=1">
+	Aria 
+</a>
+–
+<a href="https://www.youtube.com/watch?v=8Y_hI10Cu-o&list=OLAK5uy_lZocaLEG1DwqIosYIKLCanfXmAOU_YDoY&index=14">
+	Variatio 13
+</a>
+–
+<a href="https://www.youtube.com/watch?v=tQ86QCD7QJI&list=OLAK5uy_lZocaLEG1DwqIosYIKLCanfXmAOU_YDoY&index=32">
+	Aria da capo
+</a>
+</nobr>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/devine-goldberg.png" width="800"> <br>
+
+Steven Devine <br>
+<span style="font-size:0.87em">(Potton Hall, <nobr>Westleton, Suffolk &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2010-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+
+<p style="text-align:center">
+	6.18 &nbsp;|&nbsp; LUDWIG VAN BEETHOVEN &nbsp;(1824)
+</p>
+<p style="margin-bottom:-0.6em"> </p>
+<h4 style="text-align:center"> 
+<a href="https://www.youtube.com/watch?v=agligoLgauA&list=OLAK5uy_loYpdgXYfYlZknqcorhtxMwy_xed9NfYY&index=2">
+	Sinfonie № 9 : <nobr>II. Molto vivace</nobr>
+</a>
+</h4>
+
+<p style="text-align:center; color:grey">
+<img src="/assets/img/albums/bruggen-beethoven9.png" width="800"> <br>
+
+Orkest van de 18e Eeuw <br>
+FRANS BRÜGGEN
+<br>
+<span style="font-size:0.87em">(Muziekcentrum Vredenburg, <nobr>Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992-11)</nobr> </span> </p> 
+
+<br>
+
+
+
 
 
 

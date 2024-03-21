@@ -479,7 +479,7 @@ Concertgebouworkest <br>
 <p style="text-align:center; color:grey">
 <img src="/assets/img/albums/markevitch-sym-fantas.png" width="800"> <br>
 
-Orchestre Lamoureux <br>
+Orchestre des Concerts Lamoureux <br>
 ИГОРЬ МАРКЕВИЧ 
 <br>
 <span style="font-size:0.87em">(Maison de la Mutualité, <nobr>Paris 
