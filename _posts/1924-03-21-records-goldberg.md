@@ -33,6 +33,18 @@ Pierre Hantaï <br>
 
 
 <p style="text-align:center; color:grey">
+<a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
+	<img src="/assets/img/albums/cole-goldberg.png" width="800"> 
+</a> <br>
+
+Maggie Cole <br>
+<span style="font-size:0.87em">(Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990-06)</nobr> </span> </p> 
+
+<br>
+
+
+
+<p style="text-align:center; color:grey">
 <a href="https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1">
 	<img src="/assets/img/albums/verlet-goldberg.png" width="800"> 
 </a> <br>
