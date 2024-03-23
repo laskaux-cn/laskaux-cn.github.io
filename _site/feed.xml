@@ -5,13 +5,13 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 23 Mar 2024 16:50:07 -0400</pubDate>
+    <pubDate>Sat, 23 Mar 2024 17:04:51 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; Goldberg&amp;#8209;Variationen</title>
         <link>/2024/03/21/muisc-notes-goldberg.html</link>
         <guid isPermaLink="true">/2024/03/21/muisc-notes-goldberg.html</guid>
-        <description>&lt;p&gt;「哥德堡变奏曲 」&lt;/p&gt;
+        <description>&lt;p&gt;有一次在巴赫在场的时候，伯爵提及他希望（巴赫）能为哥德堡创作些键盘作品，作品最好能有流畅和活泼的特点，以便在他不眠之夜的时候能使他高兴起来。巴赫认为实现这个愿望的最好方式是通过变奏曲，但因为这类写作是基于不断重复的类似和声为基础，在那以前他一直认为这是个相当烦人的任务。但由于此时他所有的作品已经是艺术经典了，这些变奏曲也终将在他的手上成为经典。然而他只创作了一套此类的作品。此后，伯爵总是称他们为“他的变奏曲”，并从未厌倦他们，并在相当长一段时间失眠的夜里说：“亲爱的哥德堡，请为我演奏我的变奏曲中的一首。&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
@@ -27,7 +27,7 @@
 	Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
-	Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours
+	Paris: Chapelle de l’hôpital &lt;nobr&gt;Notre-Dame&lt;/nobr&gt; de Bon Secours
 (2000.11) &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
@@ -36,7 +36,7 @@
 	Blandine Verlet, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
-	Castres: Église Saint-Hippolyte de Lagriffoul 
+	Castres: Église &lt;nobr&gt;Saint-Hippolyte&lt;/nobr&gt; de Lagriffoul 
 (1992.09) &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
@@ -124,7 +124,7 @@ Simone Stella, &lt;i&gt;hpd&lt;/i&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
 Concert № 4 en mi mineur: &lt;nobr&gt;V. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt; / 市瀬礼子, &lt;i&gt;viol&lt;/i&gt; 
+Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt; / &lt;span style=&quot;font-family:Ming&quot;&gt;市瀬礼子&lt;/span&gt;, &lt;i&gt;viol&lt;/i&gt; 
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
 	East Woodhay, Hampshire: St Martin’s Church 
 (1994.10) &lt;/p&gt;

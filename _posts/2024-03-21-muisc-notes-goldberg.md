@@ -7,7 +7,7 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-「哥德堡变奏曲 」
+有一次在巴赫在场的时候，伯爵提及他希望（巴赫）能为哥德堡创作些键盘作品，作品最好能有流畅和活泼的特点，以便在他不眠之夜的时候能使他高兴起来。巴赫认为实现这个愿望的最好方式是通过变奏曲，但因为这类写作是基于不断重复的类似和声为基础，在那以前他一直认为这是个相当烦人的任务。但由于此时他所有的作品已经是艺术经典了，这些变奏曲也终将在他的手上成为经典。然而他只创作了一套此类的作品。此后，伯爵总是称他们为“他的变奏曲”，并从未厌倦他们，并在相当长一段时间失眠的夜里说：“亲爱的哥德堡，请为我演奏我的变奏曲中的一首。
 
 
 ---
@@ -25,7 +25,7 @@ tags: music
 	Céline Frisch, <i>hpd</i> 
 </a>
 &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
-	Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours
+	Paris: Chapelle de l’hôpital <nobr>Notre-Dame</nobr> de Bon Secours
 (2000.11) </p>
 
 
@@ -35,7 +35,7 @@ tags: music
 	Blandine Verlet, <i>hpd</i> 
 </a>
 &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
-	Castres: Église Saint-Hippolyte de Lagriffoul 
+	Castres: Église <nobr>Saint-Hippolyte</nobr> de Lagriffoul 
 (1992.09) </p>
 
 
@@ -129,7 +129,7 @@ Simone Stella, <i>hpd</i>
 <a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
 Concert № 4 en mi mineur: <nobr>V. Sarabande</nobr> </a><br>
 
-Laurence Cummings, <i>hpd</i> / 市瀬礼子, <i>viol</i> 
+Laurence Cummings, <i>hpd</i> / <span style="font-family:Ming">市瀬礼子</span>, <i>viol</i> 
 &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 
 	East Woodhay, Hampshire: St Martin’s Church 
 (1994.10) </p>
