@@ -5,404 +5,145 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 23 Mar 2024 13:47:43 -0400</pubDate>
+    <pubDate>Sat, 23 Mar 2024 16:50:07 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; Goldberg&amp;#8209;Variationen</title>
         <link>/2024/03/21/muisc-notes-goldberg.html</link>
         <guid isPermaLink="true">/2024/03/21/muisc-notes-goldberg.html</guid>
-        <description>&lt;p style=&quot;text-align:center&quot;&gt;
-	1.0 &amp;nbsp;|&amp;nbsp; JOHANN SEBASTIAN BACH &amp;nbsp;(1741)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-	&lt;i&gt;Goldberg-Variationen&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
-	&lt;nobr&gt;BWV 988&lt;/nobr&gt;
-&lt;/h4&gt;
+        <description>&lt;p&gt;「哥德堡变奏曲 」&lt;/p&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;hr /&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
+
+[1.0]&amp;nbsp; &lt;b&gt;
+	Johann Sebastian Bach
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1741) &lt;br /&gt;
+&lt;i&gt;Goldberg-Variationen&lt;/i&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/frisch-goldberg.png&quot; width=&quot;800&quot; /&gt; 
-&lt;/a&gt; &lt;br /&gt;
+	Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours
+(2000.11) &lt;/p&gt;
 
-Céline Frisch &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Chapelle de l'hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=L15pXCnYbQo&amp;amp;list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/verlet-goldberg.png&quot; width=&quot;800&quot; /&gt; 
-&lt;/a&gt; &lt;br /&gt;
+	Blandine Verlet, &lt;i&gt;hpd&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Castres: Église Saint-Hippolyte de Lagriffoul 
+(1992.09) &lt;/p&gt;
 
-Blandine Verlet &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Hippolyte de Lagriffoul, &lt;nobr&gt;Castres &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992-09)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=QxqSyRujNcI&amp;amp;list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/hantai-goldberg.png&quot; width=&quot;800&quot; /&gt;
-&lt;/a&gt; &lt;br /&gt;
+	Pierre Hantaï, &lt;i&gt;hpd&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Haarlem: Doopsgezinde Kerk 
+(1992.06) &lt;/p&gt;
 
-Pierre Hantaï &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Doopsgezinde Kerk, &lt;nobr&gt;Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nMhIEoTdOjw&amp;amp;list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/cole-goldberg.png&quot; width=&quot;800&quot; /&gt; 
-&lt;/a&gt; &lt;br /&gt;
+	Maggie Cole, &lt;i&gt;hpd&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	London: Henry Wood Hall
+(1990.06) &lt;/p&gt;
 
-Maggie Cole &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Henry Wood Hall, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=mrkEzsWJlwA&amp;amp;list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/koopman-goldberg.png&quot; width=&quot;800&quot; /&gt;
-&lt;/a&gt; &lt;br /&gt;
+	Ton Koopman, &lt;i&gt;hpd&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Utrecht: Maria Minor
+(1987.05) &lt;/p&gt;
 
-Ton Koopman &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Maria Minor, &lt;nobr&gt;Utrecht &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=43sTxRVpRBM&amp;amp;list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&amp;amp;index=1&quot;&gt;
-	&lt;img src=&quot;/assets/img/albums/gould-goldberg81.png&quot; width=&quot;800&quot; /&gt;
-&lt;/a&gt; &lt;br /&gt;
+	Glenn Gould, &lt;i&gt;pf&lt;/i&gt; 
+&lt;/a&gt;
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	New York: Columbia 30th Street Studio
+(1981.04–05) &lt;/p&gt;
 
-Glenn Gould &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Columbia 30th Street Studio, &lt;nobr&gt;New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1981-04/05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+[1.1]&amp;nbsp; &lt;b&gt;Giles Farnaby&lt;/b&gt; 
+&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(c. 1563–1640) &lt;br /&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; GILES FARNABY &amp;nbsp;(c. 1563–1640)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
-	&lt;i&gt;Tell mee, Daphne&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
-	&lt;nobr&gt;FVB 280&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
+&lt;i&gt;Tell mee, Daphne&lt;/i&gt;, &lt;nobr&gt;FVB 280&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marville-farnaby.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Jovanka Marville &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Salle de la Fondation Tibor Varga, &lt;nobr&gt;Sion
+Jovanka Marville, &lt;i&gt;hpd&lt;/i&gt; 
 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 
-2006-07)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+	Sion: Salle de la Fondation Tibor Varga 
+(2006.07) &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; DIETRICH BUXTEHUDE &amp;nbsp;(c. 1637–1707)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=vzH1ss65CJA&amp;amp;list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&amp;amp;index=3&quot;&gt;
-	Suite C-dur, &lt;nobr&gt;BuxWV 230&lt;/nobr&gt; : &lt;nobr&gt;III. Sarabande&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
+[1.2]&amp;nbsp; &lt;b&gt;Dietrich Buxtehude&lt;/b&gt; 
+&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1637–1707) &lt;br /&gt; &lt;/p&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/stella-buxtehude.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Simone Stella &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(OnClassical Studio, &lt;nobr&gt;Pove del Grappa &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; FRANÇOIS COUPERIN &amp;nbsp;(1722)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=NHHHgyDBjmg&amp;amp;list=OLAK5uy_nKnF-ce21C5-n30ORcR9MqJRHm4BpMiUE&amp;amp;index=22&quot;&gt;
-	Concert № 4 en mi mineur : 
-	&lt;nobr&gt;V. Sarabande&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/cummings-couperin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-&lt;nobr&gt;Laurence Cummings /&lt;/nobr&gt;
-&lt;nobr&gt;市瀬礼子 &lt;/nobr&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[hpd–viol] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(St Martin's Church, East Woodhay, &lt;nobr&gt;Hampshire &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
-1994-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; DIETRICH BUXTEHUDE &amp;nbsp;(c. 1637–1707)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=4o6Tjz11p-0&amp;amp;list=OLAK5uy_naXpxQa8KivPLR59tNUVpdetKzQAWKFCw&amp;amp;index=5&quot;&gt;
-	Suite C-dur, &lt;nobr&gt;BuxWV 226&lt;/nobr&gt; : &lt;nobr&gt;III. Sarabandes&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
+Suite C-dur, &lt;nobr&gt;BuxWV 226&lt;/nobr&gt;: &lt;nobr&gt;III. Sarabandes&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/frisch-buxtehude.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours
+(2008.08) &lt;/p&gt;
 
-Céline Frisch &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Chapelle de l'hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2008-08)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=vzH1ss65CJA&amp;amp;list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&amp;amp;index=3&quot;&gt;
+Suite C-dur, &lt;nobr&gt;BuxWV 230&lt;/nobr&gt;: &lt;nobr&gt;III. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+Simone Stella, &lt;i&gt;hpd&lt;/i&gt; 
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	Pove del Grappa: OnClassical Studio
+(2010.11) &lt;/p&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; FRANCESCO SPINACINO &amp;nbsp;&lt;nobr&gt;(1507)&lt;/nobr&gt;
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=0ikegfV1dHY&amp;amp;list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&amp;amp;index=22&quot;&gt;
-	Recercare № 12
-&lt;/a&gt;
-&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/ragossnig-spinacino.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+[1.3]&amp;nbsp; &lt;b&gt;François Couperin&lt;/b&gt; 
+&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(c. 1563–1640) &lt;br /&gt;
 
-Konrad Ragossnig &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Plenarsaal der Akademie der Wissenschaften, Residenz, &lt;nobr&gt;München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973-10)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
+Concert № 4 en mi mineur: &lt;nobr&gt;V. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt; / 市瀬礼子, &lt;i&gt;viol&lt;/i&gt; 
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+	East Woodhay, Hampshire: St Martin’s Church 
+(1994.10) &lt;/p&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; WILLIAM BYRD &amp;nbsp;(c. 1540–1623)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=LBroEjQNAHQ&amp;amp;list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&amp;amp;index=12&quot;&gt;
-	Fantasia in G major, &lt;nobr&gt;T. 465 / MB 62 / FVB 261&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p style=&quot;font-family:Palatino; font-size:1.1em&quot;&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/cuiller-byrd.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+[1.X]&amp;nbsp; &lt;b&gt;George Frideric Handel&lt;/b&gt; 
+&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1733) &lt;br /&gt;
 
-Bertrand Cuiller &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Chapelle de l'hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005-02)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; DIETRICH BUXTEHUDE &amp;nbsp;(c. 1637–1707)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=7C1V-sS4Viw&amp;amp;list=OLAK5uy_l1mnQ9hxDMFC4mj4JAk0A3xpoBAMsnfmk&amp;amp;index=5&quot;&gt;
-	Präludium g-moll, &lt;nobr&gt;BuxWV 149&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/chapuis-buxtehude.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Michel Chapuis &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Maximin, &lt;nobr&gt;Thionville &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1972-05/09)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; FRANÇOIS COUPERIN &amp;nbsp;(1724)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=ID9q6XjwlXQ&amp;amp;t=424s&quot;&gt;
-	Concert № 7 en sol mineur : 
-	&lt;nobr&gt;IV. Fuguéte&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/kuijken-couperin.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-&lt;nobr&gt;Sigiswald Kuijken /&lt;/nobr&gt;
-&lt;nobr&gt;Robert Kohnen &lt;/nobr&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–hpd] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Singelkerk, &lt;nobr&gt;Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
-1974-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; PANCRACE ROYER &amp;nbsp;(1746)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=Tm3HI0XYoRs&amp;amp;list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&amp;amp;index=11&quot;&gt;
-	&lt;i&gt;Le Vertigo&lt;/i&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/rousset-royer.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Christophe Rousset &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Hippolyte de Lagriffoul, &lt;nobr&gt;Castres &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991-08)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; DOMENICO SCARLATTI &amp;nbsp;(1752)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=qdPnxPeJU0I&amp;amp;list=OLAK5uy_lWlmkWFNg_uR5mszRj6yuZjxEQM-OUTHE&amp;amp;index=7&quot;&gt;
-	Sonata in la minore per tastiera, 
-	&lt;nobr&gt;K. 175 / L. 429&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/taylor-scarlatti.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Justin Taylor &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Théâtre des Quatre Saisons, &lt;nobr&gt;Gradignan &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017-12)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; CLAUDIO MONTEVERDI &amp;nbsp;(1638)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=lX7C5qWviH0&amp;amp;list=OLAK5uy_lnk6SfoLnbw-OUu5A0PLjn3nNZ-gsJsk8&amp;amp;index=24&amp;amp;t=1169s&quot;&gt;
-	&lt;i&gt;Il ballo delle ingrate&lt;/i&gt;&lt;span style=&quot;font-size:0.25em&quot;&gt;&amp;nbsp;&lt;/span&gt;,
-	&lt;nobr&gt;SV 167&lt;/nobr&gt; : 
-	&lt;nobr&gt;Entrata e ballo&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/cavina-monteverdi-ingrate.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-La Venexiana &lt;br /&gt;
-CLAUDIO CAVINA
-&lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Cappella di Santa Croce, Mondovì / Chiesa della Beata Vergine Maria del Monte Carmelo, Roletto&lt;nobr&gt; &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2004-11/&amp;#8203;2005-03)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; ARCANGELO CORELLI &amp;nbsp;(1700)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=TnxLstPy9mk&amp;amp;list=OLAK5uy_ljnNfbk6aLKBleFd7AITIX-_D_58-O6Ws&amp;amp;index=53&quot;&gt;
-	Sonata in re minore per violino e violone o cimbalo, &lt;nobr&gt;Op. 5 № 12&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/avison-corelli.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-The Avison Ensemble: &lt;br /&gt;
-&lt;nobr&gt;Pavlo Beznosiuk /&lt;/nobr&gt;
-&lt;nobr&gt;Richard Tunnicliffe /&lt;/nobr&gt;
-&lt;nobr&gt;Paula Chateauneuf / Roger Hamilton &lt;/nobr&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vc–lute/gtr–hpd] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(St George's Chesterton, &lt;nobr&gt;Cambridge &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2012-01)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; MARIN MARAIS &amp;nbsp;(1701)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;
-	&lt;i&gt;Les Folies d&amp;apos;Espagne&lt;/i&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/savall-marais.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-&lt;nobr&gt;Jordi Savall /&lt;/nobr&gt;
-&lt;nobr&gt;Hopkinson Smith /&lt;/nobr&gt; 
-&lt;nobr&gt;Anne Gallet &lt;/nobr&gt; &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[viol–lute–hpd] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Église Saint-Lambert, &lt;nobr&gt;Yvelines &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1975-06)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; ANTONIO VIVALDI &amp;nbsp;(1705)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;
-	Sonata in re minore per 2 violini e basso continuo : 
-	&lt;nobr&gt;Op. 1 № 12 / RV 63&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/lestravagante-vivaldi.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-L'Estravagante: &lt;br /&gt;
-&lt;nobr&gt;Stefano Montanari /&lt;/nobr&gt;
-&lt;nobr&gt;Stefano Rossi /&lt;/nobr&gt;
-&lt;nobr&gt;Francesco Galligioni / Maurizio Salerno &lt;/nobr&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;[vn–vn–vc–hpd] &lt;/span&gt; &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Studio Giardino, &lt;nobr&gt;Crema &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010-11)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; JEAN-PHILIPPE RAMEAU &amp;nbsp;(1727)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
-&lt;a href=&quot;https://www.youtube.com/watch?v=OXllQgFPpy8&amp;amp;list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&amp;amp;index=24&quot;&gt;
-	Suite en la mineur, &lt;nobr&gt;RCT 5&lt;/nobr&gt; : 
-&lt;/a&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Ai2j7Nx3XP4&amp;amp;list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&amp;amp;index=30&quot;&gt;
-	&lt;nobr&gt;VII. Gavotte et 6 doubles&lt;/nobr&gt;
-&lt;/a&gt;
-&lt;/h4&gt;
-
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/rannou-rameau.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
-
-Blandine Rannou &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Lycée Carnot, &lt;nobr&gt;Dijon &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000-07/08)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-	1.X &amp;nbsp;|&amp;nbsp; GEORGE FRIDERIC HANDEL &amp;nbsp;(1733)
-&lt;/p&gt;
-&lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
-&lt;h4 style=&quot;text-align:center&quot;&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=NX9QyjCIz14&amp;amp;list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&amp;amp;index=1&quot;&gt;
-	Chaconne in G major, HWV 435
-&lt;/a&gt;
-&lt;/h4&gt;
+Chaconne in G major, &lt;nobr&gt;HWV 435&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;p style=&quot;text-align:center; color:grey&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/staier-handel-chaconne.png&quot; width=&quot;800&quot; /&gt; &lt;br /&gt;
+Andreas Staier, &lt;i&gt;hpd&lt;/i&gt; 
+&amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 
+Berlin: Großer Aufnahmesaal, Funkhaus Nalepastraße 
+(2005.05) &lt;/p&gt;
 
-Andreas Staier &lt;br /&gt;
-&lt;span style=&quot;font-size:0.87em&quot;&gt;(Großer Aufnahmesaal, Funkhaus Nalepastraße, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005-05)&lt;/nobr&gt; &lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 </description>
         <pubDate>Thu, 21 Mar 2024 00:00:00 -0400</pubDate>
