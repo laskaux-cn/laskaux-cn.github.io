@@ -7,14 +7,13 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+<center> <b> 序 </b> </center>
+<p style="margin-bottom:0.5em"> </p>
 
-<span style="font-family:Noto Serif SC">孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以計，而索其情：一曰道，二曰天，三曰地，四曰將，五曰法。</span>
+本人自毕业以来退居科研二线，日常「不务正业」的时间显著增加。可由于多年深受实验室文化荼毒，养成了遇到奇怪知识总想随手记录的古板习好，在闲暇时分亦不消停。最近「学术休假」结束在即，想尝试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，权当纪念眼下即将一去不返的惬意时光。
 
-道者，令民與上同意，可與之死，可與之生，而不畏危也。天者，陰陽、寒暑、時制也。地者，高下、遠近、險易、廣狹、死生也。將者，智、信、仁、勇、嚴也。法者，曲制、官道、主用也。凡此五者，將莫不聞，知之者勝，不知者不勝。故校之以計而索其情，曰：主孰有道？將孰有能？天地孰得？法令孰行？兵眾孰強？士卒孰練？賞罰孰明？吾以此知勝負矣。
+既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如**音乐**。时常惋惜，对音乐艺术的三个核心环节——创作 (creation)、演绎 (interpretation) 和聆听 (listening)，自己目前的参与身份只是一个无关紧要的普通听众；但转念也会自我安慰——
 
-將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。計利以聽，乃為之勢，以佐其外。勢者，因利而制權也。兵者，詭道也。故能而示之不能，用而示之不用，近而示之遠，遠而示之近。利而誘之，亂而取之，實而備之，強而避之，怒而撓之，卑而驕之，佚而勞之，親而離之。攻其無備，出其不意。此兵家之勝，不可先傳也。
-
-夫未戰而廟算勝者，得算多也；未戰而廟算不勝者，得算少也。多算勝，少算不勝，而況於無算乎？吾以此觀之，勝負見矣。
 
 ---
 <p style="font-family:Lora; font-size:1.02em">
@@ -30,7 +29,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1">
 	Céline Frisch, <i>hpd</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/fr.png" height="11.5" width="17.5"/>&nbsp; 
 	Paris: Chapelle de l’hôpital <nobr>Notre-Dame</nobr> de Bon Secours
 (2000.11) </p>
 
@@ -40,7 +39,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1">
 	Blandine Verlet, <i>hpd</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/fr.png" height="11.5" width="17.5"/>&nbsp; 
 	Castres: Église <nobr>Saint-Hippolyte</nobr> de Lagriffoul 
 (1992.09) </p>
 
@@ -50,7 +49,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1">
 	Pierre Hantaï, <i>hpd</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/nl.png" height="11.5" width="17.5"/>&nbsp; 
 	Haarlem: Doopsgezinde Kerk 
 (1992.06) </p>
 
@@ -60,7 +59,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
 	Maggie Cole, <i>hpd</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/uk.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/uk.png" height="11.5" width="17.5"/>&nbsp; 
 	London: Henry Wood Hall
 (1990.06) </p>
 
@@ -70,7 +69,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1">
 	Ton Koopman, <i>hpd</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/nl.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/nl.png" height="11.5" width="17.5"/>&nbsp; 
 	Utrecht: Maria Minor
 (1987.05) </p>
 
@@ -80,7 +79,7 @@ tags: music
 <a href="https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1">
 	Glenn Gould, <i>pf</i> 
 </a>
-&nbsp;<img src="/assets/img/flags/us.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/us.png" height="11.5" width="17.5"/>&nbsp; 
 	New York: Columbia 30th Street Studio
 (1981.04–05) </p>
 
@@ -110,7 +109,7 @@ Jovanka Marville, <i>hpd</i>
 Suite C-dur, <nobr>BuxWV 226</nobr>: <nobr>III. Sarabandes</nobr> </a><br>
 
 Céline Frisch, <i>hpd</i> 
-&nbsp;<img src="/assets/img/flags/fr.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/fr.png" height="11.5" width="17.5"/>&nbsp; 
 	Paris: Chapelle de l’hôpital Notre-Dame de Bon Secours
 (2008.08) </p>
 
@@ -120,7 +119,7 @@ Céline Frisch, <i>hpd</i>
 Suite C-dur, <nobr>BuxWV 230</nobr>: <nobr>III. Sarabande</nobr> </a><br>
 
 Simone Stella, <i>hpd</i> 
-&nbsp;<img src="/assets/img/flags/it.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/it.png" height="11.5" width="17.5"/>&nbsp; 
 	Pove del Grappa: OnClassical Studio
 (2010.11) </p>
 
@@ -134,7 +133,7 @@ Simone Stella, <i>hpd</i>
 <a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
 Concert № 4 en mi mineur: <nobr>V. Sarabande</nobr> </a><br>
 
-Laurence Cummings, <i>hpd</i><span style="font-size:0.67em">&nbsp;</span>/<span style="font-size:0.67em">&nbsp;</span><span style="font-size:0.98; font-family:Noto Serif SC">市瀬礼子</span>, <i>viol</i>
+Laurence Cummings, <i>hpd</i><span style="font-size:0.67em">&nbsp;</span>/<span style="font-size:0.67em">&nbsp;</span><span style="font-size:0.98; font-family:Hiragino Mincho ProN">市瀬礼子</span>, <i>viol</i>
 &nbsp;<img src="/assets/img/flags/uk.png" height="11" width="17.5"/>&nbsp; 
 	East Woodhay, Hampshire: St Martin’s Church 
 (1994.10) </p>
@@ -150,7 +149,7 @@ Laurence Cummings, <i>hpd</i><span style="font-size:0.67em">&nbsp;</span>/<span 
 Chaconne in G major, <nobr>HWV 435</nobr> </a><br>
 
 Andreas Staier, <i>hpd</i> 
-&nbsp;<img src="/assets/img/flags/de.png" height="11" width="16.5"/>&nbsp; 
+&nbsp;<img src="/assets/img/flags/de.png" height="11.5" width="17.5"/>&nbsp; 
 Berlin: Großer Aufnahmesaal, Funkhaus Nalepastraße 
 (2005.05) </p>
 
