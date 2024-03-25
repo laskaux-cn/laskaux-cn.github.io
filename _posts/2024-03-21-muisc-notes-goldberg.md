@@ -377,6 +377,12 @@ Blandine Rannou, <i>hpd</i>
 	Dijon:</nobr> Lycée Carnot 
 (2000.07–08) </p>
 
+
+<img src="/assets/img/music-notes/goldberg/diabelli.png" width="800">
+
+<p style="margin-bottom:-0.6em"> </p>
+<span style="color:grey; font-size:0.9em"> Brautigam (2015) 与 Anderszewski (2000) 版 <nobr><i>Diabelli-Variationen</i></nobr> 录音：其中 Brautigam 演奏 Paul McNulty 仿制 Conrad Graf (1822) 早期钢琴；Anderszewski 演奏 Steinway 现代钢琴 </span>
+
 ---
 
 <center> <span style="font-size:1.05em"><b> 六 </b></span> </center>
@@ -403,7 +409,7 @@ Orpheus Chamber Orchestra
 <p style="font-family:Lora; font-size:1.02em">
 
 [1.x]<span style="font-size:0.75em">&nbsp;</span> <b>
-	Игорь Стравинский
+	Francis Poulenc
 </b><span style="font-size:0.5em">&nbsp;</span>(1938) <br>
 
 <a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9">
@@ -411,7 +417,7 @@ Concerto pour orgue, cordes et timbales, <nobr>FP 93</nobr> </a><br>
 
 <nobr>Marie-Claire Alain, <i>vn</i><span style="font-size:0.67em">&nbsp;</span>/<span style="font-size:0.67em">&nbsp;</span></nobr>Orchestre national de l’Office de radiodiffusion-télévision française, <nobr>Jean Martinon</nobr>
 <span style="font-size:0.75em">&nbsp;</span><nobr><img src="/assets/img/flags/fr.png" height="11.2" width="17"/><span style="font-size:0.75em">&nbsp;</span> 
-	Paris:</nobr> Studio, Maison de la Radio
+	Paris:</nobr> Studio 104, Maison de la Radio
 (1970.09) </p>
 
 ---
