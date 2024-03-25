@@ -795,7 +795,7 @@ Ronald Brautigam <br>
 
 
 <p style="text-align:center">
-	2.32 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1937)
+	2.32 &nbsp;|&nbsp; ДМИТРИЙ ШОСТАКОВИЧ &nbsp;(1951)
 </p>
 <p style="margin-bottom:-0.6em"> </p>
 <h4 style="text-align:center"> 

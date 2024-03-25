@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 25 Mar 2024 01:47:59 -0400</pubDate>
+    <pubDate>Mon, 25 Mar 2024 11:16:18 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; Goldberg&amp;#8209;Variationen</title>
@@ -14,9 +14,9 @@
         <description>&lt;center&gt; &lt;span style=&quot;font-size:1.05em&quot;&gt;&lt;b&gt; 序 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
 &lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
 
-&lt;p&gt;本人自毕业以来退居科研二线，日常「不务正业」的时间显著增加。可由于多年受实验室文化荼毒颇深，养成了遇到奇怪知识总想随手记录的古板习好，在闲暇时分亦不消停。眼看「学术休假」结束在即，于是想尝试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，权当纪念时下即将一去不返的惬意时光。&lt;/p&gt;
+&lt;p&gt;本人自毕业以来退居科研二线，日常「不务正业」的时间显著增加。可由于多年受实验室文化荼毒颇深，养成了遇到奇怪知识总想随手记录的古板习好，在闲暇时分亦不消停。眼看「学术休假」结束在即，于是想尝试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，且当纪念时下即将一去不返的惬意时光。&lt;/p&gt;
 
-&lt;p&gt;既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如&lt;strong&gt;音乐&lt;/strong&gt;。时常惋惜，在宏大精巧的音乐艺术面前，自己目前的参与身份只是一个无足轻重的普通听众；但转念也会自我安慰——聆听毕竟与创作 (creation)、演绎 (interpretation) 同属一部音乐作品生命的核心环节。更基本地说，任何试图长期维持生命力的创造性活动——无论科学、人文还是艺术——都需要对「非专业群体」保持开放的态度&lt;/p&gt;
+&lt;p&gt;既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如&lt;strong&gt;音乐&lt;/strong&gt;。时常惋惜，面对宏大精巧的音乐艺术，自己目前的参与身份只是一个无足轻重的普通听众；但转念也会自我安慰——聆听毕竟与创作 (creation)、演绎 (interpretation) 同属一部音乐作品生命的核心环节。更基本地说，任何试图长期维持生命力的创造性活动——无论科学、人文还是艺术——都需要对「非专业群体」保持开放的态度&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -32,7 +32,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;
 	Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Paris:&lt;/nobr&gt; Chapelle de l’hôpital &lt;nobr&gt;Notre-Dame&lt;/nobr&gt; de Bon Secours
 (2000.11) &lt;/p&gt;
 
@@ -41,7 +41,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=L15pXCnYbQo&amp;amp;list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&amp;amp;index=1&quot;&gt;
 	Blandine Verlet, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Castres:&lt;/nobr&gt; Église &lt;nobr&gt;Saint-Hippolyte&lt;/nobr&gt; de Lagriffoul 
 (1992.09) &lt;/p&gt;
 
@@ -50,7 +50,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=QxqSyRujNcI&amp;amp;list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&amp;amp;index=1&quot;&gt;
 	Pierre Hantaï, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Haarlem:&lt;/nobr&gt; Doopsgezinde Kerk 
 (1992.06) &lt;/p&gt;
 
@@ -59,7 +59,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=nMhIEoTdOjw&amp;amp;list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&amp;amp;index=1&quot;&gt;
 	Maggie Cole, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	London:&lt;/nobr&gt; Henry Wood Hall
 (1990.06) &lt;/p&gt;
 
@@ -68,7 +68,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=mrkEzsWJlwA&amp;amp;list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&amp;amp;index=1&quot;&gt;
 	Ton Koopman, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Utrecht:&lt;/nobr&gt; Maria Minor
 (1987.05) &lt;/p&gt;
 
@@ -77,7 +77,7 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=43sTxRVpRBM&amp;amp;list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&amp;amp;index=1&quot;&gt;
 	Glenn Gould, &lt;i&gt;pf&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	New York:&lt;/nobr&gt; Columbia 30th Street Studio
 (1981.04–05) &lt;/p&gt;
 
@@ -98,7 +98,7 @@
 &lt;i&gt;Tell mee, Daphne&lt;/i&gt;, &lt;nobr&gt;FVB 280&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Jovanka Marville, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;12&quot; width=&quot;12&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;12&quot; width=&quot;12&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Sion:&lt;/nobr&gt; Salle de la Fondation Tibor Varga (2006.07) &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -115,7 +115,7 @@ Jovanka Marville, &lt;i&gt;hpd&lt;/i&gt;
 Suite C-dur, &lt;nobr&gt;BuxWV 226&lt;/nobr&gt;: &lt;nobr&gt;III. Sarabandes&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Paris:&lt;/nobr&gt; Chapelle de l’hôpital Notre-Dame de Bon Secours
 (2008.08) &lt;/p&gt;
 
@@ -125,7 +125,7 @@ Céline Frisch, &lt;i&gt;hpd&lt;/i&gt;
 Suite C-dur, &lt;nobr&gt;BuxWV 230&lt;/nobr&gt;: &lt;nobr&gt;III. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Simone Stella, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Pove del Grappa:&lt;/nobr&gt; OnClassical Studio
 (2010.11) &lt;/p&gt;
 
@@ -141,8 +141,8 @@ Simone Stella, &lt;i&gt;hpd&lt;/i&gt;
 Concert № 4 en mi mineur: &lt;nobr&gt;V. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;span style=&quot;font-family:Hiragino Mincho ProN&quot;&gt;市瀬礼子&lt;/span&gt;, &lt;i&gt;viol&lt;/i&gt;&lt;/nobr&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
-	East&amp;nbsp;Woodhay, Hampshire:&lt;/nobr&gt; St Martin’s Church 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	East&amp;nbsp;Woodhay&lt;/nobr&gt;, Hampshire: St Martin’s Church 
 (1994.10) &lt;/p&gt;
 
 &lt;hr /&gt;
@@ -162,7 +162,7 @@ Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&q
 Recercare № 12 &lt;/a&gt;&lt;br /&gt;
 
 Konrad Ragossnig, &lt;i&gt;lute&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	München:&lt;/nobr&gt; Plenarsaal der Akademie der Wissenschaften, Residenz 
 (1973.10) &lt;/p&gt;
 
@@ -178,7 +178,7 @@ Konrad Ragossnig, &lt;i&gt;lute&lt;/i&gt;
 Fantasia in G major, &lt;nobr&gt;FVB 261&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Bertrand Cuiller, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Paris:&lt;/nobr&gt; Chapelle de l’hôpital Notre-Dame de Bon Secours
 (2005.02) &lt;/p&gt;
 
@@ -194,9 +194,25 @@ Bertrand Cuiller, &lt;i&gt;hpd&lt;/i&gt;
 Präludium g-moll, &lt;nobr&gt;BuxWV 149&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Michel Chapuis, &lt;i&gt;org&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Thionville:&lt;/nobr&gt; Église Saint-Maximin
 (1972.05–09) &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
+
+[1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+	François Couperin
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1722) &lt;br /&gt;
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
+Concert № 7 en sol mineur: &lt;nobr&gt;IV. Fuguéte&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
+
+Sigiswald Kuijken, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Robert Kohnen, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	Amsterdam:&lt;/nobr&gt; Singelkerk 
+(1974.11) &lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -209,8 +225,8 @@ Michel Chapuis, &lt;i&gt;org&lt;/i&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=J3lKxpQ12iA&amp;amp;list=OLAK5uy_kZ7jHwSGwC1Fm0I_kqQc3FAI0IxNec8PQ&amp;amp;index=40&quot;&gt;
 &lt;i&gt;Les Indes galantes&lt;/i&gt;, &lt;nobr&gt;RCT 44&lt;/nobr&gt;: &lt;nobr&gt;III.vii. “Tendre Amour”&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;nobr&gt;Sandrine Piau, &lt;i&gt;sop&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Noémi Rime, &lt;i&gt;sop&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Jean-Paul Fouchécourt, &lt;i&gt;ten&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Jérôme Correas, &lt;i&gt;bar&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Les Arts Florissants&lt;/nobr&gt;, &lt;nobr&gt;William Christie&lt;/nobr&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;nobr&gt;Sandrine Piau, &lt;i&gt;sop&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Noémi Rime, &lt;i&gt;sop&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Jean-Paul Fouchécourt, &lt;i&gt;ten&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Jérôme Correas, &lt;i&gt;bar&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Les Arts Florissants&lt;/nobr&gt;, &lt;nobr&gt;William Christie&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Paris:&lt;/nobr&gt; Ateliers Berthier
 (1991.01) &lt;/p&gt;
 
@@ -231,7 +247,7 @@ Michel Chapuis, &lt;i&gt;org&lt;/i&gt;
 Sonata in fa minore, &lt;nobr&gt;K. 481, L. 187&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Peter-Jan Belder, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Deventer:&lt;/nobr&gt; Penninckshuis 
 (2007) &lt;/p&gt;
 
@@ -252,7 +268,7 @@ Peter-Jan Belder, &lt;i&gt;hpd&lt;/i&gt;
 Chaconne in G major, &lt;nobr&gt;HWV 435&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Andreas Staier, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Berlin:&lt;/nobr&gt; Großer Aufnahmesaal, Funkhaus Nalepastraße 
 (2005.05) &lt;/p&gt;
 
@@ -272,8 +288,8 @@ Andreas Staier, &lt;i&gt;hpd&lt;/i&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=TnxLstPy9mk&amp;amp;list=OLAK5uy_ljnNfbk6aLKBleFd7AITIX-_D_58-O6Ws&amp;amp;index=53&quot;&gt;
 Sonata in re minore per violino e violone o cimbalo, &lt;nobr&gt;Op. 5 № 12&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;nobr&gt;Pavlo Beznosiuk, &lt;i&gt;vn&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Richard Tunnicliffe, &lt;i&gt;vc&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Paula Chateauneuf, &lt;i&gt;lute&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Roger Hamilton, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;nobr&gt;Pavlo Beznosiuk, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Richard Tunnicliffe, &lt;i&gt;vc&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Paula Chateauneuf, &lt;i&gt;lute&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Roger Hamilton, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Cambridge:&lt;/nobr&gt; St George’s Chesterton 
 (2012.01) &lt;/p&gt;
 
@@ -288,8 +304,8 @@ Sonata in re minore per violino e violone o cimbalo, &lt;nobr&gt;Op. 5 № 12&lt
 &lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;
 Sonata in re minore per 2 violini e basso continuo, &lt;nobr&gt;Op. 1 № 12, RV 63&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;nobr&gt;Stefano Montanari, &lt;i&gt;vn&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Stefano Rossi, &lt;i&gt;vn&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Francesco Galligioni, &lt;i&gt;vc&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Maurizio Salerno, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;nobr&gt;Stefano Montanari, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt; &lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Stefano Rossi, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Francesco Galligioni, &lt;i&gt;vc&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Maurizio Salerno, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Crema:&lt;/nobr&gt; Studio Giardino 
 (2010.01) &lt;/p&gt;
 
@@ -304,8 +320,8 @@ Sonata in re minore per 2 violini e basso continuo, &lt;nobr&gt;Op. 1 № 12, RV
 &lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=17&quot;&gt;
 &lt;i&gt;Les Folies d’Espagne&lt;/i&gt; &lt;/a&gt;&lt;br /&gt;
 
-&lt;nobr&gt;Jordi Savall, &lt;i&gt;viol&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Anne Gallet, &lt;i&gt;hpd&lt;/i&gt;&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;Hopkinson Smith, &lt;i&gt;lute&lt;/i&gt;&lt;/nobr&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;nobr&gt;Jordi Savall, &lt;i&gt;viol&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Anne Gallet, &lt;i&gt;hpd&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;&lt;nobr&gt;Hopkinson Smith, &lt;i&gt;lute&lt;/i&gt;&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Yvelines:&lt;/nobr&gt; Église Saint-Lambert 
 (1975.07) &lt;/p&gt;
 
@@ -321,7 +337,7 @@ Sonata in re minore per 2 violini e basso continuo, &lt;nobr&gt;Op. 1 № 12, RV
 Suite in E major, &lt;nobr&gt;HWV 430&lt;/nobr&gt;: &lt;nobr&gt;IV. Air and 5 variations&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Michael Borgstede, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Deventer:&lt;/nobr&gt; Penninckshuis 
 (2007.10–2008.01) &lt;/p&gt;
 
@@ -337,7 +353,7 @@ Michael Borgstede, &lt;i&gt;hpd&lt;/i&gt;
 Suite en la mineur, &lt;nobr&gt;RCT 5&lt;/nobr&gt;: &lt;nobr&gt;VII. Gavotte et 6 doubles&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Blandine Rannou, &lt;i&gt;hpd&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Dijon:&lt;/nobr&gt; Lycée Carnot 
 (2000.07–08) &lt;/p&gt;
 
@@ -354,13 +370,29 @@ Blandine Rannou, &lt;i&gt;hpd&lt;/i&gt;
 	Игорь Стравинский
 &lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1938) &lt;br /&gt;
 
-&lt;a href=&quot;https://www.youtube.com/watch?v=kkiTGS1KT7U&amp;amp;list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&amp;amp;index=9&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kkiTGS1KT7U&amp;amp;list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&amp;amp;index=9&amp;amp;t=9s&quot;&gt;
 Concerto in E-flat major &lt;nobr&gt;“Dumbarton Oaks”&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Orpheus Chamber Orchestra
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	New York:&lt;/nobr&gt; RCA 24th Street Studios
 (1982.04) &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
+
+[1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+	Игорь Стравинский
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1938) &lt;br /&gt;
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=kkiTGS1KT7U&amp;amp;list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&amp;amp;index=9&quot;&gt;
+Concerto pour orgue, cordes et timbales, &lt;nobr&gt;FP 93&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
+
+&lt;nobr&gt;Marie-Claire Alain, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;Orchestre national de l’Office de radiodiffusion-télévision française, &lt;nobr&gt;Jean Martinon&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	Paris:&lt;/nobr&gt; Studio, Maison de la Radio
+(1970.09) &lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -374,9 +406,41 @@ Orpheus Chamber Orchestra
 	Sonata for Solo Violin, &lt;nobr&gt;Sz. 117, BB 124&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 Виктория Муллова, &lt;i&gt;vn&lt;/i&gt; 
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Utrecht&lt;/nobr&gt; 
 (1987.06) &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
+
+[1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+	Дмитрий Шостакович
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1951) &lt;br /&gt;
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=Vl1bXruzWGQ&amp;amp;list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&amp;amp;index=1&quot;&gt;
+	24 прелюдии и фуги, &lt;nobr&gt;Op. 87&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
+
+Константин Щербаков, &lt;i&gt;pf&lt;/i&gt; 
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	East&amp;nbsp;Woodhay&lt;/nobr&gt;, Hampshire: St Martin’s Church 
+(1999.06) &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
+
+[1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+	Alban Berg
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1935) &lt;br /&gt;
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=wxRLgWYcW70&amp;amp;list=PL8AhTXrM6LH2PDbkNM4zEUB9dImnE-d7Z&amp;amp;index=2&quot;&gt;
+	Violinkonzert “Dem Andenken eines Engels”: &lt;nobr&gt;II. Allegro–Adagio&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
+
+&lt;nobr&gt;Arthur Grumiaux, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/nobr&gt;Concertgebouworkest, &lt;nobr&gt;Игорь Маркевич&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	Amsterdam:&lt;/nobr&gt; Concertgebouw
+(1967.01) &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -4870,7 +4934,7 @@ Ronald Brautigam &lt;br /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-	2.32 &amp;nbsp;|&amp;nbsp; ДМИТРИЙ ШОСТАКОВИЧ &amp;nbsp;(1937)
+	2.32 &amp;nbsp;|&amp;nbsp; ДМИТРИЙ ШОСТАКОВИЧ &amp;nbsp;(1951)
 &lt;/p&gt;
 &lt;p style=&quot;margin-bottom:-0.6em&quot;&gt; &lt;/p&gt;
 &lt;h4 style=&quot;text-align:center&quot;&gt; 
