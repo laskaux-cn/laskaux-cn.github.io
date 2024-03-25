@@ -380,7 +380,7 @@ Blandine Rannou, <i>hpd</i>
 
 <img src="/assets/img/music-notes/goldberg/diabelli.png" width="800">
 
-<p style="margin-bottom:-0.6em"> </p>
+<p style="margin-bottom:-1em"> </p>
 <span style="color:grey; font-size:0.9em"> Brautigam (2015) 与 Anderszewski (2000) 版 <nobr><i>Diabelli-Variationen</i></nobr> 录音：其中 Brautigam 演奏 Paul McNulty 仿制 Conrad Graf (1822) 早期钢琴；Anderszewski 演奏 Steinway 现代钢琴 </span>
 
 ---
