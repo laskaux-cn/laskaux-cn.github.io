@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 25 Mar 2024 14:46:04 -0400</pubDate>
+    <pubDate>Mon, 25 Mar 2024 16:24:08 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; Goldberg&amp;#8209;Variationen</title>
@@ -137,7 +137,7 @@ Simone Stella, &lt;i&gt;hpd&lt;/i&gt;
 	François Couperin
 &lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1722) &lt;br /&gt;
 
-&lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=NHHHgyDBjmg&amp;amp;list=OLAK5uy_nKnF-ce21C5-n30ORcR9MqJRHm4BpMiUE&amp;amp;index=22&quot;&gt;
 Concert № 4 en mi mineur: &lt;nobr&gt;V. Sarabande&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 &lt;nobr&gt;Laurence Cummings, &lt;i&gt;hpd&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;/nobr&gt; &lt;span style=&quot;font-size:0.67em&quot;&gt; 
@@ -205,9 +205,9 @@ Michel Chapuis, &lt;i&gt;org&lt;/i&gt;
 
 [1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
 	François Couperin
-&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1722) &lt;br /&gt;
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1724) &lt;br /&gt;
 
-&lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ID9q6XjwlXQ&amp;amp;t=424s&quot;&gt;
 Concert № 7 en sol mineur: &lt;nobr&gt;IV. Fuguéte&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
 
 &lt;nobr&gt;Sigiswald Kuijken, &lt;i&gt;vn&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;/nobr&gt; &lt;span style=&quot;font-size:0.67em&quot;&gt;
@@ -215,6 +215,24 @@ Concert № 7 en sol mineur: &lt;nobr&gt;IV. Fuguéte&lt;/nobr&gt; &lt;/a&gt;&lt
 &lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Amsterdam:&lt;/nobr&gt; Singelkerk 
 (1974.11) &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
+
+[1.x]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+	Henry Purcell
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1689) &lt;br /&gt;
+
+&lt;a href=&quot;https://www.youtube.com/watch?v=qVFK-lViUwo&amp;amp;list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&amp;amp;index=26&quot;&gt;
+&lt;i&gt;Dido and Aeneas&lt;/i&gt;, &lt;nobr&gt;Z. 626&lt;/nobr&gt;: &lt;nobr&gt;III.i. “Come away, fellow sailors”&lt;/nobr&gt; &lt;/a&gt;&lt;br /&gt;
+
+&lt;nobr&gt;Paul Agnew, &lt;i&gt;ten&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; 
+&lt;/span&gt;&lt;nobr&gt;European Voices, &lt;i&gt;ch&lt;/i&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt;&amp;nbsp;&lt;/span&gt;/&lt;/nobr&gt;&lt;span style=&quot;font-size:0.67em&quot;&gt; 
+&lt;/span&gt;&lt;nobr&gt;Le Concert d’Astrée&lt;/nobr&gt;, &lt;nobr&gt;Emmanuelle Haïm&lt;/nobr&gt;
+&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+	Metz:&lt;/nobr&gt; Arsenal
+(2003.03) &lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -370,11 +388,6 @@ Blandine Rannou, &lt;i&gt;hpd&lt;/i&gt;
 &lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Dijon:&lt;/nobr&gt; Lycée Carnot 
 (2000.07–08) &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/music-notes/goldberg/diabelli.png&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1em&quot;&gt; &lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:grey; font-size:0.9em&quot;&gt; Brautigam (2015) 与 Anderszewski (2000) 版 &lt;nobr&gt;&lt;i&gt;Diabelli-Variationen&lt;/i&gt;&lt;/nobr&gt; 录音：其中 Brautigam 演奏 Paul McNulty 仿制 Conrad Graf (1822) 早期钢琴；Anderszewski 演奏 Steinway 现代钢琴 &lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 

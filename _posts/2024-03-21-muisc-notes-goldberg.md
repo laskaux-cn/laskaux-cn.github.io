@@ -141,7 +141,7 @@ Simone Stella, <i>hpd</i>
 	François Couperin
 </b><span style="font-size:0.5em">&nbsp;</span>(1722) <br>
 
-<a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
+<a href="https://www.youtube.com/watch?v=NHHHgyDBjmg&list=OLAK5uy_nKnF-ce21C5-n30ORcR9MqJRHm4BpMiUE&index=22">
 Concert № 4 en mi mineur: <nobr>V. Sarabande</nobr> </a><br>
 
 <nobr>Laurence Cummings, <i>hpd</i><span style="font-size:0.67em">&nbsp;</span>/</nobr> <span style="font-size:0.67em"> 
@@ -211,9 +211,9 @@ Michel Chapuis, <i>org</i>
 
 [1.x]<span style="font-size:0.75em">&nbsp;</span> <b>
 	François Couperin
-</b><span style="font-size:0.5em">&nbsp;</span>(1722) <br>
+</b><span style="font-size:0.5em">&nbsp;</span>(1724) <br>
 
-<a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
+<a href="https://www.youtube.com/watch?v=ID9q6XjwlXQ&t=424s">
 Concert № 7 en sol mineur: <nobr>IV. Fuguéte</nobr> </a><br>
 
 <nobr>Sigiswald Kuijken, <i>vn</i><span style="font-size:0.67em">&nbsp;</span>/</nobr> <span style="font-size:0.67em">
@@ -221,6 +221,24 @@ Concert № 7 en sol mineur: <nobr>IV. Fuguéte</nobr> </a><br>
 <span style="font-size:0.75em">&nbsp;</span><nobr><img src="/assets/img/flags/nl.png" height="11.2" width="17"/><span style="font-size:0.75em">&nbsp;</span> 
 	Amsterdam:</nobr> Singelkerk 
 (1974.11) </p>
+
+---
+
+<p style="font-family:Lora; font-size:1.02em">
+
+[1.x]<span style="font-size:0.75em">&nbsp;</span> <b>
+	Henry Purcell
+</b><span style="font-size:0.5em">&nbsp;</span>(1689) <br>
+
+<a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
+<i>Dido and Aeneas</i>, <nobr>Z. 626</nobr>: <nobr>III.i. “Come away, fellow sailors”</nobr> </a><br>
+
+<nobr>Paul Agnew, <i>ten</i><span style="font-size:0.67em">&nbsp;</span>/</nobr><span style="font-size:0.67em"> 
+</span><nobr>European Voices, <i>ch</i><span style="font-size:0.67em">&nbsp;</span>/</nobr><span style="font-size:0.67em"> 
+</span><nobr>Le Concert d’Astrée</nobr>, <nobr>Emmanuelle Haïm</nobr>
+<span style="font-size:0.75em">&nbsp;</span><nobr><img src="/assets/img/flags/fr.png" height="11.2" width="17"/><span style="font-size:0.75em">&nbsp;</span> 
+	Metz:</nobr> Arsenal
+(2003.03) </p>
 
 ---
 
@@ -376,12 +394,6 @@ Blandine Rannou, <i>hpd</i>
 <span style="font-size:0.75em">&nbsp;</span><nobr><img src="/assets/img/flags/fr.png" height="11.2" width="17"/><span style="font-size:0.75em">&nbsp;</span> 
 	Dijon:</nobr> Lycée Carnot 
 (2000.07–08) </p>
-
-
-<img src="/assets/img/music-notes/goldberg/diabelli.png" width="800">
-
-<p style="margin-bottom:-1em"> </p>
-<span style="color:grey; font-size:0.9em"> Brautigam (2015) 与 Anderszewski (2000) 版 <nobr><i>Diabelli-Variationen</i></nobr> 录音：其中 Brautigam 演奏 Paul McNulty 仿制 Conrad Graf (1822) 早期钢琴；Anderszewski 演奏 Steinway 现代钢琴 </span>
 
 ---
 
