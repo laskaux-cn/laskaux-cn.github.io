@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 25 Mar 2024 16:24:08 -0400</pubDate>
+    <pubDate>Mon, 25 Mar 2024 23:59:20 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; Goldberg&amp;#8209;Variationen</title>
@@ -14,27 +14,99 @@
         <description>&lt;center&gt; &lt;span style=&quot;font-size:1.05em&quot;&gt;&lt;b&gt; 序 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
 &lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
 
-&lt;p&gt;本人自毕业以来退居科研二线，日常「不务正业」的时间显著增加。可由于多年受实验室文化荼毒颇深，养成了遇到奇怪知识总想随手记录的古板习好，在闲暇时分亦不消停。眼看「学术休假」结束在即，于是想尝试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，且当纪念时下即将一去不返的惬意时光。&lt;/p&gt;
+&lt;p&gt;本人自毕业以来暂时退居科研二线，日常「不务正业」的时间显著增加。可由于多年受实验室文化荼毒颇深，养成了遇到奇怪知识总想随手记录的古板习好，闲暇时分亦不消停。眼看「学术休假」结束在即，于是试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，且当纪念时下即将一去不返的惬意时光。&lt;/p&gt;
 
 &lt;p&gt;既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如&lt;strong&gt;音乐&lt;/strong&gt;。时常惋惜，面对宏大精巧的音乐艺术，自己目前的参与身份只是一个无足轻重的普通听众；但转念也会自我安慰——聆听毕竟与创作 (creation)、演绎 (interpretation) 同属一部音乐作品生命的核心环节。更基本地说，任何试图长期维持生命力的创造性活动——无论科学、人文还是艺术——都需要对「非专业群体」保持开放的态度&lt;/p&gt;
 
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.1 | &lt;strong&gt;Claudio Monteverdi&lt;/strong&gt; (1638)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lX7C5qWviH0&amp;amp;list=OLAK5uy_lnk6SfoLnbw-OUu5A0PLjn3nNZ-gsJsk8&amp;amp;index=24&amp;amp;t=1169s&quot;&gt; 
+  &lt;i&gt;Il ballo delle ingrate&lt;/i&gt;, &lt;nobr&gt;SV 167&lt;/nobr&gt;: &lt;nobr&gt;Entrata e ballo&lt;/nobr&gt; &lt;/a&gt; 
+  &lt;br /&gt; 
+  &lt;span style=&quot;font-size:0.9em&quot;&gt;
+  La Venexiana, &lt;nobr&gt;Claudio Cavina&lt;/nobr&gt;
+  &lt;/span&gt; 
+  &lt;br /&gt;
+  &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;Cappella di Santa Croce, Mondovì / Chiesa della Beata Vergine Maria del Monte Carmelo, Roletto  &lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;  2004.11–2005.03 &lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.2 | &lt;strong&gt;Edvard Grieg&lt;/strong&gt; (1876)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=g0elWYyBUTs&amp;amp;list=PLSol8Y79e93tE70vY4a8rlNhA3W9uDx_z&amp;amp;index=8&quot;&gt;&lt;i&gt;Peer Gynt&lt;/i&gt;, &lt;nobr&gt;Op. 23&lt;/nobr&gt;: II.vi. &quot;Slagt ham&quot;&lt;/a&gt;
+  &lt;br /&gt; 
+  &lt;span style=&quot;font-size:0.9em&quot;&gt;
+  Gösta Ohlins vokalensemble, &lt;i&gt;ch&lt;/i&gt; &lt;br /&gt;
+  Kammarkören Pro Musica, &lt;i&gt;ch&lt;/i&gt; &lt;br /&gt;
+  Göteborgs Symfoniker, Neeme Järvi &lt;br /&gt;
+  &lt;/span&gt;
+  &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+      Konserthus, &lt;nobr&gt;Göteborg &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.06 &lt;/nobr&gt; &lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.3 | &lt;strong&gt;Maurice Ravel&lt;/strong&gt; (1928)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1I5bGRz5tGQ&amp;amp;list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&amp;amp;index=2&quot;&gt; 
+  &lt;i&gt;Boléro&lt;/i&gt;, &lt;nobr&gt;M. 81&lt;/nobr&gt; 
+  &lt;/a&gt; &lt;br /&gt; 
+  &lt;span style=&quot;font-size:0.9em&quot;&gt;
+  Berliner Philharmoniker, Pierre Boulez &lt;br /&gt; &lt;/span&gt;
+  &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+      Jesus-Christus-Kirche, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1993.03 &lt;/nobr&gt; &lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.2 | &lt;strong&gt;Johann Sebastian Bach&lt;/strong&gt; (1741)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;&lt;em&gt;Goldberg-Variationen&lt;/em&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt;&lt;/a&gt;
+  &lt;br /&gt; 
+  &lt;span style=&quot;font-size:0.9em&quot;&gt;
+  Céline Frisch, &lt;em&gt;hpd&lt;/em&gt; &lt;br /&gt;
+  &lt;/span&gt;
+  &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+      Chapelle de l'hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.11&lt;/nobr&gt; &lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.2 | &lt;strong&gt;Johann Sebastian Bach&lt;/strong&gt; (1741)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;&lt;i&gt;Goldberg-Variationen&lt;/i&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt; &lt;/a&gt; &lt;br /&gt; 
+  Céline Frisch, &lt;em&gt;hpd&lt;/em&gt;
+ &lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&amp;nbsp; 
+  Paris:&lt;/nobr&gt; Chapelle de l'hôpital &lt;nobr&gt;Notre-Dame&lt;/nobr&gt; de Bon Secours
+(2000.11)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p style=&quot;margin-bottom:0.5em&quot;&gt; &lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.35 | &lt;strong&gt;Dietrich Buxtehude&lt;/strong&gt; (1637–1707)&lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;
+Suite C-dur, &lt;nobr&gt;BuxWV 226&lt;/nobr&gt;: &lt;nobr&gt;III. Sarabandes&lt;/nobr&gt; &lt;/a&gt; &lt;br /&gt; 
+  Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
+ &lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;12&quot; width=&quot;18&quot; /&gt;&amp;nbsp; 
+  Paris:&lt;/nobr&gt; Chapelle de l'hôpital &lt;nobr&gt;Notre-Dame&lt;/nobr&gt; de Bon Secours
+(2000.11)&lt;/dd&gt;
+&lt;/dl&gt;
+
 &lt;hr /&gt;
 
-&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
-
-[1.0]&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; &lt;b&gt;
+&lt;p&gt;[1.0]&lt;span style=&quot;font-size:0.75em&quot;&gt; &lt;/span&gt; &lt;b&gt;
 	Johann Sebastian Bach
-&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt;&amp;nbsp;&lt;/span&gt;(1741) &lt;br /&gt;
+&lt;/b&gt;&lt;span style=&quot;font-size:0.5em&quot;&gt; &lt;/span&gt;(1741) &lt;br /&gt;
 &lt;i&gt;Goldberg-Variationen&lt;/i&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt; &lt;br /&gt;&lt;/p&gt;
-
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
-&lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=caSjitbWow4&amp;amp;list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&amp;amp;index=1&quot;&gt;
 	Céline Frisch, &lt;i&gt;hpd&lt;/i&gt; 
 &lt;/a&gt;
-&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;span style=&quot;font-size:0.75em&quot;&gt; &lt;/span&gt;&lt;nobr&gt;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;11.2&quot; width=&quot;17&quot; /&gt;&lt;span style=&quot;font-size:0.75em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
 	Paris:&lt;/nobr&gt; Chapelle de l’hôpital &lt;nobr&gt;Notre-Dame&lt;/nobr&gt; de Bon Secours
-(2000.11) &lt;/p&gt;
+(2000.11)&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 &lt;p style=&quot;font-family:Lora; font-size:1.02em&quot;&gt;

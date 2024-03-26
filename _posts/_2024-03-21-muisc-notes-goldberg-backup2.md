@@ -17,62 +17,14 @@ tags: music
 既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如**音乐**。时常惋惜，面对宏大精巧的音乐艺术，自己目前的参与身份只是一个无足轻重的普通听众；但转念也会自我安慰——聆听毕竟与创作 (creation)、演绎 (interpretation) 同属一部音乐作品生命的核心环节。更基本地说，任何试图长期维持生命力的创造性活动——无论科学、人文还是艺术——都需要对「非专业群体」保持开放的态度
 
 
-<span style="font-weight: normal">1.1 | **Claudio Monteverdi** (1638)</span>
-: <a href="https://www.youtube.com/watch?v=lX7C5qWviH0&list=OLAK5uy_lnk6SfoLnbw-OUu5A0PLjn3nNZ-gsJsk8&index=24&t=1169s"> 
-	<i>Il ballo delle ingrate</i>, <nobr>SV 167</nobr>: <nobr>Entrata e ballo</nobr> </a> 
-	<br> 
-	<span style="font-size:0.9em">
-	La Venexiana, <nobr>Claudio Cavina</nobr>
-	</span> 
-	<br>
-	<span style="font-size:0.9em; color:grey">Cappella di Santa Croce, Mondovì / Chiesa della Beata Vergine Maria del Monte Carmelo, Roletto &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2004.11–2005.03 </span>
-
-<br>
-
-<span style="font-weight: normal">1.2 | **Edvard Grieg** (1876)</span>
-: [<i>Peer Gynt</i>, <nobr>Op. 23</nobr>: II.vi. &quot;Slagt ham&quot;](https://www.youtube.com/watch?v=g0elWYyBUTs&list=PLSol8Y79e93tE70vY4a8rlNhA3W9uDx_z&index=8)
-	<br> 
-	<span style="font-size:0.9em">
-	Gösta Ohlins vokalensemble, <i>ch</i> <br>
-	Kammarkören Pro Musica, <i>ch</i> <br>
-	Göteborgs Symfoniker, Neeme Järvi <br>
-	</span>
-	<span style="font-size:0.9em; color:grey">
-		Konserthus, <nobr>Göteborg &nbsp;<img src="/assets/img/flags/sv.png" height="11" width="16"/>&nbsp; 1987.06 </nobr> </span>
-
-<br>
-
-<span style="font-weight: normal">1.3 | **Maurice Ravel** (1928)</span>
-: <a href="https://www.youtube.com/watch?v=1I5bGRz5tGQ&list=OLAK5uy_l3BNLfXHmdKdEC1g6VYhgg88EfzwHKMmM&index=2"> 
-	<i>Boléro</i>, <nobr>M. 81</nobr> 
-	</a> <br> 
-	<span style="font-size:0.9em">
-	Berliner Philharmoniker, Pierre Boulez <br> </span>
-	<span style="font-size:0.9em; color:grey">
-		Jesus-Christus-Kirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="11" width="16"/>&nbsp; 1993.03 </nobr> </span>
-
-<br>
-
-
-<span style="font-weight: normal">1.2 | **Johann Sebastian Bach** (1741)</span>
-: [_Goldberg-Variationen_, <nobr>BWV 988</nobr>](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1)
-	<br> 
-	<span style="font-size:0.9em">
-	Céline Frisch, _hpd_ <br>
-	</span>
-	<span style="font-size:0.9em; color:grey">
-		Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11</nobr> </span>
-
-<br>
-
-
-<span style="font-weight: normal">1.2 | **Johann Sebastian Bach** (1741)</span>
+<span style="font-weight: normal">1.35 | **Johann Sebastian Bach** (1741)</span>
 : <a href="https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1"><i>Goldberg-Variationen</i>, <nobr>BWV 988</nobr> </a> <br> 
-	Céline Frisch, _hpd_
+	Céline Frisch, <i>hpd</i> 
 &nbsp;<nobr><img src="/assets/img/flags/fr.png" height="12" width="18"/>&nbsp; 
 	Paris:</nobr> Chapelle de l&apos;hôpital <nobr>Notre-Dame</nobr> de Bon Secours
 (2000.11) 
 
+<img src="/assets/img/albums/frisch-goldberg.png" width="800"> <br>
 
 
 <p style="margin-bottom:0.5em"> </p>
