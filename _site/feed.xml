@@ -5,49 +5,82 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 27 Mar 2024 10:05:37 -0400</pubDate>
+    <pubDate>Wed, 27 Mar 2024 19:36:18 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩</title>
         <link>/2024/03/21/muisc-notes-1-color.html</link>
         <guid isPermaLink="true">/2024/03/21/muisc-notes-1-color.html</guid>
-        <description>&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 前言 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
+        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 前言 &lt;/b&gt; &lt;/p&gt;
 
-&lt;p&gt;本人自毕业以来暂时退居科研二线，日常「不务正业」的时间显著增加。可由于多年受实验室文化荼毒颇深，养成了遇到奇怪知识总想随手记录的古板习好，闲暇时分亦不消停。眼看「学术休假」结束在即，于是试从杂乱的笔记中整理出一些行文随性、逻辑松散的 essays，且当纪念时下即将一去不返的惬意时光。&lt;/p&gt;
+&lt;p&gt;本人自毕业以来暂居科研二线，日常「不务正业」的时间显著增加。但因多年受实验室文化荼毒，乐于记录各种奇怪的知识和想法，闲暇时分亦不消停。最近「学术休假」即将结束，故试从杂乱的笔记中整理出几篇行文飘逸、逻辑松散的 essays，仅以此纪念眼下一去不返的惬意时光。&lt;/p&gt;
 
-&lt;p&gt;既然笔记源于「不务正业」，我也就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如&lt;strong&gt;音乐&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;既然笔记源于「不务正业」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;，&lt;/span&gt;我就无需回避那些在近期个人生活中占据相当分量、自己却严重缺乏专业素养的话题——比如&lt;strong&gt;音乐&lt;/strong&gt;。时常惋惜，最近些年自己虽对音乐萌生了一些热情，终是一个无足轻重的普通听众，不可能对这门高度专业化的艺术作出任何票房之外的贡献；但也擅长自我安慰——没有专业理想或能使我的入门探索更加自由，发表奇谈怪论亦无过多的心理压力。开写音乐笔记，也是尝试向自己长期接受专业性规训的精神世界注入少许「不正经」的新鲜空气。&lt;/p&gt;
+
+&lt;p&gt;然而形式「不正经」并不等于态度不端正。除基本常识外，本笔记系列还将遵守以下规范：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;无论文字篇幅长短，笔记的中心一定是&lt;strong&gt;音乐&lt;/strong&gt;——不仅指抽象的作品，更指直接可听的声音记录（附 &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt; 播放链接）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;
+    &lt;p&gt; &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;引用的音乐演绎尽可能标记录音年月与地点；这些人类创作活动的具体历史印记非常令我动容。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后是一点（卑微）声明：本笔记系列的所有内容，无论有理无理，都仅为当下自娱自乐，以及日后记忆衰退时自我温习所用。本人&lt;strong&gt;没有&lt;/strong&gt;艺术天赋或情怀，也&lt;strong&gt;绝无&lt;/strong&gt;普及音乐/人文知识的能力或想法。但如有意诚挚沟通，在事实或观点层面上批评指正，欢迎&lt;a href=&quot;/about&quot;&gt;邮箱&lt;/a&gt;或私信联系。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 方法概述 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 方法概述 &lt;/b&gt; &lt;/p&gt;
+
+&lt;p&gt;本音乐笔记系列中如下画风的仅此一篇，下不为例。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 方法概述 &lt;/b&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-bar.png&quot; width=&quot;355&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 实验一 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 实验结果 &lt;/b&gt; &lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal; margin-bottom:0.75em&quot;&gt; 1.1 | &lt;strong&gt;George Frideric Handel&lt;/strong&gt; (1720) &lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt;Suite in E major, &lt;nobr&gt;HWV 430&lt;/nobr&gt;: &lt;nobr&gt;IV. Air and 5 variations&lt;/nobr&gt;&lt;/a&gt; &lt;br /&gt;&lt;/dd&gt;
+  &lt;dd&gt;
+    &lt;p&gt;Michael Borgstede &lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt; &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt; &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+  Penninckshuis, Deventer  &lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;  2008.01 &lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dd&gt;
+    &lt;p&gt;Trevor Pinnock &lt;a href=&quot;https://www.youtube.com/watch?v=wqVKwJEDZmo&amp;amp;list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&amp;amp;index=1&quot;&gt; &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+  音楽の友ホール, 東京  &lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;11&quot; width=&quot;16&quot; /&gt;  1983.11 &lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dd&gt;
+    &lt;p&gt;Святослав Рихтер &lt;a href=&quot;https://www.youtube.com/watch?v=h1IxYlNGbeo&amp;amp;list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&amp;amp;index=23&quot;&gt; &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+  Château de Marcilly-sur-Maulne  &lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;  1979.06–07 &lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dd&gt;
+    &lt;p&gt;Сергей Рахманинов &lt;a href=&quot;https://www.youtube.com/watch?v=3EAb6i2gK28&amp;amp;list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&amp;amp;index=8&quot;&gt; &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+  RCA Victor Studios, New York  &lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;  1936.01 &lt;/span&gt; &lt;br /&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-handel.png&quot; width=&quot;355&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (1979) Сергей Рахманинов (1936)&lt;/p&gt;
-
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 实验二 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-rameau.png&quot; width=&quot;355&quot; /&gt;&lt;/p&gt;
+&lt;dl&gt;
+  &lt;dt&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; 1.2 | &lt;strong&gt;Jean-Philippe Rameau&lt;/strong&gt; (1727) &lt;/span&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://imslp.org/wiki/Suite_in_A_minor,_RCT_5_(Rameau,_Jean-Philippe)&quot;&gt;Suite en la mineur, &lt;nobr&gt;RCT 5&lt;/nobr&gt;: &lt;nobr&gt;VII. Gavotte et 6 doubles &lt;/nobr&gt;&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 实验三 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
 
 &lt;p&gt;Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (1979) Сергей Рахманинов (1936)&lt;/p&gt;
 
@@ -61,9 +94,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;center&gt; &lt;span style=&quot;font-size:1.1em&quot;&gt;&lt;b&gt; 实验四 &lt;/b&gt;&lt;/span&gt; &lt;/center&gt;
-&lt;p style=&quot;margin-bottom:0.75em&quot;&gt; &lt;/p&gt;
-
+&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 方法概述 &lt;/b&gt; &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
