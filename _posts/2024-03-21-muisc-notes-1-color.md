@@ -23,7 +23,7 @@ tags: music
 <p style="margin-bottom:0.75em"> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-bar.png" width="360"></p>
+<img src="/assets/img/music-notes/variation-color/color-bar.png" width="355"></p>
 
 <br>
 
@@ -33,7 +33,7 @@ tags: music
 <p style="margin-bottom:0.75em"> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-handel.png" width="360"></p>
+<img src="/assets/img/music-notes/variation-color/color-handel.png" width="355"></p>
 
 Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (1979) Сергей Рахманинов (1936)
 
@@ -44,7 +44,7 @@ Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (
 <p style="margin-bottom:0.75em"> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-rameau.png" width="360"></p>
+<img src="/assets/img/music-notes/variation-color/color-rameau.png" width="355"></p>
 
 <br>
 
@@ -55,11 +55,12 @@ Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (
 Michael Borgstede (2008) Trevor Pinnock (1983) Святослав Рихтер (1979) Сергей Рахманинов (1936)
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-goldberg.png" width="360">
+<img src="/assets/img/music-notes/variation-color/color-goldberg.png" width="355"> </p>
 
-<img src="/assets/img/music-notes/variation-color/color-goldberg.png" width="360">
+<p style="margin-bottom:-1.0em"> </p>
 
-</p>
+<p style="text-align:center">
+<img src="/assets/img/music-notes/variation-color/color-goldberg.png" width="355"> </p>
 
 <br>
 
