@@ -599,7 +599,7 @@ Trevor Pinnock
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> <br>
-	
+
 
 1.2 | **Jean-Philippe Rameau** (1727) <br>
 [Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr>](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)
@@ -629,6 +629,110 @@ Alexandre Tharaud
 <span style="font-size:0.87em; color:grey">
 	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> <br>
 
+
+1.3 | **Johann Sebastian Bach** (1741) <br>
+[_Goldberg-Variationen_, <nobr>BWV 988</nobr>](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1)
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1)&nbsp; 
+Ton Koopman
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Maria Minor, Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.05 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1)&nbsp;
+Maggie Cole 
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Henry Wood Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1)&nbsp; 
+Pierre Hantaï 
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Doopsgezinde Kerk, Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1)&nbsp; 
+Blandine Verlet
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr></span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=3s)&nbsp; 
+Céline Frisch
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1)&nbsp; 
+Glenn Gould
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1)&nbsp;
+András Schiff
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> <br>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1)&nbsp;
+Murray Perahia
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07 </span> <br>
+
+
+
+1.4 | **Ludwig van Beethoven** (1823) <br>
+[_Diabelli-Variationen_, <nobr>Op. 120</nobr>](https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1)
+
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=dSqHevoZUkc&list=OLAK5uy_mjYuBcLeytKf8TljqQE9wPcbBZzqsJ96c&index=1) 
+Alfred Brendel
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Royal Festival Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp;</nobr> 1988.11 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1) 
+Piotr Anderszewski
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07–08 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=r7o_tgmPbtg&list=OLAK5uy_mgSiD6LZA6SpKaVzmoK7Z_UYwyYkfmQyg&index=13) 
+Andreas Staier
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;</nobr> 2010.09 </span> <br>
+
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1) 
+Ronald Brautigam
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp;</nobr> 2015.08 </span> <br>
 
 
 
