@@ -102,7 +102,7 @@ Trevor Pinnock
 Christophe Rousset
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr> </span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 1989.06 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -160,7 +160,7 @@ Pierre Hantaï
 Blandine Verlet
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr> </span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 1992.09 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -168,7 +168,7 @@ Blandine Verlet
 Céline Frisch
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr> </span> <br>
+	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 2000.11 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -176,7 +176,7 @@ Céline Frisch
 Glenn Gould
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr> </span> <br>
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp;</nobr> 1981.04–05 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -190,7 +190,7 @@ András Schiff
 Murray Perahia
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2000.07 </nobr> </span> <br>
+	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07 </span> <br>
 
 
 
@@ -215,7 +215,7 @@ Murray Perahia
 Piotr Anderszewski
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2000.07–08 </nobr></span> <br>
+	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07–08 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -223,7 +223,7 @@ Piotr Anderszewski
 Andreas Staier
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2010.09 </nobr></span> <br>
+	Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;</nobr> 2010.09 </span> <br>
 
 
 <p style="margin-bottom:-0.5em"> </p>
@@ -232,7 +232,7 @@ Andreas Staier
 Ronald Brautigam
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08 </nobr></span> <br>
+	Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp;</nobr> 2015.08 </span> <br>
 
 <br>
 
