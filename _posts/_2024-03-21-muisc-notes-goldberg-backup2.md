@@ -566,6 +566,72 @@ Concerto pour orgue, cordes et timbales, <nobr>FP 93</nobr> </a><br>
 <br>
 
 
+1.1 | **George Frideric Handel** (1720) <br>
+[Suite in E major, <nobr>HWV 430</nobr>: <nobr>IV. Air and 5 variations</nobr>](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1)
+
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)&nbsp; 
+Michael Borgstede
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1)&nbsp;
+Trevor Pinnock
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23)&nbsp;
+Святослав Рихтер
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8)&nbsp;
+Сергей Рахманинов
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> <br>
+	
+
+1.2 | **Jean-Philippe Rameau** (1727) <br>
+[Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr>](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)
+
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36)&nbsp; 
+Christophe Rousset
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)&nbsp;
+Blandine Rannou
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> <br>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6)&nbsp;
+Alexandre Tharaud
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> <br>
+
+
+
+
 
 
 

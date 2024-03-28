@@ -46,45 +46,55 @@ tags: music
 
 
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 实验结果 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 实验结果 </b> </p> 
 
 
-1.1 | **George Frideric Handel** (1720) <br>
-[Suite in E major, <nobr>HWV 430</nobr>: <nobr>IV. Air and 5 variations</nobr>](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1) 
+<p style="text-align:center">
+1.1 | <b>George Frideric Handel</b> (1720) <br>
+<a href='https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1'>
+	Suite in E major, <nobr>HWV 430</nobr>: <nobr>IV. Air and 5 variations</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Michael Borgstede
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> <br>
+	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Trevor Pinnock
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> <br>
+	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Святослав Рихтер
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> <br>
+	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Сергей Рахманинов
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> <br>
+	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> </p>
 
-
+<br>
 
 
 <p style="text-align:center">
@@ -93,32 +103,42 @@ Trevor Pinnock
 
 <br>
 
-1.2 | **Jean-Philippe Rameau** (1727) <br>
-[Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr>](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)
+
+<p style="text-align:center">
+1.2 | <b>Jean-Philippe Rameau</b> (1727) <br>
+<a href='https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30'>
+	Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Christophe Rousset
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Blandine Rannou
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> <br>
+	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Alexandre Tharaud
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> <br>
+	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> </p> 
+
 
 <p style="text-align:center">
 <img src="/assets/img/music-notes/variation-color/color-rameau.png" width="355"></p>
@@ -127,70 +147,92 @@ Alexandre Tharaud
 
 
 
-1.3 | **Johann Sebastian Bach** (1741) <br>
-[_Goldberg-Variationen_, <nobr>BWV 988</nobr>](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1)
+<p style="text-align:center">
+1.3 | <b>Johann Sebastian Bach</b> (1741) <br>
+<a href='https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1'>
+	<i>Goldberg-Variationen</i>, <nobr>BWV 988</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Ton Koopman
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Maria Minor, Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.05 </span> <br>
+	Maria Minor, Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.05 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Maggie Cole 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Henry Wood Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06 </span> <br>
+	Henry Wood Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Pierre Hantaï 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Doopsgezinde Kerk, Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06 </span> <br>
+	Doopsgezinde Kerk, Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06 </span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Blandine Verlet
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr></span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr></span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=3s)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=2s'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Céline Frisch
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> <br>
+	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1)&nbsp; 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Glenn Gould
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> <br>
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1)&nbsp;
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 András Schiff
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> <br>
+	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1)&nbsp;
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Murray Perahia
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07 </span> <br>
+	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07 </span> </p>
+
+<br>
 
 
 
@@ -205,34 +247,42 @@ Murray Perahia
 <br>
 
 
-1.4 | **Ludwig van Beethoven** (1823) <br>
-[_Diabelli-Variationen_, <nobr>Op. 120</nobr>](https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1)
-
+<p style="text-align:center">
+1.4 | <b>Ludwig van Beethoven</b> (1823) <br>
+<a href='https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1'>
+	<i>Diabelli-Variationen</i>, <nobr>Op. 120</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1) 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Piotr Anderszewski
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07–08 </span> <br>
+	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2000.07–08 </nobr></span> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=r7o_tgmPbtg&list=OLAK5uy_mgSiD6LZA6SpKaVzmoK7Z_UYwyYkfmQyg&index=13) 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=r7o_tgmPbtg&list=OLAK5uy_mgSiD6LZA6SpKaVzmoK7Z_UYwyYkfmQyg&index=13'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Andreas Staier
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Teldex Studio, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;</nobr> 2010.09 </span> <br>
+	Teldex Studio, Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2010.09 </span> </p>
 
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1) 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
 Ronald Brautigam
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp;</nobr> 2015.08 </span> <br>
+	Österåkers kyrka, Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08 </span> </p>
+
 
 <br>
 
