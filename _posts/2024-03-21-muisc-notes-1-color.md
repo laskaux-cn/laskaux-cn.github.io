@@ -102,7 +102,7 @@ Trevor Pinnock
 Christophe Rousset
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 1989.06 </span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -160,7 +160,7 @@ Pierre Hantaï
 Blandine Verlet
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 1992.09 </span> <br>
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr></span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -168,7 +168,7 @@ Blandine Verlet
 Céline Frisch
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</nobr> 2000.11 </span> <br>
+	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -176,7 +176,7 @@ Céline Frisch
 Glenn Gould
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
-	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp;</nobr> 1981.04–05 </span> <br>
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
