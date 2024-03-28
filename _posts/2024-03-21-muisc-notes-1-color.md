@@ -54,29 +54,33 @@ tags: music
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23) 
-Michael Borgstede<span style="font-size:0.87em"> | hpd</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23)&nbsp; 
+Michael Borgstede
+<span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1)
-Trevor Pinnock<span style="font-size:0.87em"> | hpd</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1)&nbsp;
+Trevor Pinnock
+<span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23)
-Святослав Рихтер<span style="font-size:0.87em"> | pf</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23)&nbsp;
+Святослав Рихтер
+<span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8)
-Сергей Рахманинов<span style="font-size:0.87em"> | pf</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8)&nbsp;
+Сергей Рахманинов
+<span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> <br>
 
@@ -94,22 +98,25 @@ Trevor Pinnock<span style="font-size:0.87em"> | hpd</span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36) 
-Christophe Rousset<span style="font-size:0.87em"> | hpd</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36)&nbsp; 
+Christophe Rousset
+<span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr> </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)
-Blandine Rannou<span style="font-size:0.87em"> | hpd</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30)&nbsp;
+Blandine Rannou
+<span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6)
-Alexandre Tharaud<span style="font-size:0.87em"> | pf</span> <br> 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6)&nbsp;
+Alexandre Tharaud
+<span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> <br>
 
@@ -125,7 +132,7 @@ Alexandre Tharaud<span style="font-size:0.87em"> | pf</span> <br>
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1)&nbsp; 
 Ton Koopman
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -133,7 +140,7 @@ Ton Koopman
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1)
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1)&nbsp;
 Maggie Cole 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -141,7 +148,7 @@ Maggie Cole
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1)&nbsp; 
 Pierre Hantaï 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -149,7 +156,7 @@ Pierre Hantaï
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1)&nbsp; 
 Blandine Verlet
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -157,7 +164,7 @@ Blandine Verlet
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=3s)&nbsp; 
 Céline Frisch
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -165,7 +172,7 @@ Céline Frisch
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1)&nbsp; 
 Glenn Gould
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -173,13 +180,13 @@ Glenn Gould
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1)
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1)&nbsp;
 András Schiff
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> <br>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1)
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">](https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1)&nbsp;
 Murray Perahia
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
@@ -212,7 +219,7 @@ Piotr Anderszewski
 
 <p style="margin-bottom:-0.5em"> </p>
 
-[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1) 
+[<img src="/assets/img/music-notes/variation-color/youtube.png" width="18">&nbsp;](https://www.youtube.com/watch?v=r7o_tgmPbtg&list=OLAK5uy_mgSiD6LZA6SpKaVzmoK7Z_UYwyYkfmQyg&index=13) 
 Andreas Staier
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
