@@ -735,6 +735,55 @@ Ronald Brautigam
 	Österåkers kyrka, <nobr>Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp;</nobr> 2015.08 </span> <br>
 
 
+---
+
+<p style="text-align:center; margin-top:-0.25em">
+1.1 | <b>George Frideric Handel</b> (1720) <br>
+<a href='https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1'>
+	Suite in E major, <nobr>HWV 430</nobr>: <nobr>IV. Air and 5 variations</nobr> </a> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Michael Borgstede
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Trevor Pinnock
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Святослав Рихтер
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Сергей Рахманинов
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> </p>
+
+---
+
 
 
 
