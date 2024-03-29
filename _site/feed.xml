@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 28 Mar 2024 23:22:30 -0400</pubDate>
+    <pubDate>Fri, 29 Mar 2024 17:13:32 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩</title>
@@ -68,6 +68,8 @@
 
 &lt;p&gt;[1.1] Handel 作品俗称 &quot;The Harmonious Blacksmith&quot;。我选择了四个不同时代和风格的录音版本——&lt;/p&gt;
 
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=MW6uDsNucr8&amp;amp;list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&amp;amp;index=23&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;
@@ -106,6 +108,8 @@ Trevor Pinnock
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
 	RCA Victor Studios, New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1936.01 &lt;/span&gt; &lt;/p&gt;
 
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt; 为播放链接；
 其中 Borgstede (2008) 和 Pinnock (1983) 分别弹奏当代仿制的十七、十八世纪羽管键琴；Richter (1979) 和 Rachmaninov (1936) 弹奏现代钢琴。
 少许努力后，测试结果如下——&lt;/p&gt;
@@ -120,7 +124,9 @@ Trevor Pinnock
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;下面来听 [1.2] Rameau: Suite in A minor，我比较喜欢的三版录音恰好都来自法国演奏家——&lt;/p&gt;
+&lt;p&gt;下面来听 [1.2] Rameau: Suite in A minor，我最喜欢的三版录音恰好都来自法国演奏家——&lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=xwCYo9EyfFo&amp;amp;list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&amp;amp;index=36&quot;&gt;
@@ -150,6 +156,8 @@ Alexandre Tharaud
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
 	Salle Colonne, Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2019.01–02 &lt;/span&gt; &lt;/p&gt;
 
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴原琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思——&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
@@ -168,8 +176,10 @@ Alexandre Tharaud
 &lt;a href=&quot;https://imslp.org/wiki/Goldberg-Variationen,_BWV_988_(Bach,_Johann_Sebastian)&quot;&gt;
 	&lt;i&gt;Goldberg-Variationen&lt;/i&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;自上世纪始，GV 的主流诠释就形成了羽管键琴和钢琴的「党争」格局，两边都涌现了众多杰出演绎。
-在接下来的实验中，我选择了自己喜欢的六个巴洛克羽管键琴版本——&lt;/p&gt;
+&lt;p&gt;自上世纪始，GV 的主流诠释就形成了羽管键琴和钢琴的「两党」格局，且都涌现了众多杰出演绎。
+在接下来的实验中，我选择了自己最喜欢的六个巴洛克羽管键琴版本——&lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=EZQBDtxJafU&amp;amp;list=OLAK5uy_nKQI6TBf-FvGOHgBj71oNka4s5MrAwE2c&amp;amp;index=1&quot;&gt;
@@ -229,7 +239,11 @@ Céline Frisch
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
 	Chapelle de l&amp;apos;hôpital Notre-Dame de Bon Secours, &lt;nobr&gt;Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.11 &lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
 
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;和三个现代钢琴版本——&lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=43sTxRVpRBM&amp;amp;list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&amp;amp;index=1&quot;&gt;
@@ -259,9 +273,11 @@ Murray Perahia
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
 	Salle de musique, &lt;nobr&gt;La Chaux-de-Fonds &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp;&lt;/nobr&gt; 2000.07 &lt;/span&gt; &lt;/p&gt;
 
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;经过相当工作量的听辨后，得到了它们的色块图。考虑 GV 的 30 个变奏符合三首一组的 triplet 结构，图中它们就也三格一行排成十行，最上和最下是 Aria 及其重复。这种排列的另一处方便是，对应变奏中 9 首依次为 &lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt; 度卡农 V[3&lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt;] (&lt;em&gt;n&lt;/em&gt; = 1, 2, … , 9) 的 9 个色块正好从上至下排在最右列；同理，多数炫技变奏位于中列，传统舞曲位于左列。&lt;/p&gt;
 
-&lt;p&gt;先看三个钢琴录音——&lt;/p&gt;
+&lt;p&gt;先看三版钢琴录音——&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-goldberg-1.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
@@ -285,15 +301,17 @@ Murray Perahia
 &lt;a href=&quot;https://imslp.org/wiki/Ver%C3%A4nderungen_%C3%BCber_einen_Walzer,_Op.120_(Beethoven,_Ludwig_van)&quot;&gt;
 	&lt;i&gt;Diabelli-Variationen&lt;/i&gt;, &lt;nobr&gt;Op. 120&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;选择了四版喜欢的钢琴录音——&lt;/p&gt;
+&lt;p&gt;选择了三版最喜欢的钢琴录音——&lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=dSqHevoZUkc&amp;amp;list=OLAK5uy_mjYuBcLeytKf8TljqQE9wPcbBZzqsJ96c&amp;amp;index=1&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=HTha9im4qMo&amp;amp;list=OLAK5uy_lp1kPNSe2efDnqFyaHdIiyRpMui48lvG8&amp;amp;index=11&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;
-Alfred Brendel
+Stephen Kovacevich
 &lt;span style=&quot;font-size:0.87em&quot;&gt;| pf&lt;/span&gt; &lt;br /&gt; 
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
-	Royal Festival Hall, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp;&lt;/nobr&gt; 1988.11 &lt;/span&gt; &lt;/p&gt;
+	Wembley Town Hall, &lt;nobr&gt;London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp;&lt;/nobr&gt; 1968.02 &lt;/span&gt; &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.25em&quot;&gt; &lt;/p&gt;
 
@@ -308,16 +326,6 @@ Piotr Anderszewski
 &lt;p style=&quot;margin-bottom:-0.25em&quot;&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=r7o_tgmPbtg&amp;amp;list=OLAK5uy_mgSiD6LZA6SpKaVzmoK7Z_UYwyYkfmQyg&amp;amp;index=13&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;
-Andreas Staier
-&lt;span style=&quot;font-size:0.87em&quot;&gt;| pf&lt;/span&gt; &lt;br /&gt; 
-&lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
-	Teldex Studio, Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.09 &lt;/span&gt; &lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-0.25em&quot;&gt; &lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=0UOubF3qjcM&amp;amp;list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;font-size:0.6em&quot;&gt;&amp;nbsp;&lt;/span&gt;
 Ronald Brautigam
@@ -325,17 +333,14 @@ Ronald Brautigam
 &lt;span style=&quot;font-size:0.87em; color:grey&quot;&gt;
 	Österåkers kyrka, Österåker &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.08 &lt;/span&gt; &lt;/p&gt;
 
-&lt;p&gt;关于乐器：Brendel (1988) 和 Anderszewski (2000) 演奏现代钢琴；Staier (2010) 和 Brautigam (2015) 演奏当代复制的两台几乎与 DV 同龄的 Conrad Graf (Wien, 1827/1824) 早期钢琴。&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;关于乐器：Kovacevich (1968) 和 Anderszewski (2000) 演奏现代钢琴；Brautigam (2015) 演奏复制版 Conrad Graf (Wien, 1824) 早期钢琴。&lt;/p&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-diabelli-1.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
-
-&lt;p style=&quot;margin-bottom:-1.0em&quot;&gt; &lt;/p&gt;
+&lt;p&gt;在结构上，DV 的 33 个变奏&lt;strong&gt;没有&lt;/strong&gt;像 GV 一样的 triplet 分组；但为了方便，这里就借用之前 GV 的方格图——&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-diabelli-2.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/variation-color/color-diabelli.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
