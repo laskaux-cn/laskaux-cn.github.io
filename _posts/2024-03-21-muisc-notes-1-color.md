@@ -72,8 +72,7 @@ tags: music
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Michael Borgstede
+Michael Borgstede </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Penninckshuis, Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.01 </span> </p>
@@ -82,8 +81,7 @@ Michael Borgstede
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=wqVKwJEDZmo&list=OLAK5uy_nKWA1aA9VFyaa-LmWnvghYW34bOas9T7w&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Trevor Pinnock
+Trevor Pinnock </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	音楽の友ホール, 東京 &nbsp;<img src="/assets/img/flags/jp.png" height="11" width="16"/>&nbsp; 1983.11 </span> </p>
@@ -92,8 +90,7 @@ Trevor Pinnock
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=h1IxYlNGbeo&list=OLAK5uy_l91ofhw4VPQdFet0nKqGNo_UxuWvSGalk&index=23'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Святослав Рихтер
+Святослав Рихтер </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Château de Marcilly-sur-Maulne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.06–07 </span> </p>
@@ -102,15 +99,13 @@ Trevor Pinnock
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=3EAb6i2gK28&list=OLAK5uy_k645MB9e-r1bmUaHMBXd6mjKFc_GZ42Qc&index=8'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Сергей Рахманинов
+Сергей Рахманинов </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> </p>
 
 <p style="margin-bottom:-1.0em"><br></p>
 
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"> 为播放链接；
 其中 Borgstede (2008) 和 Pinnock (1983) 分别弹奏当代仿制的十七、十八世纪羽管键琴；Richter (1979) 和 Rachmaninov (1936) 弹奏现代钢琴。
 少许努力后，测试结果如下：
 
@@ -131,8 +126,7 @@ Trevor Pinnock
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Christophe Rousset
+Christophe Rousset </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> </p>
@@ -141,8 +135,7 @@ Christophe Rousset
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Blandine Rannou
+Blandine Rannou </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> </p>
@@ -151,15 +144,14 @@ Blandine Rannou
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Alexandre Tharaud
+Alexandre Tharaud </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> </p> 
 
 <p style="margin-bottom:-1.0em"><br></p>
 
-其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴原琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思：
+其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思：
 
 
 <p style="text-align:center">
@@ -190,8 +182,7 @@ Alexandre Tharaud
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=EZQBDtxJafU&list=OLAK5uy_nKQI6TBf-FvGOHgBj71oNka4s5MrAwE2c&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Gustav Leonhardt
+Gustav Leonhardt </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Hervormde Kerk, Bennebroek &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1965.04 </span> </p>
@@ -200,8 +191,7 @@ Gustav Leonhardt
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Ton Koopman
+Ton Koopman </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Maria Minor, Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.05 </span> </p>
@@ -210,8 +200,7 @@ Ton Koopman
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Maggie Cole 
+Maggie Cole </a> 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Henry Wood Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06 </span> </p>
@@ -220,8 +209,7 @@ Maggie Cole
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Pierre Hantaï 
+Pierre Hantaï </a> 
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Doopsgezinde Kerk, Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06 </span> </p>
@@ -230,8 +218,7 @@ Pierre Hantaï
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1&t=1s'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Blandine Verlet
+Blandine Verlet </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09 </nobr></span> </p>
@@ -240,8 +227,7 @@ Blandine Verlet
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=2s'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Céline Frisch
+Céline Frisch </a>
 <span style="font-size:0.87em">| hpd</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> </p>
@@ -254,8 +240,7 @@ Céline Frisch
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Glenn Gould
+Glenn Gould </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> </p>
@@ -264,8 +249,7 @@ Glenn Gould
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-András Schiff
+András Schiff </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> </p>
@@ -274,8 +258,7 @@ András Schiff
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Murray Perahia
+Murray Perahia </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Salle de musique, <nobr>La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp;</nobr> 2000.07 </span> </p>
@@ -319,8 +302,7 @@ Murray Perahia
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=HTha9im4qMo&list=OLAK5uy_lp1kPNSe2efDnqFyaHdIiyRpMui48lvG8&index=11'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Stephen Kovacevich
+Stephen Kovacevich </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp;</nobr> 1968.02 </span> </p>
@@ -329,8 +311,7 @@ Stephen Kovacevich
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Piotr Anderszewski
+Piotr Anderszewski </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2000.07–08 </nobr></span> </p>
@@ -339,8 +320,7 @@ Piotr Anderszewski
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1'>
-<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
-Ronald Brautigam
+Ronald Brautigam </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Österåkers kyrka, Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08 </span> </p>
@@ -357,7 +337,14 @@ Ronald Brautigam
 
 <br>
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 音乐的空间 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b><span style="margin-left:-0.5em">「</span>变奏」哥德堡 </b> </p>
+
+<p style="text-align:center">
+<img src="/assets/img/music-notes/variation-color/frisch-cover.png" width="450"> </p>
+
+<br>
+
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b>结语：音乐的空间 </b> </p>
 
 <br>
 

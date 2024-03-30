@@ -782,7 +782,38 @@ Trevor Pinnock
 <span style="font-size:0.87em; color:grey">
 	RCA Victor Studios, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1936.01 </span> </p>
 
----
+
+<p style="margin-bottom:-1.0em"><br></p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Christophe Rousset
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Église Saint-Hippolyte de Lagriffoul, <nobr>Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 </nobr></span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Ai2j7Nx3XP4&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=30'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Blandine Rannou
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Lycée Carnot, Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08 </span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Jr2j95tW5To&list=OLAK5uy_nChvE5GyjJ2IMA9utaMvVeClrWufwgZHo&index=6'>
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"></a><span style="font-size:0.6em">&nbsp;</span>
+Alexandre Tharaud
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Salle Colonne, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.01–02 </span> </p> 
+
+<img src="/assets/img/music-notes/variation-color/youtube.png" width="18"> 为播放链接；
 
 
 
