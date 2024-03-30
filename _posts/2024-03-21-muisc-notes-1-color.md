@@ -48,7 +48,7 @@ tags: music
 
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 实验结果 </b> </p> 
 
-常在实验室搬砖的朋友们都知道，任何度量工具或方法必先经过校准 (calibration) 才有意义。于是我决定在对 GV 或 DV 下手之前，先简单训练一下自己对上述「音乐色彩」标度的感知力。考虑到与正式实验、特别是 GV 的关联，我选择了两段自己喜欢的、采用主题—变奏曲式的巴洛克键盘作品——
+经常在实验室搬砖的朋友们都知道，任何度量工具或方法必先经过校准 (calibration) 才有意义。于是我决定在对 GV 或 DV 下手之前，先简单训练一下自己对上述「音乐色彩」标度的感知力。考虑到与正式实验、特别是 GV 的关联，我选择了两段自己喜欢的、采用主题—变奏曲式的巴洛克键盘作品——
 
 <p style="text-align:center">
 1.1 | <b>George Frideric Handel</b> (1720) <br>
@@ -60,7 +60,7 @@ tags: music
 <a href='https://imslp.org/wiki/Suite_in_A_minor,_RCT_5_(Rameau,_Jean-Philippe)'>
 	Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr> </a> </p>
 
-两部完整作品都属于巴洛克组曲 (Baroque suite)，最后一首在主题之后分别有 5 段和 6 段变奏。当代音乐家为这两首动听的小型变奏曲录制了不少精彩演绎。
+两首作品都是巴洛克组曲 (Baroque suite) 的最后一个乐章，在主题之后分别有 5 段和 6 段变奏。当代音乐家为这两首动听的小型变奏曲录制了不少精彩演绎。
 
 [1.1] Handel 作品俗称 &quot;The Harmonious Blacksmith&quot;。我选择了四个不同时代和风格的录音版本：
 
@@ -116,7 +116,7 @@ Trevor Pinnock
 <p style="margin-bottom:-1.0em"> <br></p>
 
 每一版录音右侧，对应主题和五个变奏的色块依次横向排列。
-结果基本在意料之中：[1.1] 的主题是一段童谣式的小清新旋律；之后每个变奏节奏逐步加快——主题中的八分音符在 V1, V2 中变为十六分音符，在 V3, V4 中变为十六分三连音 (tuplet)，在 V5 中变为三十二分音符音阶；炫技程度单调递增的同时没有太多其它的情绪变化。直接反映在图中就是所有演绎都随着变奏的进行，红色逐渐加深，最终结束于 <img src="/assets/img/music-notes/variation-color/bbb.png" width="13"> 的最亢奋状态。
+结果基本在意料之中：[1.1] 的主题是一段童谣式的小清新旋律；之后每个变奏节奏逐步加快——主题中的八分音符在 V1, V2 中变为十六分音符，在 V3, V4 中变为十六分三连音 (sixteenth note triplet)，在 V5 中变为三十二分音符音阶；炫技程度单调递增的同时没有太多其它的情绪变化。直接反映在图中就是四个演绎版本都随着变奏的进行红色逐渐加深，最终结束于 <img src="/assets/img/music-notes/variation-color/bbb.png" width="13"> 的最亢奋状态。
 
 <br>
 
@@ -337,7 +337,7 @@ Ronald Brautigam
 
 关于乐器：Kovacevich (1968) 和 Anderszewski (2000) 演奏现代钢琴；Brautigam (2015) 演奏复制版 Conrad Graf (Wien, 1824) 早期钢琴。
 
-在结构上，DV 的 33 个变奏**没有**像 GV 一样的 triplet 分组；但这里出于方便就借用之前 GV 的方格图：
+在结构上，DV 的 33 个变奏**并无**像 GV 一样的 triplet 分组；但这里出于方便（偷懒）就借用之前 GV 的方格图：
 
 
 <p style="text-align:center">
