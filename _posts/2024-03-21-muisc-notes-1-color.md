@@ -239,20 +239,20 @@ Céline Frisch </a>
 <p style="margin-bottom:-1.0em"><br></p>
 
 <p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=3mAMnWoqqj8&list=OLAK5uy_lFQar5aqFCWbN6izmze1AVThA1u8bzYDE&index=1'>
+Wilhelm Kempff </a>
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Beethovensaal, Congress Centrum, <nobr>Hannover &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1969.07 </nobr></span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
+
+<p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=43sTxRVpRBM&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=1'>
 Glenn Gould </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">
 	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05 </nobr></span> </p>
-
-<p style="margin-bottom:-0.25em"> </p>
-
-<p style="text-align:center">
-<a href='https://www.youtube.com/watch?v=12OCY49jzS4&list=OLAK5uy_mlzYZU7uHOqB4sBNxbdBGJMUnGR3slAvY&index=1'>
-András Schiff </a>
-<span style="font-size:0.87em">| pf</span> <br> 
-<span style="font-size:0.87em; color:grey">
-	Kingsway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.12 </span> </p>
 
 <p style="margin-bottom:-0.25em"> </p>
 
@@ -340,7 +340,7 @@ Ronald Brautigam </a>
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b><span style="margin-left:-0.5em">「</span>变奏」哥德堡 </b> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/frisch-cover.png" width="530"> </p>
+<img src="/assets/img/music-notes/variation-color/frisch-cover.png" width="467"> </p>
 
 <br>
 
