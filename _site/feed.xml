@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 29 Mar 2024 17:13:32 -0400</pubDate>
+    <pubDate>Fri, 29 Mar 2024 21:33:37 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩</title>
@@ -66,7 +66,7 @@
 
 &lt;p&gt;两部完整作品都属于巴洛克组曲 (Baroque suite)，最后一首在主题之后分别有 5 段和 6 段变奏。当代音乐家为这两首动听的小型变奏曲录制了不少精彩演绎。&lt;/p&gt;
 
-&lt;p&gt;[1.1] Handel 作品俗称 &quot;The Harmonious Blacksmith&quot;。我选择了四个不同时代和风格的录音版本——&lt;/p&gt;
+&lt;p&gt;[1.1] Handel 作品俗称 &quot;The Harmonious Blacksmith&quot;。我选择了四个不同时代和风格的录音版本：&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -112,7 +112,7 @@ Trevor Pinnock
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/music-notes/variation-color/youtube.png&quot; width=&quot;18&quot; /&gt; 为播放链接；
 其中 Borgstede (2008) 和 Pinnock (1983) 分别弹奏当代仿制的十七、十八世纪羽管键琴；Richter (1979) 和 Rachmaninov (1936) 弹奏现代钢琴。
-少许努力后，测试结果如下——&lt;/p&gt;
+少许努力后，测试结果如下：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-handel.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
@@ -124,7 +124,7 @@ Trevor Pinnock
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;下面来听 [1.2] Rameau: Suite in A minor，我最喜欢的三版录音恰好都来自法国演奏家——&lt;/p&gt;
+&lt;p&gt;下面来听 [1.2] Rameau: Suite in A minor，我最喜欢的三版录音恰好都来自法国演奏家：&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -158,7 +158,7 @@ Alexandre Tharaud
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴原琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思——&lt;/p&gt;
+&lt;p&gt;其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴原琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-rameau.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
@@ -177,7 +177,7 @@ Alexandre Tharaud
 	&lt;i&gt;Goldberg-Variationen&lt;/i&gt;, &lt;nobr&gt;BWV 988&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;自上世纪始，GV 的主流诠释就形成了羽管键琴和钢琴的「两党」格局，且都涌现了众多杰出演绎。
-在接下来的实验中，我选择了自己最喜欢的六个巴洛克羽管键琴版本——&lt;/p&gt;
+在接下来的实验中，我选择了个心目中最动听的六个巴洛克羽管键琴版本：&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -241,7 +241,7 @@ Céline Frisch
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;和三个现代钢琴版本——&lt;/p&gt;
+&lt;p&gt;和三个现代钢琴版本：&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -275,14 +275,14 @@ Murray Perahia
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;经过相当工作量的听辨后，得到了它们的色块图。考虑 GV 的 30 个变奏符合三首一组的 triplet 结构，图中它们就也三格一行排成十行，最上和最下是 Aria 及其重复。这种排列的另一处方便是，对应变奏中 9 首依次为 &lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt; 度卡农 V[3&lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt;] (&lt;em&gt;n&lt;/em&gt; = 1, 2, … , 9) 的 9 个色块正好从上至下排在最右列；同理，多数炫技变奏位于中列，传统舞曲位于左列。&lt;/p&gt;
+&lt;p&gt;经过相当工作量的听辨后，得到了它们的色块图。考虑 GV 的 30 个变奏符合三首一组的 triplet 结构，图中它们就也三格一行排成十行，最上和最下是 Aria 及其重复 (da capo)。这种排列的另一处方便是，对应变奏中 9 首依次为 &lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt; 度卡农 V[3&lt;span style=&quot;margin-left:-0.05em; margin-right:0.05em;&quot;&gt;&lt;em&gt;n&lt;/em&gt;&lt;/span&gt;] (&lt;em&gt;n&lt;/em&gt; = 1, 2, … , 9) 的 9 个色块正好从上至下排在最右列。同理，多数炫技变奏位于中列，传统舞曲位于左列。&lt;/p&gt;
 
-&lt;p&gt;先看三版钢琴录音——&lt;/p&gt;
+&lt;p&gt;首先来看三版钢琴录音：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-goldberg-1.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;接下来看六版羽管键琴录音：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-goldberg-2.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
@@ -294,14 +294,14 @@ Murray Perahia
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;最后，用相同方法重听后世对 GV 最著名的「致敬」续篇——&lt;/p&gt;
+&lt;p&gt;完成 GV 的测试之后，用相同方法重听后世对 GV 最著名的「致敬」续篇——&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; margin-top:-0.25em&quot;&gt;
 1.4 | &lt;b&gt;Ludwig van Beethoven&lt;/b&gt; (1823) &lt;br /&gt;
 &lt;a href=&quot;https://imslp.org/wiki/Ver%C3%A4nderungen_%C3%BCber_einen_Walzer,_Op.120_(Beethoven,_Ludwig_van)&quot;&gt;
 	&lt;i&gt;Diabelli-Variationen&lt;/i&gt;, &lt;nobr&gt;Op. 120&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;选择了三版最喜欢的钢琴录音——&lt;/p&gt;
+&lt;p&gt;这次我选了三版风格不同、但自己都很喜欢的钢琴录音：&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -337,7 +337,7 @@ Ronald Brautigam
 
 &lt;p&gt;关于乐器：Kovacevich (1968) 和 Anderszewski (2000) 演奏现代钢琴；Brautigam (2015) 演奏复制版 Conrad Graf (Wien, 1824) 早期钢琴。&lt;/p&gt;
 
-&lt;p&gt;在结构上，DV 的 33 个变奏&lt;strong&gt;没有&lt;/strong&gt;像 GV 一样的 triplet 分组；但为了方便，这里就借用之前 GV 的方格图——&lt;/p&gt;
+&lt;p&gt;在结构上，DV 的 33 个变奏&lt;strong&gt;没有&lt;/strong&gt;像 GV 一样的 triplet 分组；但这里出于方便就借用之前 GV 的方格图：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/variation-color/color-diabelli.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
