@@ -234,9 +234,18 @@ Céline Frisch </a>
 
 <p style="margin-bottom:-1.0em"><br></p>
 
-和三个现代钢琴版本：
+和四个现代钢琴版本：
 
 <p style="margin-bottom:-1.0em"><br></p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Om5TLfoES9M&list=PL8AhTXrM6LH2aPQRLRT6E-zVbVknBTvVi&index=1'>
+Glenn Gould </a>
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.06 </nobr></span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=3mAMnWoqqj8&list=OLAK5uy_lFQar5aqFCWbN6izmze1AVThA1u8bzYDE&index=1'>
@@ -265,9 +274,9 @@ Murray Perahia </a>
 
 <p style="margin-bottom:-1.0em"><br></p>
 
-经过相当工作量的听辨后，得到了它们的色块图。考虑 GV 的 30 个变奏符合三首一组的 triplet 结构，图中它们就也三格一行排成十行，最上和最下是 Aria 及其重复 (da capo)。这种排列的另一处方便是，对应变奏中 9 首依次为 <span style="margin-left:-0.05em; margin-right:0.05em;">_n_</span> 度卡农 V[3<span style="margin-left:-0.05em; margin-right:0.05em;">_n_</span>] (_n_ = 1, 2, ... , 9) 的 9 个色块正好从上至下排在最右列。同理，多数炫技变奏位于中列，传统舞曲位于左列。
+经过相当工作量的听辨后，得到了它们的色块图。考虑 GV 的 30 个变奏符合三首一组的 triplet 结构，图中它们就也按三格一行排成十行，最上和最下是 Aria 及其重复 (da capo)。这种排列的另一处方便是，对应变奏中 9 首依次为 <span style="margin-left:-0.05em; margin-right:0.05em;">_n_</span> 度卡农 V[3<span style="margin-left:-0.05em; margin-right:0.05em;">_n_</span>] (_n_ = 1, 2, ... , 9) 的 9 个色块正好从上至下排在最右列。同理，多数炫技变奏位于中列，传统舞曲位于左列。
 
-首先来看三版钢琴录音：
+首先来看四版钢琴录音的结果：
 
 <p style="text-align:center">
 <img src="/assets/img/music-notes/variation-color/color-goldberg-1.png" width="360"> </p>
@@ -337,14 +346,10 @@ Ronald Brautigam </a>
 
 <br>
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b><span style="margin-left:-0.5em">「</span>变奏」哥德堡 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b>结语：巴洛克的回忆 </b> </p>
 
 <p style="text-align:center">
 <img src="/assets/img/music-notes/variation-color/frisch-cover.png" width="467"> </p>
-
-<br>
-
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b>结语：音乐的空间 </b> </p>
 
 <br>
 
