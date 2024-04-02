@@ -176,18 +176,9 @@ Alexandre Tharaud </a>
 <p style="margin-bottom:-1.0em"><br></p>
 
 自上世纪始，GV 的主流诠释就形成了羽管键琴和钢琴的「两党」格局，且都涌现了众多杰出演绎。
-在接下来的实验中，我选择了自己以为最动听的六个巴洛克羽管键琴版本：
+在接下来的实验中，我选择了自己觉得最动听的六个巴洛克羽管键琴版本：
 
 <p style="margin-bottom:-1.0em"><br></p>
-
-<p style="text-align:center">
-<a href='https://www.youtube.com/watch?v=EZQBDtxJafU&list=OLAK5uy_nKQI6TBf-FvGOHgBj71oNka4s5MrAwE2c&index=1'>
-Gustav Leonhardt </a>
-<span style="font-size:0.87em">| hpd</span> <br> 
-<span style="font-size:0.87em; color:grey">
-	Hervormde Kerk, Bennebroek &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1965.04 </span> </p>
-
-<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center">
 <a href='https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1'>
@@ -232,9 +223,18 @@ Céline Frisch </a>
 <span style="font-size:0.87em; color:grey">
 	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> </p>
 
+<p style="margin-bottom:-0.25em"> </p>
+
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=JlN2k3XMipc&list=OLAK5uy_nY3_rZL0EOEKOv5q4sd_sdIcOrnzCyZJ0&index=1'>
+Ketil Haugsand </a>
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Evangelische Kirche, <nobr>Honrath &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2001.03 </nobr></span> </p>
+
 <p style="margin-bottom:-1.0em"><br></p>
 
-和个人心目中最有趣的三个现代钢琴版本：
+和个人以为中非常有趣的三个现代钢琴版本：
 
 <p style="margin-bottom:-1.0em"><br></p>
 
@@ -257,7 +257,7 @@ Glenn Gould </a>
 <p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center">
-<a href='https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1'>
+<a href='https://www.youtube.com/watch?v=nBFRBWEuP0w&list=OLAK5uy_mUzRzgAFefvXjhs2oep2psqlNXVQltcK8&index=1&t=1s'>
 Murray Perahia </a>
 <span style="font-size:0.87em">| pf</span> <br> 
 <span style="font-size:0.87em; color:grey">

@@ -816,6 +816,22 @@ Alexandre Tharaud
 <img src="/assets/img/music-notes/variation-color/youtube.png" width="18"> 为播放链接；
 
 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=Om5TLfoES9M&list=PL8AhTXrM6LH2aPQRLRT6E-zVbVknBTvVi&index=1'>
+Glenn Gould </a>
+<span style="font-size:0.87em">| pf</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Columbia 30th Street Studio, <nobr>New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.06 </nobr></span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
 
 
+<p style="text-align:center">
+<a href='https://www.youtube.com/watch?v=EZQBDtxJafU&list=OLAK5uy_nKQI6TBf-FvGOHgBj71oNka4s5MrAwE2c&index=1'>
+Gustav Leonhardt </a>
+<span style="font-size:0.87em">| hpd</span> <br> 
+<span style="font-size:0.87em; color:grey">
+	Hervormde Kerk, Bennebroek &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1965.04 </span> </p>
+
+<p style="margin-bottom:-0.25em"> </p>
 
