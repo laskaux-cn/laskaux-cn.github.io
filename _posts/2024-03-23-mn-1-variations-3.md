@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 3 &colon; 变奏的色彩（&#8288;三&#8288;）
+title: 音乐笔记 1 &colon; 变奏的色彩（&#8288;三&#8288;）
 subtitle: 
 excerpt: ♬&nbsp; <br>
 
