@@ -45,6 +45,19 @@ tags: music
 
 <br>
 
+<p style="text-align:center">
+<img src="/assets/img/music-notes/variation-color/watteau.jpg" width="480"> </p>
+<p style="text-align:center; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.5em 1.5em;">
+Jean-Antoine Watteau (c. 1716), <i>Huit études de têtes de femme, et une tête d'homme</i> <span style="margin-left:0.08em"><nobr>(Musée du Louvre, Paris)</nobr></span> </p>
+
+<br>
+
+<p style="text-align:center">
+<img src="/assets/img/music-notes/variation-color/queneau.png" width="480"> </p>
+
+
+<br>
+
 <p style="text-align:center; font-size:0.97em">
 1.1 | <b>François Bouin</b> (ed. 1761/2) <br>
 <a href='https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11'>
@@ -62,8 +75,7 @@ tags: music
 
 
 <p style="text-align:center">
-<img src="/assets/img/albums/dumestre-chansons.png" width="480">
-</p>
+<img src="/assets/img/albums/dumestre-chansons.png" width="480"> </p>
 
 <br>
 
