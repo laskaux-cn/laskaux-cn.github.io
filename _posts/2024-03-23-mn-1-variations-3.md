@@ -11,7 +11,7 @@ tags: music
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 方法简述 </b> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-bar.png" width="360"></p>
+<img src="/assets/img/music-notes/1-variations/color-bar.png" width="360"></p>
 
 <br>
 

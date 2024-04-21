@@ -46,14 +46,7 @@ tags: music
 <br>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/watteau.jpg" width="480"> </p>
-<p style="text-align:center; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.5em 1.5em;">
-Jean-Antoine Watteau (c. 1716), <i>Huit études de têtes de femme, et une tête d'homme</i> <span style="margin-left:0.08em"><nobr>(Musée du Louvre, Paris)</nobr></span> </p>
-
-<br>
-
-<p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/queneau.png" width="480"> </p>
+<img src="/assets/img/music-notes/1-variations/queneau.png" width="480"> </p>
 
 
 <br>
@@ -140,7 +133,24 @@ Jean-Antoine Watteau (c. 1716), <i>Huit études de têtes de femme, et une tête
 <br>
 
 
+<p style="text-align:center">
+<img src="/assets/img/music-notes/1-variations/watteau.jpg" width="480"> </p>
+<p style="color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;">
+Jean-Antoine Watteau (c. 1716), <a href='https://collections.louvre.fr/en/ark:/53355/cl020210772'><i>Huit études de têtes de femme, et une tête d'homme</i></a> <span style="margin-left:0.08em"><nobr>(Musée du Louvre, Paris)</nobr></span> </p>
 
+<br>
+
+
+<p style="text-align:center">
+<img src="/assets/img/music-notes/1-variations/cezanne.png" width="480"> </p>
+<p style="color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;">
+Paul Cézanne (1888–1890): <i>Le Garçon au gilet rouge</i><span style="font-size:0.2em">&nbsp;</span> 
+<nobr>(<a href='https://www.buehrle.ch/en/collection/?tx_buehrlewerkliste_werkliste%5Bcontext%5D=k&tx_buehrlewerkliste_werkliste%5Bwerk%5D=36&tx_buehrlewerkliste_werkliste%5Baction%5D=show&cHash=f971121b89f69bb54ff6441d75902381'>↖</a> Stiftung</nobr> Sammlung E. G. Bührle, Zürich | 
+<nobr><a href='https://www.nga.gov/collection/art-object-page.93044.html'>↗</a> National</nobr> Gallery of Art, Washington, D.C. | 
+<nobr><a href='https://collection.barnesfoundation.org/objects/6964/Boy-in-a-Red-Vest-(Le-Garcon-au-gilet-rouge)/'>↙</a> Barnes</nobr> Foundation Philadelphia | 
+<nobr><a href='https://www.moma.org/collection/works/79086'>↘</a> Museum</nobr> of Modern Art, New York) 
+
+<br>
 
 
 

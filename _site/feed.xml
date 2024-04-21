@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 20 Apr 2024 03:35:31 -0400</pubDate>
+    <pubDate>Sun, 21 Apr 2024 16:58:38 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;六&amp;#8288;）</title>
@@ -350,7 +350,7 @@ Ronald Brautigam &lt;/a&gt;
         <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 方法简述 &lt;/b&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-bar.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/color-bar.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -756,14 +756,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/watteau.jpg&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
-&lt;p style=&quot;text-align:center; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.5em 1.5em;&quot;&gt;
-Jean-Antoine Watteau (c. 1716), &lt;i&gt;Huit études de têtes de femme, et une tête d'homme&lt;/i&gt; &lt;span style=&quot;margin-left:0.08em&quot;&gt;&lt;nobr&gt;(Musée du Louvre, Paris)&lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/queneau.png&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/queneau.png&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -846,13 +839,30 @@ Jean-Antoine Watteau (c. 1716), &lt;i&gt;Huit études de têtes de femme, et une
 &lt;br /&gt;
 
 
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/watteau.jpg&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
+&lt;p style=&quot;color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;&quot;&gt;
+Jean-Antoine Watteau (c. 1716), &lt;a href=&quot;https://collections.louvre.fr/en/ark:/53355/cl020210772&quot;&gt;&lt;i&gt;Huit études de têtes de femme, et une tête d'homme&lt;/i&gt;&lt;/a&gt; &lt;span style=&quot;margin-left:0.08em&quot;&gt;&lt;nobr&gt;(Musée du Louvre, Paris)&lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
+
+&lt;br /&gt;
+
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/cezanne.png&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
+&lt;p style=&quot;color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;&quot;&gt;
+Paul Cézanne (1888–1890): &lt;i&gt;Le Garçon au gilet rouge&lt;/i&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt;&amp;nbsp;&lt;/span&gt; 
+&lt;nobr&gt;(&lt;a href=&quot;https://www.buehrle.ch/en/collection/?tx_buehrlewerkliste_werkliste%5Bcontext%5D=k&amp;amp;tx_buehrlewerkliste_werkliste%5Bwerk%5D=36&amp;amp;tx_buehrlewerkliste_werkliste%5Baction%5D=show&amp;amp;cHash=f971121b89f69bb54ff6441d75902381&quot;&gt;↖&lt;/a&gt; Stiftung&lt;/nobr&gt; Sammlung E. G. Bührle, Zürich | 
+&lt;nobr&gt;&lt;a href=&quot;https://www.nga.gov/collection/art-object-page.93044.html&quot;&gt;↗&lt;/a&gt; National&lt;/nobr&gt; Gallery of Art, Washington, D.C. | 
+&lt;nobr&gt;&lt;a href=&quot;https://collection.barnesfoundation.org/objects/6964/Boy-in-a-Red-Vest-(Le-Garcon-au-gilet-rouge)/&quot;&gt;↙&lt;/a&gt; Barnes&lt;/nobr&gt; Foundation Philadelphia | 
+&lt;nobr&gt;&lt;a href=&quot;https://www.moma.org/collection/works/79086&quot;&gt;↘&lt;/a&gt; Museum&lt;/nobr&gt; of Modern Art, New York) 
+
+&lt;br /&gt;
 
 
 
 
 
-
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Mar 2024 00:00:00 -0400</pubDate>
       </item>
