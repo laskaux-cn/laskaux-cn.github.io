@@ -137,30 +137,34 @@ tags: music
 
 
 
-第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括绘于 Bureau des Finances 二层（当年楼下是 <nobr>Fernand Lévy</nobr> 老板的女式内衣店）视角全同的 11 幅——今天其中 <nobr>Daniel Wildenstein</nobr> 作品编号为 [<nobr>W. 1351–1358</nobr> & <nobr>W. 1360</nobr>](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
+第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括绘于 Bureau des Finances[^levy] 大楼二层视角全同的 11 幅——今天其中作品编号[^wildenstein]为 [<nobr>W. 1351–1358</nobr> & <nobr>W. 1360</nobr>](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
+
+[^levy]: 	&emsp;门牌号为 23 Place de la Cathédrale，当年楼下是 Fernand Lévy 老板的女式内衣店 &quot;Boutique de Lingeries et Modes&quot;。
+
+[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up) 
 
 <p style="text-align:center; margin-top:0.25em">
 <img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
 
 <p style="text-align:left; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 0em 0em;"> 
 
-（按阅读顺序）National Gallery of Art, Washington, D.C. <a href='https://www.nga.gov/collection/art-object-page.46524.html'>↖</a> |
+按阅读顺序：<a href='https://www.nga.gov/collection/art-object-page.46524.html'>1.</a> National Gallery of Art, Washington, D.C. &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; |
 
-Museum Folkwang, Essen <a href='https://sammlung-online.museum-folkwang.de/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3157&viewType=detailView'>↑</a> |
+<a href='https://sammlung-online.museum-folkwang.de/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3157&viewType=detailView'>2.</a> Museum Folkwang, Essen &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; |
 
-Ίδρυμα Βασίλη & Ελίζας Γουλανδρή, Αθήνα <a href='https://goulandris.gr/en/artwork/monet-claude-rouen-cathedral-pink-dominant'>↗</a> | 
+<a href='https://goulandris.gr/en/artwork/monet-claude-rouen-cathedral-pink-dominant'>3.</a> Ίδρυμα Βασίλη & Ελίζας Γουλανδρή, Αθήνα &nbsp;<img src="/assets/img/flags/gr.png" height="10.5" width="16"/>&nbsp; | 
 
-J. Paul Getty Museum, Los Angeles <a href='https://www.getty.edu/art/collection/object/108HGY'>←</a> | 
+<a href='https://www.getty.edu/art/collection/object/108HGY'>4.</a> J. Paul Getty Museum, Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; | 
 
-Musée d'Orsay, Paris <a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-soleil-matinal-1287'>▣</a> |
+<a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-soleil-matinal-1287'>5.</a> Musée d'Orsay, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; |
 
-Museum of Fine Arts, Boston <a href='https://collections.mfa.org/objects/32700'>→</a> |
+<a href='https://collections.mfa.org/objects/32700'>6.</a> Museum of Fine Arts, Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; |
 
-Museum Neues Weimar <a href='https://100schaetze.klassik-stiftung.de/objekt/claude-monet-kathedrale-von-rouen-1894/'>↙</a> |
+<a href='https://100schaetze.klassik-stiftung.de/objekt/claude-monet-kathedrale-von-rouen-1894/'>7.</a> Museum Neues Weimar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; |
 
-Clark Art Institute, Williamstown <a href='https://www.clarkart.edu/artpiece/detail/Rouen-Cathedral,-the-Facade-in-Sunlight-(1)'>↓</a> |
+<a href='https://www.clarkart.edu/artpiece/detail/Rouen-Cathedral,-the-Facade-in-Sunlight-(1)'>8.</a> Clark Art Institute, Williamstown &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; |
 
-Musée d'Orsay, Paris <a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-et-la-tour-saint-romain-plein-soleil-1285'>↘</a> </p>
+<a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-et-la-tour-saint-romain-plein-soleil-1285'>9.</a> Musée d'Orsay, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;</p>
 
 <br>
 
