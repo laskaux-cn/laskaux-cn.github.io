@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 22 Apr 2024 01:43:30 -0400</pubDate>
+    <pubDate>Mon, 22 Apr 2024 01:51:47 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;六&amp;#8288;）</title>
@@ -495,6 +495,25 @@ Alexandre Tharaud &lt;/a&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
+1.5 | &lt;b&gt;George Frideric Handel&lt;/b&gt; (1633) &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=NX9QyjCIz14&amp;amp;list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&amp;amp;index=1&quot;&gt;
+	Chaconne in G major, &lt;nobr&gt;HWV 435&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt; 
+	Andrea Staier 
+	&lt;span style=&quot;font-size:0.9em&quot;&gt;| hpd&lt;/span&gt; &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+	Großer Aufnahmesaal, Funkhaus Nalepastraße, &lt;nobr&gt;Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005.05 &lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/staier-handel-chaconne.png&quot; width=&quot;480&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/savall-folia.png&quot; width=&quot;640&quot; /&gt; 
 &lt;/p&gt;
@@ -519,7 +538,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-&lt;i&gt;Syntagma Amici&lt;/i&gt; / &lt;i&gt;Giourdina&lt;/i&gt; / &lt;nobr&gt;Jérémie Papasergio&lt;/nobr&gt; &lt;br /&gt;
+&lt;i&gt;Syntagma Amici&lt;/i&gt; &lt;span style=&quot;margin-left:0.08em; margin-right:-0.08em;&quot;&gt;+&lt;/span&gt; &lt;i&gt;Giourdina&lt;/i&gt; / &lt;nobr&gt;Jérémie Papasergio&lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
 	Auditorium du Conservatoire de Caen &lt;nobr&gt; &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2021.06 &lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
 
@@ -821,8 +840,8 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p style=&quot;text-align:center; margin-bottom:-0.25em; margin-top:-1.25em&quot;&gt; ——— &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt; 
-&lt;nobr&gt;&lt;i&gt;La Chapelle Royale&lt;/i&gt;&lt;/nobr&gt; / 
-&lt;nobr&gt;&lt;i&gt;Collegium Vocale Gent&lt;/i&gt;&lt;/nobr&gt; / 
+&lt;nobr&gt;&lt;i&gt;La Chapelle Royale&lt;/i&gt;&lt;/nobr&gt; &lt;span style=&quot;margin-left:0.08em; margin-right:-0.08em;&quot;&gt;+&lt;/span&gt; 
+&lt;nobr&gt;&lt;i&gt;Collegium Vocale Gent&lt;/i&gt;&lt;/nobr&gt; &lt;span style=&quot;margin-left:0.08em; margin-right:-0.08em;&quot;&gt;+&lt;/span&gt; 
 &lt;nobr&gt;&lt;i&gt;Orchestre des Champs-Elysées&lt;/i&gt;&lt;/nobr&gt; / &lt;nobr&gt;Philippe Herreweghe&lt;/nobr&gt; &lt;br /&gt;
 &lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
 	Grande Salle de l'Arsenal, &lt;nobr&gt;Metz &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1998.10 &lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;

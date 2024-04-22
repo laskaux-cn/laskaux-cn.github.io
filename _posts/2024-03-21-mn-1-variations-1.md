@@ -117,8 +117,8 @@ tags: music
 <p style="text-align:center; margin-bottom:-0.25em; margin-top:-1.25em"> ——— </p>
 
 <p style="text-align:center; font-size:0.97em"> 
-<nobr><i>La Chapelle Royale</i></nobr> / 
-<nobr><i>Collegium Vocale Gent</i></nobr> / 
+<nobr><i>La Chapelle Royale</i></nobr> <span style="margin-left:0.08em; margin-right:-0.08em;">+</span> 
+<nobr><i>Collegium Vocale Gent</i></nobr> <span style="margin-left:0.08em; margin-right:-0.08em;">+</span> 
 <nobr><i>Orchestre des Champs-Elysées</i></nobr> / <nobr>Philippe Herreweghe</nobr> <br>
 <span style="font-size:0.9em; color:grey">
 	Grande Salle de l'Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10 </nobr></span> </p>
