@@ -7,7 +7,7 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.05em"><b> 系列前言 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 系列前言 </b> </p>
 
 本人自毕业以来暂居科研二线，日常「不务正业」的时间显著增加。但因多年受实验室文化荼毒，乐于记录各种奇怪的知识和想法，闲暇时分亦不消停。最近「学术休假」即将结束，故试从笔记中整理出一些不太无聊的内容，仅以此纪念这一去不返的惬意时光。
 
@@ -45,11 +45,6 @@ tags: music
 
 <br>
 
-<p style="text-align:center">
-<img src="/assets/img/music-notes/1-variations/queneau.png" width="480"> </p>
-
-
-<br>
 
 <p style="text-align:center; font-size:0.97em">
 1.1 | <b>François Bouin</b> (ed. 1761/2) <br>
@@ -96,9 +91,10 @@ tags: music
 	Henry Wood Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06 </nobr></span> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/albums/lubin-schubert-trout.png" width="480"> <p>
+<img src="/assets/img/albums/lubin-schubert-trout.png" width="480"> </p>
 
 <br>
+
 
 
 <p style="text-align:center; font-size:0.97em">
@@ -128,29 +124,54 @@ tags: music
 	Grande Salle de l'Arsenal, <nobr>Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10 </nobr></span> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> <p>
+<img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> </p>
 
 <br>
+
 
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/1-variations/watteau.jpg" width="480"> </p>
-<p style="color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;">
-Jean-Antoine Watteau (c. 1716), <a href='https://collections.louvre.fr/en/ark:/53355/cl020210772'><i>Huit études de têtes de femme, et une tête d'homme</i></a> <span style="margin-left:0.08em"><nobr>(Musée du Louvre, Paris)</nobr></span> </p>
+<img src="/assets/img/music-notes/1-variations/queneau.png" width="480"> </p>
 
 <br>
 
 
-<p style="text-align:center">
-<img src="/assets/img/music-notes/1-variations/cezanne.png" width="480"> </p>
-<p style="color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 1.0em 1.0em;">
-Paul Cézanne (1888–1890): <i>Le Garçon au gilet rouge</i><span style="font-size:0.2em">&nbsp;</span> 
-<nobr>(<a href='https://www.buehrle.ch/en/collection/?tx_buehrlewerkliste_werkliste%5Bcontext%5D=k&tx_buehrlewerkliste_werkliste%5Bwerk%5D=36&tx_buehrlewerkliste_werkliste%5Baction%5D=show&cHash=f971121b89f69bb54ff6441d75902381'>↖</a> Stiftung</nobr> Sammlung E. G. Bührle, Zürich | 
-<nobr><a href='https://www.nga.gov/collection/art-object-page.93044.html'>↗</a> National</nobr> Gallery of Art, Washington, D.C. | 
-<nobr><a href='https://collection.barnesfoundation.org/objects/6964/Boy-in-a-Red-Vest-(Le-Garcon-au-gilet-rouge)/'>↙</a> Barnes</nobr> Foundation Philadelphia | 
-<nobr><a href='https://www.moma.org/collection/works/79086'>↘</a> Museum</nobr> of Modern Art, New York) 
+
+第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括绘于 Bureau des Finances 二层（当年楼下是 Fernand Lévy 老板的女式内衣店）视角全同的 11 幅——今天其中 Daniel Wildenstein 作品编号 [W. 1351–1358 & W. 1360](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
+
+<p style="text-align:center; margin-top:0.25em">
+<img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
+
+<p style="text-align:left; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 0em 0em;"> 
+
+（按阅读顺序）National Gallery of Art, Washington, D.C. <a href='https://www.nga.gov/collection/art-object-page.46524.html'>↖</a> |
+
+Museum Folkwang, Essen <a href='https://sammlung-online.museum-folkwang.de/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=3157&viewType=detailView'>↑</a> |
+
+Ίδρυμα Βασίλη & Ελίζας Γουλανδρή, Αθήνα <a href='https://goulandris.gr/en/artwork/monet-claude-rouen-cathedral-pink-dominant'>↗</a> | 
+
+J. Paul Getty Museum, Los Angeles <a href='https://www.getty.edu/art/collection/object/108HGY'>←</a> | 
+
+Musée d'Orsay, Paris <a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-soleil-matinal-1287'>▣</a> |
+
+Museum of Fine Arts, Boston <a href='https://collections.mfa.org/objects/32700'>→</a> |
+
+Museum Neues Weimar <a href='https://100schaetze.klassik-stiftung.de/objekt/claude-monet-kathedrale-von-rouen-1894/'>↙</a> |
+
+Clark Art Institute, Williamstown <a href='https://www.clarkart.edu/artpiece/detail/Rouen-Cathedral,-the-Facade-in-Sunlight-(1)'>↓</a> |
+
+Musée d'Orsay, Paris <a href='https://www.musee-orsay.fr/en/artworks/la-cathedrale-de-rouen-le-portail-et-la-tour-saint-romain-plein-soleil-1285'>↘</a> </p>
 
 <br>
+
+
+
+
+<br>
+
+
+
+
 
 
 
