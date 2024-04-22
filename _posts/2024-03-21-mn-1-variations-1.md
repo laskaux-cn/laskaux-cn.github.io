@@ -137,7 +137,7 @@ tags: music
 
 
 
-第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括绘于 Bureau des Finances 二层（当年楼下是 Fernand Lévy 老板的女式内衣店）视角全同的 11 幅——今天其中 Daniel Wildenstein 作品编号 [W. 1351–1358 & W. 1360](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
+第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括绘于 Bureau des Finances 二层（当年楼下是 <nobr>Fernand Lévy</nobr> 老板的女式内衣店）视角全同的 11 幅——今天其中 <nobr>Daniel Wildenstein</nobr> 作品编号为 [<nobr>W. 1351–1358</nobr> & <nobr>W. 1360</nobr>](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
 
 <p style="text-align:center; margin-top:0.25em">
 <img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
