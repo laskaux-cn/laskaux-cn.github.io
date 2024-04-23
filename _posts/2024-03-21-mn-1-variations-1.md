@@ -23,7 +23,7 @@ tags: music
 	<p> </p>
 - 每版录音的参演艺术家按独唱 / 独奏 / 合唱 / 乐团 / 指挥的顺序排列，并标注录音年月与地点；乐器与声部遵照 [IMSLP](https://imslp.org/wiki/IMSLP:Abbreviations_for_Instruments) 通用缩写。
 
-音乐世界博大精深，入门小白分享个人笔记非常惶恐；如有错误恳请[指正](/about)，不胜感激。
+音乐世界博大精深，入门小白分享个人笔记相当惶恐；如有错误恳请[指正](/about)，不胜感激。
 
 
 <p style="margin-bottom:2em"> </p>
@@ -72,7 +72,7 @@ tags: music
 <p style="text-align:center; font-size:0.97em">
 1.2 | <b>Franz Schubert</b> (1819) <br>
 <a href='https://www.youtube.com/watch?v=_nh1BKvliGw&list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&index=4'>
-	Klavierquintett A-dur, <nobr>D. 667</nobr>: <nobr>IV. Tema con variazioni</nobr> </a> </p>
+	Klavierquintett in A-dur, <nobr>D. 667</nobr>: <nobr>IV. Tema con variazioni</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -100,7 +100,7 @@ tags: music
 <p style="text-align:center; font-size:0.97em">
 1.3 | <b>Ludwig van Beethoven</b> (1824) <br>
 <a href='https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4'>
-	Sinfonie № 9 d-moll, <nobr>Op. 125</nobr>: <nobr>IV. Finale</nobr> </a> </p>
+	Sinfonie № 9 in d-moll, <nobr>Op. 125</nobr>: <nobr>IV. Finale</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
@@ -137,18 +137,18 @@ tags: music
 
 
 
-第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括从 Bureau des Finances[^levy] 大楼二层观察、视角全同的 11 幅——今天其中作品编号[^wildenstein]为 [<nobr>W. 1351–1358</nobr>, 1360](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅收藏于公共美术馆：
+第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括从 Bureau des Finances[^levy] 大楼二层观察、视角全同的 11 幅——其中作品编号[^wildenstein]为 [<nobr>W. 1351–1358</nobr>, 1360](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅现今收藏于公共美术馆：
 
-[^levy]: 	&emsp;楼门牌号为 23 Place de la Cathédrale，当年楼下是 Fernand Lévy 老板的女式内衣店 Boutique de Lingeries et Modes；关于 Monet 创作 _La Cathédrale de Rouen_ 系列期间的视角移动轨迹可参考 Scott C. Allan (2019): [&quot;The Portal of Rouen Cathedral in Morning Light&quot;](https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top), _Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection_.
+[^levy]: 	&emsp;关于 Monet 创作 _La Cathédrale de Rouen_ 系列期间的视角移动轨迹可参考 Scott C. Allan (2019): [&quot;The Portal of Rouen Cathedral in Morning Light&quot;](https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top), _Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection_.
 
-[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), pp. 561–564. 
+[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), <nobr>pp. 561–564.<nobr> 
 
 <p style="text-align:center; margin-top:0.25em">
 <img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
 
 <p style="text-align:center; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 0em 0em;"> 
 
-左上至右下阅读顺序<span style="margin-right:-0.8em">：</span> <br>
+左上至右下依阅读顺序<span style="margin-right:-0.8em">：</span> <br>
 
 <a href='https://www.nga.gov/collection/art-object-page.46524.html'>1.</a> National Gallery of Art, Washington, D.C. <br>
 

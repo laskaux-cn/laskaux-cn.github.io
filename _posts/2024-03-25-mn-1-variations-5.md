@@ -27,7 +27,7 @@ tags: music
 <p style="text-align:center; font-size:0.97em">
 	4.X | <b>Ludwig van Beethoven</b> (1804) <br>
 <a href='https://youtu.be/G6_aG4TQyIM?si=VAdueOhtstpRaww6&t=2320s'>
-	Sinfonie № 3 Es-dur, <nobr>Op. 55</nobr>: <nobr>IV. Finale</nobr> </a> </p>
+	Sinfonie № 3 in Es-dur, <nobr>Op. 55</nobr>: <nobr>IV. Finale</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 

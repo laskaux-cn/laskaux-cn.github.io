@@ -25,8 +25,8 @@ tags: music
 <img src="/assets/img/albums/longhini-monteverdi8.png" width="480">
 </p>
 
-
 <br>
+
 
 <p style="text-align:center; font-size:0.97em">
 1.5 | <b>George Frideric Handel</b> (1633) <br>
@@ -45,8 +45,49 @@ tags: music
 <img src="/assets/img/albums/staier-handel-chaconne.png" width="480">
 </p>
 
+<br>
+
+
+<p style="text-align:center; font-size:0.97em">
+1.6 | <b>Ludwig van Beethoven</b> (1806) <br>
+<a href='https://www.youtube.com/watch?v=qmu9x_Fi8SI&list=OLAK5uy_lPwVUFANXnq7ZfaBpm23FJaqfWdlaz8WA&index=22'>
+	Variationen in c-moll, <nobr>WoO 80</nobr> </a> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center; font-size:0.97em"> 
+	Ronald Brautigam
+	<span style="font-size:0.9em">| pf</span> <br> 
+<span style="font-size:0.9em; color:grey">
+	Österåkers kyrka, Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2014.08 </span> </p>
+
+<p style="text-align:center">
+<img src="/assets/img/albums/brautigam-beethoven-var-c.png" width="480">
+</p>
 
 <br>
+
+
+
+<p style="text-align:center; font-size:0.97em">
+	1.7 | <b>Johannes Brahms</b> (1884) <br>
+<a href='https://www.youtube.com/watch?v=N1S-g1MiV1c&list=OLAK5uy_n74yOM14WRFGn_wROE3xTI2Vc5qzsdElg&index=4'>
+	Sinfonie № 4 in e-moll, <nobr>Op. 98</nobr>: <nobr>IV. Allegro</nobr> energico e passionato – <nobr>Più allegro</nobr> </a> </p>
+
+<p style="margin-bottom:-0.5em"> </p>
+
+<p style="text-align:center; font-size:0.97em"> 
+<i>Chicago Symphony Orchestra</i> / Georg Solti <br>
+<span style="font-size:0.9em; color:grey">
+	Medinah Temple, <nobr>Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1978.05 </nobr></span> </p>
+
+<p style="text-align:center; color:grey; font-size:0.9em">
+<img src="/assets/img/albums/solti-brahms4.png" width="480"> <br>
+</p>
+
+<br>
+
+
 
 
 <p style="text-align:center">
@@ -54,12 +95,10 @@ tags: music
 </p>
 
 <p style="color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 1em 1em;">
-Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年录制的两张专辑 
-<a href='https://www.youtube.com/watch?v=C4SyxvOiQjY&list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&index=1'>
-	<i>La Folia</i> </a> 
+Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——<a href='https://www.youtube.com/watch?v=C4SyxvOiQjY&list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&index=1'><i>La Folia</i> </a> 
 <span style="margin-left:0.08em; margin-right:-0.08em;">和</span> 
 <a href='https://www.youtube.com/watch?v=L1bnFwNTiUo&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=1'>
-	<i>Altre Follie</i></a>，共收录了十五世纪末至十八世纪初出自知名、不太知名、无名作曲家的 23 首 Folía 变奏作品。
+	<i>Altre Follie</i></a>，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11<span style="margin-left:0.0em; margin-right:-0.5em;">）</span>，通过同一个主题追踪西方音乐在早期文艺复兴到晚期巴洛克时代间的探索历程，相当有趣。
 
 </p>
 
@@ -69,7 +108,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.5 | <b>Jean-Baptiste Lully</b> (1672) <br>
+1.8 | <b>Jean-Baptiste Lully</b> (1672) <br>
 <a href='https://www.youtube.com/watch?v=jenblJUDlbw&list=OLAK5uy_kh-dI8StjsDOjWHgU29rTkk_EkRFQOQP4&index=20'>
 	<i>Les Folies d'Espagne</i>, LWV 48 </a> </p>
 
@@ -88,7 +127,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.6 | <b>Marin Marais</b> (1701) <br>
+1.9 | <b>Marin Marais</b> (1701) <br>
 <a href='https://www.youtube.com/watch?v=5SPZOc6m3Mg&list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&index=18'>
 	<i>Les Folies d'Espagne</i> </a> </p>
 
@@ -108,7 +147,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.7 | <b>Arcangelo Corelli</b> (1700) <br>
+1.10 | <b>Arcangelo Corelli</b> (1700) <br>
 <a href='https://www.youtube.com/watch?v=TnxLstPy9mk&list=OLAK5uy_ljnNfbk6aLKBleFd7AITIX-_D_58-O6Ws&index=54'>
 	Sonata in re minore per violino e violone o cimbalo, <nobr>Op. 5:12</nobr> </a> </p>
 
@@ -131,7 +170,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.8 | <b>Antonio Vivaldi</b> (1705) <br>
+1.11 | <b>Antonio Vivaldi</b> (1705) <br>
 <a href='https://www.youtube.com/watch?v=IhNiH4GCG5s&list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&index=1'>
 	Sonata in re minore per 2 violini e basso continuo, <nobr>Op. 1:12 / RV 63</nobr> </a> </p>
 
@@ -166,7 +205,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.9 | <b>Antonio Salieri</b> (1815) <br>
+1.12 | <b>Antonio Salieri</b> (1815) <br>
 <a href='https://www.youtube.com/watch?v=8TbmzQHSssM&t=0s'>
 	<i>La Follia di Spagna</i> </a> </p>
 
@@ -182,7 +221,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.10 | <b>Jean-Henri d'Anglebert</b> (1689) <br>
+1.13 | <b>Jean-Henri d'Anglebert</b> (1689) <br>
 <a href='https://www.youtube.com/watch?v=tgxg4t35XMk&list=OLAK5uy_l6LQ-r7PbIw6ujk80_OtaSsqkQMNSYZm0&index=28'>
 	Suite en ré mineur: <nobr>XII. "Les Folies d'Espagne" </nobr> </a> </p>
 
@@ -198,7 +237,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.11 | <b>Alessandro Scarlatti</b> (1723) <br>
+1.14 | <b>Alessandro Scarlatti</b> (1723) <br>
 <a href='https://www.youtube.com/watch?v=d6EIpt3nJDU&list=OLAK5uy_kz4Wd3kWDHo2QKNkCqBE8zBDr8DkQVJRc&index=1'>
 	Partite sopra l'aria della Folia </a> </p>
 
@@ -218,7 +257,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.12 | <b>Carl Philipp Emanuel Bach</b> (1778) <br>
+1.15 | <b>Carl Philipp Emanuel Bach</b> (1778) <br>
 <a href='https://www.youtube.com/watch?v=jEugndpnCLk&list=OLAK5uy_mbdO6gOGaloziqfJisDNct2XcFvjgMrOw&index=4'>
 	<i>Les Folies d'Espagne</i>, <nobr>Wq. 118:9 / H. 263</nobr> </a> </p>
 
@@ -235,7 +274,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.13 | <b>Franz Liszt</b> (1858) <br>
+1.16 | <b>Franz Liszt</b> (1858) <br>
 <a href='https://www.youtube.com/watch?v=dm2ixFi0kK0&list=OLAK5uy_mFWek2tc5F0jqYkctm4gkfiHokdW2ZSVg&index=8'>
 	<i>Rhapsodie espagnole</i>, <nobr>S. 254</nobr> </a> </p>
 
@@ -252,7 +291,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 
 <p style="text-align:center; font-size:0.97em">
-1.14 | <b>Сергей Рахманинов</b> (1931) <br>
+1.17 | <b>Сергей Рахманинов</b> (1931) <br>
 <a href='https://www.youtube.com/watch?v=OFBMmxIte8o&list=OLAK5uy_k7loh1hDaWlqsIS0Hij35tdeH4LLDtbpU&index=1&t=5s'>
 	Вариации на тему Корелли, <nobr>Op. 42</nobr> </a> </p>
 

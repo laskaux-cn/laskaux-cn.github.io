@@ -141,7 +141,7 @@ Alexandre Tharaud </a>
 首先来看三版钢琴录音的结果：
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-goldberg-pf.png" width="360"> </p>
+<img src="/assets/img/music-notes/1-variations/color-goldberg-pf.png" width="360"> </p>
 
 接下来看六版羽管键琴录音：
 

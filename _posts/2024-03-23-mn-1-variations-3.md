@@ -88,6 +88,11 @@ Trevor Pinnock </a>
 每一版录音右侧，对应主题和五个变奏的色块依次横向排列。
 结果基本在意料之中：[1.1] 的主题是一段童谣式的小清新旋律；之后每个变奏节奏逐步加快——主题中的八分音符在 V1, V2 中变为十六分音符，在 V3, V4 中变为十六分三连音 (sixteenth note triplet)，在 V5 中变为三十二分音符音阶；炫技程度单调递增的同时没有太多其它的情绪变化。直接反映在图中就是四个演绎版本都随着变奏的进行红色逐渐加深，最终结束于 <img src="/assets/img/music-notes/variation-color/bbb.png" width="13"> 的最亢奋状态。
 
+
+<p style="text-align:center">
+<img src="/assets/img/albums/pinnock-handel430.png" width="480">
+</p>
+
 <br>
 
 
@@ -132,6 +137,9 @@ Alexandre Tharaud </a>
 
 色块开始有点纷乱；不同音乐家的诠释差异也相当明显。另外我需要承认，其中不少色块的标记相比于之前的 [1.1] Handel 要困难、不确定得多。在我看来，这首先是因为 [1.2] Rameau 是一部更有层次感、也更有趣的作品：
 
+<p style="text-align:center">
+<img src="/assets/img/albums/rannou-rameau.png" width="480">
+</p>
 
 <br>
 

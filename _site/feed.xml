@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 22 Apr 2024 17:37:10 -0400</pubDate>
+    <pubDate>Mon, 22 Apr 2024 21:06:04 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;六&amp;#8288;）</title>
@@ -92,7 +92,7 @@
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
 	4.X | &lt;b&gt;Ludwig van Beethoven&lt;/b&gt; (1804) &lt;br /&gt;
 &lt;a href=&quot;https://youtu.be/G6_aG4TQyIM?si=VAdueOhtstpRaww6&amp;amp;t=2320s&quot;&gt;
-	Sinfonie № 3 Es-dur, &lt;nobr&gt;Op. 55&lt;/nobr&gt;: &lt;nobr&gt;IV. Finale&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+	Sinfonie № 3 in Es-dur, &lt;nobr&gt;Op. 55&lt;/nobr&gt;: &lt;nobr&gt;IV. Finale&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 
@@ -272,7 +272,7 @@ Alexandre Tharaud &lt;/a&gt;
 &lt;p&gt;首先来看三版钢琴录音的结果：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-goldberg-pf.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/color-goldberg-pf.png&quot; width=&quot;360&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;接下来看六版羽管键琴录音：&lt;/p&gt;
 
@@ -425,6 +425,10 @@ Trevor Pinnock &lt;/a&gt;
 &lt;p&gt;每一版录音右侧，对应主题和五个变奏的色块依次横向排列。
 结果基本在意料之中：[1.1] 的主题是一段童谣式的小清新旋律；之后每个变奏节奏逐步加快——主题中的八分音符在 V1, V2 中变为十六分音符，在 V3, V4 中变为十六分三连音 (sixteenth note triplet)，在 V5 中变为三十二分音符音阶；炫技程度单调递增的同时没有太多其它的情绪变化。直接反映在图中就是四个演绎版本都随着变奏的进行红色逐渐加深，最终结束于 &lt;img src=&quot;/assets/img/music-notes/variation-color/bbb.png&quot; width=&quot;13&quot; /&gt; 的最亢奋状态。&lt;/p&gt;
 
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pinnock-handel430.png&quot; width=&quot;480&quot; /&gt;
+&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;下面来听 [1.2] Rameau: Suite in A minor，我最喜欢的三版录音恰好都来自法国演奏家：&lt;/p&gt;
@@ -466,6 +470,10 @@ Alexandre Tharaud &lt;/a&gt;
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;色块开始有点纷乱；不同音乐家的诠释差异也相当明显。另外我需要承认，其中不少色块的标记相比于之前的 [1.1] Handel 要困难、不确定得多。在我看来，这首先是因为 [1.2] Rameau 是一部更有层次感、也更有趣的作品：&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rannou-rameau.png&quot; width=&quot;480&quot; /&gt;
+&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -514,24 +522,59 @@ Alexandre Tharaud &lt;/a&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
+1.6 | &lt;b&gt;Ludwig van Beethoven&lt;/b&gt; (1806) &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=qmu9x_Fi8SI&amp;amp;list=OLAK5uy_lPwVUFANXnq7ZfaBpm23FJaqfWdlaz8WA&amp;amp;index=22&quot;&gt;
+	Variationen in c-moll, &lt;nobr&gt;WoO 80&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt; 
+	Ronald Brautigam
+	&lt;span style=&quot;font-size:0.9em&quot;&gt;| pf&lt;/span&gt; &lt;br /&gt; 
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+	Österåkers kyrka, Österåker &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.08 &lt;/span&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/brautigam-beethoven-var-c.png&quot; width=&quot;480&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
+	1.7 | &lt;b&gt;Johannes Brahms&lt;/b&gt; (1884) &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=N1S-g1MiV1c&amp;amp;list=OLAK5uy_n74yOM14WRFGn_wROE3xTI2Vc5qzsdElg&amp;amp;index=4&quot;&gt;
+	Sinfonie № 4 in e-moll, &lt;nobr&gt;Op. 98&lt;/nobr&gt;: &lt;nobr&gt;IV. Allegro&lt;/nobr&gt; energico e passionato – &lt;nobr&gt;Più allegro&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+
+&lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt; 
+&lt;i&gt;Chicago Symphony Orchestra&lt;/i&gt; / Georg Solti &lt;br /&gt;
+&lt;span style=&quot;font-size:0.9em; color:grey&quot;&gt;
+	Medinah Temple, &lt;nobr&gt;Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1978.05 &lt;/nobr&gt;&lt;/span&gt; &lt;/p&gt;
+
+&lt;p style=&quot;text-align:center; color:grey; font-size:0.9em&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/solti-brahms4.png&quot; width=&quot;480&quot; /&gt; &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/savall-folia.png&quot; width=&quot;640&quot; /&gt; 
 &lt;/p&gt;
 
 &lt;p style=&quot;color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 1em 1em;&quot;&gt;
-Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年录制的两张专辑 
-&lt;a href=&quot;https://www.youtube.com/watch?v=C4SyxvOiQjY&amp;amp;list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&amp;amp;index=1&quot;&gt;
-	&lt;i&gt;La Folia&lt;/i&gt; &lt;/a&gt; 
+Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——&lt;a href=&quot;https://www.youtube.com/watch?v=C4SyxvOiQjY&amp;amp;list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&amp;amp;index=1&quot;&gt;&lt;i&gt;La Folia&lt;/i&gt; &lt;/a&gt; 
 &lt;span style=&quot;margin-left:0.08em; margin-right:-0.08em;&quot;&gt;和&lt;/span&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=L1bnFwNTiUo&amp;amp;list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&amp;amp;index=1&quot;&gt;
-	&lt;i&gt;Altre Follie&lt;/i&gt;&lt;/a&gt;，共收录了十五世纪末至十八世纪初出自知名、不太知名、无名作曲家的 23 首 Folía 变奏作品。
+	&lt;i&gt;Altre Follie&lt;/i&gt;&lt;/a&gt;，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11&lt;span style=&quot;margin-left:0.0em; margin-right:-0.5em;&quot;&gt;）&lt;/span&gt;，通过同一个主题追踪西方音乐在早期文艺复兴到晚期巴洛克时代间的探索历程，相当有趣。
 
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.5 | &lt;b&gt;Jean-Baptiste Lully&lt;/b&gt; (1672) &lt;br /&gt;
+1.8 | &lt;b&gt;Jean-Baptiste Lully&lt;/b&gt; (1672) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jenblJUDlbw&amp;amp;list=OLAK5uy_kh-dI8StjsDOjWHgU29rTkk_EkRFQOQP4&amp;amp;index=20&quot;&gt;
 	&lt;i&gt;Les Folies d'Espagne&lt;/i&gt;, LWV 48 &lt;/a&gt; &lt;/p&gt;
 
@@ -549,7 +592,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.6 | &lt;b&gt;Marin Marais&lt;/b&gt; (1701) &lt;br /&gt;
+1.9 | &lt;b&gt;Marin Marais&lt;/b&gt; (1701) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=5SPZOc6m3Mg&amp;amp;list=OLAK5uy_mauT5YthX9UlQdxfBCkqqryhstm0Xu3h4&amp;amp;index=18&quot;&gt;
 	&lt;i&gt;Les Folies d'Espagne&lt;/i&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -568,7 +611,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.7 | &lt;b&gt;Arcangelo Corelli&lt;/b&gt; (1700) &lt;br /&gt;
+1.10 | &lt;b&gt;Arcangelo Corelli&lt;/b&gt; (1700) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=TnxLstPy9mk&amp;amp;list=OLAK5uy_ljnNfbk6aLKBleFd7AITIX-_D_58-O6Ws&amp;amp;index=54&quot;&gt;
 	Sonata in re minore per violino e violone o cimbalo, &lt;nobr&gt;Op. 5:12&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -590,7 +633,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.8 | &lt;b&gt;Antonio Vivaldi&lt;/b&gt; (1705) &lt;br /&gt;
+1.11 | &lt;b&gt;Antonio Vivaldi&lt;/b&gt; (1705) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;
 	Sonata in re minore per 2 violini e basso continuo, &lt;nobr&gt;Op. 1:12 / RV 63&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -624,7 +667,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.9 | &lt;b&gt;Antonio Salieri&lt;/b&gt; (1815) &lt;br /&gt;
+1.12 | &lt;b&gt;Antonio Salieri&lt;/b&gt; (1815) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=8TbmzQHSssM&amp;amp;t=0s&quot;&gt;
 	&lt;i&gt;La Follia di Spagna&lt;/i&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -638,7 +681,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.10 | &lt;b&gt;Jean-Henri d'Anglebert&lt;/b&gt; (1689) &lt;br /&gt;
+1.13 | &lt;b&gt;Jean-Henri d'Anglebert&lt;/b&gt; (1689) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=tgxg4t35XMk&amp;amp;list=OLAK5uy_l6LQ-r7PbIw6ujk80_OtaSsqkQMNSYZm0&amp;amp;index=28&quot;&gt;
 	Suite en ré mineur: &lt;nobr&gt;XII. &quot;Les Folies d'Espagne&quot; &lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -653,7 +696,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.11 | &lt;b&gt;Alessandro Scarlatti&lt;/b&gt; (1723) &lt;br /&gt;
+1.14 | &lt;b&gt;Alessandro Scarlatti&lt;/b&gt; (1723) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=d6EIpt3nJDU&amp;amp;list=OLAK5uy_kz4Wd3kWDHo2QKNkCqBE8zBDr8DkQVJRc&amp;amp;index=1&quot;&gt;
 	Partite sopra l'aria della Folia &lt;/a&gt; &lt;/p&gt;
 
@@ -672,7 +715,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.12 | &lt;b&gt;Carl Philipp Emanuel Bach&lt;/b&gt; (1778) &lt;br /&gt;
+1.15 | &lt;b&gt;Carl Philipp Emanuel Bach&lt;/b&gt; (1778) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jEugndpnCLk&amp;amp;list=OLAK5uy_mbdO6gOGaloziqfJisDNct2XcFvjgMrOw&amp;amp;index=4&quot;&gt;
 	&lt;i&gt;Les Folies d'Espagne&lt;/i&gt;, &lt;nobr&gt;Wq. 118:9 / H. 263&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -687,7 +730,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.13 | &lt;b&gt;Franz Liszt&lt;/b&gt; (1858) &lt;br /&gt;
+1.16 | &lt;b&gt;Franz Liszt&lt;/b&gt; (1858) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=dm2ixFi0kK0&amp;amp;list=OLAK5uy_mFWek2tc5F0jqYkctm4gkfiHokdW2ZSVg&amp;amp;index=8&quot;&gt;
 	&lt;i&gt;Rhapsodie espagnole&lt;/i&gt;, &lt;nobr&gt;S. 254&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -702,7 +745,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
-1.14 | &lt;b&gt;Сергей Рахманинов&lt;/b&gt; (1931) &lt;br /&gt;
+1.17 | &lt;b&gt;Сергей Рахманинов&lt;/b&gt; (1931) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=OFBMmxIte8o&amp;amp;list=OLAK5uy_k7loh1hDaWlqsIS0Hij35tdeH4LLDtbpU&amp;amp;index=1&amp;amp;t=5s&quot;&gt;
 	Вариации на тему Корелли, &lt;nobr&gt;Op. 42&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
@@ -750,7 +793,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
   &lt;li&gt;每版录音的参演艺术家按独唱 / 独奏 / 合唱 / 乐团 / 指挥的顺序排列，并标注录音年月与地点；乐器与声部遵照 &lt;a href=&quot;https://imslp.org/wiki/IMSLP:Abbreviations_for_Instruments&quot;&gt;IMSLP&lt;/a&gt; 通用缩写。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;音乐世界博大精深，入门小白分享个人笔记非常惶恐；如有错误恳请&lt;a href=&quot;/about&quot;&gt;指正&lt;/a&gt;，不胜感激。&lt;/p&gt;
+&lt;p&gt;音乐世界博大精深，入门小白分享个人笔记相当惶恐；如有错误恳请&lt;a href=&quot;/about&quot;&gt;指正&lt;/a&gt;，不胜感激。&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:2em&quot;&gt; &lt;/p&gt;
 
@@ -797,7 +840,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
 1.2 | &lt;b&gt;Franz Schubert&lt;/b&gt; (1819) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=_nh1BKvliGw&amp;amp;list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&amp;amp;index=4&quot;&gt;
-	Klavierquintett A-dur, &lt;nobr&gt;D. 667&lt;/nobr&gt;: &lt;nobr&gt;IV. Tema con variazioni&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+	Klavierquintett in A-dur, &lt;nobr&gt;D. 667&lt;/nobr&gt;: &lt;nobr&gt;IV. Tema con variazioni&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 
@@ -823,7 +866,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
 1.3 | &lt;b&gt;Ludwig van Beethoven&lt;/b&gt; (1824) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=VugS2OIiAtk&amp;amp;list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&amp;amp;index=4&quot;&gt;
-	Sinfonie № 9 d-moll, &lt;nobr&gt;Op. 125&lt;/nobr&gt;: &lt;nobr&gt;IV. Finale&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+	Sinfonie № 9 in d-moll, &lt;nobr&gt;Op. 125&lt;/nobr&gt;: &lt;nobr&gt;IV. Finale&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 
@@ -856,14 +899,14 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括从 Bureau des Finances&lt;sup id=&quot;fnref:levy&quot;&gt;&lt;a href=&quot;#fn:levy&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 大楼二层观察、视角全同的 11 幅——今天其中作品编号&lt;sup id=&quot;fnref:wildenstein&quot;&gt;&lt;a href=&quot;#fn:wildenstein&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;为 &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater&quot;&gt;&lt;nobr&gt;W. 1351–1358&lt;/nobr&gt;, 1360&lt;/a&gt; 的 9 幅收藏于公共美术馆：&lt;/p&gt;
+&lt;p&gt;第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括从 Bureau des Finances&lt;sup id=&quot;fnref:levy&quot;&gt;&lt;a href=&quot;#fn:levy&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 大楼二层观察、视角全同的 11 幅——其中作品编号&lt;sup id=&quot;fnref:wildenstein&quot;&gt;&lt;a href=&quot;#fn:wildenstein&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;为 &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater&quot;&gt;&lt;nobr&gt;W. 1351–1358&lt;/nobr&gt;, 1360&lt;/a&gt; 的 9 幅现今收藏于公共美术馆：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; margin-top:0.25em&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/1-variations/monet-rouen.png&quot; width=&quot;480&quot; /&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center; color:grey; font-size:0.9em; margin-top:-0.5em; margin-inline: 0em 0em;&quot;&gt; 
 
-左上至右下阅读顺序&lt;span style=&quot;margin-right:-0.8em&quot;&gt;：&lt;/span&gt; &lt;br /&gt;
+左上至右下依阅读顺序&lt;span style=&quot;margin-right:-0.8em&quot;&gt;：&lt;/span&gt; &lt;br /&gt;
 
 &lt;a href=&quot;https://www.nga.gov/collection/art-object-page.46524.html&quot;&gt;1.&lt;/a&gt; National Gallery of Art, Washington, D.C. &lt;br /&gt;
 
@@ -890,12 +933,12 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们分别于 1998 年和 2005 年
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:levy&quot;&gt;
- 	 楼门牌号为 23 Place de la Cathédrale，当年楼下是 Fernand Lévy 老板的女式内衣店 Boutique de Lingeries et Modes；关于 Monet 创作 &lt;em&gt;La Cathédrale de Rouen&lt;/em&gt; 系列期间的视角移动轨迹可参考 Scott C. Allan (2019): &lt;a href=&quot;https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top&quot;&gt;&quot;The Portal of Rouen Cathedral in Morning Light&quot;&lt;/a&gt;, &lt;em&gt;Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection&lt;/em&gt;.
+ 	 关于 Monet 创作 &lt;em&gt;La Cathédrale de Rouen&lt;/em&gt; 系列期间的视角移动轨迹可参考 Scott C. Allan (2019): &lt;a href=&quot;https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top&quot;&gt;&quot;The Portal of Rouen Cathedral in Morning Light&quot;&lt;/a&gt;, &lt;em&gt;Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection&lt;/em&gt;.
       &lt;p&gt;&lt;a href=&quot;#fnref:levy&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:wildenstein&quot;&gt;
- 	 Daniel Wildenstein (1996): &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up&quot;&gt;&lt;em&gt;Monet: Catalogue raisonné / Werkverzeichnis&lt;/em&gt;&lt;/a&gt;, pp. 561–564. 
-      &lt;p&gt;&lt;a href=&quot;#fnref:wildenstein&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+ 	 Daniel Wildenstein (1996): &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up&quot;&gt;&lt;em&gt;Monet: Catalogue raisonné / Werkverzeichnis&lt;/em&gt;&lt;/a&gt;, &lt;nobr&gt;pp. 561–564.&lt;nobr&gt; 
+&lt;/nobr&gt;&lt;/nobr&gt;      &lt;p&gt;&lt;a href=&quot;#fnref:wildenstein&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
