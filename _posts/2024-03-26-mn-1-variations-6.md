@@ -28,7 +28,14 @@ tags: music
 <span style="font-size:0.9em; color:grey">
 	Grunewaldkirche, <nobr>Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04 </nobr></span> </p>
 
+
+<p style="text-align:center">
+<img src="/assets/img/albums/kempe-don-quixote.png" width="480"> </p>
+
 <br>
+
+<br>
+
 
 
 

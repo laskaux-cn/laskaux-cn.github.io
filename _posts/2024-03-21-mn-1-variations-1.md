@@ -139,9 +139,9 @@ tags: music
 
 第一组例子是 Claude Monet 于 1892–1894 年间绘制的 30 幅取自四个相近视角的鲁昂主教座堂 (Cathédrale Notre-Dame de Rouen) 西立面，包括从 Bureau des Finances[^levy] 大楼二层观察、视角全同的 11 幅——其中作品编号[^wildenstein]为 [<nobr>W. 1351–1358</nobr>, 1360](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/page/n203/mode/2up?view=theater) 的 9 幅现今收藏于公共美术馆：
 
-[^levy]: 	&emsp;关于 Monet 创作 _La Cathédrale de Rouen_ 系列期间的视角移动轨迹可参考 Scott C. Allan (2019): [&quot;The Portal of Rouen Cathedral in Morning Light&quot;](https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top), _Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection_.
+[^levy]: 	&emsp;Monet 创作 _La Cathédrale de Rouen_ 系列期间的视角移动轨迹可见 Scott C. Allan (2019): [&quot;The Portal of Rouen Cathedral in Morning Light&quot;](https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top), _Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection_.
 
-[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), <nobr>pp. 561–564.<nobr> 
+[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), vol. III, <nobr>pp. 561–564.<nobr> 
 
 <p style="text-align:center; margin-top:0.25em">
 <img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
