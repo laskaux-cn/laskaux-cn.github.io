@@ -94,11 +94,11 @@ tags: music
 <img src="/assets/img/albums/savall-folia.png" width="640"> 
 </p>
 
-<p style="color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 1em 1em;">
-Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——<a href='https://www.youtube.com/watch?v=C4SyxvOiQjY&list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&index=1'><i>La Folia</i> </a> 
+<p style="color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 0em 0em;">
+Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——<a href='https://www.youtube.com/watch?v=C4SyxvOiQjY&list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&index=1'><i><nobr>La Folia</nobr></i> </a> 
 <span style="margin-left:0.08em; margin-right:-0.08em;">和</span> 
 <a href='https://www.youtube.com/watch?v=L1bnFwNTiUo&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=1'>
-	<i>Altre Follie</i></a>，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11<span style="margin-left:0.0em; margin-right:-0.5em;">）</span>，通过同一个主题追踪西方音乐在早期文艺复兴到晚期巴洛克时代间的探索历程，相当有趣。
+	<i><nobr>Altre Follie</nobr></i></a>，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11<span style="margin-left:0.0em; margin-right:-0.5em;">）</span>，追踪西方音乐在文艺复兴与巴洛克时代间的探索历程，相当有趣。
 
 </p>
 
@@ -259,7 +259,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制
 <p style="text-align:center; font-size:0.97em">
 1.15 | <b>Carl Philipp Emanuel Bach</b> (1778) <br>
 <a href='https://www.youtube.com/watch?v=jEugndpnCLk&list=OLAK5uy_mbdO6gOGaloziqfJisDNct2XcFvjgMrOw&index=4'>
-	<i>Les Folies d'Espagne</i>, <nobr>Wq. 118:9 / H. 263</nobr> </a> </p>
+	Variationen über die Folie d'Espagne, <nobr>Wq. 118:9 / H. 263</nobr> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 

@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 23 Apr 2024 09:29:28 -0400</pubDate>
+    <pubDate>Wed, 24 Apr 2024 09:26:18 -0400</pubDate>
     
       <item>
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;六&amp;#8288;）</title>
@@ -352,14 +352,14 @@ Ronald Brautigam &lt;/a&gt;
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;三&amp;#8288;）</title>
         <link>/2024/03/23/mn-1-variations-3.html</link>
         <guid isPermaLink="true">/2024/03/23/mn-1-variations-3.html</guid>
-        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 方法简述 &lt;/b&gt; &lt;/p&gt;
+        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.05em&quot;&gt;&lt;b&gt; 方法简述 &lt;/b&gt; &lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
 &lt;img src=&quot;/assets/img/music-notes/1-variations/color-bar.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 实验结果 &lt;/b&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.05em&quot;&gt;&lt;b&gt; 实验结果 &lt;/b&gt; &lt;/p&gt;
 
 &lt;p&gt;经常在实验室搬砖的朋友们都知道，任何度量工具或方法必先经过校准 (calibration) 才有意义。于是我决定在对 GV 或 DV 下手之前，先简单训练一下自己对上述「音乐色彩」标度的感知力。考虑到与正式实验、特别是 GV 的关联，我选择了两段自己喜欢的、采用主题—变奏曲式的巴洛克键盘作品——&lt;/p&gt;
 
@@ -423,7 +423,7 @@ Trevor Pinnock &lt;/a&gt;
 少许努力后，测试结果如下：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-handel.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/color-handel.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -470,7 +470,7 @@ Alexandre Tharaud &lt;/a&gt;
 &lt;p&gt;其中 Rousset (1989) 使用 Rameau 同时代的 Henri Hemsch (Paris, 1751) 羽管键琴；Rannou (2000) 使用仿制的 Hemsch 式羽管键琴；Tharaud (2019) 使用现代钢琴。这回结果很有意思：&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/music-notes/variation-color/color-rameau.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/music-notes/1-variations/color-rameau.png&quot; width=&quot;360&quot; /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-1.0em&quot;&gt; &lt;br /&gt;&lt;/p&gt;
 
@@ -568,11 +568,11 @@ Alexandre Tharaud &lt;/a&gt;
 &lt;img src=&quot;/assets/img/albums/savall-folia.png&quot; width=&quot;640&quot; /&gt; 
 &lt;/p&gt;
 
-&lt;p style=&quot;color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 1em 1em;&quot;&gt;
-Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——&lt;a href=&quot;https://www.youtube.com/watch?v=C4SyxvOiQjY&amp;amp;list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&amp;amp;index=1&quot;&gt;&lt;i&gt;La Folia&lt;/i&gt; &lt;/a&gt; 
+&lt;p style=&quot;color:grey; font-size:0.9em; margin-top:-0.75em; margin-inline: 0em 0em;&quot;&gt;
+Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制的两张专辑——&lt;a href=&quot;https://www.youtube.com/watch?v=C4SyxvOiQjY&amp;amp;list=OLAK5uy_meDz5A3776SFctW5AVCexMBJG4MflA05Q&amp;amp;index=1&quot;&gt;&lt;i&gt;&lt;nobr&gt;La Folia&lt;/nobr&gt;&lt;/i&gt; &lt;/a&gt; 
 &lt;span style=&quot;margin-left:0.08em; margin-right:-0.08em;&quot;&gt;和&lt;/span&gt; 
 &lt;a href=&quot;https://www.youtube.com/watch?v=L1bnFwNTiUo&amp;amp;list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&amp;amp;index=1&quot;&gt;
-	&lt;i&gt;Altre Follie&lt;/i&gt;&lt;/a&gt;，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11&lt;span style=&quot;margin-left:0.0em; margin-right:-0.5em;&quot;&gt;）&lt;/span&gt;，通过同一个主题追踪西方音乐在早期文艺复兴到晚期巴洛克时代间的探索历程，相当有趣。
+	&lt;i&gt;&lt;nobr&gt;Altre Follie&lt;/nobr&gt;&lt;/i&gt;&lt;/a&gt;，收录了十五世纪末至十八世纪初著名、不著名与无名作曲家的共 23 首 Folía 变奏作品（包括下面的 1.9–1.11&lt;span style=&quot;margin-left:0.0em; margin-right:-0.5em;&quot;&gt;）&lt;/span&gt;，追踪西方音乐在文艺复兴与巴洛克时代间的探索历程，相当有趣。
 
 &lt;/p&gt;
 
@@ -722,7 +722,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制
 &lt;p style=&quot;text-align:center; font-size:0.97em&quot;&gt;
 1.15 | &lt;b&gt;Carl Philipp Emanuel Bach&lt;/b&gt; (1778) &lt;br /&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jEugndpnCLk&amp;amp;list=OLAK5uy_mbdO6gOGaloziqfJisDNct2XcFvjgMrOw&amp;amp;index=4&quot;&gt;
-	&lt;i&gt;Les Folies d'Espagne&lt;/i&gt;, &lt;nobr&gt;Wq. 118:9 / H. 263&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
+	Variationen über die Folie d'Espagne, &lt;nobr&gt;Wq. 118:9 / H. 263&lt;/nobr&gt; &lt;/a&gt; &lt;/p&gt;
 
 &lt;p style=&quot;margin-bottom:-0.5em&quot;&gt; &lt;/p&gt;
 
@@ -776,7 +776,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制
         <title>音乐笔记 1 &amp;colon; 变奏的色彩（&amp;#8288;一&amp;#8288;）</title>
         <link>/2024/03/21/mn-1-variations-1.html</link>
         <guid isPermaLink="true">/2024/03/21/mn-1-variations-1.html</guid>
-        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 系列前言 &lt;/b&gt; &lt;/p&gt;
+        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.05em&quot;&gt;&lt;b&gt; 系列前言 &lt;/b&gt; &lt;/p&gt;
 
 &lt;p&gt;本人自毕业以来暂居科研二线，日常「不务正业」的时间显著增加。但因多年受实验室文化荼毒，乐于记录各种奇怪的知识和想法，闲暇时分亦不消停。最近「学术休假」即将结束，故试从笔记中整理出一些不太无聊的内容，仅以此纪念这一去不返的惬意时光。&lt;/p&gt;
 
@@ -942,7 +942,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制
       &lt;p&gt;&lt;a href=&quot;#fnref:levy&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:wildenstein&quot;&gt;
- 	 Daniel Wildenstein (1996): &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up&quot;&gt;&lt;em&gt;Monet: Catalogue raisonné / Werkverzeichnis&lt;/em&gt;&lt;/a&gt;, vol. III, &lt;nobr&gt;pp. 561–564.&lt;nobr&gt; 
+ 	 Daniel Wildenstein (1996): &lt;a href=&quot;https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up&quot;&gt;&lt;em&gt;Monet: Catalogue raisonné / Werkverzeichnis&lt;/em&gt;&lt;/a&gt;, vol. 3, &lt;nobr&gt;pp. 561–564.&lt;nobr&gt; 
 &lt;/nobr&gt;&lt;/nobr&gt;      &lt;p&gt;&lt;a href=&quot;#fnref:wildenstein&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;

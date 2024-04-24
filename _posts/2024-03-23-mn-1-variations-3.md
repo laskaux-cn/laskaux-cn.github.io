@@ -8,7 +8,7 @@ tags: music
 ---
 
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 方法简述 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.05em"><b> 方法简述 </b> </p>
 
 <p style="text-align:center">
 <img src="/assets/img/music-notes/1-variations/color-bar.png" width="360"></p>
@@ -17,7 +17,7 @@ tags: music
 
 
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 实验结果 </b> </p> 
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.05em"><b> 实验结果 </b> </p> 
 
 经常在实验室搬砖的朋友们都知道，任何度量工具或方法必先经过校准 (calibration) 才有意义。于是我决定在对 GV 或 DV 下手之前，先简单训练一下自己对上述「音乐色彩」标度的感知力。考虑到与正式实验、特别是 GV 的关联，我选择了两段自己喜欢的、采用主题—变奏曲式的巴洛克键盘作品——
 
@@ -81,7 +81,7 @@ Trevor Pinnock </a>
 少许努力后，测试结果如下：
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-handel.png" width="360"></p>
+<img src="/assets/img/music-notes/1-variations/color-handel.png" width="360"></p>
 
 <p style="margin-bottom:-1.0em"><br></p>
 
@@ -131,7 +131,7 @@ Alexandre Tharaud </a>
 
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-rameau.png" width="360"></p>
+<img src="/assets/img/music-notes/1-variations/color-rameau.png" width="360"></p>
 
 <p style="margin-bottom:-1.0em"> <br></p>
 

@@ -7,7 +7,7 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
-<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 系列前言 </b> </p>
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.05em"><b> 系列前言 </b> </p>
 
 本人自毕业以来暂居科研二线，日常「不务正业」的时间显著增加。但因多年受实验室文化荼毒，乐于记录各种奇怪的知识和想法，闲暇时分亦不消停。最近「学术休假」即将结束，故试从笔记中整理出一些不太无聊的内容，仅以此纪念这一去不返的惬意时光。
 
@@ -141,7 +141,7 @@ tags: music
 
 [^levy]: 	&emsp;Monet 创作 _La Cathédrale de Rouen_ 系列期间的视角移动轨迹可见 Scott C. Allan (2019): [&quot;The Portal of Rouen Cathedral in Morning Light&quot;](https://museum-essays.getty.edu/paintings/sallan-monet-rouen/#top), _Scholarly Essays: Deeper Dives into Objects from the J. Paul Getty Museum Collection_.
 
-[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), vol. III, <nobr>pp. 561–564.<nobr> 
+[^wildenstein]: 	&emsp;Daniel Wildenstein (1996): [_Monet: Catalogue raisonné / Werkverzeichnis_](https://archive.org/details/c.rclaudemonetvolumeiiiwildensteininstitute/mode/2up), vol. 3, <nobr>pp. 561–564.<nobr> 
 
 <p style="text-align:center; margin-top:0.25em">
 <img src="/assets/img/music-notes/1-variations/monet-rouen.png" width="480"> </p>
