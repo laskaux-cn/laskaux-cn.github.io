@@ -21,6 +21,10 @@ tags: music
 <span style="font-size:0.9em; color:grey">
 	Österåkers kyrka, Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08 </span> </p>
 
+<p style="text-align:center">
+<img src="/assets/img/albums/brautigam-eroica.png" width="480">
+</p>
+
 <br>
 
 
@@ -37,7 +41,7 @@ tags: music
 	Zedernsaal, <nobr>Schloss Kirchheim &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 </nobr></span> </p>
 
 <p style="text-align:center; color:grey; font-size:0.9em">
-<img src="/assets/img/albums/collegium-aureum-beethoven.png" width="480"> <br>
+<img src="/assets/img/albums/collegium-aureum-beethoven3.png" width="480"> <br>
 </p>
 
 <br>

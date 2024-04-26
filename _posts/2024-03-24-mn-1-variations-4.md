@@ -146,12 +146,12 @@ Alexandre Tharaud </a>
 接下来看六版羽管键琴录音：
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-goldberg-hpd1.png" width="360"> </p>
+<img src="/assets/img/music-notes/1-variations/color-goldberg-hpd1.png" width="360"> </p>
 
 <p style="margin-bottom:-1.0em"> </p>
 
 <p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-goldberg-hpd2.png" width="360"> </p>
+<img src="/assets/img/music-notes/1-variations/color-goldberg-hpd2.png" width="360"> </p>
 
 <br>
 

@@ -280,7 +280,7 @@ Jordi Savall 指挥 Hespèrion XXI 与独奏家们于 1998 年和 2005 年录制
 <p style="text-align:center; font-size:0.97em">
 1.16 | <b>Alessandro Scarlatti</b> (1723) <br>
 <a href='https://www.youtube.com/watch?v=d6EIpt3nJDU&list=OLAK5uy_kz4Wd3kWDHo2QKNkCqBE8zBDr8DkQVJRc&index=1'>
-	Partite sopra l'aria della Folia </a> </p>
+	<i>Partite sopra l'aria della Folia</i> </a> </p>
 
 <p style="margin-bottom:-0.5em"> </p>
 
