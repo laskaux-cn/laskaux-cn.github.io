@@ -160,56 +160,6 @@ Alexandre Tharaud </a>
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b>巴洛克的回忆 </b> </p>
 
 
-完成 GV 的测试之后，用相同方法重听后世对 GV 最著名的「致敬」续篇——
-
-<p style="margin-bottom:-1.0em"><br></p>
-
-<p style="text-align:center; font-size:0.97em; margin-top:-0.25em">
-1.4 | <b>Ludwig van Beethoven</b> (1823) <br>
-<a href='https://imslp.org/wiki/Ver%C3%A4nderungen_%C3%BCber_einen_Walzer,_Op.120_(Beethoven,_Ludwig_van)'>
-	<i>Diabelli-Variationen</i>, <nobr>Op. 120</nobr> </a> </p>
-
-<p style="margin-bottom:-1.0em"><br></p>
-
-这次我选了三版风格不同、但自己都很喜欢的钢琴录音：
-
-<p style="margin-bottom:-1.0em"><br></p>
-
-<p style="text-align:center; font-size:0.97em">
-<a href='https://www.youtube.com/watch?v=HTha9im4qMo&list=OLAK5uy_lp1kPNSe2efDnqFyaHdIiyRpMui48lvG8&index=11'>
-Stephen Kovacevich </a>
-<span style="font-size:0.9em">| pf</span> <br> 
-<span style="font-size:0.9em; color:grey">
-	Wembley Town Hall, <nobr>London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp;</nobr> 1968.02 </span> </p>
-
-<p style="margin-bottom:-0.25em"> </p>
-
-<p style="text-align:center; font-size:0.97em">
-<a href='https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1'>
-Piotr Anderszewski </a>
-<span style="font-size:0.9em">| pf</span> <br> 
-<span style="font-size:0.9em; color:grey">
-	Auditorio Stelio Molo, <nobr>Lugano &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2000.07–08 </nobr></span> </p>
-
-<p style="margin-bottom:-0.25em"> </p>
-
-<p style="text-align:center; font-size:0.97em">
-<a href='https://www.youtube.com/watch?v=0UOubF3qjcM&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=1'>
-Ronald Brautigam </a>
-<span style="font-size:0.9em">| pf</span> <br> 
-<span style="font-size:0.9em; color:grey">
-	Österåkers kyrka, Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08 </span> </p>
-
-<p style="margin-bottom:-1.0em"><br></p>
-
-关于乐器：Kovacevich (1968) 和 Anderszewski (2000) 演奏现代钢琴；Brautigam (2015) 演奏复制版 Conrad Graf (Wien, 1824) 年代钢琴。
-
-在结构上，DV 的 33 个变奏**并无**像 GV 一样的 triplet 分组；但这里出于方便（偷懒）就借用之前 GV 的方格图：
-
-
-<p style="text-align:center">
-<img src="/assets/img/music-notes/variation-color/color-diabelli.png" width="360"> </p>
-
 
 <br>
 
