@@ -8,11 +8,11 @@ tags:
 ---
 
 >My only love sprung from my only hate!
-><p style="margin-bottom:-0.67em"> </p>
+><p style="margin-bottom:-0.5em"> </p>
 >Too early seen unknown, and known too late! 
-><p style="margin-bottom:-0.67em"> </p>
+><p style="margin-bottom:-0.5em"> </p>
 >Prodigious birth of love it is to me,
-><p style="margin-bottom:-0.67em"> </p>
+><p style="margin-bottom:-0.5em"> </p>
 >That I must love a loathed enemy.
 > <p align="right"> <a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I">—<em>Romeo and Juliet</em> : I.v.142–145</a> </p>
 
