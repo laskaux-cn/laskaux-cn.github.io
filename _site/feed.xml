@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 20 May 2024 01:12:24 -0400</pubDate>
+    <pubDate>Mon, 20 May 2024 01:57:21 -0400</pubDate>
     
       <item>
         <title>我为何返回学术界</title>
@@ -13,20 +13,30 @@
         <guid isPermaLink="true">/2024/05/19/back-to-academia.html</guid>
         <description>&lt;blockquote&gt;
   &lt;p&gt;My only love sprung from my only hate!&lt;/p&gt;
-
+  &lt;p style=&quot;margin-bottom:-0.67em&quot;&gt; &lt;/p&gt;
   &lt;p&gt;Too early seen unknown, and known too late!&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—&lt;a href=&quot;https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I&quot;&gt;&lt;em&gt;Romeo and Juliet&lt;/em&gt; : I.v.142–143&lt;/a&gt;
-&lt;/p&gt;
+  &lt;p style=&quot;margin-bottom:-0.67em&quot;&gt; &lt;/p&gt;
+  &lt;p&gt;Prodigious birth of love it is to me,&lt;/p&gt;
+  &lt;p style=&quot;margin-bottom:-0.67em&quot;&gt; &lt;/p&gt;
+  &lt;p&gt;That I must love a loathed enemy.&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt; &lt;a href=&quot;https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I&quot;&gt;—&lt;em&gt;Romeo and Juliet&lt;/em&gt; : I.v.142–145&lt;/a&gt; &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d'en bas, au niveau du petit point.&lt;/p&gt;
+  &lt;p&gt;Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d'en bas, au niveau du petit point.&lt;sup id=&quot;fnref:degennes&quot;&gt;&lt;a href=&quot;#fn:degennes&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
   &lt;p&gt;[Madam, you look at Science from a top level and see it as a vast tapestry. I look at it from the bottom up and notice the details of every single stitch.]&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—Pierre-Gilles de Gennes (2002)
-&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—Pierre-Gilles de Gennes (2002) &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:degennes&quot;&gt;
+ 	 Pierre-Gilles de Gennes (2002). &lt;a href=&quot;https://archive.org/details/petitpoint0000genn/mode/2up&quot;&gt;&lt;em&gt;Petit point: Un scientifique croque ses pairs&lt;/em&gt;&lt;/a&gt;&lt;span style=&quot;margin-left:0.1em&quot;&gt;,&lt;/span&gt; p. 7.
+      &lt;p&gt;&lt;a href=&quot;#fnref:degennes&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sun, 19 May 2024 00:00:00 -0400</pubDate>
       </item>
