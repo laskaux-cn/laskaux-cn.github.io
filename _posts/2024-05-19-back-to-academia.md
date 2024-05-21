@@ -37,14 +37,8 @@ tags:
 ><p align="right" style="font-size:0.97em"> 
 >	<a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes (2002) </a> </p>
 
-
 <br>
 
-<p style="text-align:center">
-<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s">
-	<img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> <br> </a>
-</p>
 
-<br>
 
 
