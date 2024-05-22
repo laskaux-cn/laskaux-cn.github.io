@@ -16,7 +16,7 @@ tags: music
 1.3 | <b>Johann Sebastian Bach</b> (1741) <br>
 <i>Goldberg-Variationen</i>, <nobr>BWV 988</nobr> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=mrkEzsWJlwA&list=OLAK5uy_nlLPdP4kARxZN7jPzY7MNXUS_oADbKBm0&index=1'>
@@ -70,7 +70,7 @@ Céline Frisch </a>
 <span style="font-size:0.9em; color:grey">
 	Chapelle de l&apos;hôpital Notre-Dame de Bon Secours, <nobr>Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.11 </nobr></span> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="text-align:center; margin-bottom:0.25em; margin-top:-.75em"> ——— </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=3mAMnWoqqj8&list=OLAK5uy_lFQar5aqFCWbN6izmze1AVThA1u8bzYDE&index=1'>
@@ -115,7 +115,7 @@ Alexandre Tharaud </a>
 <span style="font-size:0.9em; color:grey">
 	Auditorium du Conservatoire Darius Milhaud, <nobr>Aix-en-Provence &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2015.02–04 </nobr></span> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="text-align:center; margin-bottom:0.25em; margin-top:-.75em"> ——— </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=bvMqcgiHPcY&list=OLAK5uy_mkw9UOtIzGA33WUrfWC93kEwwmIZfT9mY&index=1&t=8s'>

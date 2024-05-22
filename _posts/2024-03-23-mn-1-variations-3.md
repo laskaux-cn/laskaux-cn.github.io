@@ -18,7 +18,7 @@ tags: music
 1.X | <b>George Frideric Handel</b> (1720) <br>
 	Suite in E major, <nobr>HWV 430</nobr>: <nobr>IV. Air and 5 variations</nobr> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=MW6uDsNucr8&list=OLAK5uy_kfN5j1n8Fkq5-HbAplEl_a668xM8PMdUE&index=23'>
@@ -76,7 +76,7 @@ Trevor Pinnock </a>
 1.X | <b>Jean-Philippe Rameau</b> (1727) <br>
 	Suite en la mineur, <nobr>RCT 5</nobr>: <nobr>VII. Gavotte et 6 doubles </nobr> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=xwCYo9EyfFo&list=PLr0MsaDpKsY9tqEbmw55AB6_U9MiuZDes&index=36'>
@@ -125,7 +125,7 @@ Alexandre Tharaud </a>
 1.X | <b>Ludwig van Beethoven</b> (1823) <br>
   <i>Diabelli-Variationen</i>, <nobr>Op. 120</nobr> </p>
 
-<p style="text-align:center; margin-bottom:0.0em; margin-top:-1.0em"> ——— </p>
+<p style="margin-bottom:-0.25em"> </p>
 
 <p style="text-align:center; font-size:0.97em">
 <a href='https://www.youtube.com/watch?v=HTha9im4qMo&list=OLAK5uy_lp1kPNSe2efDnqFyaHdIiyRpMui48lvG8&index=11'>
