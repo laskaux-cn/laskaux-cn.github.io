@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为何返回学术界
-subtitle: 一些非学术的杂想
+subtitle: 一点非学术的杂想
 excerpt: <br>
 
 tags: 
