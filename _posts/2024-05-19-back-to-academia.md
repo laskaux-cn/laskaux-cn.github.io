@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为何返回学术界
-subtitle: 一些非学术的随想
+subtitle: 一些非学术的杂想
 excerpt: <br>
 
 tags: 
@@ -38,6 +38,14 @@ tags:
 > [Madam, you look at science from a top level and see it as a vast tapestry. I look at it from the bottom up and notice the details of every single stitch.] </p>
 ><p align="right" style="font-size:0.97em"> 
 >	<a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes (2002) </a> </p>
+
+<br>
+
+
+> <p style="font-size:.97em">
+> He&apos;s sitting there, away from the madding crowd that&apos;s stampeding up and down the aisle and, actually, he&apos;s trying to isolate himself because, in fact, shortly he will be isolated for a long period of time in the lonely north. </p>
+><p align="right" style="font-size:0.97em"> 
+>	<a href="https://youtu.be/Tsux27kMwjc?si=CzJcEeQjt1KvZFph&t=576">—Glenn Gould (1967) </a> </p>
 
 <br>
 
