@@ -19,9 +19,9 @@ tags:
 
 <p style="margin-bottom:2em"> </p>
 
-最近做出了一个并不轻松的选择——决定辞去博士毕业后开始两年不到的工业界工作，作为普通博士后重返大学，继续基础研究。
+最近做出了一个并不轻松的选择——辞去了开始不到两年的工业界工作，作为普通博士后重返大学，继续基础研究。
 
-还有离开了九年的新英格兰，独闯人文环境
+还有离开了学习工作九年的新英格兰，独闯人文环境和生活方式迥异的西部世界
 
 <br>
 
@@ -37,7 +37,7 @@ tags:
 > <p style="font-size:.97em">
 > [Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch.] </p>
 ><p align="right" style="font-size:0.97em"> 
->	<a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes, <i>Petit point</i> </a> </p>
+>	<a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes, <nobr> <i>Petit point</i> </nobr> </a> </p>
 
 <br>
 
@@ -45,9 +45,20 @@ tags:
 > <p style="font-size:.97em">
 > He&apos;s sitting there, away from the madding crowd that&apos;s stampeding up and down the aisle and, actually, he&apos;s trying to isolate himself because, in fact, shortly he will be isolated for a long period of time in the lonely north. </p>
 ><p align="right" style="font-size:0.97em"> 
->	<a href="https://youtu.be/Tsux27kMwjc?si=CzJcEeQjt1KvZFph&t=576">—Glenn Gould, <i>The Idea of North</i> </a> </p>
+>	<a href="https://youtu.be/Tsux27kMwjc?si=CzJcEeQjt1KvZFph&t=576">—Glenn Gould, <nobr> <i>The Idea of North</i> </nobr> </a> </p>
 
 <br>
+
+
+> <p style="font-size:.97em">
+> It is the glistening and softly spoken lie; the amiable fallacy; the patriotic lie of the historian, the provident lie of the politician, the zealous lie of the partizan, the merciful lie of the friend, and the careless lie of each man to himself, that cast that black mystery over humanity, through which any man who pierces, we thank as we would thank one who dug a well in a desert. </p>
+><p align="right" style="font-size:0.97em"> 
+>	<a href="https://archive.org/details/lamps_architect/page/n59/mode/2up">—John Ruskin, <nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
+
+<br>
+
+
+
 
 
 
