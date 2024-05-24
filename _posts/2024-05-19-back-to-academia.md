@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 我为何返回学术界
-subtitle: 一点非学术的杂想
+subtitle: 一些非学术的杂想
 excerpt: <br>
 
 tags: 
 ---
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 2em; text-indent:-2em">
+><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >My only love sprung from my only hate! </p>
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: .5em; text-indent:-.5em">
+><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >Too early seen unknown, and known too late! </p>
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 2em; text-indent:-2em">
+><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >Prodigious birth of love it is to me, </p>
-><p style="font-size:.95em; font-family: Noto Sans; margin-left: 2em; text-indent:-2em">
+><p style="font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >That I must love a loathed enemy. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I">—<i>Romeo and Juliet</i> : I.v.142–145</a> </p>
