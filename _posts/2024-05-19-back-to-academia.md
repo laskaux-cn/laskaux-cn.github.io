@@ -35,7 +35,7 @@ tags:
 > Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point.</p> 
 >
 > <p style="font-size:.95em; font-family: Noto Sans; margin-left: 1.36em; text-indent:-1.36em">
-> <span style="margin-right: 0.1em;">↪</span> <i>Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
+> <span style="margin-right: 0.1em;">⇨</span> <i>Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes, <nobr> <i>Petit point</i> </nobr> </a> </p>
 
@@ -57,7 +57,7 @@ tags:
 >тем, что не делаю ее!</p>
 >
 ><p style="margin-bottom: 0.0em; font-size:.95em; font-family: Noto Sans; ">
->↪<span style="font-size:.2em">&nbsp;</span> <i>I believe in their holy belief. </i> </p>
+>⇨<span style="font-size:.2em">&nbsp;</span> <i>I believe in their holy belief. </i> </p>
 ><p style="margin-bottom: 0.0em; font-style: italic; font-size:.95em; font-family: Noto Sans; margin-left: 1.36em">
 >From their belief my courage is won. </p>
 ><p style="margin-bottom: 0.0em; font-style: italic; font-size:.95em; font-family: Noto Sans; margin-left: 1.36em">
@@ -66,7 +66,7 @@ tags:
 >by not pursuing one!</p>
 >
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
->	<a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I">—Евгений Евтушенко, <i>Карьера</i> </a> </p>
+>	<a href="https://www.culture.ru/poems/26258/karera">—Евгений Евтушенко, <i>Карьера</i> </a> </p>
 
 <br>
 
