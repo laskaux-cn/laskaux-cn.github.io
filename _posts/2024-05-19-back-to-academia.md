@@ -34,7 +34,7 @@ tags:
 > <p style="font-size:.95em; font-family: Noto Sans">
 > Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point.</p> 
 >
-><p style="font-size:.855em; font-family: Noto Sans"> Translation: <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
+><p style="font-size:.86em; font-family: Noto Sans"> Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes, <nobr> <i>Petit point</i> </nobr> </a> </p>
 
 
@@ -50,20 +50,30 @@ tags:
 ><p style="font-size:.95em; font-family: Noto Sans">
 >тем, что не делаю ее!</p>
 >
-><p style="font-size:.855em; font-family: Noto Sans">Translation: <i> I believe in their holy belief. / From their belief my courage is won. / I shall pursue a career for myself / by not pursuing one! </i> </p>
+><p style="font-size:.86em; font-family: Noto Sans">Transl.&nbsp; <i>I believe in their holy belief. / From their belief my courage is won. / I shall pursue a career for myself / by not pursuing one! </i> </p>
 >
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://www.culture.ru/poems/26258/karera">—Евгений Евтушенко, <i>Карьера</i> </a> </p>
 
 <br>
 
 
-> <p style="font-size:.95em; font-family: Noto Sans">
-> He’s sitting there, away from the madding crowd that’s stampeding up and down the aisle and, actually, he’s trying to isolate himself because, in fact, shortly he will be isolated for a long period of time in the lonely north. </p>
-><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
->	<a href="https://youtu.be/Tsux27kMwjc?si=CzJcEeQjt1KvZFph&t=576">—Glenn Gould, <nobr> <i>The Idea of North</i> </nobr> </a> </p>
+<p style="text-align:center; font-size:1.1em"> <b>二</b> </p>
+
 
 <br>
 
+
+<p style="text-align:center; font-size:1.1em"> <b>三</b> </p>
+
+> <p style="font-size:.95em; font-family: Noto Sans">
+> You are excluding the rest of the world that will never understand, and you’ve made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
+>	<a href="https://youtu.be/Tsux27kMwjc?si=bxwP5gckIj9zBO_5&t=1336">—Frank Vallee, in <nobr> <i>The Idea of North</i> </nobr> </a> </p>
+
+<br>
+
+
+<p style="text-align:center; font-size:1.1em"> <b>四</b> </p>
 
 > <p style="font-size:.95em; font-family: Noto Sans">
 > It is the glistening and softly spoken lie; the amiable fallacy; the patriotic lie of the historian, the provident lie of the politician, the zealous lie of the partizan, the merciful lie of the friend, and the careless lie of each man to himself, that cast that black mystery over humanity, through which any man who pierces, we thank as we would thank one who dug a well in a desert. </p>
