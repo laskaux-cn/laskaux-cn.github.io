@@ -59,6 +59,10 @@ tags:
 
 <p style="text-align:center; font-size:1.1em"> <b>二</b> </p>
 
+<p style="text-align:center; color:grey; font-size:0.86em">
+<img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> <br>
+REC: Davies Symphony Hall, <nobr>San Francisco (1999.05)</nobr>
+</p>
 
 <br>
 
@@ -69,6 +73,16 @@ tags:
 > You are excluding the rest of the world that will never understand, and you’ve made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://youtu.be/Tsux27kMwjc?si=bxwP5gckIj9zBO_5&t=1336">—Frank Vallee, in <nobr> <i>The Idea of North</i> </nobr> </a> </p>
+
+<br>
+
+
+<p style="text-align:center; color:grey; font-size:0.86em">
+<img src="/assets/img/albums/gould-goldberg81.png" width="480"> <br>
+REC: Columbia 30th Street Studio, <nobr>New York (1981.04–05)</nobr>
+</p>
+
+
 
 <br>
 
