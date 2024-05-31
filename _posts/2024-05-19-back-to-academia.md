@@ -52,7 +52,7 @@ tags:
 >
 ><p style="font-size:.86em; font-family: Noto Sans">Transl.&nbsp; <i>I believe in their holy belief. / From their belief my courage is won. / I shall pursue a career for myself / by not pursuing one! </i> </p>
 >
-><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://www.culture.ru/poems/26258/karera">—Евгений Евтушенко, <i>Карьера</i> </a> </p>
+><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://www.culture.ru/poems/26258/karera"> —Евгений Евтушенко, <i>Карьера</i> </a> </p>
 
 <br>
 
@@ -60,8 +60,9 @@ tags:
 <p style="text-align:center; font-size:1.1em"> <b>二</b> </p>
 
 <p style="text-align:center; color:grey; font-size:0.86em">
-<img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> <br>
-REC: Davies Symphony Hall, <nobr>San Francisco (1999.05)</nobr>
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a> <br>
+Davies Symphony Hall, <nobr>San Francisco </nobr> <br>
+1999.05 
 </p>
 
 <br>
@@ -70,7 +71,7 @@ REC: Davies Symphony Hall, <nobr>San Francisco (1999.05)</nobr>
 <p style="text-align:center; font-size:1.1em"> <b>三</b> </p>
 
 > <p style="font-size:.95em; font-family: Noto Sans">
-> You are excluding the rest of the world that will never understand, and you’ve made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+> You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://youtu.be/Tsux27kMwjc?si=bxwP5gckIj9zBO_5&t=1336">—Frank Vallee, in <nobr> <i>The Idea of North</i> </nobr> </a> </p>
 
@@ -78,8 +79,9 @@ REC: Davies Symphony Hall, <nobr>San Francisco (1999.05)</nobr>
 
 
 <p style="text-align:center; color:grey; font-size:0.86em">
-<img src="/assets/img/albums/gould-goldberg81.png" width="480"> <br>
-REC: Columbia 30th Street Studio, <nobr>New York (1981.04–05)</nobr>
+<a href="https://www.youtube.com/watch?v=E0Ytqf2zXWc&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=26">
+<img src="/assets/img/albums/gould-goldberg81.png" width="480"> </a> <br>
+Columbia 30th Street Studio, <nobr>New York</nobr> <br>1981.04–05
 </p>
 
 
