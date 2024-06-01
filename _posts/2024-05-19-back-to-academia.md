@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为何返回学术界
-subtitle: 一些非学术的杂想
+subtitle: 最近的思考历程
 excerpt: <br>
 
 tags: 
@@ -34,7 +34,7 @@ tags:
 > <p style="font-size:.95em; font-family: Noto Sans">
 > Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point.</p> 
 >
-><p style="font-size:.86em; font-family: Noto Sans"> Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
+><p style="font-size:.87em; font-family: Noto Sans"> Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up">—Pierre-Gilles de Gennes, <nobr> <i>Petit point</i> </nobr> </a> </p>
 
 
@@ -50,19 +50,27 @@ tags:
 ><p style="font-size:.95em; font-family: Noto Sans">
 >тем, что не делаю ее!</p>
 >
-><p style="font-size:.86em; font-family: Noto Sans">Transl.&nbsp; <i>I believe in their holy belief. / From their belief my courage is won. / I shall pursue a career for myself / by not pursuing one! </i> </p>
+><p style="font-size:.87em; font-family: Noto Sans">Transl.&nbsp; <i>I believe in their holy belief. / From their belief my courage is won. / I shall pursue a career for myself / by not pursuing one! </i> </p>
 >
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://www.culture.ru/poems/26258/karera"> —Евгений Евтушенко, <i>Карьера</i> </a> </p>
+
+<p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=calemtvodLw&list=OLAK5uy_kQ1vMccLzLlL2b2OZ4smPEzK-IJUmQVNA&index=15&t=580s"> <img src="/assets/img/albums/nelsons-shostakovich13.png" width="480"> </a> <br>
+Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
+Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2023.05 
+</p>
 
 <br>
 
 
 <p style="text-align:center; font-size:1.1em"> <b>二</b> </p>
 
-<p style="text-align:center; color:grey; font-size:0.86em">
+<p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a> <br>
-Davies Symphony Hall, <nobr>San Francisco </nobr> <br>
-1999.05 
+Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
+Davies Symphony Hall, <br>
+San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.05 
 </p>
 
 <br>
@@ -78,10 +86,12 @@ Davies Symphony Hall, <nobr>San Francisco </nobr> <br>
 <br>
 
 
-<p style="text-align:center; color:grey; font-size:0.86em">
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=E0Ytqf2zXWc&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=26">
 <img src="/assets/img/albums/gould-goldberg81.png" width="480"> </a> <br>
-Columbia 30th Street Studio, <nobr>New York</nobr> <br>1981.04–05
+Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
+Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05
 </p>
 
 
