@@ -56,8 +56,7 @@ tags:
 
 <p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=calemtvodLw&list=OLAK5uy_kQ1vMccLzLlL2b2OZ4smPEzK-IJUmQVNA&index=15&t=580s"> <img src="/assets/img/albums/nelsons-shostakovich13.png" width="480"> </a> <br>
-Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
-Symphony Hall, <br>
+@ Symphony Hall, <br>
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2023.05 
 </p>
 
@@ -68,8 +67,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 <p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a> <br>
-Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
-Davies Symphony Hall, <br>
+@ Davies Symphony Hall, <br>
 San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.05 
 </p>
 
@@ -89,11 +87,9 @@ San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=E0Ytqf2zXWc&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=26">
 <img src="/assets/img/albums/gould-goldberg81.png" width="480"> </a> <br>
-Rec.<span style="font-size:0.67em">&nbsp;</span>@ 
-Columbia 30th Street Studio, <br>
+@ Columbia 30th Street Studio, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1981.04–05
 </p>
-
 
 
 <br>
@@ -102,9 +98,19 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p style="text-align:center; font-size:1.1em"> <b>四</b> </p>
 
 > <p style="font-size:.95em; font-family: Noto Sans">
-> It is the glistening and softly spoken lie; the amiable fallacy; the patriotic lie of the historian, the provident lie of the politician, the zealous lie of the partizan, the merciful lie of the friend, and the careless lie of each man to himself, that cast that black mystery over humanity, through which any man who pierces, we thank as we would thank one who dug a well in a desert. </p>
+> I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must still try to learn from history. History is ourselves. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
->	<a href="https://archive.org/details/lamps_architect/page/n59/mode/2up">—John Ruskin, <nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
+>	<a href="https://youtu.be/Mt-vqdgvsoo?si=qBnprXmCylsBLdIm&t=35">—Kenneth Clark, <nobr> <i>Civilisation</i> </nobr> </a> </p>
+
+<br>
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
+<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
+@ Berwaldhallen, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+</p>
+
 
 <br>
 
