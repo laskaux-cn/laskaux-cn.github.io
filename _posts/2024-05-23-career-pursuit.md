@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我想做怎样的学术
+title: 我想有怎样的事业
 subtitle: 
 excerpt: <br>
 
@@ -25,6 +25,26 @@ tags:
 
 <br>
 
+> <p style="font-size:.95em; font-family: Noto Sans">
+> Die mich suchen, wissen, wer ich war, und die anderen brauchen es nicht zu wissen. </p> 
+>
+><p style="font-size:.855em; font-family: Noto Sans"> 
+> Transl.&nbsp; <i> Those who come to look for me know who I was, and the rest do not need to know. </i> </p>
+><p align="right" style="font-size:0.95em; font-family: Noto Sans"> <a href="https://archive.org/details/gustavmahlerderf0000fisc/page/838/mode/2up?q=%22die+mich+suchen%22">—<i>Gustav Mahler: <nobr> Erinnerungen und Briefe </nobr> </i> </a> </p>
+
+<p style="margin-bottom:2em"> </p>
+
+<br>
+
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=gWVleCpy9Og&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=1">
+<img src="/assets/img/albums/haitink-mahler5.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
+</p>
+
+<br>
 
 
 
