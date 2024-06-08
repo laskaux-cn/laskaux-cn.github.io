@@ -1,11 +1,14 @@
 ---
 layout: post
-title: 城市印象 1 &colon; 纽约
+title: 城市印象 3 &colon; 纽黑文（上<span style="margin-right:-0.5em">）</span>
 subtitle: 
 excerpt: <br>
 
 tags: 
 ---
+
+<p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 缘起 </b> </p>
+
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
@@ -22,16 +25,6 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11
-</p>
-
-<br>
-
-
-<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
-<a href="https://www.youtube.com/watch?v=owJ7NUCUIPQ&list=OLAK5uy_lMGRy6trAzHI0hRorgucMbBbi_-38slSo&index=9">
-<img src="/assets/img/albums/spivakov-schnittke.png" width="480"> </a> <br>
-@ Église Notre-Dame du Liban <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.10
 </p>
 
 <br>
