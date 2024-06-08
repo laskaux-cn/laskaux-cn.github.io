@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 城市印象 1 &colon; 纽约（上<span style="margin-right:-0.5em">）</span>
+title: 城市印象 1 &colon; 纽约 | 上
 subtitle: 
 excerpt: <br>
 
-tags: 
+tags: cities
 ---
 
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.1em"><b> 缘起 </b> </p>
@@ -35,6 +35,16 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/kocsis-bartok-cfo.png" width="480"> </a> <br>
 @ Istituto Italiano di Cultura, <br>
 Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2002.09
+</p>
+
+<br>
+
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=X0nU5qae4MY&list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&index=7">
+<img src="/assets/img/albums/pennario-gershwin.png" width="480"> </a> <br>
+@ Webster Hall, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
 </p>
 
 <br>
