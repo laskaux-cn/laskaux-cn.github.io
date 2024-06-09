@@ -31,10 +31,19 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
-<a href="https://www.youtube.com/watch?v=7LbFlMkAApE&list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&index=4">
-<img src="/assets/img/albums/kocsis-bartok-cfo.png" width="480"> </a> <br>
-@ Istituto Italiano di Cultura, <br>
-Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2002.09
+<a href="https://www.youtube.com/watch?v=4GVAU7sgOwY&list=OLAK5uy_n6zsHv2BKRgivswppaF00fOnD-6QyCnGI&index=9">
+<img src="/assets/img/albums/mullova-bartok.png" width="480"> </a> <br>
+@ Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.06
+</p>
+
+<br>
+
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=WzIxtvnCVHI&list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&index=4">
+<img src="/assets/img/albums/bernstein-wss.png" width="480"> </a> <br>
+@ RCA Victor Studio A, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
 </p>
 
 <br>
