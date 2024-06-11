@@ -6,13 +6,13 @@ excerpt: <br>
 
 tags: 
 ---
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
+><p style="margin-bottom: 0.25em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >My only love sprung from my only hate! </p>
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
+><p style="margin-bottom: 0.25em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >Too early seen unknown, and known too late! </p>
-><p style="margin-bottom: 0.25em; font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
+><p style="margin-bottom: 0.25em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >Prodigious birth of love it is to me, </p>
-><p style="font-size:.95em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
+><p style="font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >That I must love a loathed enemy. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I">—<i>Romeo and Juliet</i> : I.v.142–145</a> </p>
@@ -31,7 +31,7 @@ tags:
 
 问题—Is it still fun to do science?
 
-> <p style="font-size:.95em; font-family: Noto Sans">
+> <p style="font-size:.96em; font-family: Noto Sans">
 > Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point.</p> 
 >
 ><p style="font-size:.87em; font-family: Noto Sans"> Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. </i> </p>
@@ -41,11 +41,11 @@ tags:
 <br>
 
 
-><p style="margin-bottom: 0.0em; font-size:.95em; font-family: Noto Sans">
+><p style="margin-bottom: 0.0em; font-size:.96em; font-family: Noto Sans">
 >Я верю в их святую веру. </p>
-><p style="margin-bottom: 0.0em; font-size:.95em; font-family: Noto Sans">
+><p style="margin-bottom: 0.0em; font-size:.96em; font-family: Noto Sans">
 >Их вера — мужество мое. </p>
-><p style="margin-bottom: 0.0em; font-size:.95em; font-family: Noto Sans">
+><p style="margin-bottom: 0.0em; font-size:.96em; font-family: Noto Sans">
 >Я делаю себе карьеру </p>
 ><p style="font-size:.95em; font-family: Noto Sans">
 >тем, что не делаю ее!</p>
@@ -76,7 +76,7 @@ San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"
 
 <p style="text-align:center; font-size:1.1em"> <b>三</b> </p>
 
-> <p style="font-size:.95em; font-family: Noto Sans">
+> <p style="font-size:.96em; font-family: Noto Sans">
 > You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://youtu.be/Tsux27kMwjc?si=bxwP5gckIj9zBO_5&t=1336">—Frank Vallee, in <nobr> <i>The Idea of North</i> </nobr> </a> </p>
@@ -97,7 +97,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 <p style="text-align:center; font-size:1.1em"> <b>四</b> </p>
 
-> <p style="font-size:.95em; font-family: Noto Sans">
+> <p style="font-size:.96em; font-family: Noto Sans">
 > I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must still try to learn from history. History is ourselves. </p>
 ><p align="right" style="font-size:0.95em; font-family: Noto Sans"> 
 >	<a href="https://youtu.be/Mt-vqdgvsoo?si=qBnprXmCylsBLdIm&t=35">—Kenneth Clark, <nobr> <i>Civilisation</i> </nobr> </a> </p>
