@@ -97,6 +97,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p style="text-align:center; margin-bottom:0.75em; font-size:1.05em"><b> 三 </b> </p>
 
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em">
+<a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1">
+<img src="/assets/img/albums/cabaret1998.png" width="480"> </a> <br>
+@ The Hit Factory Studio 1, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1998.04
+</p>
+
 <br>
 
 
