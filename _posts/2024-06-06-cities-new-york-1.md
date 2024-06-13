@@ -113,9 +113,9 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的第一次转机也相当偶然——2015 年感恩节周末，我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了几首并非最著名的 <span style="font-family: Noto Sans">Gershwin</span> 音乐作品，比如全剧开场用来表现巴黎解放[^paris]的
 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a>——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统的协奏曲结构中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；其中的慢乐章
 
-[^wheeldon]: 	&emsp;结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
+[^wheeldon]: 	&emsp;当时的真实感受是全剧整体没有非常惊艳，但结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
 
-[^paris]: 	&emsp;然而我至今仍不明白 <span style="font-family: Noto Sans">Concerto in F</span> 与解放巴黎之间究竟有何联系。
+[^paris]: 	&emsp;不过我至今仍不明白 <span style="font-family: Noto Sans">Concerto in F</span> 与解放巴黎之间究竟有何联系。
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
@@ -157,6 +157,9 @@ Cincinnati &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&
 @ The Hit Factory Studio 1, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1998.04
 </p>
+
+> <p style="font-size:.96em; font-family: Noto Sans">
+> I am a camera with its shutter open, quite passive, recording, not thinking. . . . Some day, all this will have to be developed, carefully printed, fixed. </p>
 
 <br>
 
@@ -222,6 +225,8 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <br>
 
 
+
+
 <p style="text-align:center; font-size:1.05em"><b> 六 </b> </p>
 
 在林肯中心建筑群中，占据中央 <span style="font-family: Noto Sans">C</span> 位的是**大都会歌剧院** <span style="font-family: Noto Sans">(Metropolitan Opera House,</span> 以下简称 <span style="font-family: Noto Sans">Met Opera)</span>
@@ -279,6 +284,15 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
 </p>
+
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
+<a href="https://www.youtube.com/watch?v=v0Nq_JRoY0Q&list=OLAK5uy_nWUMw0qIFPxuzjzvNnvdL-eehOmuxvFok&index=1">
+<img src="/assets/img/albums/gould-brahms-pc1.png" width="480"> </a> <br>
+@ Carnegie Hall, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
 
 <br>
 
