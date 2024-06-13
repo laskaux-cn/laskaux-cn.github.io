@@ -189,6 +189,10 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 
+> <p style="font-size:.96em; font-family: Noto Sans">
+> They will live a long time, these men of the South Pacific. They had an American quality. They, like their victories, will be remembered as long as our generation lives. After that, like the men of the Confederacy, they will become strangers. Longer and longer shadows will obscure them, until their Guadalcanal sounds distant on the ear like Shiloh and Valley Forge. </p>
+
+
 <br>
 
 
