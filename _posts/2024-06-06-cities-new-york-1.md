@@ -159,7 +159,9 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 > <p style="font-size:.96em; font-family: Noto Sans">
-> I am a camera with its shutter open, quite passive, recording, not thinking. . . . Some day, all this will have to be developed, carefully printed, fixed. </p>
+> I am a camera with its shutter open, quite passive, recording, not thinking. Recording the man shaving at the window opposite and the woman in the kimono washing her hair. </p>
+> <p style="font-size:.96em; font-family: Noto Sans">
+> Some day, all this will have to be developed, carefully printed, fixed. </p>
 
 <br>
 
@@ -244,7 +246,7 @@ Lyon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=G7UzaBLUYiA&list=OLAK5uy_nLFBZ6MHuyIiRb8S6ev1xNUPUlq3KQmMQ&index=1">
 <img src="/assets/img/albums/maazel-carmen.png" width="480"> </a> <br>
-@ Studio 104, Maison de la Radio, <br>
+@ Maison de la Radio, Studio 104, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1982.12
 </p>
 
@@ -283,14 +285,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/levin-mozart-pc17.png" width="480"> </a> <br>
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
-</p>
-
-
-<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
-<a href="https://www.youtube.com/watch?v=v0Nq_JRoY0Q&list=OLAK5uy_nWUMw0qIFPxuzjzvNnvdL-eehOmuxvFok&index=1">
-<img src="/assets/img/albums/gould-brahms-pc1.png" width="480"> </a> <br>
-@ Carnegie Hall, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
 </p>
 
 
