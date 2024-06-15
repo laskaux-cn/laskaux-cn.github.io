@@ -2,12 +2,15 @@
 layout: post
 title: 城市印象 1 &colon; 纽约 | 上
 subtitle: 
-excerpt: 这些回忆主要源于我在这座城市中的个人行迹，视角相当主观，其间的见闻或感受也未必都很有新意。但我更愿意把它们视为一段跨越十年并仍在继续的旅行经历，也希望能从零散的记忆中捕获些许自己在过去十年间的改变与成长。<br>
+excerpt: 在喧嚣的外表下，纽约的精神内核是孤独。<br>
 
 tags: cities
 ---
 
 <p style="text-align:center; font-size:1.05em"><b> 起因 </b> </p>
+
+最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的状态——明明各方面总体还算顺利，却像是在经历一场阶段性危机，面对对原本理智的选择犹豫甚至惶恐
+
 
 我是一只在美国旅居超过九年仍然拒绝开车的城市动物。
 
@@ -46,7 +49,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 > <p style="font-size:.96em; font-family: Noto Sans">
 > It’s godless, it’s brutal, it’s violent—but one can’t laugh it off, because in the energy, strength of will and mental grasp that have gone to make New York, materialism has transcended itself. </p>
 
-[^civilisation]: 	&emsp;有趣的是，这段原本位于系列纪录片第 13 集 <a href="https://www.dailymotion.com/playlist/x643yd"> <span style="font-family: Noto Sans"> "Heroic Materialism" </span> </a> 开篇的话在最终的成片中并没有出现。
+[^civilisation]: 	&emsp;有趣的是，这段原本位于系列纪录片第 13 集 <a href="https://www.dailymotion.com/playlist/x643yd"> <span style="font-family: Noto Sans"> “Heroic Materialism” </span> </a> 开篇的话在最终的成片中并没有出现。
 
 换言之，自雅典、罗马以来几乎所有西方「伟大城市」都必须遵守的审美原则——和谐、平衡、理性以及对崇高的敬畏——在纽约被直接无视；取而代之的是对财富与发展的无限渴望。在这里，**物质主义** <span style="font-family: Noto Sans">(materialism)</span> 从现实追求升华为一种精神信仰，塑造了这座城市的核心特质——繁荣、自由、无畏，但似乎难觅传统价值观下的「沉淀」与「灵魂」<span style="margin-left:-0.33em">。</span>
 
@@ -107,11 +110,11 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 
-在我的理解中，与人类似，每座城市也会拥有自己的**表面形象**与**精神内核**，并且二者在现实中经常不完全一致。对于初到的访客，纽约的表面形象几乎是扑面而来的——繁华、拥挤、喧闹，接近人们刻板印象中大都市的极限模版。但是稍停片刻，就不难发现这里的另一个重要特征——**反差**，例如摩登的现代高楼与老旧的公共设施、嘈杂的市区街道与宁静的公园港湾、巨大的物质财富与惊人的贫富差距等等。这些无处不在的**不协调** <span style="font-family: Noto Sans">(incongruity)</span> 像是在提醒我们——试图用一两个标签来概括纽约是不明智的；并且，如能尝试寻找每种典型印象的直接反面，结果常常会令人惊喜。
+在我的理解中，与人类似，每座城市也会拥有自己的**表面形象**与**精神内核**，并且二者在现实中经常不完全一致。对于初到的访客，纽约的表面形象几乎是扑面而来的——繁华、拥挤、喧闹，接近人们刻板印象中大都市的极限模版。但是稍停片刻，就不难发现这里的另一个重要特征——**反差** <span style="font-family: Noto Sans">(contrast)</span>，例如摩登的现代高楼与老旧的公共设施、嘈杂的市区街道与宁静的公园港湾、巨大的物质财富与惊人的贫富差距等等。这些无处不在的**不协调** <span style="font-family: Noto Sans">(incongruity)</span> 像是在提醒我们——试图用一两个标签来概括纽约是不明智的；并且如能尝试寻找每种典型印象的直接反面，结果常常令人惊喜。
 
 
-我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 2015 年感恩节周末——我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了 <span style="font-family: Noto Sans">Gershwin</span> 几首并非最著名的音乐作品。比如，全剧开场用来表现巴黎解放[^paris]的
-<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统的协奏曲结构中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；其中的慢乐章 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio – Andante con moto</span></a> 有长段悠扬的小号独奏和木管的回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答。
+我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 2015 年感恩节周末，我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了几首并非最知名的 <span style="font-family: Noto Sans">Gershwin</span> 音乐作品，包括全剧开场用来表现巴黎解放[^paris]的
+<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统曲式中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；它的慢乐章 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio – Andante con moto</span></a> 中，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：
 
 [^wheeldon]: 	&emsp;当时的真实感受是全剧整体没有非常惊艳，但结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
 
@@ -125,9 +128,9 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 </p>
 
 
-西方音乐中有一类称为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 作品，通常是用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而，它在安静背景的衬托下却更能表现人的孤独——特别是在快—慢—快的三乐章结构中间，强烈渲染了喧嚣与孤寂的反差。尽管音乐本身是抽象的语言，但我们很容易联想到它对应的具体意象——大城市的昼与夜；并且因为爵士风，这座城市被锁定为纽约[^jazz]。
+西方音乐中有一类名为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静背景的衬托下却更能表现人的孤独——特别是在快—慢—快的三乐章结构中强烈放大了喧嚣与孤寂的反差。尽管音乐本身是抽象的语言，但我们很容易联想到它对应的具体意象——大城市的昼与夜；并且因为爵士风，这座城市可以被锁定为纽约[^jazz]。
 
-[^jazz]: 	&emsp;尽管爵士乐一般被认为发源于 <span style="font-family: Noto Sans">New Orleans</span>，纽约作为美国二十世纪初最重要的文化和演艺中心，还是经常被视为爵士音乐发扬光大和走向世界的门户。
+[^jazz]: 	&emsp;尽管爵士乐一般被认为发源于 <span style="font-family: Noto Sans">New Orleans</span>，但纽约作为美国二十世纪初最重要的文化和演艺中心，还是经常被视为爵士音乐发扬光大和走向世界的门户。
 
 
 <span style="font-family: Noto Sans">Concerto in F</span> 让我第一次直观感受到另一个纽约。不久之后，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种概括：
@@ -135,9 +138,9 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 > <p style="font-size:.96em; font-family: Noto Sans">
 > New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
 
-也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性。
+也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却并不互通个人世界。
 
-<span style="font-family: Noto Sans">Gershwin</span> 是土生土长的纽约音乐人；与他几乎同龄、在美国音乐界享有崇高地位的作曲家 <span style="font-family: Noto Sans">Aaron Copland</span> 出生于 <span style="font-family: Noto Sans">Brooklyn</span> 且一生主要在纽约度过。<span style="font-family: Noto Sans">Copland</span> 于 1939 年为 <span style="font-family: Noto Sans">Irwin Shaw</span> 的话剧 <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> 创作的配乐中，
+与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长的纽约音乐人的是享有 <span style="font-family: Noto Sans">“Dean of American Composers”</span> 地位的作曲家 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 的话剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作戏剧配乐——一段弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话[^quietcity]：
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -146,6 +149,12 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11
 </p>
+
+[^quietcity]: 	&emsp;今天我们听到的 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 通常是 1940 年的管弦配器版（小号、英国管、弦乐）；原版配器（小号、萨克斯管、单簧管、钢琴）的 <a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 经由 <span style="font-family: Noto Sans"> Christopher Brellochs </span>编曲于 2010/2011 年首次发行。
+
+
+<span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> 是一部在纽约试演即失败并从此尘封的剧作，主角一度挣扎于自己的犹太身份认同，最终在城市寂静夜晚的小号声中被唤醒自我意识。
+
 
 **在喧嚣的表象下，纽约的精神内核是孤独。**
 
@@ -257,10 +266,10 @@ Lyon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
-<a href="https://www.youtube.com/watch?v=G7UzaBLUYiA&list=OLAK5uy_nLFBZ6MHuyIiRb8S6ev1xNUPUlq3KQmMQ&index=1">
-<img src="/assets/img/albums/maazel-carmen.png" width="480"> </a> <br>
-@ Maison de la Radio, Studio 104, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1982.12
+<a href="https://www.youtube.com/watch?v=hp7SNEEGCX8&list=PL3WplA1SOyUbnCQ-LThEmJC1gyoj5NfyS&index=21">
+<img src="/assets/img/albums/plasson-carmen.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2002.02–03
 </p>
 
 
@@ -285,20 +294,24 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
+<a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
+<img src="/assets/img/albums/levin-mozart-pc17.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
+</p>
+
+> <p style="font-size:.96em; font-family: Noto Sans">
+> Now that we have had at least a glimmer of what it is that makes Beethoven’s music goes so deep in human experience. We can begin to see why all men rejoice in it, and why performers of all nationalities feel close to it. Each of them tries to make manifest the <i>basic truths</i> that live in this music as he understands them. And that's really why we are here, we hundred New Yorkers in Berlin—we have come to take one more step through this kind of cultural exchange along those paths of international understanding that lead to <i>peace</i>. </p>
+> <p style="font-size:.96em; font-family: Noto Sans">
+> After all, the heyday of narrow nationalism is or should be over by now. And what we must cultivate is the real understanding that exists on a level as deep as musical communication—a direct heart-to-heart, mind-to-mind contact. Only this kind of rapport can bring us <i>peace</i>, which is the immediate and necessary goal of this modern world.  </p>
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
 <img src="/assets/img/albums/lubin-beethoven.png" width="480"> </a> <br>
 @ St Barnabas Church, North Finchley, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.06
 </p>
 
-
-
-<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
-<a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
-<img src="/assets/img/albums/levin-mozart-pc17.png" width="480"> </a> <br>
-@ Walthamstow Assembly Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
-</p>
 
 
 <br>
@@ -318,7 +331,11 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
 </p>
 
-<br>
+
+<p style="text-align:center; font-size:1.0em; margin-bottom:2em">（未完待下篇） </p>
+
+
+---
 
 
 
