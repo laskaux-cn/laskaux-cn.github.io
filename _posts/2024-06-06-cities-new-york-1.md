@@ -2,7 +2,7 @@
 layout: post
 title: 城市印象 1 &colon; 纽约 | 上
 subtitle: 
-excerpt: 在喧嚣的表象下，纽约的精神内核是孤独。这种孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态，让我们更直接和坦然地面对、发掘甚至塑造自己。回看过去，我认为孤独使我更好地感受了纽约。<br>
+excerpt: 在喧嚣的表象下，纽约的精神内核是孤独——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认识和选择最真实的自己。纽约经常令我感受到孤独；我也认为孤独使我更好地理解了纽约。<br>
 
 tags: cities
 ---
@@ -110,7 +110,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 
-在我的理解中，与人类似，每座城市也会拥有自己的**表面形象**与**精神内核**，并且二者在现实中经常不完全一致。对于初到的访客，纽约的表面形象几乎是扑面而来的——繁华、拥挤、喧闹，接近人们刻板印象中大都市的极限模版。但是稍停片刻，就不难发现这里的另一个重要特征——**反差** <span style="font-family: Noto Sans">(contrast)</span>，例如摩登的现代高楼与老旧的公共设施、嘈杂的市区街道与宁静的公园港湾、巨大的物质财富与惊人的贫富差距等等。这些无处不在的**不协调** <span style="font-family: Noto Sans">(incongruity)</span> 像是在提醒我们——试图用一两个标签来概括纽约是不明智的；并且如能尝试寻找每种典型印象的直接反面，结果常常令人惊喜。
+在我的理解中，与人类似，每座城市也会拥有自己的**表面形象**与**精神内核**，并且二者在现实中经常不完全一致。对于初到的访客，纽约的表面形象几乎是扑面而来的——繁华、拥挤、喧闹，接近人们刻板印象中大都市的极限模版。但是稍停片刻，就不难发现这里的另一个重要特征——**反差**，例如摩登的现代高楼与老旧的公共设施、嘈杂的市区街道与宁静的公园港湾、巨大的物质财富与惊人的贫富差距等等。这些无处不在的**不协调** <span style="font-family: Noto Sans">(incongruity)</span> 像是在提醒我们——试图用一两个标签来概括纽约是不明智的；并且，如能尝试寻找每种典型印象的直接反面，结果常常令人惊喜。
 
 
 我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 2015 年感恩节周末，我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了几首并非最知名的 <span style="font-family: Noto Sans">Gershwin</span> 音乐作品，包括全剧开场用来表现巴黎解放[^paris]的
@@ -118,7 +118,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 [^wheeldon]: 	&emsp;当时的真实感受是全剧整体没有非常惊艳，但结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
 
-[^paris]: 	&emsp;不过我至今仍不明白 <span style="font-family: Noto Sans">Concerto in F</span> 与解放巴黎之间究竟有何联系。
+[^paris]: 	&emsp;不过我至今仍不明白 <span style="font-family: Noto Sans">Concerto in F</span> 的慢乐章与解放巴黎之间究竟有何直接联系。
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
@@ -134,7 +134,7 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 
 
 
-与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位著名作曲家是享有 <span style="font-family: Noto Sans">"Dean of American Composers"</span> 地位的 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 的戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作配乐，次年重新编曲成为独立音乐作品[^quietcity]。剧作本身在纽约试演即失败并从此尘封，主角一度挣扎于自己的犹太身份认同，最终被城市寂静夜晚的小号声唤醒了自我意识。与 <span style="font-family: Noto Sans">Gershwin</span> 类似，据此 <span style="font-family: Noto Sans">Copland</span> 将音乐主题写为弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话——陌生、冷静而孤单：
+与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位著名作曲家是享有 <span style="font-family: Noto Sans">"Dean of American Composers"</span> 地位的 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 一部试演即失败、并从此尘封的戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作配乐，次年重新编曲成为独立音乐作品[^quietcity]。剧中的主角一度挣扎于自己的犹太身份认同，最终在城市寂静夜晚的小号声中被重新唤醒了自我意识。也许是受到 <span style="font-family: Noto Sans">Gershwin</span> 风格的启发，<span style="font-family: Noto Sans">Copland</span> 也将这段音乐的主线写为弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话——陌生、冷静而孤单：
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -150,20 +150,30 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 
-<span style="font-family: Noto Sans">Concerto in F</span> 与 <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> 的声音让我开始直观感受一个之前陌生的纽约。后来不久，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种对此的概括：
+<span style="font-family: Noto Sans">Gershwin</span> 与 <span style="font-family: Noto Sans"> Copland </span> 的声音印象让我开始直观认知一个不一样的纽约。不久之后，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种概括：
 
 > <p style="font-size:.96em; font-family: Noto Sans">
 > New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
 
-也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却不互通个人世界。从那时起，我愈发相信一个命题——**在喧嚣的表象下，纽约的精神内核是孤独**。这种孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态，让我们更直接和坦然地面对、发掘甚至塑造自己。
+也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却不互通个人世界。从那时起，我愈发相信**在喧嚣的表象下，纽约的精神内核是孤独**——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认识和选择最真实的自己。
 
-回看过去，我认为孤独也使我更好地感受了纽约。
+纽约经常令我感受到孤独；我也认为孤独使我更好地理解了纽约。
 
 <br>
 
 
 
 <p style="text-align:center; font-size:1.05em"><b> 三 </b> </p>
+
+人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界里与伦敦齐名的商业戏剧中心，以**百老汇** <span style="font-family: Noto Sans">(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出曾是吸引我一次次探访这座城市的最直接原因。
+
+这些年我在纽约看过一些质量很高的经典**话剧** <span style="font-family: Noto Sans">(straight play)</span> 的重排，比如 <span style="font-family: Noto Sans">Shakespeare</span> 的
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> King Lear</span></a> 
+(1606)、<span style="font-family: Noto Sans">Ibsen</span> 的
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;">An Enemy of the People</span></a> 
+(1882)、<span style="font-family: Noto Sans">Chekhov</span> 的
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;">Uncle Vanya</span> </a> 
+(1897) 等。但是，纽约戏剧舞台的最大特色是这里的**音乐剧** <span style="font-family: Noto Sans">(musical)</span> 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=9iRNK7CvOkU&list=OLAK5uy_n8qQ3lyC6NaRarJ01NZGnFXtdazDq55rg&index=15">
