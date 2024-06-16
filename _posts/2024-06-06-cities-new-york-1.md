@@ -2,7 +2,7 @@
 layout: post
 title: 城市印象 1 &colon; 纽约 | 上
 subtitle: 
-excerpt: 在喧嚣的外表下，纽约的精神内核是孤独。<br>
+excerpt: 在喧嚣的表象下，纽约的精神内核是孤独。这种孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态，让我们更直接和坦然地面对、发掘甚至塑造自己。回看过去，我认为孤独使我更好地感受了纽约。<br>
 
 tags: cities
 ---
@@ -51,7 +51,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 [^civilisation]: 	&emsp;有趣的是，这段原本位于系列纪录片第 13 集 <a href="https://www.dailymotion.com/playlist/x643yd"> <span style="font-family: Noto Sans"> “Heroic Materialism” </span> </a> 开篇的话在最终的成片中并没有出现。
 
-换言之，自雅典、罗马以来几乎所有西方「伟大城市」都必须遵守的审美原则——和谐、平衡、理性以及对崇高的敬畏——在纽约被直接无视；取而代之的是对财富与发展的无限渴望。在这里，**物质主义** <span style="font-family: Noto Sans">(materialism)</span> 从现实追求升华为一种精神信仰，塑造了这座城市的核心特质——繁荣、自由、无畏，但似乎难觅传统价值观下的「沉淀」与「灵魂」<span style="margin-left:-0.33em">。</span>
+换言之，自雅典、罗马以降几乎所有西方「伟大城市」都必须遵守的审美原则——和谐、平衡、理性以及对崇高的敬畏——在纽约被直接无视；取而代之的是对财富与发展的无限渴望。在这里，**物质主义** <span style="font-family: Noto Sans">(materialism)</span> 从现实追求升华为一种精神信仰，塑造了这座城市的核心特质——繁荣、自由、无畏，但似乎难觅传统价值观下的「沉淀」与「灵魂」<span style="margin-left:-0.33em">。</span>
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -114,7 +114,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 2015 年感恩节周末，我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了几首并非最知名的 <span style="font-family: Noto Sans">Gershwin</span> 音乐作品，包括全剧开场用来表现巴黎解放[^paris]的
-<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统曲式中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；它的慢乐章 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio – Andante con moto</span></a> 中，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：
+<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统曲式中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；在它慢乐章的 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio </span></a> 部分，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：
 
 [^wheeldon]: 	&emsp;当时的真实感受是全剧整体没有非常惊艳，但结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
 
@@ -128,19 +128,13 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 </p>
 
 
-西方音乐中有一类名为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静背景的衬托下却更能表现人的孤独——特别是在快—慢—快的三乐章结构中强烈放大了喧嚣与孤寂的反差。尽管音乐本身是抽象的语言，但我们很容易联想到它对应的具体意象——大城市的昼与夜；并且因为爵士风，这座城市可以被锁定为纽约[^jazz]。
+西方音乐中有一类名为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是放在快—慢—快的三乐章结构中间。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以被锁定为纽约[^jazz]。
 
 [^jazz]: 	&emsp;尽管爵士乐一般被认为发源于 <span style="font-family: Noto Sans">New Orleans</span>，但纽约作为美国二十世纪初最重要的文化和演艺中心，还是经常被视为爵士音乐发扬光大和走向世界的门户。
 
 
-<span style="font-family: Noto Sans">Concerto in F</span> 让我第一次直观感受到另一个纽约。不久之后，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种概括：
 
-> <p style="font-size:.96em; font-family: Noto Sans">
-> New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
-
-也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却并不互通个人世界。
-
-与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长的纽约音乐人的是享有 <span style="font-family: Noto Sans">“Dean of American Composers”</span> 地位的作曲家 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 的话剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作戏剧配乐——一段弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话[^quietcity]：
+与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位著名作曲家是享有 <span style="font-family: Noto Sans">"Dean of American Composers"</span> 地位的 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 的戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作配乐，次年重新编曲成为独立音乐作品[^quietcity]。剧作本身在纽约试演即失败并从此尘封，主角一度挣扎于自己的犹太身份认同，最终被城市寂静夜晚的小号声唤醒了自我意识。与 <span style="font-family: Noto Sans">Gershwin</span> 类似，据此 <span style="font-family: Noto Sans">Copland</span> 将音乐主题写为弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话——陌生、冷静而孤单：
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -153,10 +147,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 [^quietcity]: 	&emsp;今天我们听到的 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 通常是 1940 年的管弦配器版（小号、英国管、弦乐）；原版配器（小号、萨克斯管、单簧管、钢琴）的 <a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 经由 <span style="font-family: Noto Sans"> Christopher Brellochs </span>编曲于 2010/2011 年首次发行。
 
 
-<span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> 是一部在纽约试演即失败并从此尘封的剧作，主角一度挣扎于自己的犹太身份认同，最终在城市寂静夜晚的小号声中被唤醒自我意识。
 
 
-**在喧嚣的表象下，纽约的精神内核是孤独。**
+
+<span style="font-family: Noto Sans">Concerto in F</span> 与 <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> 的声音让我开始直观感受一个之前陌生的纽约。后来不久，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种对此的概括：
+
+> <p style="font-size:.96em; font-family: Noto Sans">
+> New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
+
+也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却不互通个人世界。从那时起，我愈发相信一个命题——**在喧嚣的表象下，纽约的精神内核是孤独**。这种孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态，让我们更直接和坦然地面对、发掘甚至塑造自己。
+
+回看过去，我认为孤独也使我更好地感受了纽约。
 
 <br>
 
@@ -315,8 +316,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <br>
-
-
 
 
 
