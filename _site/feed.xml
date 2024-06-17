@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 17 Jun 2024 13:29:55 -0400</pubDate>
+    <pubDate>Mon, 17 Jun 2024 14:04:23 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -70,7 +70,7 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 p.quote {
   letter-spacing: 0px;
   font-family: Noto Sans;
-  font-size:0.98em;
+  font-size:0.97em;
 }
 p.cn {
   line-height: 1.65;
@@ -78,13 +78,13 @@ p.cn {
   margin-bottom:1.4em
 }
 p.ttl {
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
   text-align:center;
   font-size:1.05em;
   font-weight: 600;
 }
 p.end {
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
   text-align:center;
   margin-bottom:2em;
 }
@@ -100,7 +100,7 @@ p.not {
 	text-align:left; 
 	color:#707070; 
 	font-size:0.9em; 
-	letter-spacing: 0.5px;
+	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
 	margin-left:1.25em; 
@@ -170,15 +170,15 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1977]&lt;/span&gt; 创作的同名主题曲：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.97em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 I wanna wake up in the city &lt;nobr&gt; that doesn’t sleep &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.97em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 To find I’m king of the hill, &lt;nobr&gt;head of the list,&lt;/nobr&gt; &lt;nobr&gt;cream of the crop&lt;/nobr&gt; &lt;nobr&gt;at the top of the heap. . . .&lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.97em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 I’ll make a brand new start of it &lt;nobr&gt; in old New York. &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.97em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 If I can make it there, &lt;nobr&gt; I’ll make it anywhere. &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;font-size:.97em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 Come on, come through, &lt;nobr&gt; New York, New York. &lt;/nobr&gt; &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -244,7 +244,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-&lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Copland &lt;/span&gt; 的音乐让我开始直观感受一个不一样的纽约。不久之后，我在 &lt;span class=&quot;reg&quot;&gt;E. B. White&lt;/span&gt; 的小书 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Here Is New York &lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1949]&lt;/span&gt; 中找到了一种概括：&lt;/p&gt;
+&lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Copland &lt;/span&gt; 使我开始直观感受一个不一样的纽约。不久之后，我在 &lt;span class=&quot;reg&quot;&gt;E. B. White&lt;/span&gt; 的小书 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Here Is New York &lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1949]&lt;/span&gt; 中找到了一种概括：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p class=&quot;quote&quot;&gt;
@@ -294,10 +294,10 @@ Mörbisch am See &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; heig
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-出于偶像情怀去看剧有时也难免会有失落：比如 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt; 在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年和 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年 &lt;span class=&quot;reg&quot;&gt;Glenn Close&lt;/span&gt; 在 &lt;a href=&quot;https://www.youtube.com/watch?v=7NtI-Ws4J5Y&amp;amp;list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Sunset Boulevard &lt;/span&gt;&lt;/a&gt; 中重演 &lt;span class=&quot;reg&quot;&gt;Norma Desmond&lt;/span&gt;，但看过不仅印象平淡，还貌似理解了为什么这部取材于&lt;a href=&quot;https://www.youtube.com/watch?v=HduXGYkoc_w&amp;amp;list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&amp;amp;index=1&quot;&gt;同名电影&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1950]&lt;/span&gt;、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。&lt;/p&gt;
+出于偶像情怀去看剧有时也难免会有失落：比如 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt; 在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年和 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年 &lt;span class=&quot;reg&quot;&gt;Glenn Close&lt;/span&gt; 在 &lt;a href=&quot;https://www.youtube.com/watch?v=7NtI-Ws4J5Y&amp;amp;list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Sunset Boulevard &lt;/span&gt;&lt;/a&gt; 中重演 &lt;span class=&quot;reg&quot;&gt;Norma Desmond&lt;/span&gt;，但看过不仅印象平淡，还貌似有点明白了为什么这部取材于&lt;a href=&quot;https://www.youtube.com/watch?v=HduXGYkoc_w&amp;amp;list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&amp;amp;index=1&quot;&gt;同名电影&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1950]&lt;/span&gt;、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-不过，记忆中最满意的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;——当天的演出效果令我震撼。&lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 也从此成为了我心中的神级音乐剧。
+不过，记忆中最满意的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;。当天的演出效果令我震撼，同时也突然理解了 &lt;span class=&quot;num&quot;&gt;1998&lt;/span&gt; 年以来新版 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 角色调整的用意——剧中的 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 已不再是一个人，而是魏玛共和国晚期时代与社会风貌的人格化 &lt;span class=&quot;reg&quot;&gt;(personalification)&lt;/span&gt;。
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -308,7 +308,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;not&quot;&gt;
-	假如让每个人选出自己心目中最无可替代的音乐剧最佳角色演绎，我很可能会把男主角的票投给 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;; 至于女主角，我大概会投给 &lt;a href=&quot;https://www.youtube.com/watch?v=FYsPP3cIak8&amp;amp;list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&amp;amp;index=3&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Julie Andrews&lt;/span&gt; 或 &lt;a href=&quot;https://www.youtube.com/watch?v=SiBeulkw_t4&amp;amp;list=PL527AE24E951AA09C&amp;amp;index=18&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Miss Saigon &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt;。
+	假如要选出自己心目中最无可替代的音乐剧最佳角色演绎，我很可能会把男主角的票投给 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;; 至于女主角，我大概会投给 &lt;a href=&quot;https://www.youtube.com/watch?v=FYsPP3cIak8&amp;amp;list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&amp;amp;index=3&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Julie Andrews&lt;/span&gt; 或者 &lt;a href=&quot;https://www.youtube.com/watch?v=SiBeulkw_t4&amp;amp;list=PL527AE24E951AA09C&amp;amp;index=18&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Miss Saigon &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt;。
 &lt;/p&gt;
 
 &lt;blockquote&gt;
