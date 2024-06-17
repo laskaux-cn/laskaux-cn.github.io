@@ -7,18 +7,44 @@ excerpt: 在喧嚣的表象下，纽约的精神内核是孤独——这里的�
 tags: cities
 ---
 
-<p style="text-align:center; font-size:1.05em"><b> 起因 </b> </p>
+<style>
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.5px;
+}
+p.ttl {
+  letter-spacing: 0.5px;
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+}
+</style>
+
+
+<p class="ttl"> 起因 </p>
 
 最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的状态——明明各方面总体还算顺利，却像是在经历一场阶段性危机，面对对原本理智的选择犹豫甚至惶恐
 
-
+<p class="cn">
 我是一只在美国旅居超过九年仍然拒绝开车的城市动物。
+</p>
 
 <br>
 
-<p style="text-align:center; font-size:1.05em"><b> 一 </b> </p>
 
-纽约本身无需过多介绍——当今唯一超级大国的唯一超级城市、美国乃至世界最大的经济和金融中心、众多维度仍将长期领先的「国际超一线都会」<span style="margin-left:-0.33em">。</span>特别是在推崇「以经济建设为中心」朴素唯物主义价值观的发展中国家，纽约是必须写进教科书的美国发展奇迹（另一个是西海岸的硅谷）<span style="margin-left:-0.5em">。</span>无论是当年遥望自由女神像、从 <span style="font-family: Noto Sans">Ellis Island</span> 踏上新大陆的各国移民，还是今天鸟瞰曼哈顿天际线、从 <span style="font-family: Noto Sans">JFK</span> 或 <span style="font-family: Noto Sans">EWR</span> 机场徐徐降落的国际旅客，看到纽约心中也许会飘过那句两千年前地中海人面对罗马的感叹——万城之城。
+<p class="ttl"> 一 </p>
+
+<p class="cn">
+纽约本身无需过多介绍——当今唯一超级大国的唯一超级城市、美国乃至世界最大的经济和金融中心、众多维度仍将长期领先的「国际超一线都会」<span style="margin-left:-0.33em">。</span>特别是在推崇「以经济建设为中心」朴素唯物主义价值观的发展中国家，纽约是必须写进教科书的美国发展奇迹（另一个是西海岸的硅谷）<span style="margin-left:-0.5em">。</span>无论是当年遥望自由女神像、从 <span class='reg'>Ellis Island</span> 踏上新大陆的各国移民，还是今天鸟瞰曼哈顿天际线、从 <span class='reg'>JFK</span> 或 <span class='reg'>EWR</span> 机场徐徐降落的国际旅客，看到纽约心中也许会飘过那句两千年前地中海人面对罗马的感叹——万城之城。</p>
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -29,29 +55,30 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 
+<p class='cn'>
 事实上，对纽约的向往绝不限于第三世界人民。在纪录片
 <a href="https://www.dailymotion.com/video/x8mww57">
-	<span style="font-style: italic; font-family: Noto Sans"> America: A Personal History of the United States </span> </a> (1972) 中，
-大半生在美国度过并主要定居纽约的英国记者 <span style="font-family: Noto Sans">Alistair Cooke</span> 回忆自己 24 岁首次访美、赴耶鲁留学途中初见纽约时的兴奋：
+	<span class='ita'> America: A Personal History of the United States </span> </a> <span class='reg'>(1972)</span> 中，
+大半生在美国度过并主要定居纽约的英国记者 <span class='reg'>Alistair Cooke</span> 回忆自己 <span class='reg'>24</span> 岁首次访美、赴耶鲁留学途中初见纽约时的兴奋：</p>
 
 > <p style="font-size:.96em; font-family: Noto Sans">
 > This is the grand and glorious cliché of America, as the Acropolis of Greece and the Taj Mahal of India. A million tourists have said there’s nothing like it, and they are right. . . . </p>
 > <p style="font-size:.96em; font-family: Noto Sans">
 > I sailed into New York late on a fall evening. It was at once magical and sinister, and better than anything that the movies have promised. </p>
 
-
+<p class='cn'>
 但是，西方世界对于所谓的「美国式奇迹」从来就不只有一种声音。例如，在我至今最喜欢没有之一的艺术史纪录片 
 <a href="https://archive.org/details/in.ernet.dli.2015.213784/page/n385/mode/2up">
-	<span style="font-style: italic; font-family: Noto Sans"> Civilisation </span> </a> (1969)
-的文稿中[^civilisation]，作为传统英国学者的 <span style="font-family: Noto Sans"> Kenneth Clark </span> 
-如此评价纽约的崛起：
+	<span class='ita'> Civilisation </span> </a> <span class='reg'>(1969)</span>
+的文稿中，作为传统英国学者的 <span class='reg'> Kenneth Clark </span> 
+如此评价纽约的崛起：</p>
 
 > <p style="font-size:.96em; font-family: Noto Sans">
 > It’s godless, it’s brutal, it’s violent—but one can’t laugh it off, because in the energy, strength of will and mental grasp that have gone to make New York, materialism has transcended itself. </p>
 
-[^civilisation]: 	&emsp;有趣的是，这段原本位于系列纪录片第 13 集 <a href="https://www.dailymotion.com/playlist/x643yd"> <span style="font-family: Noto Sans"> “Heroic Materialism” </span> </a> 开篇的话在最终的成片中并没有出现。
 
-换言之，自雅典、罗马以降几乎所有西方「伟大城市」都必须遵守的审美原则——和谐、平衡、理性以及对崇高的敬畏——在纽约被直接无视；取而代之的是对财富与发展的无限渴望。在这里，**物质主义** <span style="font-family: Noto Sans">(materialism)</span> 从现实追求升华为一种精神信仰，塑造了这座城市的核心特质——繁荣、自由、无畏，但似乎难觅传统价值观下的「沉淀」与「灵魂」<span style="margin-left:-0.33em">。</span>
+<p class="cn">
+换言之，自雅典、罗马以降几乎所有西方「伟大城市」都必须遵守的审美原则——和谐、平衡、理性以及对崇高的敬畏——在纽约被直接无视；取而代之的是对财富与发展的无限渴望。在这里，<b>物质主义</b> <span class='reg'>(materialism)</span> 从现实追求升华为一种精神信仰，塑造了这座城市的核心特质——繁荣、自由、无畏，但似乎难觅传统价值观下的「沉淀」与「灵魂」<span style="margin-left:-0.33em">。</span> </p>
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -61,9 +88,9 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.05
 </p>
 
-
-与以上这些访客视角互补的，是纽约人自己心目中的纽约。其中最积极的心态大致可见于纽约的一首「非官方市歌」<span style="margin-left:-0.5em">——</span>由 <span style="font-family: Noto Sans"> John Kander </span> 与 <span style="font-family: Noto Sans"> Fred Ebb </span> 为音乐电影 <a href="https://www.youtube.com/watch?v=ge7NiJuSpac">
-	<span style="font-style: italic; font-family: Noto Sans"> New York, New York </span> </a> (1977) 创作的同名主题曲：
+<p class="cn">
+与以上这些访客视角互补的，是纽约人自己心目中的纽约。其中最积极的心态大致可见于纽约的一首「非官方市歌」<span style="margin-left:-0.5em">——</span>由 <span class='reg'> John Kander </span> 与 <span class='reg'> Fred Ebb </span> 为音乐电影 <a href="https://www.youtube.com/watch?v=ge7NiJuSpac">
+	<span class='ita'> New York, New York </span> </a> <span class='reg'>(1977)</span> 创作的同名主题曲：</p>
 
 ><p style="margin-bottom: 0.5em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >I wanna wake up in the city <nobr> that doesn’t sleep </nobr> </p>
@@ -76,12 +103,11 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 ><p style="font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em">
 >Come on, come through, <nobr> New York, New York. </nobr> </p>
 
-我第一次听这首 <a href="https://youtu.be/q3Fu4nADtxw?si=uq5zEZHr5JDOP-x7&t=763"> <span style="font-family: Noto Sans"> "New York, New York" </span> </a> 是读本科时翻墙看 1998 年 <span style="font-family: Noto Sans"> Kander & Ebb </span> 被授予 <span style="font-family: Noto Sans">Kennedy Center Honors (KCH)</span> 的致敬演出录像——压轴出场的 <span style="font-family: Noto Sans">Liza Minnelli</span> 携纽约文艺界和普通市民的代表，向这对杰出的音乐剧创作组合[^kanderebb]表示最高的谢意（整组表演也是我个人心目中的历史最佳 <span style="font-family: Noto Sans">KCH</span> 致敬演出之一）<span style="margin-left:-0.6em">；</span>后来，我又在黏土定格动画短片 <a href="https://www.youtube.com/watch?v=5KnObpbQmH0">
-	<span style="font-style: italic; font-family: Noto Sans"> Sundae in New York </span> </a> (1983) 
-中偶遇了这首歌的诙谐改编——片中的主唱形象是时任纽约市长 <span style="font-family: Noto Sans">Ed Koch</span>；第一次听「现场」则是几年前的一个周末傍晚，与朋友坐在 <span style="font-family: Noto Sans">Greenwich Village</span> 附近的街边餐厅，门口的小乐队突然奏起了歌曲开头那组熟悉的固定音型 <span style="font-family: Noto Sans">(ostinato)</span>，感觉整条街上的空气瞬间鲜活了起来。
+<p class="cn">
+我第一次听这首 <a href="https://youtu.be/q3Fu4nADtxw?si=uq5zEZHr5JDOP-x7&t=763"> <span class='reg'> "New York, New York" </span> </a> 是读本科时翻墙看 1998 年 <span class='reg'> Kander & Ebb </span> 被授予 <span class='reg'>Kennedy Center Honors (KCH)</span> 的致敬演出录像——压轴出场的 <span style="font-family: Noto Sans">Liza Minnelli</span> 携纽约文艺界和普通市民的代表，向这对杰出的音乐剧创作组合表示最高的谢意（整组表演也是我个人心目中的历史最佳 <span style="font-family: Noto Sans">KCH</span> 致敬演出之一）<span style="margin-left:-0.6em">；</span>后来，我又在黏土定格动画短片 <a href="https://www.youtube.com/watch?v=5KnObpbQmH0">
+	<span class='ita'>Sundae in New York</span></a> <span class='reg'>(1983)</span>
+中偶遇了这首歌的诙谐改编——片中的主唱形象是时任纽约市长 <span class='reg'>Ed Koch</span>；第一次听「现场」则是几年前的一个周末傍晚，与朋友坐在 <span class='reg'>Greenwich Village</span> 附近的街边餐厅，门口的小乐队突然奏起了歌曲开头那组熟悉的固定音型 <span class='reg'>(ostinato)</span>，感觉整条街上的空气瞬间鲜活了起来。</p>
 
-
-[^kanderebb]: 	&emsp;<span style="font-family: Noto Sans">John Kander </span> 与 <span style="font-family: Noto Sans"> Fred Ebb </span> 共同创作的音乐剧代表作包括  <a href="https://www.youtube.com/watch?v=-NVnZw1d7A0&list=OLAK5uy_nWtD_EUnSce1ezWRzYF7CsIyHihOJWM34&index=1"><span style="font-style: italic; font-family: Noto Sans"> Cabaret </span> </a> (1966) 与 <a href="https://www.youtube.com/watch?v=QQ_7ZX5I5ik&list=OLAK5uy_myZVmt_31G23N7IwxpTAHlAraVztr8b04&index=1"><span style="font-style: italic; font-family: Noto Sans"> Chicago </span> </a> (1975)。
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=RMr9FO9nS7Q&list=OLAK5uy_kfFdBE2D7gMJx8ayuRHcHccQie0AAwK6o&index=6&t=394s">
@@ -90,8 +116,8 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1979.09
 </p>
 
-
-这些来自不同声音、形形色色的纽约印象可以被无限列举下去。在本文（计划分为上下两篇）余下的篇幅里，我将重点讲述**自己心目中的纽约**。显然，这些回忆主要源于我在这座城市中的个人行迹，视角相当主观，其间的见闻或感受也未必都很有新意。但我更愿意把它们视为一段跨越十年并仍在继续的旅行经历，也希望能从零散的记忆中捕获些许自己在过去十年间的改变与成长。
+<p class="cn">
+这些来自不同声音、形形色色的纽约印象可以被无限列举下去。在本文（计划分为上下两篇）余下的篇幅里，我将重点讲述<b>自己心目中的纽约</b>。显然，这些回忆主要源于我在这座城市中的个人行迹，视角相当主观，其间的见闻或感受也未必都很有新意。但我更愿意把它们视为一段跨越十年并仍在继续的旅行经历，也希望能从零散的记忆中捕获些许自己在过去十年间的改变与成长。</p>
 
 
 <br>
@@ -194,10 +220,11 @@ Mörbisch am See &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="
 </p>
 
 
-当然，出于偶像情怀去看剧难免有略微失望的时候：比如 <span style="font-family: Noto Sans">Lea Salonga</span> 在 2015 年和 2017 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 2017 年 <span style="font-family: Noto Sans">Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Sunset Boulevard </span></a> 中重演 <span style="font-family: Noto Sans">Norma Desmond</span>，但看过不仅印象平淡，还貌似理解了为什么这部取材于著名<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> (1950)、精心制作且金曲颇多的剧自首演以来在专业圈内一直评价不高，甚至还因剧情产生了一丝悲凉感——音乐剧的黄金时代亦如当年的无声电影一般一去不返。
+<p style="line-height: 1.65">
+当然，出于偶像情怀去看剧难免有略微失望的时候：比如 <span style="font-family: Noto Sans">Lea Salonga</span> 在 2015 年和 2017 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 2017 年 <span style="font-family: Noto Sans">Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Sunset Boulevard </span></a> 中重演 <span style="font-family: Noto Sans">Norma Desmond</span>，但看过不仅印象平淡，还貌似理解了为什么这部取材于著名<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> (1950)、精心制作且金曲颇多的剧自首演以来在专业圈内一直评价不高，甚至还因剧情产生了一丝悲凉感——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
 
 
-不过，记忆中最满意的一次「追星」是在 2015 年春天，我从普林斯顿到波士顿的路上在纽约停留了半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Cabaret </span></a> 停演前的最后一周见到了时隔 16 年再次出演 <span style="font-family: Noto Sans">Emcee</span> 的 <span style="font-family: Noto Sans">Alan Cumming</span>——当天的演出是令我震撼的。
+不过，记忆中最满意的一次「追星」是在 2015 年春天，我从普林斯顿到波士顿的路上在纽约停留了半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Cabaret </span></a> 停演前的最后一周见到了时隔 16 年再次出演 <span style="font-family: Noto Sans">Emcee</span> 的 <span style="font-family: Noto Sans">Alan Cumming</span>——当天的演出效果令我相当震撼，<span style="font-family: Noto Sans;font-style: italic;">Cabaret </span> 也从此成为了我心中的神级音乐剧。
 
 
 
