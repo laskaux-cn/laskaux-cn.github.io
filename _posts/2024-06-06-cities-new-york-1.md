@@ -130,7 +130,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 >Come on, come through, <nobr> New York, New York. </nobr> </p>
 
 <p class="cn">
-我第一次听这首 <a href="https://youtu.be/q3Fu4nADtxw?si=uq5zEZHr5JDOP-x7&t=763"> <span class='reg'> “New York, New York” </span> </a> 是读本科时翻墙看 <span class='num'>1998</span> 年 <span class='reg'> Kander & Ebb </span> 被授予 <span class='reg'>Kennedy Center Honors (KCH)</span> 的致敬演出录像——压轴出场的 <span class='reg'>Liza Minnelli</span> 携纽约文艺界和普通市民的代表，向这对杰出的音乐剧创作组合表示最高的谢意（整组表演也是我个人心目中的历史最佳 <span style="font-family: Noto Sans">KCH</span> 致敬演出之一）<span style="margin-left:-0.6em">；</span>后来，我又在黏土定格动画短片 <a href="https://www.youtube.com/watch?v=5KnObpbQmH0">
+我第一次听这首 <a href="https://youtu.be/q3Fu4nADtxw?si=uq5zEZHr5JDOP-x7&t=763"> <span class='reg'> “New York, New York” </span> </a> 是读本科时翻墙看 <span class='num'>1998</span> 年 <span class='reg'> Kander & Ebb </span> 被授予 <span class='reg'>Kennedy Center Honors (KCH)</span> 的致敬演出录像——压轴出场的 <span class='reg'>Liza Minnelli</span> 携纽约文艺界和普通市民的代表，向这对杰出的音乐剧创作组合表示最高的谢意（整组表演也是我个人心目中的历史最佳 <span style="font-family: Noto Sans">KCH</span> 致敬演出之一）<span style="margin-left:-0.6em">；</span>后来，我又在动画短片 <a href="https://www.youtube.com/watch?v=5KnObpbQmH0">
 	<span class='ita'>Sundae in New York</span></a> <span class='num'>[1983]</span>
 中偶遇了这首歌的诙谐改编——片中的主唱形象是时任纽约市长 <span class='reg'>Ed Koch</span>；第一次听「现场」则是两年前的一个周末傍晚，与朋友坐在 <span class='reg'>Greenwich Village</span> 附近的街边餐厅，门口的小乐队突然奏起了歌曲开头那组熟悉的固定音型 <span class='reg'>(ostinato)</span>，感觉整条街上的空气瞬间鲜活了起来。</p>
 
@@ -152,7 +152,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p style="text-align:center; font-size:1.05em"><b> 二 </b> </p>
 
 <p class="cn">
-与当年 <span class='reg'>Alistair Cooke</span> 有些相似，我与纽约的初遇是本科三年级前往耶鲁大学暑期科研，从 <span class='reg'>JFK</span> 机场入境，并后来忙里偷闲、周末专程造访纽约两天。从那时到现在的整十年里，我大概有十分之九的时间在新英格兰地区 <span class='reg'>(New England)</span> 度过，进纽约城少说也有 <span class='num'>30</span> 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span class='reg'>(sampling rate)</span> 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。</p>
+与当年 <span class='reg'>Alistair Cooke</span> 有些相似，我与纽约的初遇是本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我大概有十分之九的时间在新英格兰地区 <span class='reg'>(New England)</span> 度过，进纽约城少说也有 <span class='num'>30</span> 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span class='reg'>(sampling rate)</span> 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。</p>
 
 
 <p class="alb">
@@ -166,7 +166,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 在我的理解中，与人类似，每座城市也会拥有自己的<b>表面形象</b>与<b>精神内核</b>，并且二者在现实中经常不完全一致。对于初到的访客，纽约的表面形象几乎是扑面而来的——繁华、拥挤、喧闹，接近人们刻板印象中大都市的极限模版。但是稍停片刻，就不难发现这里的另一个重要特征——<b>反差</b>，例如摩登的现代高楼与老旧的公共设施、嘈杂的市区街道与宁静的公园港湾、巨大的物质财富与惊人的贫富差距等等。这些无处不在的<b>不协调</b> <span class='reg'>(incongruity)</span> 像是在提醒我们——试图用一两个标签来概括纽约是不明智的；并且，如能尝试寻找每种典型印象的直接反面，结果常常令人惊喜。</p>
 
 <p class="cn">
-我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 <span class='num'>2015</span> 年感恩节周末，我去百老汇 <span class='reg'>Palace Theatre</span> 看由 <span class='reg'>Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> <span class='num'>[1951]</span> 的怀旧音乐剧 <a href="https://www.bilibili.com/video/BV1X441157tu/"><span class='ita'> An American in Paris</span></a>，听到了几首并非最知名的 <span class='reg'>Gershwin</span> 音乐作品，包括全剧开场用于表现巴黎解放的
+我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 <span class='num'>2015</span> 年感恩节，我去百老汇 <span class='reg'>Palace Theatre</span> 看由 <span class='reg'>Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> <span class='num'>[1951]</span> 的怀旧音乐剧 <a href="https://www.bilibili.com/video/BV1X441157tu/"><span class='ita'> An American in Paris</span></a>，听到了几首并非最知名的 <span class='reg'>Gershwin</span> 音乐作品，包括全剧开场用于表现巴黎解放的
 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span class='reg'> Concerto in F</span></a> <span class='num'>[1925]</span>——这首爵士风格的钢琴协奏曲算是 <span class='reg'>Gershwin</span> 独立完成的第一支「严肃」音乐作品，在传统曲式中大量融入美国流行元素，比如 <span class='reg'>Blues</span> 音阶、<span class='reg'>Charleston</span> 舞步等；在它慢乐章的 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span class='reg'> Adagio </span></a> 部分，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：</p>
 
 
@@ -185,7 +185,7 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 
 
 <p class="cn">
-与 <span class='reg'>Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位重要美国作曲家是被称为 <span class='reg'>“Dean of American Composers”</span> 的 <span class='reg'>Aaron Copland</span>。他曾为 <span class='reg'>Irwin Shaw</span> 一部试演失败的尘封戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span class='ita'> Quiet City </span> </a> <span class='num'>[1939]</span> 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。也许多少受到 <span class='reg'>Gershwin</span> 风格的启发，<span class='reg'>Copland</span> 将这段音乐写为弦乐背景下小号与英国管 <span class='reg'>(cor anglais)</span> 的对话——陌生、冷静而孤单：
+与 <span class='reg'>Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位重要作曲家、被称为 <span class='reg'>“Dean of American Composers”</span> 的 <span class='reg'>Aaron Copland</span> 曾为 <span class='reg'>Irwin Shaw</span> 一部试演失败的尘封戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span class='ita'> Quiet City </span> </a> <span class='num'>[1939]</span> 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。也许多少受到 <span class='reg'>Gershwin</span> 风格的启发，<span class='reg'>Copland</span> 将这段音乐写为弦乐背景下小号与英国管 <span class='reg'>(cor anglais)</span> 的对话——陌生、冷静而孤单：
 </p>
 
 
@@ -198,11 +198,11 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="not">
-	注：今天我们听到的 <span class='ita'> Quiet City </span> 通常是 <span class='reg'>1940</span> 年出版的管弦配器版（小号 + 英国管 + 弦乐）<span style="margin-left:-0.6em">；</span><span class='reg'>1939</span> 年剧场原版（小号 + 萨克斯管 + 单簧管 + 钢琴）的 <a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1"><span class='ita'> Quiet City </span></a> 经由 <span class='reg'> Christopher Brellochs </span>编曲于 <span class='num'>2011</span> 年首次发行。
+	注：今天我们听到的 <span class='ita'> Quiet City </span> 通常是 <span class='reg'>1940</span> 年出版的管弦配器版（小号 + 英国管 + 弦乐）<span style="margin-left:-0.6em">；</span>经由 <span class='reg'> Christopher Brellochs </span>编曲的 <span class='reg'>1939</span> 年<a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1">剧场原版</a>（小号 + 萨克斯管 + 单簧管 + 钢琴）于 <span class='num'>2011</span> 年首次录制发行。
 </p>
 
 <p class="cn">
-<span class='reg'>Gershwin</span> 与 <span class='reg'> Copland </span> 的音乐为我揭开了一个不一样的纽约。不久之后，我在 <span class='reg'>E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span class='ita'> Here Is New York </span></a> <span class='num'>[1949]</span> 中找到了一种概括：</p>
+<span class='reg'>Gershwin</span> 与 <span class='reg'> Copland </span> 的音乐让我开始直观感受一个不一样的纽约。不久之后，我在 <span class='reg'>E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span class='ita'> Here Is New York </span></a> <span class='num'>[1949]</span> 中找到了一种概括：</p>
 
 > <p style="font-size:.96em; font-family: Noto Sans">
 > New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
@@ -239,7 +239,7 @@ Cincinnati &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&
 </p>
 
 <p class="cn">
-在耶鲁读书的前几年，每次若在纽约恰好遇到经典音乐剧的重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而放弃观剧）<span style="margin-left:-0.5em">。</span>总体的印象是：尽管在音乐剧艺术显著下滑的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳表演并不容易，少有的几场令人印象深刻——比如 <span class='num'>2014</span> 年夏天，我在 <span class='reg'>Sierra Boggess</span> 饰演 <span class='reg'>Christine Daaé</span> 的最后三周里，第一次也是唯一一次现场看 <a href="https://www.bilibili.com/video/BV1pM411f74E/"><span class='ita'> The Phantom of the Opera</span></a>，收获了既经沧海、往后再无必要重观的体验；再比如 <span class='num'>2019</span> 年夏天，<span class='reg'>Kelli O’Hara</span> 领衔主演的 <a href="https://www.youtube.com/watch?v=RCg2vGmNFrM&list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&index=1"> <span class='ita'> Kiss Me, Kate </span></a> 仿佛让我穿越回到上世纪中叶那个纽约音乐剧舞台最具想象力与生命力的年代，并从此对 <span class='reg'>Cole Porter</span> 产生了不亚于 <span class='reg'>Gershwin</span> 的敬意。</p>
+在耶鲁读书的前几年，每次若在纽约恰好遇到自己喜欢的经典音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）<span style="margin-left:-0.5em">。</span>总体的印象是：尽管在音乐剧艺术显著下滑的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳表演并不容易，少有的几场令人印象深刻——比如 <span class='num'>2014</span> 年夏天，我在 <span class='reg'>Sierra Boggess</span> 饰演 <span class='reg'>Christine Daaé</span> 的最后三周里，第一次也是唯一一次现场看 <a href="https://www.bilibili.com/video/BV1pM411f74E/"><span class='ita'> The Phantom of the Opera</span></a>，收获了既经沧海、往后再无必要重观的体验；再比如 <span class='num'>2019</span> 年夏天，<span class='reg'>Kelli O’Hara</span> 领衔主演的 <a href="https://www.youtube.com/watch?v=RCg2vGmNFrM&list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&index=1"> <span class='ita'> Kiss Me, Kate </span></a> 仿佛让我穿越回到上世纪中叶那个纽约音乐剧舞台最具想象力与生命力的年代，并从此对 <span class='reg'>Cole Porter</span> 产生了不亚于 <span class='reg'>Gershwin</span> 的满满敬意。</p>
 
 
 
@@ -255,10 +255,10 @@ Mörbisch am See &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="
 
 
 <p class="cn">
-出于偶像情怀去看剧有时也难免会略微失望：比如 <span class='reg'>Lea Salonga</span> 在 <span class='num'>2015</span> 年和 <span class='num'>2017</span> 年底的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span class='ita'> Sunset Boulevard </span></a> 中重演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似理解了为什么这部取材于著名<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>[1950]</span>、精心制作且金曲颇多的剧自首演以来在专业圈内一直评价不高，甚至还由剧情触发了一丝悲凉感——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
+出于偶像情怀去看剧有时也难免会有失落：比如 <span class='reg'>Lea Salonga</span> 在 <span class='num'>2015</span> 年和 <span class='num'>2017</span> 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span class='ita'> Sunset Boulevard </span></a> 中重演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似理解了为什么这部取材于<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>[1950]</span>、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
 
 <p class="cn">
-不过，记忆中最满意的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>——当天的演出效果令我相当震撼，<span class='ita'> Cabaret </span> 也从此成为了我心中的神级音乐剧。
+不过，记忆中最满意的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>——当天的演出效果令我震撼。<span class='ita'> Cabaret </span> 也从此成为了我心中的神级音乐剧。
 </p>
 
 
