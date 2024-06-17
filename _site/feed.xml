@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 17 Jun 2024 12:08:33 -0400</pubDate>
+    <pubDate>Mon, 17 Jun 2024 13:29:55 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -33,7 +33,7 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;reg&quot;&gt;
 We now live in a time of endless possibility. More has been learned about the treatment of the human body in the last five years than was learned in the previous five hundred. Twenty years ago, 39 was the number of years a man could expect from his life. Today, it is more than 47. Eventually the train tunnels will crumble. The dams will be overrun. Our patients’ hearts will all stop their beating. But we humans can get in a few good licks in battle before we surrender. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -67,34 +67,40 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 .num {
   letter-spacing: 0px;
 }
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.98em;
+}
 p.cn {
   line-height: 1.65;
   letter-spacing: 0.2px;
   margin-bottom:1.4em
 }
 p.ttl {
-  letter-spacing: 0.2px;
+  letter-spacing: 0.5px;
   text-align:center;
   font-size:1.05em;
   font-weight: 600;
 }
 p.end {
-  letter-spacing: 0.2px;
+  letter-spacing: 0.5px;
   text-align:center;
   margin-bottom:2em;
 }
 p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
-	color:grey; 
-	font-size:0.87em; 
+	color:#707070; 
+	font-size:0.9em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
 p.not {
 	text-align:left; 
-	color:grey; 
-	font-size:0.87em; 
+	color:#707070; 
+	font-size:0.9em; 
+	letter-spacing: 0.5px;
 	margin-top:2em; 
 	margin-bottom:2em;
 	margin-left:1.25em; 
@@ -131,9 +137,9 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 大半生在美国度过并主要定居纽约的英国记者 &lt;span class=&quot;reg&quot;&gt;Alistair Cooke&lt;/span&gt; 回忆自己 &lt;span class=&quot;num&quot;&gt;24&lt;/span&gt; 岁首次访美、赴耶鲁留学途中初见纽约时的兴奋：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 This is the grand and glorious cliché of America, as the Acropolis of Greece and the Taj Mahal of India. A million tourists have said there’s nothing like it, and they are right. . . . &lt;/p&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 I sailed into New York late on a fall evening. It was at once magical and sinister, and better than anything that the movies have promised. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -145,7 +151,7 @@ I sailed into New York late on a fall evening. It was at once magical and sinist
 如此评价纽约的崛起：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 It’s godless, it’s brutal, it’s violent—but one can’t laugh it off, because in the energy, strength of will and mental grasp that have gone to make New York, materialism has transcended itself. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -164,15 +170,15 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1977]&lt;/span&gt; 创作的同名主题曲：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 I wanna wake up in the city &lt;nobr&gt; that doesn’t sleep &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 To find I’m king of the hill, &lt;nobr&gt;head of the list,&lt;/nobr&gt; &lt;nobr&gt;cream of the crop&lt;/nobr&gt; &lt;nobr&gt;at the top of the heap. . . .&lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 I’ll make a brand new start of it &lt;nobr&gt; in old New York. &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;margin-bottom: 0.5em; font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 If I can make it there, &lt;nobr&gt; I’ll make it anywhere. &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p style=&quot;font-size:.98em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
 Come on, come through, &lt;nobr&gt; New York, New York. &lt;/nobr&gt; &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -223,7 +229,7 @@ Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&q
 西方音乐中有一类名为夜曲 &lt;span class=&quot;reg&quot;&gt;(nocturne)&lt;/span&gt; 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言&lt;span style=&quot;margin-right:-0.5em&quot;&gt;，&lt;/span&gt;「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以确定为 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 的纽约。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-与 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 几乎同龄、且同为土生土长纽约人的另一位重要作曲家、被称为 &lt;span class=&quot;reg&quot;&gt;“Dean of American Composers”&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Aaron Copland&lt;/span&gt; 曾为 &lt;span class=&quot;reg&quot;&gt;Irwin Shaw&lt;/span&gt; 一部试演失败的尘封戏剧 &lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1939]&lt;/span&gt; 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。也许多少受到 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 风格的启发，&lt;span class=&quot;reg&quot;&gt;Copland&lt;/span&gt; 将这段音乐写为弦乐背景下小号与英国管 &lt;span class=&quot;reg&quot;&gt;(cor anglais)&lt;/span&gt; 的对话——陌生、冷静而孤单：
+与 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 几乎同龄且同为土生土长纽约人的另一位作曲家是被称为 &lt;span class=&quot;reg&quot;&gt;“Dean of American Composers”&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Aaron Copland&lt;/span&gt;，他曾为 &lt;span class=&quot;reg&quot;&gt;Irwin Shaw&lt;/span&gt; 一部试演失败的尘封戏剧 &lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1939]&lt;/span&gt; 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。也许多少受到 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 风格的启发，&lt;span class=&quot;reg&quot;&gt;Copland&lt;/span&gt; 将这段音乐写为弦乐背景下小号与英国管 &lt;span class=&quot;reg&quot;&gt;(cor anglais)&lt;/span&gt; 的对话——陌生、冷静而孤单：
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -234,14 +240,14 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;not&quot;&gt;
-	注：今天我们听到的 &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; 通常是 &lt;span class=&quot;reg&quot;&gt;1940&lt;/span&gt; 年出版的管弦配器版（小号 + 英国管 + 弦乐）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;；&lt;/span&gt;经由 &lt;span class=&quot;reg&quot;&gt; Christopher Brellochs &lt;/span&gt;编曲的 &lt;span class=&quot;reg&quot;&gt;1939&lt;/span&gt; 年&lt;a href=&quot;https://www.youtube.com/watch?v=JrbPpSmJeUY&amp;amp;list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&amp;amp;index=1&quot;&gt;剧场原版&lt;/a&gt;（小号 + 萨克斯管 + 单簧管 + 钢琴）于 &lt;span class=&quot;num&quot;&gt;2011&lt;/span&gt; 年首次录制发行。
+	一个版本脚注：今天我们听到的 &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; 通常是 &lt;span class=&quot;reg&quot;&gt;1940&lt;/span&gt; 年出版的管弦配器版（小号 + 英国管 + 弦乐）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;；&lt;/span&gt;经由 &lt;span class=&quot;reg&quot;&gt; Christopher Brellochs &lt;/span&gt;编曲的 &lt;span class=&quot;reg&quot;&gt;1939&lt;/span&gt; 年剧场原版（小号 + 萨克斯管 + 单簧管 + 钢琴）于 &lt;span class=&quot;num&quot;&gt;2011&lt;/span&gt; 年首次&lt;a href=&quot;https://www.youtube.com/watch?v=JrbPpSmJeUY&amp;amp;list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&amp;amp;index=1&quot;&gt;录制发行&lt;/a&gt;。
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Copland &lt;/span&gt; 的音乐让我开始直观感受一个不一样的纽约。不久之后，我在 &lt;span class=&quot;reg&quot;&gt;E. B. White&lt;/span&gt; 的小书 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Here Is New York &lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;[1949]&lt;/span&gt; 中找到了一种概括：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -275,7 +281,7 @@ Cincinnati &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&qu
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-在耶鲁读书的前几年，每次若在纽约恰好遇到自己喜欢的经典音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;总体的印象是：尽管在音乐剧艺术显著下滑的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳表演并不容易，少有的几场令人印象深刻——比如 &lt;span class=&quot;num&quot;&gt;2014&lt;/span&gt; 年夏天，我在 &lt;span class=&quot;reg&quot;&gt;Sierra Boggess&lt;/span&gt; 饰演 &lt;span class=&quot;reg&quot;&gt;Christine Daaé&lt;/span&gt; 的最后三周里，第一次也是唯一一次现场看 &lt;a href=&quot;https://www.bilibili.com/video/BV1pM411f74E/&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Phantom of the Opera&lt;/span&gt;&lt;/a&gt;，收获了既经沧海、往后再无必要重观的体验；再比如 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年夏天，&lt;span class=&quot;reg&quot;&gt;Kelli O’Hara&lt;/span&gt; 领衔主演的 &lt;a href=&quot;https://www.youtube.com/watch?v=RCg2vGmNFrM&amp;amp;list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Kiss Me, Kate &lt;/span&gt;&lt;/a&gt; 仿佛让我穿越回到上世纪中叶那个纽约音乐剧舞台最具想象力与生命力的年代，并从此对 &lt;span class=&quot;reg&quot;&gt;Cole Porter&lt;/span&gt; 产生了不亚于 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 的满满敬意。&lt;/p&gt;
+在耶鲁读书的前几年，每次若在纽约恰好遇到自己喜欢的经典音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;总体的印象是：尽管在音乐剧艺术显著下滑的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳的表演并不容易，少有的几场令人印象格外深刻——比如 &lt;span class=&quot;num&quot;&gt;2014&lt;/span&gt; 年夏天，我在 &lt;span class=&quot;reg&quot;&gt;Sierra Boggess&lt;/span&gt; 饰演 &lt;span class=&quot;reg&quot;&gt;Christine Daaé&lt;/span&gt; 的最后三周里，第一次也是唯一一次现场看 &lt;a href=&quot;https://www.bilibili.com/video/BV1pM411f74E/&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Phantom of the Opera&lt;/span&gt;&lt;/a&gt;，收获了既经沧海、往后再无必要重观的体验；再比如 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年夏天，&lt;span class=&quot;reg&quot;&gt;Kelli O’Hara&lt;/span&gt; 领衔主演的 &lt;a href=&quot;https://www.youtube.com/watch?v=RCg2vGmNFrM&amp;amp;list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Kiss Me, Kate &lt;/span&gt;&lt;/a&gt; 仿佛让我穿越回到上世纪中叶那个纽约音乐剧舞台最具想象力与生命力的年代，并从此对 &lt;span class=&quot;reg&quot;&gt;Cole Porter&lt;/span&gt; 产生了不亚于 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 的满满敬意。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 我对百老汇的另一部分难忘记忆来自见到各位舞台偶像：例如 &lt;span class=&quot;num&quot;&gt;2018&lt;/span&gt; 年从歌剧界「下凡」至 &lt;a href=&quot;https://www.youtube.com/watch?v=rpa-mOXdv3U&amp;amp;list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Carousel &lt;/span&gt;&lt;/a&gt; 完成音乐剧首秀的 &lt;span class=&quot;reg&quot;&gt;Renée Fleming&lt;/span&gt;、最近正在新版 &lt;a href=&quot;https://www.youtube.com/watch?v=7vhJGG_YpTM&amp;amp;list=PLF74416F3B46C85BD&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 中饰演房东太太的 &lt;span class=&quot;reg&quot;&gt;Bebe Neuwirth&lt;/span&gt;、还有 &lt;span class=&quot;num&quot;&gt;2016&lt;/span&gt; 年感恩节在 &lt;a href=&quot;https://www.youtube.com/watch?v=NZBLDkVpHSA&amp;amp;list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&amp;amp;index=19&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Fiddler on the Roof &lt;/span&gt;&lt;/a&gt; 舞台上见到了出道四十年、四次提名托尼奖 &lt;span class=&quot;reg&quot;&gt;(Tony Award)&lt;/span&gt; 却始终戏红人不红的 &lt;span class=&quot;reg&quot;&gt;Judy Kuhn&lt;/span&gt;；之后因为对此剧过于喜欢，&lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年还去小剧场 &lt;span class=&quot;reg&quot;&gt;Stage 42&lt;/span&gt; 看了 &lt;span class=&quot;reg&quot;&gt;Joel Grey&lt;/span&gt; 导演、主要面向犹太观众的意第绪语 &lt;span class=&quot;reg&quot;&gt;(Yiddish)&lt;/span&gt; 版——印象中自己是那天剧场里唯一的亚洲面孔。&lt;/p&gt;
@@ -301,8 +307,12 @@ Mörbisch am See &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; heig
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1998.04
 &lt;/p&gt;
 
+&lt;p class=&quot;not&quot;&gt;
+	假如让每个人选出自己心目中最无可替代的音乐剧最佳角色演绎，我很可能会把男主角的票投给 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;; 至于女主角，我大概会投给 &lt;a href=&quot;https://www.youtube.com/watch?v=FYsPP3cIak8&amp;amp;list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&amp;amp;index=3&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Julie Andrews&lt;/span&gt; 或 &lt;a href=&quot;https://www.youtube.com/watch?v=SiBeulkw_t4&amp;amp;list=PL527AE24E951AA09C&amp;amp;index=18&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Miss Saigon &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt;。
+&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 I am a camera with its shutter open, quite passive, recording, not thinking. Recording the man shaving at the window opposite and the woman in the kimono washing her hair. &lt;/p&gt;
   &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
 Some day, all this will have to be developed, carefully printed, fixed. &lt;/p&gt;
@@ -336,7 +346,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 They will live a long time, these men of the South Pacific. They had an American quality. They, like their victories, will be remembered as long as our generation lives. After that, like the men of the Confederacy, they will become strangers. Longer and longer shadows will obscure them, until their Guadalcanal sounds distant on the ear like Shiloh and Valley Forge. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -404,7 +414,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 Now that we have had at least a glimmer of what it is that makes Beethoven’s music goes so deep in human experience. We can begin to see why all men rejoice in it, and why performers of all nationalities feel close to it. Each of them tries to make manifest the &lt;i&gt;basic truths&lt;/i&gt; that live in this music as he understands them. . . . After all, the heyday of narrow nationalism is or should be over by now. And what we must cultivate is the real understanding that exists on a level as deep as musical communication&amp;#8203;—a direct heart-to-heart, mind-to-mind contact. Only this kind of rapport can bring us &lt;i&gt;peace&lt;/i&gt;, which is the immediate and necessary goal of this modern world.  &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -426,7 +436,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1964.04
 &lt;/p&gt;
 
-&lt;p class=&quot;end&quot;&gt;（未完待下篇） &lt;/p&gt;
+&lt;p class=&quot;end&quot;&gt;（未完待下篇）&lt;/p&gt;
 
 &lt;hr /&gt;
 
