@@ -2,7 +2,7 @@
 layout: post
 title: 城市印象 1 &colon; 纽约 | 上
 subtitle: 
-excerpt: 在喧嚣的表象下，纽约的精神内核是孤独——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认识和选择最真实的自己。纽约经常令我感受到孤独；我也认为孤独使我更好地理解了纽约。<br>
+excerpt: 在喧嚣的表象下，纽约的精神内核是孤独——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认清和选择最真实的自己。纽约时常令我感受到孤独；我也认为孤独使我更好地理解了纽约。<br>
 
 tags: cities
 ---
@@ -99,7 +99,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 <p style="text-align:center; font-size:1.05em"><b> 二 </b> </p>
 
-我与纽约的初遇和 <span style="font-family: Noto Sans">Alistair Cooke</span> 当年有些相似——自己在本科三年级暑期前往耶鲁大学科研实习，从 <span style="font-family: Noto Sans">JFK</span> 机场入境，并后来忙里偷闲、利用周末专程造访纽约两天。从那时到现在的整十年里，我大概有十分之九的时间在新英格兰 <span style="font-family: Noto Sans">(New England)</span> 地区度过，进纽约城少说也有 30 次以上；但每次都只是短暂的访客，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span style="font-family: Noto Sans">(sampling rate)</span> 必然导致失真，却也能据此重构出不少关于观察对象或细节、或整体的印象。
+与当年 <span style="font-family: Noto Sans">Alistair Cooke</span> 有些相似，我与纽约的初遇是本科三年级前往耶鲁大学暑期科研，从 <span style="font-family: Noto Sans">JFK</span> 机场入境，并后来忙里偷闲、周末专程造访纽约两天。从那时到现在的整十年里，我大概有十分之九的时间在新英格兰地区 <span style="font-family: Noto Sans">(New England)</span> 度过，进纽约城少说也有 30 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span style="font-family: Noto Sans">(sampling rate)</span> 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -114,7 +114,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 我自认为不是一个观察力敏锐的人，前三、四次探访纽约也基本停留在纯游客阶段。记忆中的转机发生于 2015 年感恩节周末，我去百老汇 <span style="font-family: Noto Sans">Palace Theatre</span> 看由 <span style="font-family: Noto Sans">Geroge Gershwin</span> 的音乐与歌曲串编而成、剧情借鉴<a href="https://www.youtube.com/watch?v=-eZnnKJJbp4&list=PL-0Qm7yk-4UN521mZ3tibqVZYa_tAj2L3&index=1">同名电影</a> (1951) 的怀旧音乐剧[^wheeldon]  <a href="https://www.bilibili.com/video/BV1X441157tu/"><span style="font-family: Noto Sans;font-style: italic;"> An American in Paris</span></a>，意外听到了几首并非最知名的 <span style="font-family: Noto Sans">Gershwin</span> 音乐作品，包括全剧开场用来表现巴黎解放[^paris]的
-<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃音乐」作品，在传统曲式中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；在它慢乐章的 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio </span></a> 部分，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：
+<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span style="font-family: Noto Sans"> Concerto in F</span></a> (1925)——这首爵士风格的钢琴协奏曲算是 <span style="font-family: Noto Sans">Gershwin</span> 独立完成的第一支「严肃」音乐作品，在传统曲式中大量融入美国流行元素，比如 <span style="font-family: Noto Sans">Blues</span> 音阶、<span style="font-family: Noto Sans">Charleston</span> 舞步等；在它慢乐章的 <a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2"><span style="font-family: Noto Sans"> Adagio </span></a> 部分，长段悠扬的小号独奏与单簧管相互回应，仿佛夜幕中几个孤单的声音之间漫不经心的问答：
 
 [^wheeldon]: 	&emsp;当时的真实感受是全剧整体没有非常惊艳，但结尾高潮部分由<span style="font-family: Noto Sans"> Christopher Wheeldon </span> 为 <span style="font-family: Noto Sans"> Gershwin </span> 的著名交响诗 <a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"><span style="font-style: italic; font-family: Noto Sans"> An American in Paris </span> </a> (1928) 编舞的芭蕾确实相当唯美。
 
@@ -128,13 +128,13 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 </p>
 
 
-西方音乐中有一类名为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是放在快—慢—快的三乐章结构中间。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以被锁定为纽约[^jazz]。
+西方音乐中有一类名为夜曲 <span style="font-family: Noto Sans">(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以确定为 Gershwin 生活的纽约[^jazz]。
 
-[^jazz]: 	&emsp;尽管爵士乐一般被认为发源于 <span style="font-family: Noto Sans">New Orleans</span>，但纽约作为美国二十世纪初最重要的文化和演艺中心，还是经常被视为爵士音乐发扬光大和走向世界的门户。
+[^jazz]: 	&emsp;尽管爵士乐一般被认为发源于 <span style="font-family: Noto Sans">New Orleans</span>，但纽约作为美国二十世纪初最活跃的文化中心，还是常被视为爵士音乐发扬光大和走向世界的门户。
 
 
 
-与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位著名作曲家是享有 <span style="font-family: Noto Sans">"Dean of American Composers"</span> 地位的 <span style="font-family: Noto Sans">Aaron Copland</span>，他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 一部试演即失败、并从此尘封的戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作配乐，次年重新编曲成为独立音乐作品[^quietcity]。剧中的主角一度挣扎于自己的犹太身份认同，最终在城市寂静夜晚的小号声中被重新唤醒了自我意识。也许是受到 <span style="font-family: Noto Sans">Gershwin</span> 风格的启发，<span style="font-family: Noto Sans">Copland</span> 也将这段音乐的主线写为弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话——陌生、冷静而孤单：
+与 <span style="font-family: Noto Sans">Gershwin</span> 几乎同龄、且同为土生土长纽约人的另一位重要美国作曲家是被称为 <span style="font-family: Noto Sans">"Dean of American Composers"</span> 的 <span style="font-family: Noto Sans">Aaron Copland</span>。他曾为 <span style="font-family: Noto Sans">Irwin Shaw</span> 一部试演失败的尘封戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span> </a> (1939) 创作配乐[^quietcity]——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。也许是受到 <span style="font-family: Noto Sans">Gershwin</span> 风格的启发，<span style="font-family: Noto Sans">Copland</span> 将这段音乐写为弦乐背景下小号与英国管 <span style="font-family: Noto Sans">(cor anglais)</span> 的对话——陌生、冷静而孤单：
 
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
@@ -144,20 +144,18 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11
 </p>
 
-[^quietcity]: 	&emsp;今天我们听到的 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 通常是 1940 年的管弦配器版（小号、英国管、弦乐）；原版配器（小号、萨克斯管、单簧管、钢琴）的 <a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 经由 <span style="font-family: Noto Sans"> Christopher Brellochs </span>编曲于 2010/2011 年首次发行。
+[^quietcity]: 	&emsp;今天我们听到的 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 通常是 1940 年的管弦配器版（小号 + 英国管 + 弦乐）；原版配器（小号 + 萨克斯管 + 单簧管 + 钢琴）的 <a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1"><span style="font-family: Noto Sans;font-style: italic;"> Quiet City </span></a> 经由 <span style="font-family: Noto Sans"> Christopher Brellochs </span>编曲于 2010/2011 年首次发行。
 
 
 
-
-
-<span style="font-family: Noto Sans">Gershwin</span> 与 <span style="font-family: Noto Sans"> Copland </span> 的声音印象让我开始直观认知一个不一样的纽约。不久之后，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种概括：
+<span style="font-family: Noto Sans">Gershwin</span> 与 <span style="font-family: Noto Sans"> Copland </span> 的音乐为我揭开了一个不一样的纽约。不久之后，我在 <span style="font-family: Noto Sans">E. B. White</span> 的小书 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span style="font-family: Noto Sans;font-style: italic;"> Here Is New York </span></a> (1949) 中找到了一种概括：
 
 > <p style="font-size:.96em; font-family: Noto Sans">
 > New York blends the gift of privacy with the excitement of participation; and better than most dense communities it succeeds in insulating the individual (if he wants it, and almost everybody wants or needs it) against all enormous and violent and wonderful events that are taking place every minute. </p>
 
-也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却不互通个人世界。从那时起，我愈发相信**在喧嚣的表象下，纽约的精神内核是孤独**——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认识和选择最真实的自己。
+也就是说，纽约在聚集了大量人口的同时，神奇般地保护着个体的独立性——人们相逢而不打扰、共享生活空间却不互通个人世界。从那时起，我愈发相信**在喧嚣的表象下，纽约的精神内核是孤独**——这里的孤独并不指身边缺少同伴，而是一种由客观环境触发的离群心理状态；这座城市像一面镜子，强迫我们在外界的纷乱中认清和选择最真实的自己。
 
-纽约经常令我感受到孤独；我也认为孤独使我更好地理解了纽约。
+纽约时常令我感受到孤独；我也认为孤独使我更好地理解了纽约。
 
 <br>
 
@@ -165,15 +163,15 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p style="text-align:center; font-size:1.05em"><b> 三 </b> </p>
 
-人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界里与伦敦齐名的商业戏剧中心，以**百老汇** <span style="font-family: Noto Sans">(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出曾是吸引我一次次探访这座城市的最直接原因。
+人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界里与伦敦齐名的商业戏剧中心，以**百老汇** <span style="font-family: Noto Sans">(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出最初曾是吸引我一次次探访这座城市的最直接原因。
 
-这些年我在纽约看过一些质量很高的经典**话剧** <span style="font-family: Noto Sans">(straight play)</span> 的重排，比如 <span style="font-family: Noto Sans">Shakespeare</span> 的
-<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span style="font-family: Noto Sans;font-style: italic;"> King Lear</span></a> 
+这些年我在纽约看过一些质量很高的经典**话剧** <span style="font-family: Noto Sans">(straight play)</span> 重排，比如 <span style="font-family: Noto Sans">Shakespeare</span> 的
+<a href="https://www.youtube.com/watch?v=Pdn07wgUrno"> <span style="font-family: Noto Sans;font-style: italic;"> King Lear</span></a> 
 (1606)、<span style="font-family: Noto Sans">Ibsen</span> 的
-<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;">An Enemy of the People</span></a> 
+<a href="https://www.youtube.com/watch?v=9WxtLSxq2g8&list=PLJkeRL_mOtyKNdi3TP9g1vsUFmiSmCAA6&index=1"><span style="font-family: Noto Sans;font-style: italic;">An Enemy of the People</span></a> 
 (1882)、<span style="font-family: Noto Sans">Chekhov</span> 的
-<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"><span style="font-family: Noto Sans;font-style: italic;">Uncle Vanya</span> </a> 
-(1897) 等。但是，纽约戏剧舞台的最大特色是这里的**音乐剧** <span style="font-family: Noto Sans">(musical)</span> 
+<a href="https://www.youtube.com/watch?v=5mHjT4maw7o"><span style="font-family: Noto Sans;font-style: italic;">Uncle Vanya</span> </a> 
+(1897) 等。但纽约戏剧舞台的最大特色是**音乐剧** <span style="font-family: Noto Sans">(musical theatre)</span>——十九世纪后期至二十世纪，百老汇见证了美国音乐喜剧 <span style="font-family: Noto Sans">(American musical comedy)</span> 的发源、巅峰及其国际化后的反向输入。成熟意义上的音乐剧是一种实现音乐、歌舞、戏剧的融合 <span style="font-family: Noto Sans">(integration)</span> 但以**戏剧**为核心的综合舞台艺术；它通常基调轻松、雅俗共赏，但在纽约的观剧经历使我确信——真正优秀的音乐剧完全应当归为「严肃」的艺术杰作。
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=9iRNK7CvOkU&list=OLAK5uy_n8qQ3lyC6NaRarJ01NZGnFXtdazDq55rg&index=15">
@@ -182,7 +180,26 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 Cincinnati &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1978
 </p>
 
-出道四十年、四次提名托尼奖 <span style="font-family: Noto Sans">(Tony Award)</span> 却始终戏红人不红的 <span style="font-family: Noto Sans">Judy Kuhn</span>
+在耶鲁读书的前几年，每次若在纽约恰好遇到经典音乐剧的重演，我尽量都不错过[^musical]。总体的印象是：尽管在音乐剧艺术显著下滑的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到（历史标准下）令人惊艳表演并不容易，少有的几场令人颇为难忘——比如 2014 年夏天，我在 <span style="font-family: Noto Sans">Sierra Boggess</span> 饰演 <span style="font-family: Noto Sans">Christine Daaé</span> 的最后三周里，第一次也是唯一一次现场看 <a href="https://www.bilibili.com/video/BV1pM411f74E/"><span style="font-family: Noto Sans;font-style: italic;"> The Phantom of the Opera</span></a>，收获了既经沧海、往后再无必要重观的体验；再比如 2019 年夏天，<span style="font-family: Noto Sans">Kelli O’Hara</span> 领衔主演的 <a href="https://www.youtube.com/watch?v=RCg2vGmNFrM&list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Kiss Me, Kate </span></a> 仿佛让我穿越回到上世纪中叶那个纽约音乐剧舞台最具想象力与生命力的年代，并从此对 <span style="font-family: Noto Sans">Cole Porter</span> 充满不亚于 <span style="font-family: Noto Sans">Gershwin</span> 的敬意。
+
+[^musical]: 	&emsp;除非感觉重排画风过于离谱、出于守护心中「经典」的美好形象而放弃现场观剧。
+
+我对百老汇的另一部分难忘记忆来自见到心目中的舞台偶像：例如 2018 年从歌剧界「下凡」至 <a href="https://www.youtube.com/watch?v=rpa-mOXdv3U&list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Carousel </span></a> 中完成音乐剧首秀的 <span style="font-family: Noto Sans">Renée Fleming</span>、最近正在新版 <a href="https://www.youtube.com/watch?v=7vhJGG_YpTM&list=PLF74416F3B46C85BD&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Cabaret </span></a> 中饰演房东太太的 <span style="font-family: Noto Sans">Bebe Neuwirth</span>、还有 2016 年感恩节在 <a href="https://www.youtube.com/watch?v=NZBLDkVpHSA&list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&index=19"> <span style="font-family: Noto Sans;font-style: italic;"> Fiddler on the Roof </span></a> 舞台上见到了出道四十年、四次提名托尼奖 <span style="font-family: Noto Sans">(Tony Award)</span> 却始终戏红人不红的 <span style="font-family: Noto Sans">Judy Kuhn</span>；后来因为对 <span style="font-family: Noto Sans;font-style: italic;"> Fiddler on the Roof </span> 过于喜欢，2019 年还去 <span style="font-family: Noto Sans">Stage 42</span> 看了 <span style="font-family: Noto Sans">Joel Grey</span> 导演、主要面向犹太观众的意第绪语 <span style="font-family: Noto Sans">(Yiddish)</span> 版——印象中自己是那天剧场里唯一的亚洲面孔。
+
+<p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
+<a href="https://www.youtube.com/watch?v=gcSithpU3cs&list=OLAK5uy_n48MFC4F-crKjFdFar-YY0c1pkEiJ7Y9U&index=1">
+<img src="/assets/img/albums/anatevka-morbisch.png" width="480"> </a> <br>
+@ Seebühne Mörbisch, <br>
+Mörbisch am See &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 2014.05–06
+</p>
+
+
+当然，出于偶像情怀去看剧难免有略微失望的时候：比如 <span style="font-family: Noto Sans">Lea Salonga</span> 在 2015 年和 2017 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 2017 年 <span style="font-family: Noto Sans">Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Sunset Boulevard </span></a> 中重演 <span style="font-family: Noto Sans">Norma Desmond</span>，但看过不仅印象平淡，还貌似理解了为什么这部取材于著名<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> (1950)、精心制作且金曲颇多的剧自首演以来在专业圈内一直评价不高，甚至还因剧情产生了一丝悲凉感——音乐剧的黄金时代亦如当年的无声电影一般一去不返。
+
+
+不过，记忆中最满意的一次「追星」是在 2015 年春天，我从普林斯顿到波士顿的路上在纽约停留了半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span style="font-family: Noto Sans;font-style: italic;"> Cabaret </span></a> 停演前的最后一周见到了时隔 16 年再次出演 <span style="font-family: Noto Sans">Emcee</span> 的 <span style="font-family: Noto Sans">Alan Cumming</span>——当天的演出是令我震撼的。
+
+
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1">
@@ -312,9 +329,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 > <p style="font-size:.96em; font-family: Noto Sans">
-> Now that we have had at least a glimmer of what it is that makes Beethoven’s music goes so deep in human experience. We can begin to see why all men rejoice in it, and why performers of all nationalities feel close to it. Each of them tries to make manifest the <i>basic truths</i> that live in this music as he understands them. And that's really why we are here, we hundred New Yorkers in Berlin—we have come to take one more step through this kind of cultural exchange along those paths of international understanding that lead to <i>peace</i>. </p>
-> <p style="font-size:.96em; font-family: Noto Sans">
-> After all, the heyday of narrow nationalism is or should be over by now. And what we must cultivate is the real understanding that exists on a level as deep as musical communication—a direct heart-to-heart, mind-to-mind contact. Only this kind of rapport can bring us <i>peace</i>, which is the immediate and necessary goal of this modern world.  </p>
+> Now that we have had at least a glimmer of what it is that makes Beethoven’s music goes so deep in human experience. We can begin to see why all men rejoice in it, and why performers of all nationalities feel close to it. Each of them tries to make manifest the <i>basic truths</i> that live in this music as he understands them. . . . After all, the heyday of narrow nationalism is or should be over by now. And what we must cultivate is the real understanding that exists on a level as deep as musical communication&#8203;—a direct heart-to-heart, mind-to-mind contact. Only this kind of rapport can bring us <i>peace</i>, which is the immediate and necessary goal of this modern world.  </p>
 
 <p style="text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em; margin-top:2em; margin-bottom:2em">
 <a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
