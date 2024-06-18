@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 18 Jun 2024 00:20:32 -0400</pubDate>
+    <pubDate>Tue, 18 Jun 2024 01:52:38 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -74,6 +74,12 @@ p.quote {
 }
 p.poem {
   margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
   font-size:.96em; 
   font-family: Noto Sans; 
   margin-left: 1em; 
@@ -184,7 +190,7 @@ To find I’m king of the hill, &lt;nobr&gt;head of the list,&lt;/nobr&gt; &lt;n
 I’ll make a brand new start of it &lt;nobr&gt; in old New York. &lt;/nobr&gt; &lt;/p&gt;
   &lt;p class=&quot;poem&quot;&gt;
 If I can make it there, &lt;nobr&gt; I’ll make it anywhere. &lt;/nobr&gt; &lt;/p&gt;
-  &lt;p style=&quot;font-size:.96em; font-family: Noto Sans; margin-left: 1em; text-indent:-1em&quot;&gt;
+  &lt;p class=&quot;poem-last&quot;&gt;
 Come on, come through, &lt;nobr&gt; New York, New York. &lt;/nobr&gt; &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -232,7 +238,7 @@ Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&q
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-西方音乐中有一类名为夜曲 &lt;span class=&quot;reg&quot;&gt;(nocturne)&lt;/span&gt; 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言&lt;span style=&quot;margin-right:-0.5em&quot;&gt;，&lt;/span&gt;「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以确定为 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 的纽约。&lt;/p&gt;
+西方音乐中有一类名为&lt;b&gt;夜曲&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(nocturne)&lt;/span&gt; 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言&lt;span style=&quot;margin-right:-0.5em&quot;&gt;，&lt;/span&gt;「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以确定为 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 的纽约。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 与 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 几乎同龄且同为土生土长纽约人的另一位作曲家是被称为 &lt;span class=&quot;reg&quot;&gt;“Dean of American Composers”&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Aaron Copland&lt;/span&gt;，他曾为 &lt;span class=&quot;reg&quot;&gt;Irwin Shaw&lt;/span&gt; 一部试演失败的尘封戏剧 &lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1939)&lt;/span&gt; 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。或许多少受到 &lt;span class=&quot;reg&quot;&gt;Gershwin&lt;/span&gt; 风格的启发，&lt;span class=&quot;reg&quot;&gt;Copland&lt;/span&gt; 将这段音乐写为弦乐背景下小号与英国管 &lt;span class=&quot;reg&quot;&gt;(cor anglais)&lt;/span&gt; 的对话——陌生、冷静而孤单。
@@ -246,7 +252,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;not&quot;&gt;
-	一个版本脚注：今天我们听到的 &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; 通常是 &lt;span class=&quot;reg&quot;&gt;1940&lt;/span&gt; 年出版的管弦配器版（小号 + 英国管 + 弦乐）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;；&lt;/span&gt;&lt;span class=&quot;reg&quot;&gt;1939&lt;/span&gt; 年的剧场原版（小号 + 萨克斯管 + 单簧管 + 钢琴）经由 &lt;span class=&quot;reg&quot;&gt; Christopher Brellochs &lt;/span&gt;编曲于 &lt;span class=&quot;num&quot;&gt;2011&lt;/span&gt; 年首次&lt;a href=&quot;https://www.youtube.com/watch?v=JrbPpSmJeUY&amp;amp;list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&amp;amp;index=1&quot;&gt;录制发行&lt;/a&gt;。
+	一个版本脚注：今天我们听到的 &lt;span class=&quot;ita&quot;&gt; Quiet City &lt;/span&gt; 通常是 &lt;span class=&quot;reg&quot;&gt;1940&lt;/span&gt; 年出版的管弦配器版（小号 + 英国管 + 弦乐）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;；&lt;/span&gt;&lt;span class=&quot;reg&quot;&gt;1939&lt;/span&gt; 年剧场原版（小号 + 萨克斯管 + 单簧管 + 钢琴）经由 &lt;span class=&quot;reg&quot;&gt; Christopher Brellochs &lt;/span&gt;重新编曲于 &lt;span class=&quot;num&quot;&gt;2011&lt;/span&gt; 年首次&lt;a href=&quot;https://www.youtube.com/watch?v=JrbPpSmJeUY&amp;amp;list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&amp;amp;index=1&quot;&gt;录制发行&lt;/a&gt;。
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
@@ -305,7 +311,7 @@ Mörbisch am See &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; heig
 出于偶像情怀去看剧有时也难免会有失落：比如 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt; 在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年 &lt;span class=&quot;reg&quot;&gt;Glenn Close&lt;/span&gt; 在 &lt;a href=&quot;https://www.youtube.com/watch?v=7NtI-Ws4J5Y&amp;amp;list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Sunset Boulevard &lt;/span&gt;&lt;/a&gt; 中重演 &lt;span class=&quot;reg&quot;&gt;Norma Desmond&lt;/span&gt;，但看过不仅印象平淡，还貌似明白了为什么这部取材于&lt;a href=&quot;https://www.youtube.com/watch?v=HduXGYkoc_w&amp;amp;list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&amp;amp;index=1&quot;&gt;同名电影&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1950)&lt;/span&gt;、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-不过，记忆中最满意的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;。当天的演出效果令我震撼，也突然理解了九十年代以来几个新版本中角色调整的用意——&lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 已不仅是一个人，同时还是魏玛共和国晚期时代风貌的人格化 &lt;span class=&quot;reg&quot;&gt;(personalification)&lt;/span&gt; 呈现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。
+不过，记忆中最满意的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;。当天的演出效果十分完美，也让我突然理解了九十年代以来 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 几个新版本中的角色调整用意——&lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 已不仅是一个人，同时还是魏玛共和国晚期时代风貌的人格化 &lt;span class=&quot;reg&quot;&gt;(personalification)&lt;/span&gt; 呈现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -330,6 +336,8 @@ I am a camera with its shutter open, quite passive, recording, not thinking. Rec
 Some day, all this will have to be developed, carefully printed, fixed. &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;甚至于觉得，纽约之于我正如柏林之于 &lt;span class=&quot;reg&quot;&gt;Isherwood&lt;/span&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; 四 &lt;/p&gt;
@@ -337,7 +345,7 @@ Some day, all this will have to be developed, carefully printed, fixed. &lt;/p&g
 &lt;p class=&quot;cn&quot;&gt;综合客观内容与主观感情，我有一悲一喜两部个人最爱的音乐剧——悲剧是 &lt;a href=&quot;https://www.youtube.com/watch?v=85MJ2V4KJK8&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Sweeney Todd: The Demon Barber of Fleet Street&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1979)&lt;/span&gt;，喜剧是 &lt;a href=&quot;https://www.youtube.com/watch?v=zpgnolyNGjQ&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1956)&lt;/span&gt;。幸运的是，我分别于 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2018&lt;/span&gt; 年在纽约的两个非典型剧场里看到了它们非常精彩的现场重演。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-上演 &lt;span class=&quot;ita&quot;&gt; Sweeney Todd&lt;/span&gt; 的是位于曼哈顿 &lt;span class=&quot;reg&quot;&gt;West Village&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Barrow Street Theatre&lt;/span&gt;，这个平时不到 200 座的小剧场当时被特地布置为一个馅饼店 &lt;span class=&quot;num&quot;&gt;(pie shop)&lt;/span&gt;，并会根据剧情中小店的经营状况在两幕之间更换桌布内饰；更有沉浸感的是，开场前真为每位观众提供一份据称是前白宫特厨亲制的馅饼晚餐，不过显然不会免费。剧组是一个只有八位演员和三位乐手的极简阵容（有演员需要分饰两角）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;，&lt;/span&gt;却与相对狭小的演出环境格外融洽。一个十九世纪伦敦理发师因权贵迫害妻离女散、最终在复仇中走向自我毁灭的故事，在另一个完全不同的时空中得到了真实的再现。&lt;/p&gt;
+上演 &lt;span class=&quot;ita&quot;&gt; Sweeney Todd&lt;/span&gt; 的是位于曼哈顿 &lt;span class=&quot;reg&quot;&gt;West Village&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Barrow Street Theatre&lt;/span&gt;，这个平时不到 200 座的小剧场当时被特地布置为一个馅饼店 &lt;span class=&quot;num&quot;&gt;(pie shop)&lt;/span&gt;，并会根据剧情中小店的经营状况在两幕之间更换桌布内饰；更有沉浸感的是，开场前真为每位观众提供一份据称是前白宫特厨亲制的馅饼晚餐，不过显然不会免费。剧组是一个只有八位演员和三位乐手的极简阵容（有演员需要分饰两角）&lt;span style=&quot;margin-left:-0.6em&quot;&gt;，&lt;/span&gt;却与相对狭小的演出环境格外融洽。这个十九世纪伦敦理发师因权贵迫害妻离女散、最终在复仇中走向自我毁灭的故事，在另一个完全不同的时空中得到了最真实的再现。&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=TjC3v--uiak&amp;amp;list=OLAK5uy_nkKCqLmsjeQpMFo9SMQlZBVcNqXxe9HUs&amp;amp;index=1&quot;&gt;
@@ -347,10 +355,11 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-除了极具感染力的音乐、台词和充满张力的剧情，&lt;span class=&quot;ita&quot;&gt;Sweeney Todd&lt;/span&gt; 真正有别于其它一众名剧之处在于它无论内容还是形式都是一部不能更标准的&lt;b&gt;古典悲剧&lt;/b&gt;——为一个被欺凌者隐忍复仇的俗套故事
+除了极具感染力的音乐和充满张力的剧情，&lt;span class=&quot;ita&quot;&gt;Sweeney Todd&lt;/span&gt; 真正有别于其它一众名剧之处在于它的无论内容还是形式都是一部不能更标准的&lt;b&gt;古典悲剧&lt;/b&gt;，为一个被欺凌者隐忍复仇的俗套故事赋予了 &lt;a href=&quot;https://www.youtube.com/watch?v=s_L_jzb8yiM&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Oedipus&lt;/span&gt;&lt;/a&gt; 或 &lt;a href=&quot;https://www.youtube.com/watch?v=CzMVtUyi6ps&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Antigone&lt;/span&gt;&lt;/a&gt; 式的悲壮情怀；但 &lt;span class=&quot;reg&quot;&gt;Sophocles&lt;/span&gt; 描绘的是英雄面对自身宿命的无力，而 &lt;span class=&quot;ita&quot;&gt;Sweeney Todd&lt;/span&gt; 剧中触发普通人悲剧命运的是现实社会中无法逃脱的不公正——这相较于抽象的英雄宿命更加令人窒息。结构上，&lt;span class=&quot;reg&quot;&gt;Stephen Sondheim&lt;/span&gt; 将主要剧情段落用我至今从未在其它任何音乐剧中见过的 &lt;span class=&quot;reg&quot;&gt;Greek chorus&lt;/span&gt; 进行分隔
 &lt;/p&gt;
 
-&lt;p&gt;位于&lt;strong&gt;林肯表演艺术中心&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(Lincoln Center for the Performing Arts)&lt;/span&gt; 的 &lt;span style=&quot;font-family: Noto Sans&quot;&gt;Vivian Beaumont Theater&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;cn&quot;&gt;
+&lt;span class=&quot;ita&quot;&gt;My Fair Lady&lt;/span&gt; 上演于&lt;b&gt;林肯表演艺术中心&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(Lincoln Center for the Performing Arts)&lt;/span&gt; 的 &lt;span style=&quot;font-family: Noto Sans&quot;&gt;Vivian Beaumont Theater&lt;/span&gt; &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=S8EBzRJI3aw&amp;amp;list=OLAK5uy_lfJO3zJ_OWxcyaFpXLJwIASfqct52gQlM&amp;amp;index=1&quot;&gt;
@@ -359,11 +368,19 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1956.03
 &lt;/p&gt;
 
+&lt;p class=&quot;cn&quot;&gt;
+&lt;span style=&quot;font-family: Noto Sans&quot;&gt;Vivian Beaumont Theater&lt;/span&gt; 虽然名义上是唯一不在曼哈顿剧场区的百老汇剧院，但实际中由非盈利组织 &lt;span style=&quot;font-family: Noto Sans&quot;&gt;Lincoln Center Theater (LCT)&lt;/span&gt; 运营，
+&lt;/p&gt;
+
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=l4EAruiSSws&amp;amp;list=PLM_1csaEG9kf2M2gxajSkj7seN-trA6ny&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/south-pacific.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Legacy Recording Studios, &lt;br /&gt;
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2008.04
+&lt;/p&gt;
+
+&lt;p class=&quot;not&quot;&gt;
+	记得我第一次去大都会歌剧院看 &lt;a href=&quot;https://www.youtube.com/watch?v=hcj4DlEyPYE&quot;&gt;&lt;span class=&quot;ita&quot;&gt;Madama Butterfly&lt;/span&gt;&lt;/a&gt;，坐在 &lt;span class=&quot;reg&quot;&gt;Orchestra&lt;/span&gt; 非常靠后的位置，无法看清演员的脸。第一幕中觉得饰演 &lt;span class=&quot;reg&quot;&gt;Sharpless&lt;/span&gt; 演员的声音和形态都莫名熟悉，幕间才在演员表中发现正是 &lt;span class=&quot;reg&quot;&gt;Paulo Szot&lt;/span&gt;，接下来听后两幕时的精神亢奋了许多。
 &lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -374,6 +391,10 @@ They will live a long time, these men of the South Pacific. They had an American
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; 五 &lt;/p&gt;
+
+&lt;p class=&quot;cn&quot;&gt;
+在纽约无数的表演艺术场所中，林肯中心是一个独一无二的存在——这不仅因为它是纽约战后著名的大型市政工程
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=WzIxtvnCVHI&amp;amp;list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&amp;amp;index=4&quot;&gt;
