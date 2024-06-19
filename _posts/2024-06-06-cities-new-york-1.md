@@ -48,6 +48,7 @@ p.ttl {
   text-align:center;
   font-size:1.05em;
   font-weight: 600;
+  margin-bottom:1.2em;
 }
 p.end {
   letter-spacing: 0.1px;
@@ -127,12 +128,12 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=f0UQy8ZCh4Y&list=OLAK5uy_npKhRbovaUmdx-Yi3MeAqnWEVQ2Nbtx9o&index=4">
 <img src="/assets/img/albums/bernstein-harris3.png" width="480"> </a> <br>
-@ Manhattan Center, <br>
+@ The Manhattan Center, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.05
 </p>
 
 <p class="cn">
-与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回应中，最积极的心态大致可见于这座城市的一首「非官方市歌」<span style="margin-left:-0.5em">——</span>由 <span class='reg'> John Kander </span> 与 <span class='reg'> Fred Ebb </span> 为电影 <a href="https://www.youtube.com/watch?v=ge7NiJuSpac">
+与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回应中，最积极的心态可见于这座城市的一首「非官方市歌」<span style="margin-left:-0.5em">——</span>由 <span class='reg'> John Kander </span> 与 <span class='reg'> Fred Ebb </span> 为电影 <a href="https://www.youtube.com/watch?v=ge7NiJuSpac">
 	<span class='ita'> New York, New York </span> </a> <span class='num'>(1977)</span> 创作的同名主题曲：</p>
 
 ><p class='poem'>
@@ -196,13 +197,13 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 </p>
 
 <p class="cn">
-西方音乐中有一类名为<b>夜曲</b> <span class='reg'>(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，并且这座城市几乎可以确定为 <span class='reg'>Gershwin</span> 的纽约。</p>
+西方音乐中有一类名为<b>夜曲</b> <span class='reg'>(nocturne)</span> 的作品，常用轻柔舒缓的旋律和配器来表现夜的宁静。单从音色而言<span style="margin-right:-0.5em">，</span>「爵士夜曲」中的小号嘹亮且突兀；然而它在安静环境的衬托下却更能突出人的孤独——特别是与前后充满活力的快乐章形成强烈对比。尽管音乐本身是抽象的语言，我们仍很容易联想到它对应的具体意象——大城市的昼与夜，尤其是上世纪二十年代 <span class='reg'>(Roaring Twenties)</span> 狂奔向前的纽约。</p>
 
 
 
 
 <p class="cn">
-与 <span class='reg'>Gershwin</span> 几乎同龄且同为土生土长纽约人的另一位作曲家是被称为 <span class='reg'>“Dean of American Composers”</span> 的 <span class='reg'>Aaron Copland</span>，他曾为 <span class='reg'>Irwin Shaw</span> 一部试演失败的尘封戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span class='ita'> Quiet City </span> </a> <span class='num'>(1939)</span> 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。或许多少受到 <span class='reg'>Gershwin</span> 风格的启发，<span class='reg'>Copland</span> 将这段音乐写为弦乐背景下小号与英国管 <span class='reg'>(cor anglais)</span> 的对话——陌生、冷静而孤单。
+与 <span class='reg'>Gershwin</span> 几乎同龄且同为纽约土著的另一位作曲家是被称为 <span class='reg'>“Dean of American Composers”</span> 的 <span class='reg'>Aaron Copland</span>，他曾为 <span class='reg'>Irwin Shaw</span> 一部试演失败的尘封戏剧 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <span class='ita'> Quiet City </span> </a> <span class='num'>(1939)</span> 创作配乐——剧中的主角一度挣扎于自己的族裔身份认同，最终自我意识在城市寂静夜晚的小号声中被重新唤醒。或许多少受到爵士风格的启发，<span class='reg'>Copland</span> 将这段音乐写为弦乐背景下小号与英国管 <span class='reg'>(cor anglais)</span> 的对话——陌生、冷静而孤单。
 </p>
 
 
@@ -215,7 +216,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="not">
-	一个版本脚注：今天我们听到的 <span class='ita'> Quiet City </span> 通常是 <span class='reg'>1940</span> 年出版的管弦配器版（小号 + 英国管 + 弦乐）<span style="margin-left:-0.6em">；</span><span class='reg'>1939</span> 年剧场原版（小号 + 萨克斯管 + 单簧管 + 钢琴）经由 <span class='reg'> Christopher Brellochs </span>重新编曲于 <span class='num'>2011</span> 年首次<a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1">录制发行</a>。
+	一个版本脚注：今天我们听到的 <span class='ita'> Quiet City </span> 通常是 <span class='reg'>1940</span> 年的管弦配器版（小号 + 英国管 + 弦乐）<span style="margin-left:-0.6em">；</span><span class='reg'>1939</span> 年的<a href="https://www.youtube.com/watch?v=JrbPpSmJeUY&list=OLAK5uy_l82YNqW2sCnl72PDtoqcdyyjscyrkLfRE&index=1">剧场原版</a>（小号 + 萨克斯管 + 单簧管 + 钢琴）经由 <span class='reg'> Christopher Brellochs </span>重新编曲于 <span class='num'>2011</span> 年首次发行。
 </p>
 
 <p class="cn">
@@ -237,7 +238,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> 三 </p>
 
 <p class="cn">
-人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界里与伦敦齐名的商业戏剧中心，以<b>百老汇</b> <span class='reg'>(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出最初曾是吸引我一次次探访这座城市的最直接原因。</p>
+人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界里与伦敦齐名的商业戏剧中心，以<b>百老汇</b> <span class='reg'>(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出曾经是吸引我一次次探访这座城市的最直接原因。</p>
 
 <p class="cn">
 这些年我在纽约看过一些质量很高的经典话剧重排，比如 <span class='reg'>Shakespeare</span> 的
@@ -246,7 +247,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=9WxtLSxq2g8&list=PLJkeRL_mOtyKNdi3TP9g1vsUFmiSmCAA6&index=1"><span class='ita'>An Enemy of the People</span></a> 
 <span class='num'>(1882)</span>、<span class='reg'>Chekhov</span> 的
 <a href="https://www.youtube.com/watch?v=5mHjT4maw7o"><span class='ita'>Uncle Vanya</span> </a> 
-<span class='num'>(1897)</span>、还有 <span class='reg'>Arthur Miller</span> 的
+<span class='num'>(1897)</span> 和 <span class='reg'>Arthur Miller</span> 的
 <a href="https://www.youtube.com/watch?v=EpYDfc5pDQw"> <span class='ita'> All My Sons</span></a> 
 <span class='num'>(1946)</span>。但纽约戏剧舞台的最大特色还是这里的<b>音乐剧</b> <span style="font-family: Noto Sans">(musical theatre)</span>——十九至二十世纪的百老汇见证了美国音乐喜剧 <span class='reg'>(American musical comedy)</span> 的发源、巅峰及其国际化后的反向输入。成熟意义上的音乐剧是一种实现音乐、歌舞、戏剧的融合 <span class='reg'>(integration)</span> 并以<b>戏剧</b>为核心的综合舞台艺术；它通常基调轻松、雅俗共赏，但有限的观剧经历已使我确信——真正出色的音乐剧完全应当归为严肃的艺术杰作。</p>
 
@@ -258,12 +259,12 @@ Cincinnati &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&
 </p>
 
 <p class="cn">
-在耶鲁的前几年，每次若在纽约恰逢自己喜欢的音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）<span style="margin-left:-0.5em">。</span>总体的印象是：尽管在音乐剧艺术显著衰落的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳的表演并不容易，少有的几场令人印象格外深刻——比如 <span class='num'>2014</span> 年夏天，我在 <span class='reg'>Sierra Boggess</span> 饰演 <span class='reg'>Christine Daaé</span> 的最后三周里，第一次也是唯一一次现场看 <a href="https://www.bilibili.com/video/BV1pM411f74E/"><span class='ita'> The Phantom of the Opera</span></a>，收获了既经沧海、往后再无必要重观的体验；再比如 <span class='num'>2019</span> 年夏天，<span class='reg'>Kelli O’Hara</span> 领衔主演的 <a href="https://www.youtube.com/watch?v=RCg2vGmNFrM&list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&index=1"> <span class='ita'> Kiss Me, Kate </span></a> 仿佛让我穿越回到上世纪中叶那个音乐剧舞台最具信心与生命力的年代，并从此对 <span class='reg'>Cole Porter</span> 产生了不亚于 <span class='reg'>Gershwin</span> 的满满敬意。</p>
+在耶鲁的前几年，每次若在纽约恰逢自己喜欢的音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）<span style="margin-left:-0.5em">。</span>总体的印象是：尽管在音乐剧艺术显著衰落的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过想遇到真正惊艳的表演并不容易，少有的几场令人印象格外深刻——比如 <span class='num'>2014</span> 年夏天，我在 <span class='reg'>Sierra Boggess</span> 饰演 <span class='reg'>Christine Daaé</span> 的最后三周里，第一次也是唯一一次现场看 <a href="https://www.bilibili.com/video/BV1pM411f74E/"><span class='ita'> The Phantom of the Opera</span></a>，收获了既经沧海、往后再无必要重观的体验；再比如 <span class='num'>2019</span> 年夏天，<span class='reg'>Kelli O’Hara</span> 领衔主演的 <a href="https://www.youtube.com/watch?v=RCg2vGmNFrM&list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&index=1"> <span class='ita'> Kiss Me, Kate </span></a> 仿佛让我穿越回到上世纪中叶那个音乐剧舞台最具信心与生命力的年代，并从此对 <span class='reg'>Cole Porter</span> 这位耶鲁校友的才华产生了满满敬意。</p>
 
 
 
 <p class="cn">
-我对百老汇的另一部分记忆来自各位实力舞台偶像：例如最近正在新版 <a href="https://www.youtube.com/watch?v=7vhJGG_YpTM&list=PLF74416F3B46C85BD&index=1"> <span class='ita'> Cabaret </span></a> 中饰演房东阿姨的 <span class='reg'>Bebe Neuwirth</span>、<span class='num'>2018</span> 年从歌剧界「下凡」至 <a href="https://www.youtube.com/watch?v=rpa-mOXdv3U&list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&index=1"> <span class='ita'> Carousel </span></a> 完成音乐剧首秀的 <span class='reg'>Renée Fleming</span>、还有 <span class='num'>2016</span> 年感恩节在 <a href="https://www.youtube.com/watch?v=NZBLDkVpHSA&list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&index=19"> <span class='ita'> Fiddler on the Roof </span></a> 舞台上见到了出道四十年、四次提名托尼奖 <span class='reg'>(Tony Award)</span> 却始终戏红人不红的 <span class='reg'>Judy Kuhn</span>。之后因为对 <span class='ita'> Fiddler on the Roof </span> 过于喜欢，<span class='num'>2019</span> 年还去小剧场 <span class='reg'>Stage 42</span> 看了 <span class='reg'>Joel Grey</span> 导演、主要面向犹太观众的意第绪语 <span class='reg'>(Yiddish)</span> 版——印象中自己是那天剧场里唯一的亚洲面孔。</p>
+我对百老汇的另一部分记忆来自各位舞台名宿：例如最近正在新版 <a href="https://www.youtube.com/watch?v=7vhJGG_YpTM&list=PLF74416F3B46C85BD&index=1"> <span class='ita'> Cabaret </span></a> 中饰演房东阿姨的 <span class='reg'>Bebe Neuwirth</span>、<span class='num'>2018</span> 年从歌剧界「下凡」至 <a href="https://www.youtube.com/watch?v=rpa-mOXdv3U&list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&index=1"> <span class='ita'> Carousel </span></a> 完成音乐剧首秀的 <span class='reg'>Renée Fleming</span>、还有 <span class='num'>2016</span> 年感恩节在 <a href="https://www.youtube.com/watch?v=NZBLDkVpHSA&list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&index=19"> <span class='ita'> Fiddler on the Roof </span></a> 舞台上见到了出道四十年、四次提名托尼奖 <span class='reg'>(Tony Award)</span> 却始终戏红人不红的 <span class='reg'>Judy Kuhn</span>。之后因为对质朴温暖的 <span class='ita'> Fiddler on the Roof </span> 过于喜欢，<span class='num'>2019</span> 年还去小剧场 <span class='reg'>Stage 42</span> 看了 <span class='reg'>Joel Grey</span> 导演、主要面向犹太观众的意第绪语 <span class='reg'>(Yiddish)</span> 版——印象中自己是那天剧场里唯一的亚洲面孔。</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=gcSithpU3cs&list=OLAK5uy_n48MFC4F-crKjFdFar-YY0c1pkEiJ7Y9U&index=1">
@@ -274,10 +275,10 @@ Mörbisch am See &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="
 
 
 <p class="cn">
-出于偶像情怀去看剧有时也难免会有失落：比如 <span class='reg'>Lea Salonga</span> 在 <span class='num'>2015</span> 和 <span class='num'>2017</span> 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span class='ita'> Sunset Boulevard </span></a> 中重演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似明白了为什么这部取材于<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>(1950)</span>、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
+出于偶像情怀去看剧有时也难免失落：比如 <span class='reg'>Lea Salonga</span> 在 <span class='num'>2015</span> 和 <span class='num'>2017</span> 年的两次复出，虽然声音依旧极具辨识度，但整体气质与表演状态已不再是自己心目中的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=7NtI-Ws4J5Y&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=1"> <span class='ita'> Sunset Boulevard </span></a> 中重演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似明白了为什么这部取材于<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>(1950)</span>、精心制作且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
 
 <p class="cn">
-不过，记忆中最满意的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>。当天的演出效果十分完美，也让我突然理解了九十年代以来 <span class='ita'> Cabaret </span> 几个新版本中的角色调整用意——<span class='reg'>Emcee</span> 已不仅是一个人，同时还是魏玛共和国晚期时代风貌的人格化 <span class='reg'>(personalification)</span> 呈现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。
+不过，记忆中最满意的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>。当天的演出十分完美，也让我突然理解了九十年代以来 <span class='ita'> Cabaret </span> 新版本中角色调整的用意——<span class='reg'>Emcee</span> 已不仅是一个人，同时还是魏玛共和国末年时代风貌的人格化 <span class='reg'>(personalification)</span> 展现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。
 </p>
 
 
@@ -303,7 +304,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 > <p style="font-size:.96em; font-family: Noto Sans">
 > Some day, all this will have to be developed, carefully printed, fixed. </p>
 
-甚至于觉得，纽约之于我正如柏林之于 <span class='reg'>Isherwood</span>
+<p class="cn"> </p>
 
 <br>
 
@@ -314,7 +315,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p class="cn">综合客观内容与主观感情，我有一悲一喜两部个人最爱的音乐剧——悲剧是 <a href="https://www.youtube.com/watch?v=85MJ2V4KJK8"><span class='ita'> Sweeney Todd: The Demon Barber of Fleet Street</span></a> <span class='num'>(1979)</span>，喜剧是 <a href="https://www.youtube.com/watch?v=zpgnolyNGjQ"><span class='ita'> My Fair Lady</span></a> <span class='num'>(1956)</span>。幸运的是，我分别于 <span class='num'>2017</span> 和 <span class='num'>2018</span> 年在纽约的两个非典型剧场里看到了它们非常精彩的现场重演。</p>
 
 <p class="cn">
-上演 <span class='ita'> Sweeney Todd</span> 的是位于曼哈顿 <span class='reg'>West Village</span> 的 <span class='reg'>Barrow Street Theatre</span>，这个平时不到 200 座的小剧场当时被特地布置为一个馅饼店 <span class='num'>(pie shop)</span>，并会根据剧情中小店的经营状况在两幕之间更换桌布内饰；更有沉浸感的是，开场前真为每位观众提供一份据称是前白宫特厨亲制的馅饼晚餐，不过显然不会免费。剧组是一个只有八位演员和三位乐手的极简阵容（有演员需要分饰两角）<span style="margin-left:-0.6em">，</span>却与相对狭小的演出环境格外融洽。这个十九世纪伦敦理发师因权贵迫害妻离女散、最终在复仇中走向自我毁灭的故事，在另一个完全不同的时空中得到了最真实的再现。</p>
+上演 <span class='ita'> Sweeney Todd</span> 的是位于曼哈顿 <span class='reg'>West Village</span> 的 <span class='reg'>Barrow Street Theatre</span>，这个平时不到 200 座的小剧场被特地布置成一个馅饼店 <span class='num'>(pie shop)</span>，并会根据剧情中小店的经营状况在两幕之间更换桌布内饰；更有沉浸感的是，开场前真为每位观众提供一份据称是前白宫特厨亲制的馅饼晚餐，不过显然不会免费。剧组是一个只有八位演员和三位乐手的极简阵容（有演员需要分饰两角）<span style="margin-left:-0.6em">，</span>全员实力派，且与相对狭小的演出空间格外融洽。这个十九世纪伦敦理发师因权贵迫害妻离女散、最终在复仇中走向自我毁灭的故事，在另一个完全不同的时空中被精心真实呈现。</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=TjC3v--uiak&list=OLAK5uy_nkKCqLmsjeQpMFo9SMQlZBVcNqXxe9HUs&index=1">
@@ -324,7 +325,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="cn">
-除了极具感染力的音乐和充满张力的剧情，<span class='ita'>Sweeney Todd</span> 真正有别于其它一众名剧之处在于它的无论内容还是形式都是一部不能更标准的<b>古典悲剧</b>，为一个被欺凌者隐忍复仇的俗套故事赋予了 <a href="https://www.youtube.com/watch?v=s_L_jzb8yiM"><span class='reg'>Oedipus</span></a> 或 <a href="https://www.youtube.com/watch?v=CzMVtUyi6ps"><span class='reg'>Antigone</span></a> 式的悲壮情怀；但 <span class='reg'>Sophocles</span> 描绘的是英雄面对自身宿命的无力，而 <span class='ita'>Sweeney Todd</span> 剧中触发普通人悲剧命运的是现实社会中无法逃脱的不公正——这相较于抽象的英雄宿命更加令人窒息。结构上，<span class='reg'>Stephen Sondheim</span> 将主要剧情段落用我至今从未在其它任何音乐剧中见过的 <span class='reg'>Greek chorus</span> 进行分隔
+除了极具感染力的音乐和充满张力的剧情，<span class='ita'>Sweeney Todd</span> 真正有别于其它一众名剧之处在于它的无论内容还是形式都是一部不能更标准的<b>古典悲剧</b>，为一段被欺凌者隐忍复仇的俗套剧情赋予了 <a href="https://www.youtube.com/watch?v=s_L_jzb8yiM"><span class='reg'>Oedipus</span></a> 或 <a href="https://www.youtube.com/watch?v=CzMVtUyi6ps"><span class='reg'>Antigone</span></a> 式的悲壮情怀；但 <span class='reg'>Sophocles</span> 描绘的是英雄面对自身宿命的无力，而 <span class='ita'>Sweeney Todd</span> 剧中触发普通人悲剧命运的是现实社会中无法逃脱的不公正——这相较于抽象的英雄宿命更加令人窒息。结构上，<span class='reg'>Stephen Sondheim</span> 将主要剧情段落用我至今从未在其它任何音乐剧中见过的 <span class='reg'>Greek chorus</span> 进行分隔
 </p>
 
 <p class="cn">
@@ -339,7 +340,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 <p class="cn">
-<span style="font-family: Noto Sans">Vivian Beaumont Theater</span> 虽然名义上是唯一不在曼哈顿剧场区的百老汇剧院，但实际中由非盈利组织 <span style="font-family: Noto Sans">Lincoln Center Theater (LCT)</span> 运营，
+<span class='reg'>Vivian Beaumont Theater</span> 虽然名义上是唯一不在曼哈顿剧场区的百老汇剧院，但因为由非盈利组织 <span class='reg'>Lincoln Center Theater (LCT)</span> 运营，风格要比同类剧场「正统」不少——近些年重演的音乐剧大多不是出自 <span class='reg'>Rodgers & Hammerstein</span> 就是 <span class='reg'>Lerner & Loewe</span> 这样的上世纪中期黄金创作组合。
 </p>
 
 <p class="alb">
@@ -352,7 +353,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 <p class="not">
-	记得我第一次去大都会歌剧院看 <a href="https://www.youtube.com/watch?v=hcj4DlEyPYE"><span class='ita'>Madama Butterfly</span></a>，坐在 <span class='reg'>Orchestra</span> 非常靠后的位置，无法看清演员的脸。第一幕中觉得饰演 <span class='reg'>Sharpless</span> 演员的声音和形态都莫名熟悉，幕间才在演员表中发现正是 <span class='reg'>Paulo Szot</span>，接下来听后两幕时的精神亢奋了许多。
+	记得我第一次去大都会歌剧院看 <a href="https://www.youtube.com/watch?v=hcj4DlEyPYE"><span class='ita'>Madama Butterfly</span></a>，坐在 <span class='reg'>Orchestra</span> 靠后的座位，无法看清演员相貌。开场后觉得 <span class='reg'>Sharpless</span> 的声音和体态都莫名熟悉，幕间在演员表中发现正是 <span class='reg'>Paulo Szot</span>，接下来听后两幕的精神亢奋了许多。
 </p>
 
 > <p class="quote">
@@ -367,7 +368,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 <p class="cn">
-在纽约无数的表演艺术场所中，林肯中心是一个独一无二的存在——这不仅因为它是纽约战后著名的大型市政工程
+在纽约无数的表演艺术场所中，林肯中心是一个独一无二的存在。这不仅因为它是纽约战后的大型市政工程，在我眼中它比其它任何演出空间都能体现前文所述的纽约特质——<b>反差</b>。除了 <span class='reg'>LCT</span> 三个大小剧场的戏剧演出，林肯中心主要致力于歌剧、芭蕾、交响乐这些「严肃」的古典艺术；然而与欧洲甚至不少美国其它城市华丽复古的歌剧院、音乐厅不同，林肯中心的建筑风格是完全现代的。
 </p>
 
 
@@ -394,7 +395,16 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 <p class="ttl"> 六 </p>
 
-在林肯中心建筑群中，占据中央 <span class='reg'>C</span> 位的是**大都会歌剧院** <span class='reg'>(Metropolitan Opera House,</span> 以下简称 <span class='reg'>Met Opera)</span>
+<p class="cn">
+在林肯中心建筑群中，占据中央 <span class='reg'>C</span> 位的是<b>大都会歌剧院</b> <span class='reg'>(Metropolitan Opera House,</span> 以下简称 <span class='reg'>Met Opera)</span>
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30">
+<img src="/assets/img/albums/sinopoli_tannhauser.png" width="480"> </a> <br>
+@ Watford Town Hall, <br>
+Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.04
+</p>
 
 
 <p class="alb">
@@ -428,10 +438,23 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 <p class="ttl"> 七 </p>
 
-与 <span style="font-family: Noto Sans">Koch Theater</span>
+<p class="cn">
+与 <span class='reg'>David H. Koch Theater</span>
 正面相对的 
-<span style="font-family: Noto Sans">David Geffen Hall</span>
-是**纽约爱乐乐团** <span style="font-family: Noto Sans">(New York Philharmonic, NY Phil)</span> 的主音乐厅
+<span class='reg'>David Geffen Hall</span>
+是<b>纽约爱乐乐团</b> <span class='reg'>(New York Philharmonic,</span> 简称 <span class='reg'>NY Phil)</span> 的主音乐厅（曾名 <span class='reg'>Philharmonic Hall</span> 和 <span class='reg'>Avery Fisher Hall</span>，取决于时仍冠名金主）<span style="margin-left:-0.5em">——</span>它据称是世界第一座依据现代声学理论设计的可调式大型音乐厅，却在建成后的很长时间里因音效翻车而闻名（充分说明了实际工程项目中，科技水平再高也无法弥补计划与管理的失误）<span style="margin-left:-0.6em">，</span>不得不多次翻修，最近一次完成于 <span class='num'>2022</span> 年。它与相距十个街区的 <span class='reg'>Carnegie Hall</span> 是纽约高水平音乐演出的两大中心。
+</p>
+
+<p class="cn">
+<span class='reg'>NY Phil</span> 是美国第一支正式建制的交响乐团——它与听上去更古老的<b>维也纳爱乐乐团</b> <span class='reg'>(Wiener Philharmoniker)</span> 其实同建于 <span class='num'>1842</span> 年。虽然历史悠久，在交响乐团的运营和演出高度模式化、同质化的今天，<span class='reg'>NY Phil</span> 与其它美国的主要乐团在艺术风格上其实并无本质区别，不过在曲目编排上有保留一些「地方特色」<span style="margin-left:-0.5em">——</span>比如对与纽约有渊源的作曲家和作品稍微偏爱。被偏爱的作曲家包括土生土长的纽约人——比如 <span class='reg'>Aaron Copland</span> 和 <span class='reg'>John Corigliano</span>；也包括曾经旅居纽约的外国人——例如 <span class='reg'>Dvořák</span>、<span class='reg'>Mahler</span>、<span class='reg'>Bartók</span>。我仅听过两场 <span class='reg'>NY Phil</span> 现场音乐会，每场都恰有一首 <span class='reg'>Bartók</span> 人生晚年在纽约完成的作品——<a href="https://www.youtube.com/watch?v=tOXW5vZ9n9o&list=OLAK5uy_n907AH5d2PifQSFuBTiLpLkTU79NWZevw&index=7"><span class='reg'>Piano Concerto № 3</span></a> <span class='num'>(1945)</span> 和 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span class='reg'>Concerto for Orchestra</span></a> <span class='num'>(1943)</span>。
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=eurT0Qk3mvc&list=OLAK5uy_kEp6uIqS2CW8B_jUV2OZlp5nSSA9L5I5Y&index=1">
+<img src="/assets/img/albums/boulez-bartok-cfo.png" width="480"> </a> <br>
+@ The Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1972.12
+</p>
 
 
 <p class="alb">
