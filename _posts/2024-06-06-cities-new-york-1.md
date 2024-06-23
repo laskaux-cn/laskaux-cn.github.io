@@ -270,7 +270,7 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 </p>
 
 <p class="cn">
-百老汇的各位舞台名宿也经常作为配角与观众见面：例如最近正在新版 <a href="https://www.youtube.com/watch?v=9jcs23xlcX0&list=OLAK5uy_n5tGIWi1z8iuB2Jh2sa4-JurVhycQKSMw&index=8"> <span class='ita'> Cabaret </span></a> 中饰演房东阿姨的 <span class='reg'>Bebe Neuwirth</span>、<span class='num'>2018</span> 年从歌剧界「下凡」至 <a href="https://www.youtube.com/watch?v=aC7c7OLbUxc&list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&index=11"> <span class='ita'> Carousel </span></a> 完成音乐剧首秀的 <span class='reg'>Renée Fleming</span> .&nbsp;.&nbsp;. 另一次是 <span class='num'>2016</span> 年感恩节在 <a href="https://www.youtube.com/watch?v=NZBLDkVpHSA&list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&index=19"> <span class='ita'> Fiddler on the Roof </span></a> 中见到了出道四十年却始终戏红人不红的 <span class='reg'>Judy Kuhn</span>，记得那天但凡她在台上我的眼神就没有离开过她。之后因为对质朴温暖的 <span class='ita'> Fiddler on the Roof </span> 过于喜欢，<span class='num'>2019</span> 年还去小剧场 <span class='reg'>Stage 42</span> 看了 <span class='reg'>Joel Grey</span> 导演、主要面向犹太观众的<a href="https://www.youtube.com/watch?v=DpBD8Wat-Bw&list=PLcvFO4lyuy_skAIqvxQitkom-R_1Q5CDW&index=1">意第绪语 <span class='reg'>(Yiddish)</span></a> 版本——印象中自己是那天剧场里唯一的亚洲面孔。</p>
+百老汇的各位舞台名宿也经常作为配角与观众见面：例如最近正在新版 <a href="https://www.youtube.com/watch?v=9jcs23xlcX0&list=OLAK5uy_n5tGIWi1z8iuB2Jh2sa4-JurVhycQKSMw&index=8"> <span class='ita'> Cabaret </span></a> 中饰演房东阿姨的 <span class='reg'>Bebe Neuwirth</span>、<span class='num'>2018</span> 年从歌剧界「下凡」至 <a href="https://www.youtube.com/watch?v=aC7c7OLbUxc&list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&index=11"> <span class='ita'> Carousel </span></a> 完成音乐剧首秀的 <span class='reg'>Renée Fleming</span> .&nbsp;.&nbsp;. 另一次是 <span class='num'>2016</span> 年感恩节在 <a href="https://www.youtube.com/watch?v=NZBLDkVpHSA&list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&index=19"> <span class='ita'> Fiddler on the Roof </span></a> 中见到了出道四十年却始终戏红人不红的 <span class='reg'>Judy Kuhn</span>，记得那天但凡她在台上我的眼神就没有离开过她。之后因为对质朴温暖的 <span class='ita'> Fiddler on the Roof </span> 过于喜欢，还在 <span class='num'>2019</span> 年去小剧场 <span class='reg'>Stage 42</span> 看了 <span class='reg'>Joel Grey</span> 导演、主要面向犹太裔观众的<a href="https://www.youtube.com/watch?v=DpBD8Wat-Bw&list=PLcvFO4lyuy_skAIqvxQitkom-R_1Q5CDW&index=1">意第绪语 <span class='reg'>(Yiddish)</span></a> 版本——印象中自己是那天剧场里唯一的亚洲面孔。</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=gcSithpU3cs&list=OLAK5uy_n48MFC4F-crKjFdFar-YY0c1pkEiJ7Y9U&index=1">
@@ -326,7 +326,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="cn">
-除了极具张力的音乐与剧情，<span class='ita'>Sweeney Todd</span> 最有别于其它一众名剧之处在于它的无论内容还是形式都是一部不能更标准的<b>古典悲剧</b>，为一段被欺凌者隐忍复仇的俗套剧情赋予了 <a href="https://www.youtube.com/watch?v=s_L_jzb8yiM"><span class='reg'>Oedipus</span></a> 或 <a href="https://www.youtube.com/watch?v=CzMVtUyi6ps"><span class='reg'>Antigone</span></a> 式的悲壮情怀；但 <span class='reg'>Sophocles</span> 描绘的是英雄面对自身宿命的无力，而 <span class='ita'>Sweeney Todd</span> 剧中触发普通人悲剧命运的是现实社会中无法逃脱的不公正——这相较于抽象的英雄宿命更加令人窒息。结构上，<span class='reg'>Stephen Sondheim</span> 将主要剧情段落用我至今从未在其它任何音乐剧中见过的 <span class='reg'>Greek chorus</span> 进行分隔——<a href="https://youtu.be/85MJ2V4KJK8?si=EP8m6nAkcJVROapW&t=101s"> <span class='reg'> “The Ballad of Sweeney Todd” </span> </a>
+除了极具张力的音乐与剧情，<span class='ita'>Sweeney Todd</span> 最有别于其它一众名剧之处在于它的无论内容还是形式都是一部不能更标准的<b>古典悲剧</b>，为一段被欺凌者隐忍复仇的俗套剧情赋予了 <a href="https://www.youtube.com/watch?v=s_L_jzb8yiM"><span class='reg'>Oedipus</span></a> 或 <a href="https://www.youtube.com/watch?v=CzMVtUyi6ps"><span class='reg'>Antigone</span></a> 式的悲壮情怀；但 <span class='reg'>Sophocles</span> 描绘的是英雄面对自身宿命的无力，而 <span class='ita'>Sweeney Todd</span> 剧中触发普通人悲剧命运的是现实社会中无法逃脱的不公正——这相较于抽象的宿命感更加令人窒息。结构上，<span class='reg'>Stephen Sondheim</span> 将主要剧情段落用我至今从未在其它任何音乐剧中见过的 <span class='reg'>Greek chorus</span> 进行分隔——<a href="https://youtu.be/85MJ2V4KJK8?si=EP8m6nAkcJVROapW&t=101s"> <span class='reg'> “The Ballad of Sweeney Todd” </span> </a>
 </p>
 
 <p class="cn">
@@ -358,7 +358,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="cn">
-<span class='ita'> South Pacific </span> 的主要剧情取自美国作家 <span class='reg'>James A. Michener</span> 的短篇小说集 <a href="https://archive.org/details/in.ernet.dli.2015.73009"> <span class='ita'> Tales of the South Pacific </span></a><span class='num'>(1947)</span>——故事的素材源于作者太平洋战争期间在位于今天瓦努阿图的 <span class='reg'>Espiritu Santo</span> 基地作为海军少校 <span class='reg'>(lieutenant commander)</span> 服役期间的见闻。
+<span class='ita'> South Pacific </span> 的主要剧情取自美国作家 <span class='reg'>James A. Michener</span> 的短篇小说集 <a href="https://archive.org/details/in.ernet.dli.2015.73009"> <span class='ita'> Tales of the South Pacific </span></a><span class='num'>(1947)</span>——其中故事的素材源于作者太平洋战争期间在位于今天瓦努阿图的 <span class='reg'>Espiritu Santo</span> 基地作为海军少校 <span class='reg'>(lieutenant commander)</span> 服役期间的见闻。
 </p>
 
 
