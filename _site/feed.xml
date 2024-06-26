@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 22 Jun 2024 22:40:33 -0400</pubDate>
+    <pubDate>Tue, 25 Jun 2024 21:15:00 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -79,7 +79,11 @@ p.not {
 }
 &lt;/style&gt;
 
-&lt;p class=&quot;end&quot;&gt;（接上篇）&lt;/p&gt;
+&lt;p class=&quot;cn&quot;&gt;
+	在上篇的纽约印象中，我流水账式地记述了一些过去在
+&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 9 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=IHaVhlJQIrw&amp;amp;list=OLAK5uy_nsEq_tCl0dNkiF09Vkj4IzgxRFooyQ90w&amp;amp;index=1&quot;&gt;
@@ -87,6 +91,10 @@ p.not {
 @ Rudolfinum &lt;br /&gt;
 Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967.06
 &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 10 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=CMWRVCn5m2Q&amp;amp;list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&amp;amp;index=17&quot;&gt;
@@ -102,6 +110,17 @@ Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.10
 &lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 11 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=dklN57UwjvE&amp;amp;list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/stella-buxtehude.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ OnClassical Studio, &lt;br /&gt;
+Pove del Grappa &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.11
+&lt;/p&gt;
+
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=owJ7NUCUIPQ&amp;amp;list=OLAK5uy_lMGRy6trAzHI0hRorgucMbBbi_-38slSo&amp;amp;index=9&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/grumiaux-berg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
@@ -109,8 +128,34 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967.01
 &lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 12 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jGsv4CkEY2U&amp;amp;list=OLAK5uy_lqEYG0L7s5tXBEKRuuqeqY-fkkmBXMJYc&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/koopman-bach572.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Groote Kerk &lt;br /&gt;
+Maassluis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.06
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 13 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=VHbMF0LSobA&amp;amp;list=OLAK5uy_nUe4pnMCTEsM4-C8PXwQJX3s5xrKVFxxQ&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/clemencic-cb.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Prälatensaal des Schottenstiftes, &lt;br /&gt;
+Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.02
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 14 – &lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p class=&quot;reg&quot;&gt;
+  &lt;p class=&quot;quote&quot;&gt;
 We now live in a time of endless possibility. More has been learned about the treatment of the human body in the last five years than was learned in the previous five hundred. Twenty years ago, 39 was the number of years a man could expect from his life. Today, it is more than 47. Eventually the train tunnels will crumble. The dams will be overrun. Our patients’ hearts will all stop their beating. But we humans can get in a few good licks in battle before we surrender. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -120,6 +165,10 @@ We now live in a time of endless possibility. More has been learned about the tr
 @ Grunewaldkirche &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1958.04
 &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 15 – &lt;/p&gt;
 
 &lt;p&gt;出生于法国、一生绝大多数时间都求学与任教于哥伦比亚大学的文化史学者 &lt;span class=&quot;reg&quot;&gt;Jacques Barzun&lt;/span&gt; 在 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up&quot;&gt;&lt;span class=&quot;ita&quot;&gt; From Dawn to Decadence &lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(2000)&lt;/span&gt; 的末章中写道：&lt;/p&gt;
 
@@ -137,14 +186,18 @@ From this summary survey of individual style and social institutions, it is plai
 Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1963.07
 &lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 16 – &lt;/p&gt;
+
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=EtzlyQRwt60&amp;amp;list=OLAK5uy_lQVTNQZxqmYkE7ODpMSIsz22WnGlRvLHE&amp;amp;index=10&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fGRrBuKJ_P0&amp;amp;list=OLAK5uy_mkN2HzMkMVFJv06Ur--bVH4rBXyFwTXvA&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/ricci-bartok-violin-solo.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Victoria Hall, &lt;br /&gt;
 Genève &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1960.04
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class=&quot;end&quot;&gt;（全文完）&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 07 Jun 2024 00:00:00 -0400</pubDate>
@@ -232,7 +285,7 @@ p.not {
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 一 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 纽约本身无需过多介绍——当今唯一超级大国的唯一超级城市、美国乃至世界最大的经济和金融中心、诸多维度仍将长期保持领先的「国际超一线都会」&lt;span style=&quot;margin-left:-0.33em&quot;&gt;。&lt;/span&gt;特别是在推崇「以经济建设为中心」朴素唯物主义价值观的发展中国家，纽约是必须写进教科书的美国发展奇迹（另一个是西海岸的硅谷）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;无论是当年遥望自由女神像、从 &lt;span class=&quot;reg&quot;&gt;Ellis Island&lt;/span&gt; 踏上新大陆的各国移民，还是今天鸟瞰曼哈顿天际线、从 &lt;span class=&quot;reg&quot;&gt;JFK&lt;/span&gt; 或 &lt;span class=&quot;reg&quot;&gt;EWR&lt;/span&gt; 机场徐徐降落的国际旅客，看到纽约心中难免会飘过那句两千年前地中海人面对罗马的感叹——万城之城。&lt;/p&gt;
@@ -312,10 +365,10 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p style=&quot;text-align:center; font-size:1.05em&quot;&gt;&lt;b&gt; 二 &lt;/b&gt; &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-与当年 &lt;span class=&quot;reg&quot;&gt;Alistair Cooke&lt;/span&gt; 相似，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 &lt;span class=&quot;num&quot;&gt;30&lt;/span&gt; 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;因为有限的采样频率 &lt;span class=&quot;reg&quot;&gt;(sampling rate)&lt;/span&gt; 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。&lt;/p&gt;
+与当年 &lt;span class=&quot;reg&quot;&gt;Alistair Cooke&lt;/span&gt; 略像，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 &lt;span class=&quot;num&quot;&gt;30&lt;/span&gt; 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;因为有限的采样频率 &lt;span class=&quot;reg&quot;&gt;(sampling rate)&lt;/span&gt; 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=RzV-fHaERis&amp;amp;list=OLAK5uy_nh3B1qHnWY3kCjTbOHsP5_84Y6cu3UGE4&amp;amp;index=1&quot;&gt;
@@ -372,7 +425,7 @@ New York blends the gift of privacy with the excitement of participation; and be
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 三 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界下与伦敦齐名的戏剧中心，以&lt;b&gt;百老汇&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(Broadway)&lt;/span&gt; 为代表、令人眼花缭乱的戏剧演出曾经是吸引我一次次探访这座城市的最直接原因。&lt;/p&gt;
@@ -417,10 +470,10 @@ Mörbisch am See &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; heig
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-出于偶像情怀去看剧也难免偶有失落：比如 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt; &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年在 &lt;a href=&quot;https://www.youtube.com/watch?v=Ff69oXdWc2o&amp;amp;list=OLAK5uy_nWywRBNle3vz1blE2tZyt_VAlr6fG7H6A&amp;amp;index=14&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Allegiance &lt;/span&gt;&lt;/a&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=eWeWmSbQpa4&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Once on This Island &lt;/span&gt;&lt;/a&gt; 中的两次复出，虽然声音依旧极具辨识度，但气质与表演状态已不再是自己心目中曾经的音乐剧女神；还有 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年 &lt;span class=&quot;reg&quot;&gt;Glenn Close&lt;/span&gt; 在 &lt;a href=&quot;https://www.youtube.com/watch?v=rLdPFSkWumM&amp;amp;list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&amp;amp;index=23&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Sunset Boulevard &lt;/span&gt;&lt;/a&gt; 中重演 &lt;span class=&quot;reg&quot;&gt;Norma Desmond&lt;/span&gt;，但看过不仅印象平淡，还貌似有点明白了为什么这部取材于历史级&lt;a href=&quot;https://www.youtube.com/watch?v=HduXGYkoc_w&amp;amp;list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&amp;amp;index=1&quot;&gt;同名电影&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1950)&lt;/span&gt; 且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。&lt;/p&gt;
+出于偶像情怀去看剧也难免偶有失落：比如 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt; &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年在 &lt;a href=&quot;https://www.youtube.com/watch?v=Ff69oXdWc2o&amp;amp;list=OLAK5uy_nWywRBNle3vz1blE2tZyt_VAlr6fG7H6A&amp;amp;index=14&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Allegiance &lt;/span&gt;&lt;/a&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=eWeWmSbQpa4&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Once on This Island &lt;/span&gt;&lt;/a&gt; 中的两次复出，虽然声音依旧极具辨识度，但气质与表演状态已不再是自己心目中曾经的音乐剧女神；还有 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 年 &lt;span class=&quot;reg&quot;&gt;Glenn Close&lt;/span&gt; 在 &lt;a href=&quot;https://www.youtube.com/watch?v=rLdPFSkWumM&amp;amp;list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&amp;amp;index=23&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Sunset Boulevard &lt;/span&gt;&lt;/a&gt; 中重新出演 &lt;span class=&quot;reg&quot;&gt;Norma Desmond&lt;/span&gt;，但看过不仅印象平淡，还貌似有点明白了为什么这部取材于历史级&lt;a href=&quot;https://www.youtube.com/watch?v=HduXGYkoc_w&amp;amp;list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&amp;amp;index=1&quot;&gt;同名电影&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1950)&lt;/span&gt; 且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-不过，个人以为最值得的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;——假如要选出自己心目中最无可替代的音乐剧角色演绎，这就是我的男主角选票（至于女主角，我大概会投给 &lt;a href=&quot;https://www.youtube.com/watch?v=FYsPP3cIak8&amp;amp;list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&amp;amp;index=3&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Julie Andrews&lt;/span&gt; 或 &lt;a href=&quot;https://www.youtube.com/watch?v=rtUFxPIdycE&amp;amp;list=OLAK5uy_mL0IBguPa0UeJWHuo2JarK42ur6oQJxow&amp;amp;index=10&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Miss Saigon &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt;）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;更重要的是，这场演出让我突然理解了九十年代以来 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 新版本中角色调整的用意——&lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 已不仅是一个人，同时还是魏玛共和国末年时代风貌的人格化 &lt;span class=&quot;reg&quot;&gt;(personalification)&lt;/span&gt; 展现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。 &lt;/p&gt;
+不过，个人以为最值得的一次「追星」是在 &lt;span class=&quot;num&quot;&gt;2015&lt;/span&gt; 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 停演前的最后一周见到了时隔 &lt;span class=&quot;num&quot;&gt;16&lt;/span&gt; 年再次出演 &lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 的 &lt;span class=&quot;reg&quot;&gt;Alan Cumming&lt;/span&gt;——假如要选出自己心目中最无可替代的音乐剧角色演绎，这应该就是我的男主角选票（至于女主角，我大概会投给 &lt;a href=&quot;https://www.youtube.com/watch?v=FYsPP3cIak8&amp;amp;list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&amp;amp;index=3&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Julie Andrews&lt;/span&gt; 或 &lt;a href=&quot;https://www.youtube.com/watch?v=rtUFxPIdycE&amp;amp;list=OLAK5uy_mL0IBguPa0UeJWHuo2JarK42ur6oQJxow&amp;amp;index=10&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Miss Saigon &lt;/span&gt;&lt;/a&gt; 中的 &lt;span class=&quot;reg&quot;&gt;Lea Salonga&lt;/span&gt;）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;更重要的是，这场演出让我突然理解了九十年代以来 &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt; 新版本中角色调整的用意——&lt;span class=&quot;reg&quot;&gt;Emcee&lt;/span&gt; 已不仅是一个人，同时还是魏玛共和国末年时代风貌的人格化 &lt;span class=&quot;reg&quot;&gt;(personalification)&lt;/span&gt; 展现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=hm2rrNEIK00&amp;amp;list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&amp;amp;index=1&quot;&gt;
@@ -444,7 +497,7 @@ Some day, all this will have to be developed, carefully printed, fixed. &lt;/p&g
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 四 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;综合客观标准与主观感情，我有一悲一喜两部个人最爱的音乐剧——悲剧是 &lt;a href=&quot;https://www.bilibili.com/video/BV14b4y1k7hG/&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Sweeney Todd: The Demon Barber of Fleet Street&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1979)&lt;/span&gt;，喜剧是 &lt;a href=&quot;https://www.youtube.com/watch?v=zpgnolyNGjQ&quot;&gt;&lt;span class=&quot;ita&quot;&gt; My Fair Lady&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1956)&lt;/span&gt;。幸运的是，我分别于 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2018&lt;/span&gt; 年在纽约的两个非典型剧场里看到了它们相当惊艳的现场重演。&lt;/p&gt;
 
@@ -500,7 +553,7 @@ They will live a long time, these men of the South Pacific. They had an American
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 五 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 在纽约无数的表演艺术场所中，林肯中心是一个独一无二的存在。这不仅因为它是纽约战后的大型市政工程，在我眼中它比其它任何演出空间都能体现前文所述的纽约特质——&lt;b&gt;反差&lt;/b&gt;。除了 &lt;span class=&quot;reg&quot;&gt;LCT&lt;/span&gt; 三个大小剧场的戏剧演出，林肯中心主要致力于歌剧、芭蕾、交响乐这些「严肃」的古典艺术；然而与欧洲甚至不少美国其它城市华丽复古的歌剧院、音乐厅不同，林肯中心的建筑风格是完全现代的。
@@ -522,7 +575,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 六 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 6 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 在林肯中心建筑群中，占据中央 &lt;span class=&quot;reg&quot;&gt;C&lt;/span&gt; 位的是&lt;b&gt;大都会歌剧院&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(Metropolitan Opera House,&lt;/span&gt; 以下简称 &lt;span class=&quot;reg&quot;&gt;Met Opera)&lt;/span&gt;
@@ -567,7 +620,7 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 七 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 7 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 &lt;span class=&quot;reg&quot;&gt;David H. Koch Theater&lt;/span&gt;
@@ -577,7 +630,7 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-&lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 是美国第一支正式建制的交响乐团——它与听上去更古早的&lt;b&gt;维也纳爱乐乐团&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(Wiener Philharmoniker)&lt;/span&gt; 同建于 &lt;span class=&quot;num&quot;&gt;1842&lt;/span&gt; 年。虽然历史悠久，在交响乐团的运营和演出高度模式化、同质化的今天，&lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 与其它美国的主要乐团在艺术风格上其实并无本质区别，不过在曲目编排上有保留一些「地方特色」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;比如对与纽约有渊源的作品和作曲家稍微偏爱。这些作曲家既包括土生土长的纽约人——比如 &lt;span class=&quot;reg&quot;&gt;Aaron Copland&lt;/span&gt; 和 &lt;span class=&quot;reg&quot;&gt;John Corigliano&lt;/span&gt;；也包括曾经旅居纽约的外国人——例如 &lt;span class=&quot;reg&quot;&gt;Dvořák&lt;/span&gt;、&lt;span class=&quot;reg&quot;&gt;Mahler&lt;/span&gt;、&lt;span class=&quot;reg&quot;&gt;Bartók&lt;/span&gt; 这几位著名的欧洲访客。我仅听过两场 &lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 现场音乐会，每场都恰有一首 &lt;span class=&quot;reg&quot;&gt;Bartók&lt;/span&gt; 人生晚年在纽约完成的作品——&lt;a href=&quot;https://www.youtube.com/watch?v=tOXW5vZ9n9o&amp;amp;list=OLAK5uy_n907AH5d2PifQSFuBTiLpLkTU79NWZevw&amp;amp;index=7&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Piano Concerto № 3&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1945)&lt;/span&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Concerto for Orchestra&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1943)&lt;/span&gt;；后者虽说理论上主要是古典曲式与中东欧民间音乐的融合，但许多地方的节奏、律动和色彩（尤其是最后两个乐章）很难让人不联想到纽约都市文化环境的影响。
+&lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 是美国第一支正式建制的交响乐团——它与听上去更古早的&lt;b&gt;维也纳爱乐乐团&lt;/b&gt; &lt;span class=&quot;reg&quot;&gt;(Wiener Philharmoniker)&lt;/span&gt; 同建于 &lt;span class=&quot;num&quot;&gt;1842&lt;/span&gt; 年。虽然历史悠久，在交响乐团的运营和演出高度模式化、同质化的今天，&lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 与其它美国的主要乐团在艺术风格上其实并无本质区别，不过在曲目编排上有保留一些「地方特色」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;比如对与纽约有渊源的作品和作曲家稍微偏爱。这些作曲家既包括土生土长的纽约人——比如 &lt;span class=&quot;reg&quot;&gt;Aaron Copland&lt;/span&gt; 和 &lt;span class=&quot;reg&quot;&gt;John Corigliano&lt;/span&gt;；也包括曾经旅居纽约的外国人——例如 &lt;span class=&quot;reg&quot;&gt;Antonín Dvořák&lt;/span&gt;、&lt;span class=&quot;reg&quot;&gt;Gustav Mahler&lt;/span&gt;、&lt;span class=&quot;reg&quot;&gt;Béla Bartók&lt;/span&gt; 这几位著名的欧洲访客。我仅听过两场 &lt;span class=&quot;reg&quot;&gt;NY Phil&lt;/span&gt; 现场音乐会，每场都恰有一首 &lt;span class=&quot;reg&quot;&gt;Bartók&lt;/span&gt; 人生晚年在纽约完成的作品——&lt;a href=&quot;https://www.youtube.com/watch?v=tOXW5vZ9n9o&amp;amp;list=OLAK5uy_n907AH5d2PifQSFuBTiLpLkTU79NWZevw&amp;amp;index=7&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Piano Concerto № 3&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1945)&lt;/span&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Concerto for Orchestra&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1943)&lt;/span&gt;；后者虽说理论上主要是古典曲式与中东欧民间音乐的融合，但许多地方的节奏、律动和色彩（尤其是最后两个乐章）就像 &lt;span class=&quot;reg&quot;&gt;Piet Mondrian&lt;/span&gt; 同一时期的画作一样，很难让人不联想到纽约都市文化环境的浸染。
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -608,7 +661,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; 八 &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 8 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=X0nU5qae4MY&amp;amp;list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&amp;amp;index=7&quot;&gt;
@@ -617,9 +670,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1964.04
 &lt;/p&gt;
 
-&lt;p class=&quot;end&quot;&gt;（未完待下篇）&lt;/p&gt;
-
-&lt;hr /&gt;
+&lt;p class=&quot;end&quot;&gt;（未完待下篇）&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 06 Jun 2024 00:00:00 -0400</pubDate>
@@ -629,7 +680,75 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
         <title>城市印象 4 &amp;colon; 纽黑文 | 下</title>
         <link>/2024/06/05/cities-new-haven-2.html</link>
         <guid isPermaLink="true">/2024/06/05/cities-new-haven-2.html</guid>
-        <description>&lt;p style=&quot;text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em&quot;&gt;
+        <description>&lt;style&gt;
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+.num {
+  letter-spacing: 0px;
+}
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.96em;
+}
+p.poem {
+  margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.1px;
+  margin-bottom:1.45em;
+}
+p.ttl {
+  letter-spacing: 0.1px;
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+  margin-bottom:1.2em;
+}
+p.end {
+  letter-spacing: 0.1px;
+  text-align:center;
+  margin-bottom:2em;
+}
+p.alb {
+	text-align:center; 
+	font-family: Noto Sans; 
+	color:#707070; 
+	font-size:0.9em; 
+	margin-top:2em; 
+	margin-bottom:2em;
+}
+p.not {
+	text-align:left; 
+	color:#707070; 
+	font-size:0.9em; 
+	letter-spacing: 0.4px;
+	margin-top:2em; 
+	margin-bottom:2em;
+	margin-left:1.25em; 
+	margin-right:1.25em;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=Ux6U6mPcqrM&amp;amp;list=OLAK5uy_lndPgeRA0NVo_pYblziPmaVLy-M_TgYww&amp;amp;index=17&quot;&gt; &lt;img src=&quot;/assets/img/albums/tilson-thomas-ives-question.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Davies Symphony Hall, &lt;br /&gt;
 San Francisco &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999.10 
@@ -645,34 +764,94 @@ San Francisco &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=
         <title>城市印象 3 &amp;colon; 纽黑文 | 上</title>
         <link>/2024/06/04/cities-new-haven-1.html</link>
         <guid isPermaLink="true">/2024/06/04/cities-new-haven-1.html</guid>
-        <description>&lt;p style=&quot;text-align:center; margin-bottom:0.75em; font-size:1.1em&quot;&gt;&lt;b&gt; 缘起 &lt;/b&gt; &lt;/p&gt;
+        <description>&lt;style&gt;
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+.num {
+  letter-spacing: 0px;
+}
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.96em;
+}
+p.poem {
+  margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.1px;
+  margin-bottom:1.45em;
+}
+p.ttl {
+  letter-spacing: 0.1px;
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+  margin-bottom:1.2em;
+}
+p.end {
+  letter-spacing: 0.1px;
+  text-align:center;
+  margin-bottom:2em;
+}
+p.alb {
+	text-align:center; 
+	font-family: Noto Sans; 
+	color:#707070; 
+	font-size:0.9em; 
+	margin-top:2em; 
+	margin-bottom:2em;
+}
+p.not {
+	text-align:left; 
+	color:#707070; 
+	font-size:0.9em; 
+	letter-spacing: 0.4px;
+	margin-top:2em; 
+	margin-bottom:2em;
+	margin-left:1.25em; 
+	margin-right:1.25em;
+}
+&lt;/style&gt;
 
-&lt;p style=&quot;text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/previn-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ American Legion Hall, &lt;br /&gt;
-Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.03
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=5iXnnnEOhJw&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/garland-rainbow.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Capitol Studios, &lt;br /&gt;
+Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1955.08
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/copland-copland-london.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Walthamstow Assembly Hall, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.11
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=9r6djMVjFkc&amp;amp;list=OLAK5uy_n7emDnvifhAT-_kSjvv_1WmKgyepMiwHw&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/klemperer-brahms-requiem.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Kingsway Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.01–04
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center; font-family: Noto Sans; color:grey; font-size:0.87em&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=7LbFlMkAApE&amp;amp;list=OLAK5uy_mFvrkZRRkwDaQeZFTp0gfBS8a6XF7vdpo&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/kocsis-bartok-cfo.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Istituto Italiano di Cultura, &lt;br /&gt;
-Budapest &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2002.09
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=TWQfgOgG2iA&amp;amp;list=OLAK5uy_mc-XvIeFzlqXxxCDCVaTRd3ZVw1H4knW0&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/munch-saint-saens-organ.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.04
 &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 04 Jun 2024 00:00:00 -0400</pubDate>

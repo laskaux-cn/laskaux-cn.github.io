@@ -86,7 +86,7 @@ p.not {
 <br>
 
 
-<p class="ttl"> 一 </p>
+<p class="ttl"> – 1 – </p>
 
 <p class="cn">
 纽约本身无需过多介绍——当今唯一超级大国的唯一超级城市、美国乃至世界最大的经济和金融中心、诸多维度仍将长期保持领先的「国际超一线都会」<span style="margin-left:-0.33em">。</span>特别是在推崇「以经济建设为中心」朴素唯物主义价值观的发展中国家，纽约是必须写进教科书的美国发展奇迹（另一个是西海岸的硅谷）<span style="margin-left:-0.5em">。</span>无论是当年遥望自由女神像、从 <span class='reg'>Ellis Island</span> 踏上新大陆的各国移民，还是今天鸟瞰曼哈顿天际线、从 <span class='reg'>JFK</span> 或 <span class='reg'>EWR</span> 机场徐徐降落的国际旅客，看到纽约心中难免会飘过那句两千年前地中海人面对罗马的感叹——万城之城。</p>
@@ -167,10 +167,10 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <br>
 
 
-<p style="text-align:center; font-size:1.05em"><b> 二 </b> </p>
+<p class="ttl"> – 2 – </p>
 
 <p class="cn">
-与当年 <span class='reg'>Alistair Cooke</span> 相似，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 <span class='num'>30</span> 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span class='reg'>(sampling rate)</span> 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。</p>
+与当年 <span class='reg'>Alistair Cooke</span> 略像，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 <span class='num'>30</span> 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」<span style="margin-left:-0.5em">——</span>因为有限的采样频率 <span class='reg'>(sampling rate)</span> 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。</p>
 
 
 <p class="alb">
@@ -235,7 +235,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> 三 </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="cn">
 人与人共享空间却不互相干涉的一个典型场景是剧场。纽约是英语世界下与伦敦齐名的戏剧中心，以<b>百老汇</b> <span class='reg'>(Broadway)</span> 为代表、令人眼花缭乱的戏剧演出曾经是吸引我一次次探访这座城市的最直接原因。</p>
@@ -281,10 +281,10 @@ Mörbisch am See &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="
 
 
 <p class="cn">
-出于偶像情怀去看剧也难免偶有失落：比如 <span class='reg'>Lea Salonga</span> <span class='num'>2015</span> 和 <span class='num'>2017</span> 年在 <a href="https://www.youtube.com/watch?v=Ff69oXdWc2o&list=OLAK5uy_nWywRBNle3vz1blE2tZyt_VAlr6fG7H6A&index=14"> <span class='ita'> Allegiance </span></a> 和 <a href="https://www.youtube.com/watch?v=eWeWmSbQpa4"> <span class='ita'> Once on This Island </span></a> 中的两次复出，虽然声音依旧极具辨识度，但气质与表演状态已不再是自己心目中曾经的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=rLdPFSkWumM&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=23"> <span class='ita'> Sunset Boulevard </span></a> 中重演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似有点明白了为什么这部取材于历史级<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>(1950)</span> 且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
+出于偶像情怀去看剧也难免偶有失落：比如 <span class='reg'>Lea Salonga</span> <span class='num'>2015</span> 和 <span class='num'>2017</span> 年在 <a href="https://www.youtube.com/watch?v=Ff69oXdWc2o&list=OLAK5uy_nWywRBNle3vz1blE2tZyt_VAlr6fG7H6A&index=14"> <span class='ita'> Allegiance </span></a> 和 <a href="https://www.youtube.com/watch?v=eWeWmSbQpa4"> <span class='ita'> Once on This Island </span></a> 中的两次复出，虽然声音依旧极具辨识度，但气质与表演状态已不再是自己心目中曾经的音乐剧女神；还有 <span class='num'>2017</span> 年 <span class='reg'>Glenn Close</span> 在 <a href="https://www.youtube.com/watch?v=rLdPFSkWumM&list=PLkbGQAOJ0kB9mbv2uSpjjlzC9e6AdBq9x&index=23"> <span class='ita'> Sunset Boulevard </span></a> 中重新出演 <span class='reg'>Norma Desmond</span>，但看过不仅印象平淡，还貌似有点明白了为什么这部取材于历史级<a href="https://www.youtube.com/watch?v=HduXGYkoc_w&list=PLZbXA4lyCtqoH1PsAoK7rBvz1-btDmTHj&index=1">同名电影</a> <span class='num'>(1950)</span> 且金曲颇多的剧自首演以来在业内一直评价不高，甚至还由剧情触发了一丝感慨——音乐剧的黄金时代亦如当年的无声电影一般一去不返。</p>
 
 <p class="cn">
-不过，个人以为最值得的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>——假如要选出自己心目中最无可替代的音乐剧角色演绎，这就是我的男主角选票（至于女主角，我大概会投给 <a href="https://www.youtube.com/watch?v=FYsPP3cIak8&list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&index=3"><span class='ita'> My Fair Lady </span></a> 中的 <span class='reg'>Julie Andrews</span> 或 <a href="https://www.youtube.com/watch?v=rtUFxPIdycE&list=OLAK5uy_mL0IBguPa0UeJWHuo2JarK42ur6oQJxow&index=10"><span class='ita'> Miss Saigon </span></a> 中的 <span class='reg'>Lea Salonga</span>）<span style="margin-left:-0.5em">。</span>更重要的是，这场演出让我突然理解了九十年代以来 <span class='ita'> Cabaret </span> 新版本中角色调整的用意——<span class='reg'>Emcee</span> 已不仅是一个人，同时还是魏玛共和国末年时代风貌的人格化 <span class='reg'>(personalification)</span> 展现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。 </p>
+不过，个人以为最值得的一次「追星」是在 <span class='num'>2015</span> 年春天，我从普林斯顿到波士顿的路上在纽约停留半天，在 <a href="https://www.youtube.com/watch?v=hm2rrNEIK00&list=OLAK5uy_k7DKMHQquqQcWsrNYkVk6Ix8gO9CJoGHE&index=1"> <span class='ita'> Cabaret </span></a> 停演前的最后一周见到了时隔 <span class='num'>16</span> 年再次出演 <span class='reg'>Emcee</span> 的 <span class='reg'>Alan Cumming</span>——假如要选出自己心目中最无可替代的音乐剧角色演绎，这应该就是我的男主角选票（至于女主角，我大概会投给 <a href="https://www.youtube.com/watch?v=FYsPP3cIak8&list=PLM0FaPp2oenP4AcCc-o-qtvTF7lg5fcI_&index=3"><span class='ita'> My Fair Lady </span></a> 中的 <span class='reg'>Julie Andrews</span> 或 <a href="https://www.youtube.com/watch?v=rtUFxPIdycE&list=OLAK5uy_mL0IBguPa0UeJWHuo2JarK42ur6oQJxow&index=10"><span class='ita'> Miss Saigon </span></a> 中的 <span class='reg'>Lea Salonga</span>）<span style="margin-left:-0.5em">。</span>更重要的是，这场演出让我突然理解了九十年代以来 <span class='ita'> Cabaret </span> 新版本中角色调整的用意——<span class='reg'>Emcee</span> 已不仅是一个人，同时还是魏玛共和国末年时代风貌的人格化 <span class='reg'>(personalification)</span> 展现，在一个三分真实、七分抽象的戏中戏舞台上演绎纳粹上台前夜德国社会的滑落、放纵与挣扎。 </p>
 
 
 <p class="alb">
@@ -311,7 +311,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
-<p class="ttl"> 四 </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="cn">综合客观标准与主观感情，我有一悲一喜两部个人最爱的音乐剧——悲剧是 <a href="https://www.bilibili.com/video/BV14b4y1k7hG/"><span class='ita'> Sweeney Todd: The Demon Barber of Fleet Street</span></a> <span class='num'>(1979)</span>，喜剧是 <a href="https://www.youtube.com/watch?v=zpgnolyNGjQ"><span class='ita'> My Fair Lady</span></a> <span class='num'>(1956)</span>。幸运的是，我分别于 <span class='num'>2017</span> 和 <span class='num'>2018</span> 年在纽约的两个非典型剧场里看到了它们相当惊艳的现场重演。</p>
 
@@ -370,7 +370,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
-<p class="ttl"> 五 </p>
+<p class="ttl"> – 5 – </p>
 
 
 <p class="cn">
@@ -399,7 +399,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
-<p class="ttl"> 六 </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="cn">
 在林肯中心建筑群中，占据中央 <span class='reg'>C</span> 位的是<b>大都会歌剧院</b> <span class='reg'>(Metropolitan Opera House,</span> 以下简称 <span class='reg'>Met Opera)</span>
@@ -448,7 +448,7 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 
 
-<p class="ttl"> 七 </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="cn">
 <span class='reg'>David H. Koch Theater</span>
@@ -458,7 +458,7 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 </p>
 
 <p class="cn">
-<span class='reg'>NY Phil</span> 是美国第一支正式建制的交响乐团——它与听上去更古早的<b>维也纳爱乐乐团</b> <span class='reg'>(Wiener Philharmoniker)</span> 同建于 <span class='num'>1842</span> 年。虽然历史悠久，在交响乐团的运营和演出高度模式化、同质化的今天，<span class='reg'>NY Phil</span> 与其它美国的主要乐团在艺术风格上其实并无本质区别，不过在曲目编排上有保留一些「地方特色」<span style="margin-left:-0.5em">——</span>比如对与纽约有渊源的作品和作曲家稍微偏爱。这些作曲家既包括土生土长的纽约人——比如 <span class='reg'>Aaron Copland</span> 和 <span class='reg'>John Corigliano</span>；也包括曾经旅居纽约的外国人——例如 <span class='reg'>Dvořák</span>、<span class='reg'>Mahler</span>、<span class='reg'>Bartók</span> 这几位著名的欧洲访客。我仅听过两场 <span class='reg'>NY Phil</span> 现场音乐会，每场都恰有一首 <span class='reg'>Bartók</span> 人生晚年在纽约完成的作品——<a href="https://www.youtube.com/watch?v=tOXW5vZ9n9o&list=OLAK5uy_n907AH5d2PifQSFuBTiLpLkTU79NWZevw&index=7"><span class='reg'>Piano Concerto № 3</span></a> <span class='num'>(1945)</span> 和 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span class='reg'>Concerto for Orchestra</span></a> <span class='num'>(1943)</span>；后者虽说理论上主要是古典曲式与中东欧民间音乐的融合，但许多地方的节奏、律动和色彩（尤其是最后两个乐章）很难让人不联想到纽约都市文化环境的影响。
+<span class='reg'>NY Phil</span> 是美国第一支正式建制的交响乐团——它与听上去更古早的<b>维也纳爱乐乐团</b> <span class='reg'>(Wiener Philharmoniker)</span> 同建于 <span class='num'>1842</span> 年。虽然历史悠久，在交响乐团的运营和演出高度模式化、同质化的今天，<span class='reg'>NY Phil</span> 与其它美国的主要乐团在艺术风格上其实并无本质区别，不过在曲目编排上有保留一些「地方特色」<span style="margin-left:-0.5em">——</span>比如对与纽约有渊源的作品和作曲家稍微偏爱。这些作曲家既包括土生土长的纽约人——比如 <span class='reg'>Aaron Copland</span> 和 <span class='reg'>John Corigliano</span>；也包括曾经旅居纽约的外国人——例如 <span class='reg'>Antonín Dvořák</span>、<span class='reg'>Gustav Mahler</span>、<span class='reg'>Béla Bartók</span> 这几位著名的欧洲访客。我仅听过两场 <span class='reg'>NY Phil</span> 现场音乐会，每场都恰有一首 <span class='reg'>Bartók</span> 人生晚年在纽约完成的作品——<a href="https://www.youtube.com/watch?v=tOXW5vZ9n9o&list=OLAK5uy_n907AH5d2PifQSFuBTiLpLkTU79NWZevw&index=7"><span class='reg'>Piano Concerto № 3</span></a> <span class='num'>(1945)</span> 和 <a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1"><span class='reg'>Concerto for Orchestra</span></a> <span class='num'>(1943)</span>；后者虽说理论上主要是古典曲式与中东欧民间音乐的融合，但许多地方的节奏、律动和色彩（尤其是最后两个乐章）就像 <span class='reg'>Piet Mondrian</span> 同一时期的画作一样，很难让人不联想到纽约都市文化环境的浸染。
 </p>
 
 <p class="alb">
@@ -493,7 +493,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> 八 </p>
+<p class="ttl"> – 8 – </p>
 
 
 <p class="alb">
@@ -504,10 +504,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 
-<p class="end">（未完待下篇）</p>
-
-
----
+<p class="end">（未完待下篇）<br><br></p>
 
 
 

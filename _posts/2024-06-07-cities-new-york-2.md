@@ -75,7 +75,12 @@ p.not {
 }
 </style>
 
-<p class="end">（接上篇）</p>
+<p class="cn">
+	在上篇的纽约印象中，我流水账式地记述了一些过去在
+</p>
+
+
+<p class="ttl"> – 9 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=IHaVhlJQIrw&list=OLAK5uy_nsEq_tCl0dNkiF09Vkj4IzgxRFooyQ90w&index=1">
@@ -83,6 +88,11 @@ p.not {
 @ Rudolfinum <br>
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1967.06
 </p>
+
+<br>
+
+
+<p class="ttl"> – 10 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
@@ -100,6 +110,18 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 
+<br>
+
+<p class="ttl"> – 11 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
+<img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
+@ OnClassical Studio, <br>
+Pove del Grappa &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
+</p>
+
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=owJ7NUCUIPQ&list=OLAK5uy_lMGRy6trAzHI0hRorgucMbBbi_-38slSo&index=9">
 <img src="/assets/img/albums/grumiaux-berg.png" width="480"> </a> <br>
@@ -107,8 +129,33 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1967.01
 </p>
 
+<br>
 
-> <p class="reg">
+<p class="ttl"> – 12 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jGsv4CkEY2U&list=OLAK5uy_lqEYG0L7s5tXBEKRuuqeqY-fkkmBXMJYc&index=7">
+<img src="/assets/img/albums/koopman-bach572.png" width="480"> </a> <br>
+@ Groote Kerk <br>
+Maassluis &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1983.06
+</p>
+
+<br>
+
+<p class="ttl"> – 13 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VHbMF0LSobA&list=OLAK5uy_nUe4pnMCTEsM4-C8PXwQJX3s5xrKVFxxQ&index=3">
+<img src="/assets/img/albums/clemencic-cb.png" width="480"> </a> <br>
+@ Prälatensaal des Schottenstiftes, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1974.02
+</p>
+
+<br>
+
+<p class="ttl"> – 14 – </p>
+
+> <p class="quote">
 > We now live in a time of endless possibility. More has been learned about the treatment of the human body in the last five years than was learned in the previous five hundred. Twenty years ago, 39 was the number of years a man could expect from his life. Today, it is more than 47. Eventually the train tunnels will crumble. The dams will be overrun. Our patients’ hearts will all stop their beating. But we humans can get in a few good licks in battle before we surrender. </p>
 
 
@@ -118,6 +165,10 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 @ Grunewaldkirche <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
+
+<br>
+
+<p class="ttl"> – 15 – </p>
 
 出生于法国、一生绝大多数时间都求学与任教于哥伦比亚大学的文化史学者 <span class='reg'>Jacques Barzun</span> 在 <a href="https://archive.org/details/in.ernet.dli.2015.166056/page/n7/mode/2up"><span class='ita'> From Dawn to Decadence </span></a> <span class='num'>(2000)</span> 的末章中写道：
 
@@ -134,15 +185,20 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963.07
 </p>
 
+<br>
+
+<p class="ttl"> – 16 – </p>
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=EtzlyQRwt60&list=OLAK5uy_lQVTNQZxqmYkE7ODpMSIsz22WnGlRvLHE&index=10">
+<a href="https://www.youtube.com/watch?v=fGRrBuKJ_P0&list=OLAK5uy_mkN2HzMkMVFJv06Ur--bVH4rBXyFwTXvA&index=3">
 <img src="/assets/img/albums/ricci-bartok-violin-solo.png" width="480"> </a> <br>
 @ Victoria Hall, <br>
 Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1960.04
 </p>
 
 
-<br>
+<p class="end">（全文完）<br><br></p>
+
 
 
 
