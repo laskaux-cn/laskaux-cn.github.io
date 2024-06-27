@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 25 Jun 2024 21:15:00 -0400</pubDate>
+    <pubDate>Wed, 26 Jun 2024 16:51:01 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -48,9 +48,8 @@ p.cn {
   margin-bottom:1.45em;
 }
 p.ttl {
-  letter-spacing: 0.1px;
   text-align:center;
-  font-size:1.05em;
+  font-size:1.1em;
   font-weight: 600;
   margin-bottom:1.2em;
 }
@@ -135,8 +134,15 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jGsv4CkEY2U&amp;amp;list=OLAK5uy_lqEYG0L7s5tXBEKRuuqeqY-fkkmBXMJYc&amp;amp;index=7&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/koopman-bach572.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Groote Kerk &lt;br /&gt;
+@ Groote Kerk, &lt;br /&gt;
 Maassluis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=GPTt1K9TWZo&amp;amp;list=OLAK5uy_nGbuEgDsUzZlQb4azyqXYnKccNtfnkFKg&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/butt-pachelbel.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Hertz Hall, &lt;br /&gt;
+Berkeley &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990.06
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -146,7 +152,7 @@ Maassluis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=VHbMF0LSobA&amp;amp;list=OLAK5uy_nUe4pnMCTEsM4-C8PXwQJX3s5xrKVFxxQ&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/clemencic-cb.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Prälatensaal des Schottenstiftes, &lt;br /&gt;
+@ Prälatensaal, Schottenstift, &lt;br /&gt;
 Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.02
 &lt;/p&gt;
 
@@ -164,6 +170,13 @@ We now live in a time of endless possibility. More has been learned about the tr
 &lt;img src=&quot;/assets/img/albums/kempe-don-quixote.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Grunewaldkirche &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1958.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jEpvOHntSus&amp;amp;list=OLAK5uy_lzoKEcjrVBL-G89UunnyOgy49khM4eB8U&amp;amp;index=6&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/cole-sidewalks.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Capitol Studios, &lt;br /&gt;
+Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1963.04–05
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -244,9 +257,8 @@ p.cn {
   margin-bottom:1.45em;
 }
 p.ttl {
-  letter-spacing: 0.1px;
   text-align:center;
-  font-size:1.05em;
+  font-size:1.1em;
   font-weight: 600;
   margin-bottom:1.2em;
 }
@@ -332,8 +344,8 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回应中，最积极的心态可见于这座城市的一首「非官方市歌」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;由 &lt;span class=&quot;reg&quot;&gt; John Kander &lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Fred Ebb &lt;/span&gt; 为电影 &lt;a href=&quot;https://www.youtube.com/watch?v=ge7NiJuSpac&quot;&gt;
-	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1977)&lt;/span&gt; 创作的同名主题曲：&lt;/p&gt;
+与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回答中，个人以为非常有趣的这座城市的一首「非官方市歌」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;由 &lt;span class=&quot;reg&quot;&gt; John Kander &lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Fred Ebb &lt;/span&gt; 为电影 &lt;a href=&quot;https://www.youtube.com/watch?v=ge7NiJuSpac&quot;&gt;
+	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1977)&lt;/span&gt; 创作的同名主题曲。它的歌词毫无掩饰的表达着积极心态：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p class=&quot;poem&quot;&gt;
@@ -361,14 +373,14 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-这些来自不同声音、形形色色的纽约印象可以被无限列举下去。在本文（计划分为上下两篇）余下的篇幅里，我将重点讲述&lt;b&gt;自己心目中的纽约&lt;/b&gt;。显然，这些回忆主要源于我在这座城市中的个人行迹，视角相当主观，其间的见闻或感受也未必都很有新意。但我更愿意把它们视为一段跨越十年并仍在继续的旅行经历，也希望能从零散的记忆中捕获些许自己在过去十年间的改变与成长。&lt;/p&gt;
+当然，这些来自不同声音、形形色色的纽约印象可以被无限列举下去。在本文（计划分为上下两篇）余下的篇幅里，我将重点讲述&lt;b&gt;自己心目中的纽约&lt;/b&gt;。显然，这些回忆主要源于我在这座城市中的个人行迹，视角相当主观，其间的见闻或感受也未必都很有新意。但我更愿意把它们视为一段跨越十年并仍在继续的旅行经历，也希望能从零散的记忆中捕获些许自己在过去十年间的改变与成长。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-与当年 &lt;span class=&quot;reg&quot;&gt;Alistair Cooke&lt;/span&gt; 略像，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 &lt;span class=&quot;num&quot;&gt;30&lt;/span&gt; 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;因为有限的采样频率 &lt;span class=&quot;reg&quot;&gt;(sampling rate)&lt;/span&gt; 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。&lt;/p&gt;
+与 &lt;span class=&quot;reg&quot;&gt;Alistair Cooke&lt;/span&gt; 当年略像，我与纽约的初遇是在本科三年级前往耶鲁大学暑期科研，期间忙里偷闲、利用周末造访纽约两天。从那时到现在的整十年里，我先在耶鲁读书，后在波士顿工作，进纽约城少说也有 &lt;span class=&quot;num&quot;&gt;30&lt;/span&gt; 次以上；但每次都很短暂，最多停留不过三五天，更常见的是来去匆匆的一两日游。换言之，我对纽约的观察就像信号处理中的「离散采样」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;因为有限的采样频率 &lt;span class=&quot;reg&quot;&gt;(sampling rate)&lt;/span&gt; 必然导致失真，却也能重构出不少关于观察对象或细节、或整体的印象。&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=RzV-fHaERis&amp;amp;list=OLAK5uy_nh3B1qHnWY3kCjTbOHsP5_84Y6cu3UGE4&amp;amp;index=1&quot;&gt;
@@ -450,7 +462,7 @@ Cincinnati &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&qu
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-在耶鲁的前几年，每次若在纽约恰逢自己喜欢的音乐剧重演，我尽量都不错过（除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧）&lt;span style=&quot;margin-left:-0.5em&quot;&gt;。&lt;/span&gt;总体的感受是：尽管在音乐剧艺术显著衰落的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过真正令人惊喜的表演并不常遇，少有的几次令人印象深刻——比如 &lt;span class=&quot;num&quot;&gt;2014&lt;/span&gt; 年夏天，我在 &lt;span class=&quot;reg&quot;&gt;Sierra Boggess&lt;/span&gt; 饰演 &lt;span class=&quot;reg&quot;&gt;Christine Daaé&lt;/span&gt; 的最后三周里，第一次也是唯一一次现场看 &lt;a href=&quot;https://www.bilibili.com/video/BV1pM411f74E/&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Phantom of the Opera&lt;/span&gt;&lt;/a&gt;，收获了既经沧海、往后再无必要重观的体验；再比如 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年夏天，&lt;span class=&quot;reg&quot;&gt;Kelli O’Hara&lt;/span&gt; 领衔主演的 &lt;a href=&quot;https://www.youtube.com/watch?v=8bf3J_zWDsM&amp;amp;list=OLAK5uy_nRhbZEJQaknacbTWo-bmhnvvhpCZjOdtA&amp;amp;index=4&quot;&gt; &lt;span class=&quot;ita&quot;&gt; The King and I &lt;/span&gt;&lt;/a&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=RCg2vGmNFrM&amp;amp;list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Kiss Me, Kate &lt;/span&gt;&lt;/a&gt; 仿佛让人穿越回到上世纪中叶音乐剧舞台最具生命力的纽约——那个歌与舞、喜与悲、幽默与讽刺、欢笑与眼泪无不传达着善意、包容和对未来信心的美好年代。&lt;/p&gt;
+在耶鲁的前几年，每次若在纽约恰逢自己喜欢的音乐剧重演，我尽量都不错过——除非感觉重排画风过于离谱、出于守护心中经典的美好形象而不忍观剧。总体的感受是：在音乐剧艺术显著衰落的今天，百老汇的制作和演出仍然保持着相当高的基础水准；不过真正令人惊喜的表演并不常遇，少有的几次令人印象深刻——比如 &lt;span class=&quot;num&quot;&gt;2014&lt;/span&gt; 年夏天，我在 &lt;span class=&quot;reg&quot;&gt;Sierra Boggess&lt;/span&gt; 饰演 &lt;span class=&quot;reg&quot;&gt;Christine Daaé&lt;/span&gt; 的最后三周里，第一次也是唯一一次现场看 &lt;a href=&quot;https://www.bilibili.com/video/BV1pM411f74E/&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Phantom of the Opera&lt;/span&gt;&lt;/a&gt;，收获了既经沧海、往后再无必要重观的体验；再比如 &lt;span class=&quot;num&quot;&gt;2017&lt;/span&gt; 和 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年夏天，&lt;span class=&quot;reg&quot;&gt;Kelli O’Hara&lt;/span&gt; 领衔主演的 &lt;a href=&quot;https://www.youtube.com/watch?v=8bf3J_zWDsM&amp;amp;list=OLAK5uy_nRhbZEJQaknacbTWo-bmhnvvhpCZjOdtA&amp;amp;index=4&quot;&gt; &lt;span class=&quot;ita&quot;&gt; The King and I &lt;/span&gt;&lt;/a&gt; 和 &lt;a href=&quot;https://www.youtube.com/watch?v=RCg2vGmNFrM&amp;amp;list=OLAK5uy_mh5Vk7tihBDXans32zSZ1ZEseomPep7W8&amp;amp;index=1&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Kiss Me, Kate &lt;/span&gt;&lt;/a&gt; 仿佛让人穿越回到上世纪中叶音乐剧舞台最具生命力的纽约——那个歌与舞、喜与悲、幽默与讽刺、欢笑与眼泪无不传达着善意、包容和对未来信心的美好年代。&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=2RRBG49hCps&amp;amp;list=OLAK5uy_lQVTNQZxqmYkE7ODpMSIsz22WnGlRvLHE&amp;amp;index=3&quot;&gt;
@@ -460,7 +472,7 @@ Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&q
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-百老汇的各位舞台名宿也经常作为配角与观众见面：例如最近正在新版 &lt;a href=&quot;https://www.youtube.com/watch?v=9jcs23xlcX0&amp;amp;list=OLAK5uy_n5tGIWi1z8iuB2Jh2sa4-JurVhycQKSMw&amp;amp;index=8&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 中饰演房东阿姨的 &lt;span class=&quot;reg&quot;&gt;Bebe Neuwirth&lt;/span&gt;、&lt;span class=&quot;num&quot;&gt;2018&lt;/span&gt; 年从歌剧界「下凡」至 &lt;a href=&quot;https://www.youtube.com/watch?v=aC7c7OLbUxc&amp;amp;list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&amp;amp;index=11&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Carousel &lt;/span&gt;&lt;/a&gt; 完成音乐剧首秀的 &lt;span class=&quot;reg&quot;&gt;Renée Fleming&lt;/span&gt; .&amp;nbsp;.&amp;nbsp;. 另一次是 &lt;span class=&quot;num&quot;&gt;2016&lt;/span&gt; 年感恩节在 &lt;a href=&quot;https://www.youtube.com/watch?v=NZBLDkVpHSA&amp;amp;list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&amp;amp;index=19&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Fiddler on the Roof &lt;/span&gt;&lt;/a&gt; 中见到了出道四十年却始终戏红人不红的 &lt;span class=&quot;reg&quot;&gt;Judy Kuhn&lt;/span&gt;，记得那天但凡她在台上我的眼神就没有离开过她。之后因为对质朴温暖的 &lt;span class=&quot;ita&quot;&gt; Fiddler on the Roof &lt;/span&gt; 过于喜欢，还在 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年去小剧场 &lt;span class=&quot;reg&quot;&gt;Stage 42&lt;/span&gt; 看了 &lt;span class=&quot;reg&quot;&gt;Joel Grey&lt;/span&gt; 导演、主要面向犹太裔观众的&lt;a href=&quot;https://www.youtube.com/watch?v=DpBD8Wat-Bw&amp;amp;list=PLcvFO4lyuy_skAIqvxQitkom-R_1Q5CDW&amp;amp;index=1&quot;&gt;意第绪语 &lt;span class=&quot;reg&quot;&gt;(Yiddish)&lt;/span&gt;&lt;/a&gt; 版本——印象中自己是那天剧场里唯一的亚洲面孔。&lt;/p&gt;
+百老汇的各位舞台名宿也经常作为配角与观众见面：例如最近正在新版 &lt;a href=&quot;https://www.youtube.com/watch?v=9jcs23xlcX0&amp;amp;list=OLAK5uy_n5tGIWi1z8iuB2Jh2sa4-JurVhycQKSMw&amp;amp;index=8&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Cabaret &lt;/span&gt;&lt;/a&gt; 中饰演房东阿姨的 &lt;span class=&quot;reg&quot;&gt;Bebe Neuwirth&lt;/span&gt;、&lt;span class=&quot;num&quot;&gt;2018&lt;/span&gt; 年从歌剧界「下凡」至 &lt;a href=&quot;https://www.youtube.com/watch?v=aC7c7OLbUxc&amp;amp;list=PLycQGoRl0aExZ6yFK-Fldlc5Fc-dgPy0u&amp;amp;index=11&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Carousel &lt;/span&gt;&lt;/a&gt; 完成音乐剧首秀的 &lt;span class=&quot;reg&quot;&gt;Renée Fleming&lt;/span&gt; .&amp;nbsp;.&amp;nbsp;. 另一次回忆是 &lt;span class=&quot;num&quot;&gt;2016&lt;/span&gt; 年感恩节在 &lt;a href=&quot;https://www.youtube.com/watch?v=NZBLDkVpHSA&amp;amp;list=PL5WiIKqo7iZ9J5T2FeikZHVHEFAbp5OMG&amp;amp;index=19&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Fiddler on the Roof &lt;/span&gt;&lt;/a&gt; 中见到了出道四十年却始终戏红人不红的 &lt;span class=&quot;reg&quot;&gt;Judy Kuhn&lt;/span&gt;，记得那天但凡她出现在台上我的眼神就没有离开过她。之后因为对质朴温暖的 &lt;span class=&quot;ita&quot;&gt; Fiddler on the Roof &lt;/span&gt; 过于喜欢，还在 &lt;span class=&quot;num&quot;&gt;2019&lt;/span&gt; 年去小剧场 &lt;span class=&quot;reg&quot;&gt;Stage 42&lt;/span&gt; 看了 &lt;span class=&quot;reg&quot;&gt;Joel Grey&lt;/span&gt; 导演、主要面向犹太裔观众的&lt;a href=&quot;https://www.youtube.com/watch?v=DpBD8Wat-Bw&amp;amp;list=PLcvFO4lyuy_skAIqvxQitkom-R_1Q5CDW&amp;amp;index=1&quot;&gt;意第绪语 &lt;span class=&quot;reg&quot;&gt;(Yiddish)&lt;/span&gt;&lt;/a&gt; 版本——印象中自己是那天剧场里唯一的亚洲面孔。&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=gcSithpU3cs&amp;amp;list=OLAK5uy_n48MFC4F-crKjFdFar-YY0c1pkEiJ7Y9U&amp;amp;index=1&quot;&gt;
@@ -526,10 +538,12 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-&lt;span class=&quot;reg&quot;&gt;Vivian Beaumont Theater&lt;/span&gt; 虽然名义上是唯一不在曼哈顿剧场区的百老汇剧院，但因为由非盈利组织 &lt;span class=&quot;reg&quot;&gt;Lincoln Center Theater (LCT)&lt;/span&gt; 运营，风格要比同类剧场「正统」不少——近些年重演的音乐剧大多不是出自 &lt;span class=&quot;reg&quot;&gt;Rodgers &amp;amp; Hammerstein&lt;/span&gt; 就是 &lt;span class=&quot;reg&quot;&gt;Lerner &amp;amp; Loewe&lt;/span&gt; 这样的经典创作组合。此外 &lt;span class=&quot;reg&quot;&gt;LCT&lt;/span&gt; 每有一部主要制作，都会编辑一期精美的 &lt;a href=&quot;https://www.youtube.com/watch?v=zpgnolyNGjQ&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Lincoln Center Theater Review&lt;/span&gt;&lt;/a&gt; 摆在剧场里供观众免费取阅，内容主要是上演剧目的历史背景、相关文化素材以及主创采访等。时间久了，其中有营养的内容大多已经淡忘，记得最牢的倒是各种八卦，例如 &lt;span class=&quot;reg&quot;&gt;Rex Harrison&lt;/span&gt; 在 &lt;span class=&quot;ita&quot;&gt;My Fair Lady&lt;/span&gt; 首演前的彩排中一度罢演失踪；&lt;span class=&quot;reg&quot;&gt;Gertrude Lawrence&lt;/span&gt; 在不知身患癌症的情况下坚持高强度演出，在 &lt;span class=&quot;ita&quot;&gt;The King and I&lt;/span&gt; 后台晕厥并随即在医院离世之类。另外 &lt;span class=&quot;ita&quot;&gt;My Fair Lady&lt;/span&gt; 一期的封面——丹麦画家 &lt;span class=&quot;reg&quot;&gt;Niels Møller Lund&lt;/span&gt; 的油画 &lt;a href=&quot;https://artsandculture.google.com/asset/the-heart-of-empire-niels-moeller-lund/0gFofNS0E2h2OA?hl=en&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Heart of Empire&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1904)&lt;/span&gt; 被我用作办公室电脑桌面很长时间。 
+&lt;span class=&quot;reg&quot;&gt;Vivian Beaumont Theater&lt;/span&gt; 名义上是唯一不在曼哈顿剧场区的百老汇剧院，但或许因为由非盈利组织 &lt;span class=&quot;reg&quot;&gt;Lincoln Center Theater (LCT)&lt;/span&gt; 运营，风格要比同类剧场「严肃正统」不少——近些年重演的音乐剧大多不是出自 &lt;span class=&quot;reg&quot;&gt;Rodgers &amp;amp; Hammerstein&lt;/span&gt; 就是 &lt;span class=&quot;reg&quot;&gt;Lerner &amp;amp; Loewe&lt;/span&gt; 这样的经典创作组合。此外 &lt;span class=&quot;reg&quot;&gt;LCT&lt;/span&gt; 每有一部主要制作，都会编辑一期精美的 &lt;a href=&quot;https://www.youtube.com/watch?v=zpgnolyNGjQ&quot;&gt;&lt;span class=&quot;ita&quot;&gt; Lincoln Center Theater Review&lt;/span&gt;&lt;/a&gt; 摆在剧场里供观众免费取阅，内容主要是上演剧目的相关历史文化素材以及主创采访等。时间久了，其中有营养的内容大多已经淡忘，记得最牢的却是各种八卦，例如 &lt;span class=&quot;reg&quot;&gt;Rex Harrison&lt;/span&gt; 在 &lt;span class=&quot;ita&quot;&gt;My Fair Lady&lt;/span&gt; 首演前的彩排中一度罢演失踪；&lt;span class=&quot;reg&quot;&gt;Gertrude Lawrence&lt;/span&gt; 在不知身患癌症的状况下高强度演出，直至在 &lt;span class=&quot;ita&quot;&gt;The King and I&lt;/span&gt; 后台晕厥并随即在医院离世之类。另外 &lt;span class=&quot;ita&quot;&gt;My Fair Lady&lt;/span&gt; 一期的封面、也是剧场的舞台幕布——丹麦画家 &lt;span class=&quot;reg&quot;&gt;Niels Møller Lund&lt;/span&gt; 的油画 &lt;a href=&quot;https://artsandculture.google.com/asset/the-heart-of-empire-niels-moeller-lund/0gFofNS0E2h2OA?hl=en&quot;&gt;&lt;span class=&quot;ita&quot;&gt; The Heart of Empire&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1904)&lt;/span&gt; 被我用作办公室电脑桌面很长时间。 
 &lt;/p&gt;
 
-&lt;p&gt;尽管有这些难忘的现场经历，我对 &lt;span class=&quot;reg&quot;&gt;LCT&lt;/span&gt; 的最高敬意还是源于一部我无缘现场观看的制作——&lt;span class=&quot;num&quot;&gt;2008–2010&lt;/span&gt; 年间重演的 &lt;a href=&quot;https://www.bilibili.com/video/BV1dW411X73v/&quot;&gt;&lt;span class=&quot;ita&quot;&gt;South Pacific&lt;/span&gt;&lt;/a&gt;，感谢 &lt;span class=&quot;num&quot;&gt;2010&lt;/span&gt; 年 8 月 18 日 &lt;span class=&quot;reg&quot;&gt;PBS&lt;/span&gt; 电视台 &lt;span class=&quot;ita&quot;&gt;Live from Lincoln Center&lt;/span&gt; 节目珍贵的直播录像。&lt;/p&gt;
+&lt;p class=&quot;cn&quot;&gt;
+尽管有这些难忘的现场经历，我对 &lt;span class=&quot;reg&quot;&gt;LCT&lt;/span&gt; 的最高敬意还是源于一部我无缘现场观看的制作——&lt;span class=&quot;num&quot;&gt;2008–2010&lt;/span&gt; 年间重演的 &lt;a href=&quot;https://www.bilibili.com/video/BV1dW411X73v/&quot;&gt;&lt;span class=&quot;ita&quot;&gt;South Pacific&lt;/span&gt;&lt;/a&gt;，这需要感谢 &lt;span class=&quot;num&quot;&gt;2010&lt;/span&gt; 年 8 月 18 日 &lt;span class=&quot;reg&quot;&gt;PBS&lt;/span&gt; 电视台 &lt;span class=&quot;ita&quot;&gt;Live from Lincoln Center&lt;/span&gt; 节目珍贵的直播录像。
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=l4EAruiSSws&amp;amp;list=PLM_1csaEG9kf2M2gxajSkj7seN-trA6ny&amp;amp;index=1&quot;&gt;
@@ -543,7 +557,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-&lt;span class=&quot;ita&quot;&gt; South Pacific &lt;/span&gt; 的主要剧情取自美国作家 &lt;span class=&quot;reg&quot;&gt;James A. Michener&lt;/span&gt; 的短篇小说集 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.73009&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Tales of the South Pacific &lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;num&quot;&gt;(1947)&lt;/span&gt;——其中故事的素材源于作者太平洋战争期间在位于今天瓦努阿图的 &lt;span class=&quot;reg&quot;&gt;Espiritu Santo&lt;/span&gt; 基地作为海军少校 &lt;span class=&quot;reg&quot;&gt;(lieutenant commander)&lt;/span&gt; 服役期间的见闻。
+&lt;span class=&quot;ita&quot;&gt; South Pacific &lt;/span&gt; 的主要剧情取自美国作家 &lt;span class=&quot;reg&quot;&gt;James A. Michener&lt;/span&gt; 的短篇小说集 &lt;a href=&quot;https://archive.org/details/in.ernet.dli.2015.73009&quot;&gt; &lt;span class=&quot;ita&quot;&gt; Tales of the South Pacific &lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;num&quot;&gt;(1947)&lt;/span&gt;——其中故事的素材源于太平洋战争期间 &lt;span class=&quot;reg&quot;&gt;Michener&lt;/span&gt; 作为美国海军少校 &lt;span class=&quot;reg&quot;&gt;(lieutenant commander)&lt;/span&gt; 在位于今天瓦努阿图的 &lt;span class=&quot;reg&quot;&gt;Espiritu Santo&lt;/span&gt; 基地服役中的见闻。
 &lt;/p&gt;
 
 &lt;blockquote&gt;

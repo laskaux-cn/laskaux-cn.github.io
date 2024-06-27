@@ -44,9 +44,8 @@ p.cn {
   margin-bottom:1.45em;
 }
 p.ttl {
-  letter-spacing: 0.1px;
   text-align:center;
-  font-size:1.05em;
+  font-size:1.1em;
   font-weight: 600;
   margin-bottom:1.2em;
 }
@@ -136,8 +135,15 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=jGsv4CkEY2U&list=OLAK5uy_lqEYG0L7s5tXBEKRuuqeqY-fkkmBXMJYc&index=7">
 <img src="/assets/img/albums/koopman-bach572.png" width="480"> </a> <br>
-@ Groote Kerk <br>
+@ Groote Kerk, <br>
 Maassluis &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1983.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=GPTt1K9TWZo&list=OLAK5uy_nGbuEgDsUzZlQb4azyqXYnKccNtfnkFKg&index=8">
+<img src="/assets/img/albums/butt-pachelbel.png" width="480"> </a> <br>
+@ Hertz Hall, <br>
+Berkeley &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1990.06
 </p>
 
 <br>
@@ -147,7 +153,7 @@ Maassluis &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VHbMF0LSobA&list=OLAK5uy_nUe4pnMCTEsM4-C8PXwQJX3s5xrKVFxxQ&index=3">
 <img src="/assets/img/albums/clemencic-cb.png" width="480"> </a> <br>
-@ Prälatensaal des Schottenstiftes, <br>
+@ Prälatensaal, Schottenstift, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
@@ -165,6 +171,15 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 @ Grunewaldkirche <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jEpvOHntSus&list=OLAK5uy_lzoKEcjrVBL-G89UunnyOgy49khM4eB8U&index=6">
+<img src="/assets/img/albums/cole-sidewalks.png" width="480"> </a> <br>
+@ Capitol Studios, <br>
+Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963.04–05
+</p>
+
 
 <br>
 
