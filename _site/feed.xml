@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 26 Jun 2024 16:51:01 -0400</pubDate>
+    <pubDate>Thu, 27 Jun 2024 09:33:40 -0400</pubDate>
     
       <item>
         <title>城市印象 2 &amp;colon; 纽约 | 下</title>
@@ -49,7 +49,7 @@ p.cn {
 }
 p.ttl {
   text-align:center;
-  font-size:1.1em;
+  font-size:1.05em;
   font-weight: 600;
   margin-bottom:1.2em;
 }
@@ -258,9 +258,9 @@ p.cn {
 }
 p.ttl {
   text-align:center;
-  font-size:1.1em;
+  font-size:1.05em;
   font-weight: 600;
-  margin-bottom:1.2em;
+  margin-bottom:1.0em;
 }
 p.end {
   letter-spacing: 0.1px;
@@ -290,7 +290,10 @@ p.not {
 &lt;p class=&quot;ttl&quot;&gt; 起因 &lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
-最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的状态——明明各方面总体还算顺利，却像是在经历一场阶段性危机，面对对原本理智的选择犹豫甚至惶恐 &lt;/p&gt;
+最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的思想状态——明明工作和生活总体还算顺利，精神上却像是在经历一场阶段性危机，非常罕见地对接下来的人生方向犹豫不决，甚至会对原本理智的选择感到怀疑和惶恐。 &lt;/p&gt;
+
+&lt;p class=&quot;cn&quot;&gt;
+尤其是工作以来，因公因私的各种旅行成为了我日常生活中非常重要的组成部分。&lt;/p&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
 我是一只在美国旅居超过九年仍然拒绝开车的城市动物。&lt;/p&gt;
@@ -345,7 +348,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 
 &lt;p class=&quot;cn&quot;&gt;
 与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回答中，个人以为非常有趣的这座城市的一首「非官方市歌」&lt;span style=&quot;margin-left:-0.5em&quot;&gt;——&lt;/span&gt;由 &lt;span class=&quot;reg&quot;&gt; John Kander &lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt; Fred Ebb &lt;/span&gt; 为电影 &lt;a href=&quot;https://www.youtube.com/watch?v=ge7NiJuSpac&quot;&gt;
-	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1977)&lt;/span&gt; 创作的同名主题曲。它的歌词毫无掩饰的表达着积极心态：&lt;/p&gt;
+	&lt;span class=&quot;ita&quot;&gt; New York, New York &lt;/span&gt; &lt;/a&gt; &lt;span class=&quot;num&quot;&gt;(1977)&lt;/span&gt; 创作的同名主题曲。它的歌词毫无掩饰的表达着逐梦者眼中积极心态：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p class=&quot;poem&quot;&gt;

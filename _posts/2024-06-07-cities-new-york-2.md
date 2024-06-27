@@ -45,7 +45,7 @@ p.cn {
 }
 p.ttl {
   text-align:center;
-  font-size:1.1em;
+  font-size:1.05em;
   font-weight: 600;
   margin-bottom:1.2em;
 }

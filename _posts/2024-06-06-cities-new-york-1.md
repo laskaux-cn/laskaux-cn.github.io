@@ -45,9 +45,9 @@ p.cn {
 }
 p.ttl {
   text-align:center;
-  font-size:1.1em;
+  font-size:1.05em;
   font-weight: 600;
-  margin-bottom:1.2em;
+  margin-bottom:1.0em;
 }
 p.end {
   letter-spacing: 0.1px;
@@ -77,7 +77,10 @@ p.not {
 <p class="ttl"> 起因 </p>
 
 <p class="cn">
-最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的状态——明明各方面总体还算顺利，却像是在经历一场阶段性危机，面对对原本理智的选择犹豫甚至惶恐 </p>
+最近经常联系的小伙伴们都知道，我当下正处于一种奇怪的思想状态——明明工作和生活总体还算顺利，精神上却像是在经历一场阶段性危机，非常罕见地对接下来的人生方向犹豫不决，甚至会对原本理智的选择感到怀疑和惶恐。 </p>
+
+<p class="cn">
+尤其是工作以来，因公因私的各种旅行成为了我日常生活中非常重要的组成部分。</p>
 
 <p class="cn">
 我是一只在美国旅居超过九年仍然拒绝开车的城市动物。</p>
@@ -133,7 +136,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 <p class="cn">
 与以上这些访客视角互补的，是纽约人自己心目中的纽约。在各式各样的回答中，个人以为非常有趣的这座城市的一首「非官方市歌」<span style="margin-left:-0.5em">——</span>由 <span class='reg'> John Kander </span> 与 <span class='reg'> Fred Ebb </span> 为电影 <a href="https://www.youtube.com/watch?v=ge7NiJuSpac">
-	<span class='ita'> New York, New York </span> </a> <span class='num'>(1977)</span> 创作的同名主题曲。它的歌词毫无掩饰的表达着积极心态：</p>
+	<span class='ita'> New York, New York </span> </a> <span class='num'>(1977)</span> 创作的同名主题曲。它的歌词毫无掩饰的表达着逐梦者眼中积极心态：</p>
 
 ><p class='poem'>
 >I wanna wake up in the city <nobr> that doesn’t sleep </nobr> </p>
