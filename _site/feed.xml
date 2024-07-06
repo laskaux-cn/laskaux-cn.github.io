@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 06 Jul 2024 01:12:43 -0400</pubDate>
+    <pubDate>Sat, 06 Jul 2024 03:24:48 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -103,7 +103,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
       </item>
     
       <item>
-        <title>音乐笔记 1 &amp;colon; 虚构与真实</title>
+        <title>音乐笔记 1 &amp;colon; 音乐的生机</title>
         <link>/2024/06/28/music-1-reality.html</link>
         <guid isPermaLink="true">/2024/06/28/music-1-reality.html</guid>
         <description>&lt;style&gt;
@@ -157,14 +157,14 @@ p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
 	color:#707070; 
-	font-size:0.9em; 
+	font-size:0.88em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
 p.not {
 	text-align:left; 
 	color:#707070; 
-	font-size:0.9em; 
+	font-size:0.88em; 
 	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
@@ -305,6 +305,20 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=lQ8erjD5MFc&amp;amp;list=OLAK5uy_ksTLAhSoC45hgEFNaYg1gNQ69dSxHQJaA&amp;amp;index=10&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/takacs-haydn-op76.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ St Barnabas, North Finchley, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=2tkZMftw5xU&amp;amp;list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/francois-ravel-couperin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle de l&amp;rsquo;Alcazar, &lt;br /&gt;
+Monte-Carlo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/mc.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=wuuQgM2OmtI&amp;amp;list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&amp;amp;index=6&amp;amp;t=216s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/munch-milhaud.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Symphony Hall, &lt;br /&gt;
@@ -327,6 +341,20 @@ Lindlar &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;
 &lt;img src=&quot;/assets/img/albums/solti-wagner-overtures.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Sofiensäle, &lt;br /&gt;
 Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=HGoNtinfLrw&amp;amp;list=OLAK5uy_kjbyTXq8F_YMz3TKan1qe2lM633sHm3EQ&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/arod-schoenberg-sq2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle de musique, &lt;br /&gt;
+La Chaux-de-Fonds &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2019.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=BDWb-x2HZHQ&amp;amp;list=OLAK5uy_lTwCb0mVMOykd_GSXp-hDZZ-0Rr8FdPHo&amp;amp;index=174&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/cluytens-debussy-images.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle Wagram, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1963.09
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -397,6 +425,24 @@ Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 &lt;img src=&quot;/assets/img/albums/koopman-goldberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Maria Minor, &lt;br /&gt;
 Utrecht &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.05
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;reg&quot;&gt;Alexandre Tharaud&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=81Jo5XHo2Yo&amp;amp;list=OLAK5uy_k_DCHijVb2xEpCnZZLfvzbnKMLQT9B_fg&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/tharaud-goldberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Conservatoire Darius Milhaud, &lt;br /&gt;
+Aix-en-Provence &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.02–04
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;reg&quot;&gt;Lena Rist-Larsen&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=bvMqcgiHPcY&amp;amp;list=OLAK5uy_mkw9UOtIzGA33WUrfWC93kEwwmIZfT9mY&amp;amp;index=1&amp;amp;t=8s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rist-larsen-goldberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Lommedalen kirke, &lt;br /&gt;
+Bærum &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1996.12
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;

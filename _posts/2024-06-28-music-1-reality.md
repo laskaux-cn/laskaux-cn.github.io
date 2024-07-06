@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 1 &colon; 虚构与真实
+title: 音乐笔记 1 &colon; 音乐的生机
 subtitle: 
 excerpt: <br>
 
@@ -58,14 +58,14 @@ p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
 	color:#707070; 
-	font-size:0.9em; 
+	font-size:0.88em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
 p.not {
 	text-align:left; 
 	color:#707070; 
-	font-size:0.9em; 
+	font-size:0.88em; 
 	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
@@ -213,6 +213,22 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1974.11
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=lQ8erjD5MFc&list=OLAK5uy_ksTLAhSoC45hgEFNaYg1gNQ69dSxHQJaA&index=10">
+<img src="/assets/img/albums/takacs-haydn-op76.png" width="480"> </a> <br>
+@ St Barnabas, North Finchley, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.09
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=2tkZMftw5xU&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=5">
+<img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1967.06
+</p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=6&t=216s">
 <img src="/assets/img/albums/munch-milhaud.png" width="480"> </a> <br>
@@ -232,11 +248,28 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991.02
 </p>
 
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Bw3FsOfxTmo&list=OLAK5uy_mkTchd24wD0nQSic4cNZx13GsTbNxmw-4&index=7">
 <img src="/assets/img/albums/solti-wagner-overtures.png" width="480"> </a> <br>
 @ Sofiensäle, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1965.11
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=HGoNtinfLrw&list=OLAK5uy_kjbyTXq8F_YMz3TKan1qe2lM633sHm3EQ&index=3">
+<img src="/assets/img/albums/arod-schoenberg-sq2.png" width="480"> </a> <br>
+@ Salle de musique, <br>
+La Chaux-de-Fonds &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2019.04
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=BDWb-x2HZHQ&list=OLAK5uy_lTwCb0mVMOykd_GSXp-hDZZ-0Rr8FdPHo&index=174">
+<img src="/assets/img/albums/cluytens-debussy-images.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1963.09
 </p>
 
 
@@ -314,6 +347,24 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1987.05
 </p>
 
+<span class='reg'>Alexandre Tharaud</span>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=81Jo5XHo2Yo&list=OLAK5uy_k_DCHijVb2xEpCnZZLfvzbnKMLQT9B_fg&index=1">
+<img src="/assets/img/albums/tharaud-goldberg.png" width="480"> </a> <br>
+@ Conservatoire Darius Milhaud, <br>
+Aix-en-Provence &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2015.02–04
+</p>
+
+
+<span class='reg'>Lena Rist-Larsen</span>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=bvMqcgiHPcY&list=OLAK5uy_mkw9UOtIzGA33WUrfWC93kEwwmIZfT9mY&index=1&t=8s">
+<img src="/assets/img/albums/rist-larsen-goldberg.png" width="480"> </a> <br>
+@ Lommedalen kirke, <br>
+Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1996.12
+</p>
 
 <br>
 
