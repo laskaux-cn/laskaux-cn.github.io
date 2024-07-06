@@ -146,7 +146,7 @@ Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&n
 <a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
 <img src="/assets/img/albums/grazzi-marcello.png" width="480"> </a> <br>
 @ Villa Contarini, <br>
-Piazzola sul Brenta, Padova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
+Piazzola sul Brenta, &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
 </p>
 
 <p class="alb">
@@ -188,7 +188,7 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
 <img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
-@ Plenarsaal, Akademie der Wissenschaften, <br>
+@ Plenarsaal, Residenz, <br>
 München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
