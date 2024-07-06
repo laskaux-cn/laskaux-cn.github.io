@@ -33,7 +33,7 @@ tags: music
 <br>
 <span style="font-size:0.87em">(<nobr>Москва 
 &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 
-1965-05)</nobr> </span> </p> 
+1965-03)</nobr> </span> </p> 
 
 <br>
 
