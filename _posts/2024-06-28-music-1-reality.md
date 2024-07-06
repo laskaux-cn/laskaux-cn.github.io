@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 1 &colon; 音乐的生机
+title: 音乐笔记 1 &colon; 音乐的生命
 subtitle: 
 excerpt: <br>
 
@@ -146,7 +146,7 @@ Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&n
 <a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
 <img src="/assets/img/albums/grazzi-marcello.png" width="480"> </a> <br>
 @ Villa Contarini, <br>
-Piazzola sul Brenta, &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
+Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
 </p>
 
 <p class="alb">
@@ -186,13 +186,6 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 <p class="ttl"> – 3 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
-<img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
-@ Plenarsaal, Residenz, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
 <img src="/assets/img/albums/haim-purcell-dido.png" width="480"> </a> <br>
 @ Arsenal, <br>
@@ -204,6 +197,13 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 <img src="/assets/img/albums/christie-rameau-indes.png" width="480"> </a> <br>
 @ Ateliers Berthier, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=NVX2FPzzHB8&list=OLAK5uy_mC29OA3l3QM_qEOiN4RWWCab7CAfOE4to&index=27">
+<img src="/assets/img/albums/alessandrini-vivaldi-rv120.png" width="480"> </a> <br>
+@ Sala Accademica, Pontificio Istituto <br>
+di Musica Sacra, Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2003.02
 </p>
 
 <p class="alb">
@@ -223,17 +223,18 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=2tkZMftw5xU&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=5">
-<img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1967.06
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=6&t=216s">
 <img src="/assets/img/albums/munch-milhaud.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=EK0Ikv1AxMk&list=OLAK5uy_kYe3iqg-NDcYP1WJ8IjOUkiLf0VnCVUD0&index=23">
+<img src="/assets/img/albums/bernstein-wss-dances.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
 </p>
 
 <br>

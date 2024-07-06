@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 06 Jul 2024 03:24:48 -0400</pubDate>
+    <pubDate>Sat, 06 Jul 2024 17:53:09 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -103,7 +103,7 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
       </item>
     
       <item>
-        <title>音乐笔记 1 &amp;colon; 音乐的生机</title>
+        <title>音乐笔记 1 &amp;colon; 音乐的生命</title>
         <link>/2024/06/28/music-1-reality.html</link>
         <guid isPermaLink="true">/2024/06/28/music-1-reality.html</guid>
         <description>&lt;style&gt;
@@ -241,7 +241,7 @@ Vincennes &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quo
 &lt;a href=&quot;https://www.youtube.com/watch?v=1Uiz0_w0AKg&amp;amp;list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&amp;amp;index=2&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/grazzi-marcello.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Villa Contarini, &lt;br /&gt;
-Piazzola sul Brenta, &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1997.10
+Piazzola sul Brenta &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1997.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -277,13 +277,6 @@ Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quo
 &lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=0ikegfV1dHY&amp;amp;list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&amp;amp;index=22&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/ragossnig-spinacino.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Plenarsaal, Residenz, &lt;br /&gt;
-München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.10
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=qVFK-lViUwo&amp;amp;list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&amp;amp;index=26&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/haim-purcell-dido.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Arsenal, &lt;br /&gt;
@@ -295,6 +288,13 @@ Metz &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.
 &lt;img src=&quot;/assets/img/albums/christie-rameau-indes.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Ateliers Berthier, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991.01
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=NVX2FPzzHB8&amp;amp;list=OLAK5uy_mC29OA3l3QM_qEOiN4RWWCab7CAfOE4to&amp;amp;index=27&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/alessandrini-vivaldi-rv120.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Sala Accademica, Pontificio Istituto &lt;br /&gt;
+di Musica Sacra, Roma &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2003.02
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -312,17 +312,17 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=2tkZMftw5xU&amp;amp;list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/francois-ravel-couperin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Salle de l&amp;rsquo;Alcazar, &lt;br /&gt;
-Monte-Carlo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/mc.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967.06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=wuuQgM2OmtI&amp;amp;list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&amp;amp;index=6&amp;amp;t=216s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/munch-milhaud.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Symphony Hall, &lt;br /&gt;
 Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=EK0Ikv1AxMk&amp;amp;list=OLAK5uy_kYe3iqg-NDcYP1WJ8IjOUkiLf0VnCVUD0&amp;amp;index=23&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernstein-wss-dances.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Manhattan Center, &lt;br /&gt;
+New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.03
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
