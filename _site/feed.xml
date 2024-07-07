@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 06 Jul 2024 23:22:30 -0400</pubDate>
+    <pubDate>Sun, 07 Jul 2024 02:11:25 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -59,28 +59,53 @@ p.end {
   margin-bottom:2em;
 }
 p.alb {
-	text-align:center; 
-	font-family: Noto Sans; 
-	color:#707070; 
-	font-size:0.9em; 
-	margin-top:2em; 
-	margin-bottom:2em;
+  text-align:center; 
+  font-family: Noto Sans; 
+  color:#707070; 
+  font-size:0.88em; 
+  margin-top:2em; 
+  margin-bottom:2em;
 }
-p.not {
-	text-align:left; 
-	color:#707070; 
-	font-size:0.9em; 
-	letter-spacing: 0.4px;
-	margin-top:2em; 
-	margin-bottom:2em;
-	margin-left:1.25em; 
-	margin-right:1.25em;
+p.note {
+  text-align:left; 
+  color:#707070; 
+  font-size:0.88em; 
+  letter-spacing: 0.4px;
+  margin-top:2em; 
+  margin-bottom:2em;
+  margin-left:1.25em; 
+  margin-right:1.25em;
 }
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.88em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
 &lt;/style&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/previn-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ American Legion Hall, &lt;br /&gt;
+Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/copland-copland-london.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Walthamstow Assembly Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.11
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=ozoRIHbIyns&amp;amp;list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&amp;amp;index=1&quot;&gt;
@@ -103,9 +128,201 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
       </item>
     
       <item>
+        <title>音乐笔记 2 &amp;colon; 约束与自由</title>
+        <link>/2024/06/29/music-2-freedom.html</link>
+        <guid isPermaLink="true">/2024/06/29/music-2-freedom.html</guid>
+        <description>&lt;style&gt;
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+.num {
+  letter-spacing: 0px;
+}
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.96em;
+}
+p.poem {
+  margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.1px;
+  margin-bottom:1.45em;
+}
+p.ttl {
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+  margin-bottom:1.0em;
+}
+p.end {
+  letter-spacing: 0.1px;
+  text-align:center;
+  margin-bottom:2em;
+}
+p.alb {
+  text-align:center; 
+  font-family: Noto Sans; 
+  color:#707070; 
+  font-size:0.88em; 
+  margin-top:2em; 
+  margin-bottom:2em;
+}
+p.note {
+  text-align:left; 
+  color:#707070; 
+  font-size:0.88em; 
+  letter-spacing: 0.4px;
+  margin-top:2em; 
+  margin-bottom:2em;
+  margin-left:1.25em; 
+  margin-right:1.25em;
+}
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.88em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kaGYD3FG1iU&amp;amp;list=OLAK5uy_mrbnTLiFzw9IweYlfS33u0TA0Kq96tG0E&amp;amp;index=18&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/paulik-wiener-blut.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Bavaria Musikstudios, &lt;br /&gt;
+München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1975.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://drive.google.com/file/d/1VsNUE2-9AQceO19tnK0239G0oXmdaREZ/view?usp=sharing&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/maazel-rosenkavalier.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Sofiensäle, &lt;br /&gt;
+Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=orjJBI1u9os&amp;amp;list=OLAK5uy_lnxDzYZ2b9qqj1TNLSCaaiFSq9SDSj9U8&amp;amp;index=11&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/copland-copland-rodeo.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Walthamstow Assembly Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1968.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=RwWXiz-cv-w&amp;amp;list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mravinsky-shostakovich5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Большой зал Ленинградской филармонии, &lt;br /&gt;
+Ленинград &amp;nbsp;&lt;img src=&quot;/assets/img/flags/su.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1984.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=AZk7FQyAYfw&amp;amp;list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/dullaert-hindemith.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ DRS Studio, &lt;br /&gt;
+Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1992.10–12
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/helffer-schoenberg-new.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Espace de projection, Ircam, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.10
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=O1NRUPqBmS4&amp;amp;list=OLAK5uy_kyU9UdcQjF0MPKkp527sXiI8mORyfRl-A&amp;amp;index=151&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/boskovsky-mozart-dances.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Sofiensäle, &lt;br /&gt;
+Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.04–05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=rdbVT9Aj1t8&amp;amp;list=PL8AhTXrM6LH1aIroZNB9KZlyH_p5tM5Ry&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pinnock-handel-fireworks.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ St John&amp;rsquo;s, Smith Square, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1984.08
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/christie-te-deum.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Notre-Dame du Travail, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/munch-sym-fantas.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1962.04
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=tLYS7U2t-ek&amp;amp;list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&amp;amp;index=9&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/markevitch-soldat.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Vevey &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1962.10
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=cAY7VAXi63Y&amp;amp;list=OLAK5uy_mkN2HzMkMVFJv06Ur--bVH4rBXyFwTXvA&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ricci-bartok-violin-solo.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Victoria Hall, &lt;br /&gt;
+Genève &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1960.04
+&lt;/p&gt;
+
+
+&lt;br /&gt;
+
+
+
+
+
+
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Jun 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
         <title>音乐笔记 1 &amp;colon; 音乐的生命</title>
-        <link>/2024/06/28/music-1-reality.html</link>
-        <guid isPermaLink="true">/2024/06/28/music-1-reality.html</guid>
+        <link>/2024/06/28/music-1-vitality.html</link>
+        <guid isPermaLink="true">/2024/06/28/music-1-vitality.html</guid>
         <description>&lt;style&gt;
 .ita {
   letter-spacing: 0px;
@@ -157,14 +374,14 @@ p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
 	color:#707070; 
-	font-size:0.87em; 
+	font-size:0.88em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
 p.note {
 	text-align:left; 
 	color:#707070; 
-	font-size:0.87em; 
+	font-size:0.88em; 
 	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
@@ -175,7 +392,7 @@ p.note {
 p.list {
   text-align:left; 
   font-family: Noto Sans; 
-  font-size:0.9em; 
+  font-size:0.88em; 
   margin-top:1em; 
   margin-bottom:1em;
   margin-left: 1.37em; 
@@ -385,6 +602,20 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=iKQ7T-Sdyi0&amp;amp;list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ball-praetorius.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Eden Studios, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1976
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=bOrBurXdfNs&amp;amp;list=OLAK5uy_nE2oTLykyKEN86tqWq8_kR6SLl-ourbS0&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/hickox-handel-alcina.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Abbey Road Studios, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1985.07
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=ss36egf40-c&amp;amp;list=OLAK5uy_l6bVWfGWFrlDDKzYpRcdvmFtkaZkqySyw&amp;amp;index=33&quot;&gt;

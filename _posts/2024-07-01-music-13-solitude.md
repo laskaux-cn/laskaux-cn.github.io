@@ -55,29 +55,54 @@ p.end {
   margin-bottom:2em;
 }
 p.alb {
-	text-align:center; 
-	font-family: Noto Sans; 
-	color:#707070; 
-	font-size:0.9em; 
-	margin-top:2em; 
-	margin-bottom:2em;
+  text-align:center; 
+  font-family: Noto Sans; 
+  color:#707070; 
+  font-size:0.88em; 
+  margin-top:2em; 
+  margin-bottom:2em;
 }
-p.not {
-	text-align:left; 
-	color:#707070; 
-	font-size:0.9em; 
-	letter-spacing: 0.4px;
-	margin-top:2em; 
-	margin-bottom:2em;
-	margin-left:1.25em; 
-	margin-right:1.25em;
+p.note {
+  text-align:left; 
+  color:#707070; 
+  font-size:0.88em; 
+  letter-spacing: 0.4px;
+  margin-top:2em; 
+  margin-bottom:2em;
+  margin-left:1.25em; 
+  margin-right:1.25em;
 }
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.88em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
 </style>
 
 
 <br>
 
 <p class="ttl"> – 1 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
+<img src="/assets/img/albums/previn-gershwin.png" width="480"> </a> <br>
+@ American Legion Hall, <br>
+Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5">
+<img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ozoRIHbIyns&list=PL8AhTXrM6LH21_yyEdEYOHRzUjmINmeq9&index=1">

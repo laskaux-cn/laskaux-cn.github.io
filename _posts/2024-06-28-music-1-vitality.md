@@ -58,14 +58,14 @@ p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
 	color:#707070; 
-	font-size:0.87em; 
+	font-size:0.88em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
 p.note {
 	text-align:left; 
 	color:#707070; 
-	font-size:0.87em; 
+	font-size:0.88em; 
 	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
@@ -76,7 +76,7 @@ p.note {
 p.list {
   text-align:left; 
   font-family: Noto Sans; 
-  font-size:0.9em; 
+  font-size:0.88em; 
   margin-top:1em; 
   margin-bottom:1em;
   margin-left: 1.37em; 
@@ -304,6 +304,22 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 
 <p class="ttl"> – 5 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
+<img src="/assets/img/albums/ball-praetorius.png" width="480"> </a> <br>
+@ Eden Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=bOrBurXdfNs&list=OLAK5uy_nE2oTLykyKEN86tqWq8_kR6SLl-ourbS0&index=1">
+<img src="/assets/img/albums/hickox-handel-alcina.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1985.07
+</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ss36egf40-c&list=OLAK5uy_l6bVWfGWFrlDDKzYpRcdvmFtkaZkqySyw&index=33">
