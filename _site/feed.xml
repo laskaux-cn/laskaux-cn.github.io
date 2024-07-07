@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 06 Jul 2024 17:53:09 -0400</pubDate>
+    <pubDate>Sat, 06 Jul 2024 23:22:30 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -157,20 +157,31 @@ p.alb {
 	text-align:center; 
 	font-family: Noto Sans; 
 	color:#707070; 
-	font-size:0.88em; 
+	font-size:0.87em; 
 	margin-top:2em; 
 	margin-bottom:2em;
 }
-p.not {
+p.note {
 	text-align:left; 
 	color:#707070; 
-	font-size:0.88em; 
+	font-size:0.87em; 
 	letter-spacing: 0.4px;
 	margin-top:2em; 
 	margin-bottom:2em;
 	margin-left:1.25em; 
 	margin-right:1.25em;
 }
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.9em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
 &lt;/style&gt;
 
 &lt;p class=&quot;cn&quot;&gt;
@@ -376,6 +387,20 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ss36egf40-c&amp;amp;list=OLAK5uy_l6bVWfGWFrlDDKzYpRcdvmFtkaZkqySyw&amp;amp;index=33&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/vashegyi-gluck.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Bartók Béla Nemzeti Hangversenyterem, &lt;br /&gt;
+Budapest &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2016.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/kubelik-mahler1.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Herkulessaal, &lt;br /&gt;
+München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1979.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=_FKv9moORv0&amp;amp;list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/orpheus-prokofiev1.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Performing Arts Center, &lt;br /&gt;
@@ -386,6 +411,13 @@ Purchase, New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; he
 &lt;a href=&quot;https://www.youtube.com/watch?v=3TagkfyXZWU&amp;amp;list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&amp;amp;index=28&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kondrashin-shostakovich.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/su.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=VHxmbv3Uu60&amp;amp;list=PLUBnVmx4iYHK6p_qWcf0PW2ewBZGmrEeg&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mints-schnittke.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Мосфильма, &lt;br /&gt;
+Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.06
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
