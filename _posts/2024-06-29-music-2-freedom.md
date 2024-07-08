@@ -92,6 +92,61 @@ p.list {
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=-CVgXNOXUAA&list=OLAK5uy_kZ6anxDBN4jAM0fXSBXEGHiG7GAtHR2rA&index=3">
+<img src="/assets/img/albums/maazel-carmen-full.png" width="480"> </a> <br>
+@ Studio 104, Maison de la Radio, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1982.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
+<img src="/assets/img/albums/christie-te-deum.png" width="480"> </a> <br>
+@ Notre-Dame du Travail, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
+<img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+
+
+<p class="alb">
+<a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
+<img src="/assets/img/albums/martinon-debussy-nocturnes.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1973.02–&#8203;1974.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
+<img src="/assets/img/albums/markevitch-soldat.png" width="480"> </a> <br>
+@ Théâtre Le Reflet, <br> 
+Vevey &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1962.10
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=dQz9xwJWy9c&list=OLAK5uy_mblB3zxriGzoIRTZgxo5Ta4zmN7UTbLAs&index=11">
+<img src="/assets/img/albums/abbado-berg-op6.png" width="480"> </a> <br>
+@ Großer Musikvereinssaal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1992.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
+<img src="/assets/img/albums/tilson-thomas-ives-holidays.png" width="480"> </a> <br>
+@ Medinah Temple, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986.05
+</p>
+
+
+<br>
+
+<p class="ttl"> – 2 – </p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=kaGYD3FG1iU&list=OLAK5uy_mrbnTLiFzw9IweYlfS33u0TA0Kq96tG0E&index=18">
 <img src="/assets/img/albums/paulik-wiener-blut.png" width="480"> </a> <br>
 @ Bavaria Musikstudios, <br>
@@ -140,13 +195,37 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <br>
 
 
-<p class="ttl"> – 2 – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=O1NRUPqBmS4&list=OLAK5uy_kyU9UdcQjF0MPKkp527sXiI8mORyfRl-A&index=151">
 <img src="/assets/img/albums/boskovsky-mozart-dances.png" width="480"> </a> <br>
 @ Sofiensäle, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1965.04–05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
+<img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1995
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
+<img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
+@ Kulturní zařízení Domovina, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.10
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=BHEPJQ5x1Kk&list=OLAK5uy_lP_RODwLf6SLQD8an-LQF7W1CqzVUCqR8&index=3">
+<img src="/assets/img/albums/cluytens-beethoven1.png" width="480"> </a> <br>
+@ Grunewaldkirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.12
 </p>
 
 
@@ -159,29 +238,41 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
+<p class="ttl"> – 4 – </p>
 
-<p class="ttl"> – 3 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
-<img src="/assets/img/albums/christie-te-deum.png" width="480"> </a> <br>
-@ Notre-Dame du Travail, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.10
+<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
+<img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
+@ Plenarsaal, Residenz, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
-<img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=tLYS7U2t-ek&list=OLAK5uy_kbaWqfa5GgOavkTRYgIkD1iJtGp9ZGcOo&index=9">
-<img src="/assets/img/albums/markevitch-soldat.png" width="480"> </a> <br>
-@ Vevey &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1962.10
+<a href="https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12">
+<img src="/assets/img/albums/cuiller-byrd.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2005.02
 </p>
 
 <br>
+
+<p class="ttl"> – 5 – </p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=KK8TlBYPguw&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=4">
+<img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1967.06
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=UNSN8bWzq88&list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&index=15">
+<img src="/assets/img/albums/pontinen-schoenberg.png" width="480"> </a> <br>
+@ Musikaliska Kvarteret, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2001.03
+</p>
 
 
 <p class="alb">
@@ -191,6 +282,17 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1960.04
 </p>
 
+
+<br>
+
+<p class="ttl"> – 6 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s">
+<img src="/assets/img/albums/metzmacher-wozzeck.png" width="480"> </a> <br>
+@ Hamburgische Staatsoper, <br>
+Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1998.09–10
+</p>
 
 <br>
 
