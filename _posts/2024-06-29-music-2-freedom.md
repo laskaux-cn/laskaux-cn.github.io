@@ -169,6 +169,14 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=3YBC6VsoE3I&list=OLAK5uy_kB_h4Ci7Y2b4wlFJ9mBFQDQL5rzD6fujM&index=17">
+<img src="/assets/img/albums/svetlanov-rachmaninov-dances.png" width="480"> </a> <br>
+@ Большой зал Московского радио, <br>
+Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1995.10
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
 <img src="/assets/img/albums/mravinsky-shostakovich5.png" width="480"> </a> <br>
 @ Большой зал Ленинградской филармонии, <br>
@@ -204,6 +212,12 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1965.04–05
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=T-L9XEmCq9c&list=OLAK5uy_kfxu8WrARgVK2a0-BRukkfEO5yUqF9SnA&index=3">
+<img src="/assets/img/albums/friedrich-mudge.png" width="480"> </a> <br>
+@ Andreaskirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2001.07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
@@ -216,7 +230,7 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
 <img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
-@ Kulturní zařízení Domovina, <br>
+@ Kulturní dům Domovina, <br>
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.10
 </p>
 
@@ -236,28 +250,39 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1984.08
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=bOqGh5xnZxA&list=OLAK5uy_lwYFCR5preZwrCI2LY0cMRkBQpTB5_wp0&index=19">
+<img src="/assets/img/albums/savall-lully.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 1999.02
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=A-8_WEcaCRo&list=OLAK5uy_nJ5jJ3wRYLBgf_ogEu7zdIfKD3pfpzLJ8&index=34">
+<img src="/assets/img/albums/jochum-bruckner9.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1964.12
+</p>
+
 <br>
 
 <p class="ttl"> – 4 – </p>
 
-
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
-<img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
-@ Plenarsaal, Residenz, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
+<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
+<img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
+@ OnClassical Studio, <br>
+Pove del Grappa &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12">
-<img src="/assets/img/albums/cuiller-byrd.png" width="480"> </a> <br>
-@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2005.02
+<a href="https://www.youtube.com/watch?v=OXllQgFPpy8&list=OLAK5uy_lOqdLWhd-QpDbPVTvwlBUuyq3bKjYJ99o&index=24">
+<img src="/assets/img/albums/rannou-rameau.png" width="480"> </a> <br>
+@ Lycée Carnot, <br>
+Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07–08
 </p>
-
-<br>
-
-<p class="ttl"> – 5 – </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=KK8TlBYPguw&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=4">
@@ -285,7 +310,7 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=111s">
