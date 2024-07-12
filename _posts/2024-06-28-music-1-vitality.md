@@ -248,6 +248,15 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MCmtO-vAtKI&list=OLAK5uy_lXw2tLW9woycN8d-07vL85R-P7J-DPAbE&index=7">
+<img src="/assets/img/albums/gould-jubilee.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.12
+</p>
+
+
 <br>
 
 

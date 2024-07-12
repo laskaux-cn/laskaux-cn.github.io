@@ -185,6 +185,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ffJ2AMEhqIQ&list=OLAK5uy_kIUsjgCjLyeegA_9RH0S-pxJx0705bIDo&index=3">
+<img src="/assets/img/albums/solti-mahler7.png" width="480"> </a> <br>
+@ Krannert Center, <br>
+Urbana, Illinois &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1971.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
 <img src="/assets/img/albums/mravinsky-shostakovich5.png" width="480"> </a> <br>
 @ Большой зал Ленинградской филармонии, <br>
