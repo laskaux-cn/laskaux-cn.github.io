@@ -122,7 +122,7 @@ Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=xQ6a7K-LmZY&list=OLAK5uy_mO4Qz7e6n6BhvFmWAwGFcmxfNG7Snyb3g&index=16">
-<img src="/assets/img/albums/gould-bach-art-fugue.png" width="480"> </a> <br>
+<img src="/assets/img/albums/gould-art-fugue.png" width="480"> </a> <br>
 @ CBC Studios, <br>
 Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1980.11
 </p>
