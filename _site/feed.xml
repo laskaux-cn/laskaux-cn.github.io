@@ -5,12 +5,12 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 12 Jul 2024 00:29:20 -0400</pubDate>
+    <pubDate>Fri, 12 Jul 2024 12:46:08 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
-        <link>/2024/07/01/music-13-solitude.html</link>
-        <guid isPermaLink="true">/2024/07/01/music-13-solitude.html</guid>
+        <link>/2024/07/10/music-13-solitude.html</link>
+        <guid isPermaLink="true">/2024/07/10/music-13-solitude.html</guid>
         <description>&lt;style&gt;
 .ita {
   letter-spacing: 0px;
@@ -138,7 +138,320 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
+        <pubDate>Wed, 10 Jul 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
+        <link>/2024/07/01/music-4-emotion.html</link>
+        <guid isPermaLink="true">/2024/07/01/music-4-emotion.html</guid>
+        <description>&lt;style&gt;
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+.num {
+  letter-spacing: 0px;
+}
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.96em;
+}
+p.poem {
+  margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.1px;
+  margin-bottom:1.45em;
+}
+p.ttl {
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+  margin-bottom:1.0em;
+}
+p.end {
+  letter-spacing: 0.1px;
+  text-align:center;
+  margin-bottom:2em;
+}
+p.alb {
+  text-align:center; 
+  font-family: Noto Sans; 
+  color:#707070; 
+  font-size:0.88em; 
+  margin-top:2em; 
+  margin-bottom:2em;
+}
+p.note {
+  text-align:left; 
+  color:#707070; 
+  font-size:0.88em; 
+  letter-spacing: 0.4px;
+  margin-top:2em; 
+  margin-bottom:2em;
+  margin-left:1.25em; 
+  margin-right:1.25em;
+}
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.88em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=MAVwxtP50l4&amp;amp;t=794s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/brendel-mozart-pc24.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Wembley Town Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kUhR3Xf0ihI&amp;amp;list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/levin-mozart-pc17.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Walthamstow Assembly Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1996.08
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
         <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>音乐笔记 3 &amp;colon; 简单与繁复</title>
+        <link>/2024/06/30/music-3-development.html</link>
+        <guid isPermaLink="true">/2024/06/30/music-3-development.html</guid>
+        <description>&lt;style&gt;
+.ita {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-style: italic;
+}
+.reg {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+}
+.num {
+  letter-spacing: 0px;
+}
+p.quote {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.96em;
+}
+p.poem {
+  margin-bottom: 0.5em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.poem-last {
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
+p.cn {
+  line-height: 1.65;
+  letter-spacing: 0.1px;
+  margin-bottom:1.45em;
+}
+p.ttl {
+  text-align:center;
+  font-size:1.05em;
+  font-weight: 600;
+  margin-bottom:1.0em;
+}
+p.end {
+  letter-spacing: 0.1px;
+  text-align:center;
+  margin-bottom:2em;
+}
+p.alb {
+  text-align:center; 
+  font-family: Noto Sans; 
+  color:#707070; 
+  font-size:0.88em; 
+  margin-top:2em; 
+  margin-bottom:2em;
+}
+p.note {
+  text-align:left; 
+  color:#707070; 
+  font-size:0.88em; 
+  letter-spacing: 0.4px;
+  margin-top:2em; 
+  margin-bottom:2em;
+  margin-left:1.25em; 
+  margin-right:1.25em;
+}
+
+p.list {
+  text-align:left; 
+  font-family: Noto Sans; 
+  font-size:0.88em; 
+  margin-top:1em; 
+  margin-bottom:1em;
+  margin-left: 1.37em; 
+  text-indent:-1.37em;
+}
+
+&lt;/style&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=2-n0SruJN_U&amp;amp;list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&amp;amp;index=12&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bream-cutting.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Wardour Chapel, &lt;br /&gt;
+Tisbury, Wiltshire &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1972.06–07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=WIsEeiOKyhw&amp;amp;list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&amp;amp;index=10&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/marville-farnaby.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Fondation Tibor Varga, &lt;br /&gt;
+Sion &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2006.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=s8L0-EksiHs&amp;amp;list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&amp;amp;index=11&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/dumestre-chansons.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Chapelle de l’hôpital Notre-Dame &lt;br /&gt; de Bon Secours, Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2004.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=x-ww02cucyA&amp;amp;list=OLAK5uy_kviY8rVJsIrwNpDoAVOx2cdm8xwWfa0rA&amp;amp;index=14&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bruggen-haydn94.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Muziekcentrum Vredenburg, Utrecht /&lt;br /&gt;
+De Vereeniging, Nijmegen &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=_nh1BKvliGw&amp;amp;list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/lubin-schubert-trout.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Henry Wood Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=VugS2OIiAtk&amp;amp;list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/herreweghe-beethoven9.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Arsenal, &lt;br /&gt;
+Metz &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1998.10
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jenblJUDlbw&amp;amp;list=OLAK5uy_kh-dI8StjsDOjWHgU29rTkk_EkRFQOQP4&amp;amp;index=20&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/papasergio-lully.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Auditorium du Conservatoire, &lt;br /&gt;
+Caen &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2021.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=IhNiH4GCG5s&amp;amp;list=OLAK5uy_nalp-uhBOXFZ5EAGkUPKljPAF8Zf9J-cI&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/estravagante-vivaldi.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Studio Giardino, &lt;br /&gt;
+Crema &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2002.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=d6EIpt3nJDU&amp;amp;list=OLAK5uy_kz4Wd3kWDHo2QKNkCqBE8zBDr8DkQVJRc&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/esfahani-scarlatti.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Deutschlandfunk Kammermusiksaal, &lt;br /&gt;
+Köln &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=NX9QyjCIz14&amp;amp;list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/staier-handel-chaconne.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Großer Aufnahmesaal, Funkhaus &lt;br /&gt;   
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=N1S-g1MiV1c&amp;amp;list=OLAK5uy_n74yOM14WRFGn_wROE3xTI2Vc5qzsdElg&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/solti-brahms4.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Medinah Temple, &lt;br /&gt;
+Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1978.05
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=0ikegfV1dHY&amp;amp;list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&amp;amp;index=22&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ragossnig-spinacino.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Plenarsaal, Residenz, &lt;br /&gt;
+München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=LBroEjQNAHQ&amp;amp;list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&amp;amp;index=12&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/cuiller-byrd.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Chapelle de l’hôpital Notre-Dame &lt;br /&gt; de Bon Secours, Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005.02
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=eb8YqxEI-iY&amp;amp;list=OLAK5uy_mTvFodARexcF-Hcs4P_dVjNxEjr43BEW0&amp;amp;index=15&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mackerras-mozart41.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ City Halls, &lt;br /&gt;
+Glasgow &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2007.08
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=4BSIFjB4Ebs&amp;amp;list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/aureum-beethoven-triple.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Zedernsaal, Schloss Kirchheim, &lt;br /&gt;
+Kirchheim unter Teck &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.06
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Jun 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
