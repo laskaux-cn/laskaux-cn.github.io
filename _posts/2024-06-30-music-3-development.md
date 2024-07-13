@@ -137,8 +137,16 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 
 <br>
 
+
+
 <p class="ttl"> – 2 – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
+<img src="/assets/img/albums/longhini-monteverdi8.png" width="480"> </a> <br>
+@ Chiesa di San Briccio, <br>
+Verona &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.06–07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=jenblJUDlbw&list=OLAK5uy_kh-dI8StjsDOjWHgU29rTkk_EkRFQOQP4&index=20">
@@ -163,17 +171,34 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=SGWgZCATiUA&list=OLAK5uy_kNkEmg4Ad77jCTttP5CeDaIPyfFo6iSvo&index=39">
+<img src="/assets/img/albums/goodman-purcell.png" width="480"> </a> <br>
+@ St Jude-on-the-Hill, Hampstead, <br>   
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1994.10
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=NX9QyjCIz14&list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&index=1">
 <img src="/assets/img/albums/staier-handel-chaconne.png" width="480"> </a> <br>
-@ Großer Aufnahmesaal, Funkhaus <br>   
+@ Großer Aufnahmesaal, Funkhaus Berlin, <br>   
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2005.05
 </p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=N1S-g1MiV1c&list=OLAK5uy_n74yOM14WRFGn_wROE3xTI2Vc5qzsdElg&index=4">
 <img src="/assets/img/albums/solti-brahms4.png" width="480"> </a> <br>
 @ Medinah Temple, <br>
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1978.05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Mx4FeWJMlv0&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=1">
+<img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
 <br>
@@ -199,6 +224,14 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 <img src="/assets/img/albums/mackerras-mozart41.png" width="480"> </a> <br>
 @ City Halls, <br>
 Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007.08
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=DemGJXp3WaY&list=OLAK5uy_mPYBskNE4gD6SlVmqRytB0Ox_pSmKZxSc&index=37">
+<img src="/assets/img/albums/hogwood-beethoven9.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.09
 </p>
 
 <br>
