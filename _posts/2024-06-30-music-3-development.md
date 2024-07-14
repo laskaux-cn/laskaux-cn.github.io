@@ -131,7 +131,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
 <img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> </a> <br>
-@ Arsenal, <br>
+@ Grande Salle de l’Arsenal, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10
 </p>
 
@@ -193,13 +193,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1978.05
 </p>
 
-
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=Mx4FeWJMlv0&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=1">
-<img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
-@ Philharmonie Berlin, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
+<a href="https://www.youtube.com/watch?v=LFiQ_a-roUY&list=OLAK5uy_krs9hCcLeadgdpomP_J6TeMVc7ujon29Y&index=3">
+<img src="/assets/img/albums/chailly-webern.png" width="480"> </a> <br>
+@ Concertgebouw: Grote Zaal, <br>
+London &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>
+
 
 <br>
 
@@ -276,6 +276,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=_8_8oeU39u8&list=PLeDLH3VAm7qnBBgzmtOarKu4yi3lGDKAy&index=8">
+<img src="/assets/img/albums/herreweghe-franck.png" width="480"> </a> <br>
+@ Grande Salle de l’Arsenal, <br>
+Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2001.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=bAGjet-bNaw&list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&index=1">
 <img src="/assets/img/albums/jansons-shostakovich7-new.png" width="480"> </a> <br>
 @ Oslo Konserthus, <br>
@@ -294,12 +301,37 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1974.10–11
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=oQ2-zfhkT4k&list=PL8AhTXrM6LH3QIZrHdthQYP96HicXbN_M&index=8">
+<img src="/assets/img/albums/romano-poulenc.png" width="480"> </a> <br>
+@ La Seine Musicale, <br>
+Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2018.05
+</p>
+
+<p class="alb">
+<a href="https://youtu.be/EQhwlBdYBd8?t=7s">
+<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
+<img src="/assets/img/albums/kempe-don-quixote.png" width="480"> </a> <br>
+@ Grunewaldkirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
+</p>
 
 <br>
 
-<p class="ttl"> – 4 – </p>
+<p class="ttl"> – 6 – </p>
 
-
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=PL8AhTXrM6LH3WydwO9LoGa576r57jAoLk&index=1">
+<img src="/assets/img/albums/haim-monteverdi-orfeo.png" width="480"> </a> <br>
+@ Notre-Dame du Liban, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003.01
+</p>
 
 
 <br>
