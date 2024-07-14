@@ -181,7 +181,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NX9QyjCIz14&list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&index=1">
 <img src="/assets/img/albums/staier-handel-chaconne.png" width="480"> </a> <br>
-@ Großer Aufnahmesaal, Funkhaus Berlin, <br>   
+@ Funkhaus Berlin: Großer Aufnahmesaal, <br>   
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2005.05
 </p>
 
@@ -208,7 +208,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
 <img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
-@ Plenarsaal, Residenz, <br>
+@ Residenz: Plenarsaal, <br>
 München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
@@ -239,12 +239,40 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – 4 – </p>
 
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=d2wWrkqplzg&list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&index=27">
+<img src="/assets/img/albums/rousset-lully-alceste.png" width="480"> </a> <br>
+@ Salle Gaveau, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2017.07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
 <img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
-@ Zedernsaal, Schloss Kirchheim, <br>
+@ Schloss Kirchheim: Zedernsaal, <br>
 Kirchheim unter Teck &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=j-x16GjIwok&t=915s">
+<img src="/assets/img/albums/kuijken-mozart296.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.11
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
+<img src="/assets/img/albums/schlechta-stamitz.png" width="480"> </a> <br>
+@ Südwestrundfunk Studio, <br>
+Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994.05–12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">
+<img src="/assets/img/albums/mackerras-schubert8.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.11
 </p>
 
 

@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sat, 13 Jul 2024 15:00:43 -0400</pubDate>
+    <pubDate>Sun, 14 Jul 2024 03:16:32 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -416,7 +416,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=NX9QyjCIz14&amp;amp;list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/staier-handel-chaconne.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Großer Aufnahmesaal, Funkhaus Berlin, &lt;br /&gt;   
+@ Funkhaus Berlin: Großer Aufnahmesaal, &lt;br /&gt;   
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005.05
 &lt;/p&gt;
 
@@ -441,7 +441,7 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=0ikegfV1dHY&amp;amp;list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&amp;amp;index=22&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/ragossnig-spinacino.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Plenarsaal, Residenz, &lt;br /&gt;
+@ Residenz: Plenarsaal, &lt;br /&gt;
 München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.10
 &lt;/p&gt;
 
@@ -470,10 +470,38 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=d2wWrkqplzg&amp;amp;list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&amp;amp;index=27&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rousset-lully-alceste.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle Gaveau, &lt;br /&gt; 
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=4BSIFjB4Ebs&amp;amp;list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/aureum-beethoven-triple.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Zedernsaal, Schloss Kirchheim, &lt;br /&gt;
+@ Schloss Kirchheim: Zedernsaal, &lt;br /&gt;
 Kirchheim unter Teck &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=j-x16GjIwok&amp;amp;t=915s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/kuijken-mozart296.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Doopsgezinde Kerk, &lt;br /&gt;
+Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Yf1b3iZL82I&amp;amp;list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&amp;amp;index=10&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schlechta-stamitz.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Südwestrundfunk Studio, &lt;br /&gt;
+Kaiserslautern &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1994.05–12
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ORieaXQ69pU&amp;amp;list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mackerras-schubert8.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Abbey Road Studios, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990.11
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -571,7 +599,7 @@ p.list {
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=-CVgXNOXUAA&amp;amp;list=OLAK5uy_kZ6anxDBN4jAM0fXSBXEGHiG7GAtHR2rA&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/maazel-carmen-full.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Studio 104, Maison de la Radio, &lt;br /&gt;
+@ Maison de la Radio: Studio 104, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1982.12
 &lt;/p&gt;
 
@@ -687,7 +715,7 @@ Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/helffer-schoenberg-new.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Espace de projection, Ircam, &lt;br /&gt;
+@ Espace de projection, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.10
 &lt;/p&gt;
 
@@ -805,7 +833,7 @@ Pove del Grappa &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; heigh
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=AFsd6s3mpDc&amp;amp;list=OLAK5uy_mrqCvnA-kXqFYv6Vpp3fR2cRUSpb5qiII&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/frisch-bach816.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Studio 103, Maison de la Radio, &lt;br /&gt;
+@ Maison de la Radio: Studio 103, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999.11
 &lt;/p&gt;
 
@@ -813,7 +841,7 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=eOlvCfXSqrE&amp;amp;list=OLAK5uy_l9dqfpYY4jW9B8c0XxsM2zXdj-Llr8jnM&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/anderszewski-bach816.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Studio 106, Maison de la Radio, &lt;br /&gt;
+@ Maison de la Radio: Studio 106, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.08
 &lt;/p&gt;
 
@@ -1034,7 +1062,7 @@ p.list {
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nMhIEoTdOjw&amp;amp;list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/cole-goldberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/cole-goldberg-new.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Henry Wood Hall, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990.06
 &lt;/p&gt;
@@ -1146,10 +1174,10 @@ Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=EK0Ikv1AxMk&amp;amp;list=OLAK5uy_kYe3iqg-NDcYP1WJ8IjOUkiLf0VnCVUD0&amp;amp;index=23&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/bernstein-wss-dances.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Manhattan Center, &lt;br /&gt;
-New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.03
+&lt;a href=&quot;https://www.youtube.com/watch?v=JR5iWGLcbsw&amp;amp;list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&amp;amp;index=13&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernstein-wss.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ RCA Victor Studio A, &lt;br /&gt;
+New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1984.09
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1233,7 +1261,7 @@ Budapest &amp;nbsp;&lt;img src=&quot;/assets/img/flags/hu.png&quot; height=&quot
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=tUC3x8_ofDM&amp;amp;list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kubelik-mahler1.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Herkulessaal, &lt;br /&gt;
+@ Residenz: Herkulessaal, &lt;br /&gt;
 München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1979.11
 &lt;/p&gt;
 
@@ -1253,7 +1281,7 @@ Purchase, New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; he
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=VHxmbv3Uu60&amp;amp;list=PLUBnVmx4iYHK6p_qWcf0PW2ewBZGmrEeg&amp;amp;index=7&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/mints-schnittke.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Мосфильма, &lt;br /&gt;
+@ Музыкальные студии «Мосфильма», &lt;br /&gt;
 Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.06
 &lt;/p&gt;
 
