@@ -297,13 +297,6 @@ Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
-<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="480"> </a> <br>
-@ Abbey Road Studios, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.02
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">
 <img src="/assets/img/albums/mackerras-schubert8-nb.png" width="480"> </a> <br>
 @ Abbey Road Studios, <br>

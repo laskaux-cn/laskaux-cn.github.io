@@ -321,8 +321,8 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
 <img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
-@ OnClassical Studio, <br>
-Pove del Grappa &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
+@ Saletta acustica “Eric James”, <br>
+Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
 </p>
 
 <p class="alb">
