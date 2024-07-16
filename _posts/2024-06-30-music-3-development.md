@@ -112,14 +112,12 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 @ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.06
 </p>
 
-
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=x-ww02cucyA&list=OLAK5uy_kviY8rVJsIrwNpDoAVOx2cdm8xwWfa0rA&index=14">
-<img src="/assets/img/albums/bruggen-haydn94.png" width="480"> </a> <br>
-@ Muziekcentrum Vredenburg, Utrecht /<br>
-De Vereeniging, Nijmegen &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.03
+<a href="https://www.youtube.com/watch?v=zO_TsPrCrD8&list=OLAK5uy_kunxPjYHH277BxUl8_kAOfb48d366oeVk&index=6">
+<img src="/assets/img/albums/kuijken-haydn94.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.05
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&index=4">
@@ -179,10 +177,26 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=c_O0PkpzcjY&list=OLAK5uy_lehJhspRgR6ymQU3WjjXbElaqrwWkLwOI&index=18">
+<img src="/assets/img/albums/antonini-gluck.png" width="480"> </a> <br>
+@ Teldex Studio, <br>   
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.10
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=NX9QyjCIz14&list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&index=1">
 <img src="/assets/img/albums/staier-handel-chaconne.png" width="480"> </a> <br>
 @ Funkhaus Berlin: Großer Aufnahmesaal, <br>   
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2005.05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=qmu9x_Fi8SI&list=OLAK5uy_lPwVUFANXnq7ZfaBpm23FJaqfWdlaz8WA&index=22">
+<img src="/assets/img/albums/brautigam-beethoven-var-c.png" width="480"> </a> <br>
+@ Österåkers kyrka, <br>   
+Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2014.08
 </p>
 
 
@@ -213,11 +227,11 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=LBroEjQNAHQ&list=OLAK5uy_mAzgn_iMbL1Al0hTLd2iKvgpNceWdEIEQ&index=12">
-<img src="/assets/img/albums/cuiller-byrd.png" width="480"> </a> <br>
-@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2005.02
+<a href="https://www.youtube.com/watch?v=_xsIMQ9IINI&list=OLAK5uy_mlC50hdNtbgaEm1ZcOu9EGLKSqR5Nu6yY&index=1">
+<img src="/assets/img/albums/daehler-byrd.png" width="480"> </a> <br>
+@ Museum für Völkerkunde: Aula, <br> 
+Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1975
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eb8YqxEI-iY&list=OLAK5uy_mTvFodARexcF-Hcs4P_dVjNxEjr43BEW0&index=15">
@@ -247,10 +261,24 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=evm6xyJyFNg&list=OLAK5uy_lLNBbxOGarxKFBcKHF69GBixAsrBz4L14&index=20">
+<img src="/assets/img/albums/stella-rameau.png" width="480"> </a> <br>
+@ Saletta acustica “Eric James”, <br>
+Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2015
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
 <img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>
 Kirchheim unter Teck &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=aeC2HjS9mt8&list=OLAK5uy_kbcj5EbBbJANWZQyVoFqvgiXsaISLMcas&index=9">
+<img src="/assets/img/albums/kogan-khachaturian.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1958.01
 </p>
 
 <p class="alb">
@@ -269,8 +297,15 @@ Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.02
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">
-<img src="/assets/img/albums/mackerras-schubert8.png" width="480"> </a> <br>
+<img src="/assets/img/albums/mackerras-schubert8-nb.png" width="480"> </a> <br>
 @ Abbey Road Studios, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.11
 </p>
@@ -309,20 +344,23 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 </p>
 
 <p class="alb">
-<a href="https://youtu.be/EQhwlBdYBd8?t=7s">
-<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
 <img src="/assets/img/albums/kempe-don-quixote.png" width="480"> </a> <br>
 @ Grunewaldkirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
 
+
+<p class="alb">
+<a href="https://youtu.be/EQhwlBdYBd8?t=7s">
+<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
+</p>
+
 <br>
+
+
 
 <p class="ttl"> – 6 – </p>
 
