@@ -233,6 +233,23 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1975
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=wm2k6YBlJrA&list=OLAK5uy_l4oOyg65uwFntlop3yEp5D7js_c1cGcj8&index=20">
+<img src="/assets/img/albums/savall-musical-offering.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 1999.11–&#8203;2000.04
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=inX489DHoZ4&list=OLAK5uy_mlf0LGEN9CXgT20DxOnlMkHZ4U5x2Jxng&index=67">
+<img src="/assets/img/albums/boulez-berg-london.png" width="480"> </a> <br>
+@ Banking Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1967.06
+</p>
+
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eb8YqxEI-iY&list=OLAK5uy_mTvFodARexcF-Hcs4P_dVjNxEjr43BEW0&index=15">
 <img src="/assets/img/albums/mackerras-mozart41.png" width="480"> </a> <br>
@@ -281,11 +298,12 @@ Kirchheim unter Teck &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1958.01
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=j-x16GjIwok&t=915s">
-<img src="/assets/img/albums/kuijken-mozart296.png" width="480"> </a> <br>
-@ Doopsgezinde Kerk, <br>
-Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.11
+<a href="https://www.youtube.com/watch?v=aQXW0U1ZtSc&list=PL8AhTXrM6LH2XAShsxjs4u8geChvZotfh&index=3">
+<img src="/assets/img/albums/bilson-mozart.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.03
 </p>
 
 

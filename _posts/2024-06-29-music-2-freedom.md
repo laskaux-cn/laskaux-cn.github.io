@@ -128,10 +128,10 @@ Vevey &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbs
 
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=dQz9xwJWy9c&list=OLAK5uy_mblB3zxriGzoIRTZgxo5Ta4zmN7UTbLAs&index=11">
-<img src="/assets/img/albums/abbado-berg-op6.png" width="480"> </a> <br>
-@ Musikverein: Großer Saal, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1992.04
+<a href="https://www.youtube.com/watch?v=Pwb5kJEvbu0&list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&index=5">
+<img src="/assets/img/albums/davis-berg.png" width="480"> </a> <br>
+@ Residenz: Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1983.12
 </p>
 
 <p class="alb">
