@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 18 Jul 2024 02:18:43 -0400</pubDate>
+    <pubDate>Thu, 18 Jul 2024 11:15:11 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -226,6 +226,13 @@ p.list {
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=y5XdgnPJJ_A&amp;amp;list=OLAK5uy_lyxNN-aFqnYDqF1fZ5kl1sdt9IQ_RNHOg&amp;amp;index=11&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bream-dowland.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Konzerthaus: Mozart-Saal, &lt;br /&gt;
+Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1956.05
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=MAVwxtP50l4&amp;amp;t=794s&quot;&gt;
@@ -494,6 +501,20 @@ Glasgow &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.09
 &lt;/p&gt;
 
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=aXuiwjpRO34&amp;amp;list=OLAK5uy_n0avO_29-2i_zzLL1l8yaayFcEX8I8mas&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/levine-bartok-mspc.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Orchestra Hall, &lt;br /&gt;
+Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1989.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=7Kppm_AtMLA&amp;amp;list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ancerl-stravinsky.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Dvořákova síň, &lt;br /&gt;
+Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.06
+&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
@@ -581,7 +602,7 @@ Boulogne-Billancourt &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; 
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=uOYELHlIJ6g&amp;amp;list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/kempe-don-quixote.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/kempe-strauss-don-quixote.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Grunewaldkirche, &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1958.04
 &lt;/p&gt;
@@ -942,7 +963,7 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;a href=&quot;https://www.youtube.com/watch?v=eOlvCfXSqrE&amp;amp;list=OLAK5uy_l9dqfpYY4jW9B8c0XxsM2zXdj-Llr8jnM&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/anderszewski-bach816.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Maison de la Radio: Studio 106, &lt;br /&gt;
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.08
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1998.08
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1162,7 +1183,7 @@ p.list {
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nMhIEoTdOjw&amp;amp;list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/cole-goldberg-nb.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/cole-goldberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Henry Wood Hall, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990.06
 &lt;/p&gt;

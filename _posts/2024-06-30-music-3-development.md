@@ -265,6 +265,23 @@ Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbs
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.09
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=aXuiwjpRO34&list=OLAK5uy_n0avO_29-2i_zzLL1l8yaayFcEX8I8mas&index=5">
+<img src="/assets/img/albums/levine-bartok-mspc.png" width="480"> </a> <br>
+@ Orchestra Hall, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.06
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4">
+<img src="/assets/img/albums/ancerl-stravinsky.png" width="480"> </a> <br>
+@ Dvořákova síň, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1966.06
+</p>
+
+
 <br>
 
 <p class="ttl"> – 4 – </p>
@@ -356,7 +373,7 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
-<img src="/assets/img/albums/kempe-don-quixote.png" width="480"> </a> <br>
+<img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
 @ Grunewaldkirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>

@@ -121,7 +121,7 @@ p.list {
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
-<img src="/assets/img/albums/cole-goldberg-nb.png" width="480"> </a> <br>
+<img src="/assets/img/albums/cole-goldberg.png" width="480"> </a> <br>
 @ Henry Wood Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06
 </p>
