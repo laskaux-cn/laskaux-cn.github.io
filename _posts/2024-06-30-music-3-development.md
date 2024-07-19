@@ -364,6 +364,15 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1974.10–11
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=GpcdsAIdKhg&list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&index=8">
+<img src="/assets/img/albums/ozawa_pini_roma.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1977.10
+</p>
+
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=oQ2-zfhkT4k&list=PL8AhTXrM6LH3QIZrHdthQYP96HicXbN_M&index=8">
 <img src="/assets/img/albums/romano-poulenc.png" width="480"> </a> <br>

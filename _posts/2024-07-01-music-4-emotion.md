@@ -97,6 +97,12 @@ p.list {
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956.05
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
+<img src="/assets/img/albums/munrow-richard.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1970.09
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">

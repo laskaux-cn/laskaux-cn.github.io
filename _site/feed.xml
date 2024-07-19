@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 18 Jul 2024 11:15:11 -0400</pubDate>
+    <pubDate>Fri, 19 Jul 2024 02:01:18 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -232,6 +232,13 @@ p.list {
 &lt;img src=&quot;/assets/img/albums/bream-dowland.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Konzerthaus: Mozart-Saal, &lt;br /&gt;
 Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1956.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=shEDxgEFUeA&amp;amp;list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&amp;amp;index=18&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/munrow-richard.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ St John&amp;rsquo;s, Smith Square, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1970.09
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -591,6 +598,13 @@ Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.
 &lt;img src=&quot;/assets/img/albums/martinon-la-valse.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Salle Wagram, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.10–11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=GpcdsAIdKhg&amp;amp;list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ozawa_pini_roma.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1977.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1096,6 +1110,13 @@ p.poem {
   margin-left: 1em; 
   text-indent:-1em;
 }
+p.poem-ns {
+  margin-bottom: 0.0em; 
+  font-size:.96em; 
+  font-family: Noto Sans; 
+  margin-left: 1em; 
+  text-indent:-1em;
+}
 p.poem-last {
   font-size:.96em; 
   font-family: Noto Sans; 
@@ -1192,11 +1213,24 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 
 &lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
 
+&lt;p&gt;&lt;span class=&quot;reg&quot;&gt;Guillaume d’Amiens&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class=&quot;poem-ns&quot;&gt;
+C’est la fins, &lt;/p&gt;
+  &lt;p class=&quot;poem-ns&quot;&gt;
+Koi que nus die, &lt;/p&gt;
+  &lt;p class=&quot;poem-last&quot;&gt;
+J’amerai! &lt;/p&gt;
+
+  &lt;p style=&quot;font-size:.88em; font-family: Noto Sans&quot;&gt;Transl.&amp;nbsp; &lt;i&gt;It is the end. / No matter what is said, / I must love. &lt;/i&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=shEDxgEFUeA&amp;amp;list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&amp;amp;index=18&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/munrow-richard.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ St John&amp;rsquo;s, Smith Square, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1970.09
+&lt;a href=&quot;https://www.youtube.com/watch?v=4eSBcyCd5VA&amp;amp;list=OLAK5uy_koT4wwx5KKcDH8vqgsd3VJkxPErKhNTLQ&amp;amp;index=25&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/azema-medieval.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Église Saint-Pierre-aux-Nonnains, &lt;br /&gt;
+Metz &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2007.03
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
