@@ -113,10 +113,10 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=zO_TsPrCrD8&list=OLAK5uy_kunxPjYHH277BxUl8_kAOfb48d366oeVk&index=6">
-<img src="/assets/img/albums/kuijken-haydn94.png" width="480"> </a> <br>
-@ Doopsgezinde Kerk, <br>
-Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.05
+<a href="https://www.youtube.com/watch?v=x-ww02cucyA&list=OLAK5uy_kviY8rVJsIrwNpDoAVOx2cdm8xwWfa0rA&index=14">
+<img src="/assets/img/albums/bruggen-haydn94.png" width="480"> </a> <br>
+@ Muziekcentrum Vredenburg, Utrecht /<br>
+De Vereeniging, Nijmegen &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.03
 </p>
 
 <p class="alb">
@@ -211,7 +211,7 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 <a href="https://www.youtube.com/watch?v=LFiQ_a-roUY&list=OLAK5uy_krs9hCcLeadgdpomP_J6TeMVc7ujon29Y&index=3">
 <img src="/assets/img/albums/chailly-webern.png" width="480"> </a> <br>
 @ Concertgebouw: Grote Zaal, <br>
-London &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1988.06
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>
 
 
@@ -244,7 +244,7 @@ Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=inX489DHoZ4&list=OLAK5uy_mlf0LGEN9CXgT20DxOnlMkHZ4U5x2Jxng&index=67">
-<img src="/assets/img/albums/boulez-berg-london.png" width="480"> </a> <br>
+<img src="/assets/img/albums/boulez-webern-london.png" width="480"> </a> <br>
 @ Banking Town Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1967.06
 </p>
@@ -324,6 +324,10 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 
+<br>
+
+<p class="ttl"> – 5 – </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">
 <img src="/assets/img/albums/mackerras-schubert8-nb.png" width="480"> </a> <br>
@@ -355,7 +359,7 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 
 <br>
 
-<p class="ttl"> – 5 – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s">
@@ -399,7 +403,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=PL8AhTXrM6LH3WydwO9LoGa576r57jAoLk&index=1">

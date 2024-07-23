@@ -97,11 +97,64 @@ p.list {
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956.05
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
-<img src="/assets/img/albums/munrow-richard.png" width="480"> </a> <br>
-@ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1970.09
+<a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
+<img src="/assets/img/albums/gould-nielsen2.png" width="480"> </a> <br>
+@ Orchestra Hall, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LY-JUbgCxsU&list=OLAK5uy_kre9d9HK3o_ZrMkErpGkzN7gLoCaAjWzw&index=9">
+<img src="/assets/img/albums/bernstein-copland-mexico.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
+</p>
+
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=X0nU5qae4MY&list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&index=7">
+<img src="/assets/img/albums/pennario-gershwin.png" width="480"> </a> <br>
+@ Webster Hall, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
+<img src="/assets/img/albums/varsano-satie.png" width="480"> </a> <br>
+@ Notre-Dame du Liban, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CjULZmPXTzE&list=PLZdAlno7O9qYXFU29iuDsddxNPn3sv_rE&index=1&t=3s">
+<img src="/assets/img/albums/argerich-ravel.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_I8cwZ_5wek&list=OLAK5uy_kp0E_-Ks2TMffV2cftEsggGDipYB34Z1k&index=34">
+<img src="/assets/img/albums/staier-mozart-pc19.png" width="480"> </a> <br>
+@ Deutschlandfunk Kammermusiksaal, <br>
+Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2000.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3loOAxGosTg&list=OLAK5uy_n3REzpOdfQiYhHlX7JoUd7P4_DptAk7FM&index=2">
+<img src="/assets/img/albums/schiff-mozart-pc21.png" width="480"> </a> <br>
+@ Konzerthaus: Großer Saal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1989.12
 </p>
 
 <p class="alb">

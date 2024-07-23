@@ -20,81 +20,9 @@ tags: music
 .num {
   letter-spacing: 0px;
 }
-p.quote {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-size:0.96em;
-}
-p.poem {
-  margin-bottom: 0.5em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-ns {
-  margin-bottom: 0.0em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-last {
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.cn {
-  line-height: 1.65;
-  letter-spacing: 0.1px;
-  margin-bottom:1.45em;
-}
-p.ttl {
-  text-align:center;
-  font-size:1.05em;
-  font-weight: 600;
-  margin-bottom:1.0em;
-}
-p.end {
-  letter-spacing: 0.1px;
-  text-align:center;
-  margin-bottom:2em;
-}
-p.alb {
-	text-align:center; 
-	font-family: Noto Sans; 
-	color:#707070; 
-	font-size:0.88em; 
-	margin-top:2em; 
-	margin-bottom:2em;
-}
-p.note {
-	text-align:left; 
-	color:#707070; 
-	font-size:0.88em; 
-	letter-spacing: 0.4px;
-	margin-top:2em; 
-	margin-bottom:2em;
-	margin-left:1.25em; 
-	margin-right:1.25em;
-}
-
-p.list {
-  text-align:left; 
-  font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
-}
-
 </style>
 
-<p class="cn">
-冒昧地借用自己最喜欢的古早人文纪录片结构，从 <span class='num'>13</span> 个不同主题出发
-</p>
+冒昧地借用自己最喜欢的古早人文纪录片结构，从 <span class='num'>13</span> 个不同主题出发，试图打破音乐类型、音乐史的界限
 
 <br>
 
@@ -102,29 +30,21 @@ p.list {
 <p class="ttl"> – 0 – </p>
 
 <p class="cn">
-我为什么喜欢音乐？
+我为什么喜欢音乐？我说不清楚——我甚至不知道自己算不算真正的乐迷
 </p>
 
 <br>
 
 <p class="ttl"> – 1 – </p>
 
-<p class="cn">
 一个经常被提起的「破坏性」思想实验——假想人类文明遭遇浩劫，所有与音乐相关的知识和记录都将被完全破坏，如果此时我们能且仅能保存一部完整的音乐作品，你认为最应该选择哪一部？
-</p>
 
 
-<p class="cn">
 我其实蛮认真地思考过这个问题，不过最终的选择也许会和不少人一样——<a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1"><span class='ita'>Goldberg-Variationen</span></a><span class='reg'>, BWV 988</span><span style="margin-left:-0.2em">（</span>以下用 <span class='reg'>GV</span> 缩写）<span style="margin-left:-0.5em">。</span> 
-</p>
 
-<p class="cn">
 <span class='reg'>GV</span> 首次出版于 <span class='num'>1741</span> 年的纽伦堡。
-</p>
 
-<p class="cn">
 假如能且仅能保存 <span class='reg'>GV</span> 的一份声音记录，我目前会选择 <span class='num'>1990</span> 年旅英美国键盘演奏家 <span class='reg'>Maggie Cole</span> 在由当代英国制琴师 <span class='reg'>Andrew Garlick</span> 仿制的 <span class='num'>1749</span> 年款 <span class='reg'>Jean-Claude Goujon</span> 双排羽管键琴上的录音。
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
@@ -139,22 +59,11 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="ttl"> – 2 – </p>
 
-<span class='reg'>Guillaume d’Amiens</span>
-
-><p class="poem-ns">
->C’est la fins, </p>
-><p class="poem-ns">
->Koi que nus die, </p>
-><p class="poem-last">
->J’amerai! </p>
->
-><p style="font-size:.88em; font-family: Noto Sans">Transl.&nbsp; <i>It is the end. / No matter what is said, / I must love. </i> </p>
-
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=4eSBcyCd5VA&list=OLAK5uy_koT4wwx5KKcDH8vqgsd3VJkxPErKhNTLQ&index=25">
-<img src="/assets/img/albums/azema-medieval.png" width="480"> </a> <br>
-@ Église Saint-Pierre-aux-Nonnains, <br>
-Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007.03
+<a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
+<img src="/assets/img/albums/munrow-richard.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1970.09
 </p>
 
 <p class="alb">
@@ -228,6 +137,15 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.01
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ID9q6XjwlXQ&t=424s">
+<img src="/assets/img/albums/kuijken-couperin.png" width="480"> </a> <br>
+@ Singelkerk, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1974.11
+</p>
+
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NVX2FPzzHB8&list=OLAK5uy_mC29OA3l3QM_qEOiN4RWWCab7CAfOE4to&index=27">
 <img src="/assets/img/albums/alessandrini-vivaldi-rv120.png" width="480"> </a> <br>
@@ -235,11 +153,12 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 di Musica Sacra, Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2003.02
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ID9q6XjwlXQ&t=424s">
-<img src="/assets/img/albums/kuijken-couperin.png" width="480"> </a> <br>
-@ Singelkerk, <br>
-Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1974.11
+<a href="https://www.youtube.com/watch?v=4Ql0RyRK1Xw&list=OLAK5uy_kDoOVtVitnQ0Sv2bYrYAA5ZzE7oo6vRSE&index=1">
+<img src="/assets/img/albums/parnassi-gallo.png" width="480"> </a> <br>
+@ Hans-Rosbaud-Studio, <br>
+Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1999.02–06
 </p>
 
 
