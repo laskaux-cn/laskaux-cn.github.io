@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 23 Jul 2024 00:48:23 -0400</pubDate>
+    <pubDate>Tue, 23 Jul 2024 22:35:21 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -94,10 +94,10 @@ p.list {
 &lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/previn-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ American Legion Hall, &lt;br /&gt;
-Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.03
+&lt;a href=&quot;https://www.youtube.com/watch?v=X0nU5qae4MY&amp;amp;list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pennario-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Webster Hall, &lt;br /&gt;
+New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1964.04
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -235,8 +235,22 @@ Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=WWxpSSJjJJ4&amp;amp;list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&amp;amp;index=10&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/lislevand-vivaldi.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Fondation Tibor Varga, &lt;br /&gt;
+Sion &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1996.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=SFScmpAllxs&amp;amp;list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&amp;amp;index=21&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pinnock-handel-op4.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Henry Wood Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=9bGk-zinJ4E&amp;amp;list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/gould-nielsen2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/gould-nielsen.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Orchestra Hall, &lt;br /&gt;
 Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.06
 &lt;/p&gt;
@@ -246,13 +260,6 @@ Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;
 &lt;img src=&quot;/assets/img/albums/bernstein-copland-mexico.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Manhattan Center, &lt;br /&gt;
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.03
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=X0nU5qae4MY&amp;amp;list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&amp;amp;index=7&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/pennario-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Webster Hall, &lt;br /&gt;
-New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1964.04
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -270,10 +277,38 @@ Monte-Carlo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/mc.png&quot; height=&q
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=O6SPt3c_bJw&amp;amp;list=OLAK5uy_m9ovvJW17LNJhvJlBba6nANoAzQkjnlSQ&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/larrocha-falla.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Victoria Hall, &lt;br /&gt;
+Genève &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1970.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=m6Sop5JZsUU&amp;amp;list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/previn-gershwin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ American Legion Hall, &lt;br /&gt;
+Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=CjULZmPXTzE&amp;amp;list=PLZdAlno7O9qYXFU29iuDsddxNPn3sv_rE&amp;amp;index=1&amp;amp;t=3s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/argerich-ravel.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Jesus-Christus-Kirche, &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1967.12
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=mnVmjRMQ_o8&amp;amp;list=OLAK5uy_naHzctUOfM50G7l1CYvLTnZJd-47HoBLg&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/marcon-vivaldi-4seasons.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Abbazia di Rosazzo, &lt;br /&gt;
+Manzano &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Umwz_O2iHWs&amp;amp;list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/leonhardt-cpe-bach.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Lutherse Kerk, &lt;br /&gt;
+Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1981.11
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;

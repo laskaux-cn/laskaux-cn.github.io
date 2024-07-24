@@ -99,8 +99,24 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=WWxpSSJjJJ4&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=10">
+<img src="/assets/img/albums/lislevand-vivaldi.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
+<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
-<img src="/assets/img/albums/gould-nielsen2.png" width="480"> </a> <br>
+<img src="/assets/img/albums/gould-nielsen.png" width="480"> </a> <br>
 @ Orchestra Hall, <br>
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.06
 </p>
@@ -114,12 +130,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=X0nU5qae4MY&list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&index=7">
-<img src="/assets/img/albums/pennario-gershwin.png" width="480"> </a> <br>
-@ Webster Hall, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
-</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
@@ -136,10 +147,48 @@ Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=O6SPt3c_bJw&list=OLAK5uy_m9ovvJW17LNJhvJlBba6nANoAzQkjnlSQ&index=1">
+<img src="/assets/img/albums/larrocha-falla.png" width="480"> </a> <br>
+@ Victoria Hall, <br>
+Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1970.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
+<img src="/assets/img/albums/previn-gershwin.png" width="480"> </a> <br>
+@ American Legion Hall, <br>
+Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=CjULZmPXTzE&list=PLZdAlno7O9qYXFU29iuDsddxNPn3sv_rE&index=1&t=3s">
 <img src="/assets/img/albums/argerich-ravel.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
+</p>
+
+
+
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=mnVmjRMQ_o8&list=OLAK5uy_naHzctUOfM50G7l1CYvLTnZJd-47HoBLg&index=8">
+<img src="/assets/img/albums/marcon-vivaldi-4seasons.png" width="480"> </a> <br>
+@ Abbazia di Rosazzo, <br>
+Manzano &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.11
+</p>
+
+
+
+
+
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
+<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
+@ Lutherse Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.11
 </p>
 
 

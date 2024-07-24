@@ -273,7 +273,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.06
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=7Kppm_AtMLA&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=4">
 <img src="/assets/img/albums/ancerl-stravinsky.png" width="480"> </a> <br>
