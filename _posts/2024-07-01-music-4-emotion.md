@@ -7,88 +7,19 @@ excerpt: <br>
 tags: music
 ---
 
-<style>
-.ita {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-style: italic;
-}
-.reg {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-}
-.num {
-  letter-spacing: 0px;
-}
-p.quote {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-size:0.96em;
-}
-p.poem {
-  margin-bottom: 0.5em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-last {
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.cn {
-  line-height: 1.65;
-  letter-spacing: 0.1px;
-  margin-bottom:1.45em;
-}
-p.ttl {
-  text-align:center;
-  font-size:1.05em;
-  font-weight: 600;
-  margin-bottom:1.0em;
-}
-p.end {
-  letter-spacing: 0.1px;
-  text-align:center;
-  margin-bottom:2em;
-}
-p.alb {
-  text-align:center; 
-  font-family: Noto Sans; 
-  color:#707070; 
-  font-size:0.88em; 
-  margin-top:2em; 
-  margin-bottom:2em;
-}
-p.note {
-  text-align:left; 
-  color:#707070; 
-  font-size:0.88em; 
-  letter-spacing: 0.4px;
-  margin-top:2em; 
-  margin-bottom:2em;
-  margin-left:1.25em; 
-  margin-right:1.25em;
-}
 
-p.list {
-  text-align:left; 
-  font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
-}
-
-</style>
 
 
 <br>
 
 <p class="ttl"> – 1 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
+<img src="/assets/img/albums/joubert-caillet-marais.png" width="480"> </a> <br>
+@ Notre-Dame de Centeilles, <br>
+Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.09–&#8203;2021.05
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=y5XdgnPJJ_A&list=OLAK5uy_lyxNN-aFqnYDqF1fZ5kl1sdt9IQ_RNHOg&index=11">
@@ -98,20 +29,7 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=WWxpSSJjJJ4&list=OLAK5uy_neuhUCFnoM_KPrK8xyOHVSTu1m6lmutN8&index=10">
-<img src="/assets/img/albums/lislevand-vivaldi.png" width="480"> </a> <br>
-@ Fondation Tibor Varga, <br>
-Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04
-</p>
 
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
-<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
-</p>
 
 
 <p class="alb">
@@ -129,8 +47,23 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 
+<br>
 
+<p class="ttl"> – X – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=X0nU5qae4MY&list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&index=7">
+<img src="/assets/img/albums/pennario-gershwin.png" width="480"> </a> <br>
+@ Webster Hall, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
@@ -140,10 +73,10 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
-<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+<a href="https://www.youtube.com/watch?v=D9P-nBh6jJ8&list=OLAK5uy_n5LUOrq9jJIzGiUbC8kO5mULZUFuuMs3I&index=1">
+<img src="/assets/img/albums/achatz-schumann.png" width="480"> </a> <br>
+@ Nacka aula, <br>
+Nacka &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1980.04–05
 </p>
 
 <p class="alb">
@@ -167,9 +100,46 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=KFdd2RakTqw&list=OLAK5uy_lQCAEJMTMyKG04x3wkouesRGPArH1CJ-Q&index=7">
+<img src="/assets/img/albums/anda-bartok.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1959.09
+</p>
+
+<br>
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=bzl_IMJbmVg&list=OLAK5uy_kAAz-JjfNXPZ4BaF3NjEW1aXnRGpNNDQo&index=17">
+<img src="/assets/img/albums/lislevand-vivaldi-new.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04 / 2006.06
+</p>
 
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
+<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
+</p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7I320UyRYhs&list=OLAK5uy_mZNE49OmBKknOPC06i1YdmebyaMffnU9Y&index=1">
+<img src="/assets/img/albums/alard-bach-italian.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2010.05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SkEB-2bCY5A&list=OLAK5uy_k0oOkKMC7b1p8c4-G8mLlnmS5MKm35p9Y&index=8">
+<img src="/assets/img/albums/taylor-bach-italian.png" width="480"> </a> <br>
+@ Château d’Assas, <br> 
+Assas, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2023.03
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=mnVmjRMQ_o8&list=OLAK5uy_naHzctUOfM50G7l1CYvLTnZJd-47HoBLg&index=8">
@@ -179,11 +149,6 @@ Manzano &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbs
 </p>
 
 
-
-
-
-
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
 <img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
@@ -191,6 +156,17 @@ Manzano &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbs
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.11
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
+<img src="/assets/img/albums/lubin-beethoven.png" width="480"> </a> <br>
+@ St Barnabas Church, North Finchley, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.06
+</p>
+
+<br>
+
+<p class="ttl"> – X – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_I8cwZ_5wek&list=OLAK5uy_kp0E_-Ks2TMffV2cftEsggGDipYB34Z1k&index=34">

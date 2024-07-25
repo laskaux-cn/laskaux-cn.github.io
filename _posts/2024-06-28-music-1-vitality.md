@@ -161,7 +161,6 @@ di Musica Sacra, Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" wi
 Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1999.02–06
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=lQ8erjD5MFc&list=OLAK5uy_ksTLAhSoC45hgEFNaYg1gNQ69dSxHQJaA&index=10">
 <img src="/assets/img/albums/takacs-haydn-op76.png" width="480"> </a> <br>
