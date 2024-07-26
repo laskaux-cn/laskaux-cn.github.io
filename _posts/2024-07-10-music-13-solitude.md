@@ -91,6 +91,7 @@ p.list {
 <p class="ttl"> – 1 – </p>
 
 
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5">
 <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>

@@ -79,6 +79,10 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Nacka &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1980.04–05
 </p>
 
+<br>
+
+<p class="ttl"> – X – </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=O6SPt3c_bJw&list=OLAK5uy_m9ovvJW17LNJhvJlBba6nANoAzQkjnlSQ&index=1">
 <img src="/assets/img/albums/larrocha-falla.png" width="480"> </a> <br>
@@ -87,7 +91,7 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=m6Sop5JZsUU&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=1">
+<a href="https://www.youtube.com/watch?v=LRhwbz3o-Sk&list=OLAK5uy_mi3ITEC99JHDfvXeQHTzQkly8zkiW5hUY&index=2">
 <img src="/assets/img/albums/previn-gershwin.png" width="480"> </a> <br>
 @ American Legion Hall, <br>
 Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.03
@@ -100,8 +104,16 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=KFdd2RakTqw&list=OLAK5uy_lQCAEJMTMyKG04x3wkouesRGPArH1CJ-Q&index=7">
+<a href="https://www.youtube.com/watch?v=4GtSZIGo2TE&list=OLAK5uy_mRRSfEprCmyp7A4D20t4YLvQcWI2MP3Sg&index=7">
+<img src="/assets/img/albums/kissin-shostakovich.png" width="480"> </a> <br>
+@ Konzerthaus: Großer Saal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1988.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=KFdd2RakTqw&list=OLAK5uy_lQCAEJMTMyKG04x3wkouesRGPArH1CJ-Q&index=7&t=9s">
 <img src="/assets/img/albums/anda-bartok.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1959.09
