@@ -169,7 +169,7 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=SGWgZCATiUA&list=OLAK5uy_kNkEmg4Ad77jCTttP5CeDaIPyfFo6iSvo&index=39">
+<a href="https://www.youtube.com/watch?v=K6yAnOSPvPY&list=OLAK5uy_kNkEmg4Ad77jCTttP5CeDaIPyfFo6iSvo&index=136">
 <img src="/assets/img/albums/goodman-purcell.png" width="480"> </a> <br>
 @ St Jude-on-the-Hill, Hampstead, <br>   
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1994.10

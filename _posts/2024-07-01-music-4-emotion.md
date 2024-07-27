@@ -29,7 +29,9 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 
+<br>
 
+<p class="ttl"> – X – </p>
 
 
 <p class="alb">
@@ -39,6 +41,56 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.06
 </p>
 
+
+<br>
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=oos034Z7CRU&list=OLAK5uy_mfT4k2UT5kaqp_YVOJLu9i4l1IjqLfZ6w&index=3">
+<img src="/assets/img/albums/dutoit-falla.png" width="480"> </a> <br>
+@ Église de Saint-Eustache, <br>
+Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1981.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
+<img src="/assets/img/albums/markevitch-rimsky-korsakov.png" width="480"> </a> <br>
+@ Wembley Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1962.10
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=W0IeWL9u_oA&list=OLAK5uy_l6iU4hU2YAoCwnJ8ilWbD00f5To7pFEqE&index=3">
+<img src="/assets/img/albums/cluytens-ravel.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1961.11
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=yjbr5ZlqEoE&list=OLAK5uy_lpgnSmFtw8t62fM-NpXrcGZlaCkL7jT4g&index=14">
+<img src="/assets/img/albums/martinon-debussy-images.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1973.02–&#8203;1974.04
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=lNN5G9Bh9iM&list=OLAK5uy_mjiXMqIPfDGwwoNQoOcvYTHTrw8nagXQc&index=13">
+<img src="/assets/img/albums/jansons-villa-lobos.png" width="480"> </a> <br>
+@ Oslo Konserthus, <br>
+Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1997.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_aDfQ8VRyUk&t=0s">
+<img src="/assets/img/albums/dorati-milhaud.png" width="480"> </a> <br>
+@ Watford Town Hall, <br>
+Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.08
+</p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=LY-JUbgCxsU&list=OLAK5uy_kre9d9HK3o_ZrMkErpGkzN7gLoCaAjWzw&index=9">
 <img src="/assets/img/albums/bernstein-copland-mexico.png" width="480"> </a> <br>
@@ -46,6 +98,12 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ktzzIfKk8rE&list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&index=11">
+<img src="/assets/img/albums/dudamel-wss.png" width="480"> </a> <br>
+@ Centro de Acción Social por la Música: <br>
+Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008.01
+</p>
 
 <br>
 
@@ -70,6 +128,13 @@ Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>
 <img src="/assets/img/albums/varsano-satie.png" width="480"> </a> <br>
 @ Notre-Dame du Liban, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=YecN4_zZ9nM&list=OLAK5uy_nG09a7vQjW8iMLJlyfSt7-jIG3fE8jaBQ&index=1">
+<img src="/assets/img/albums/pletnev-tchaikovsky-seasons.png" width="480"> </a> <br>
+@ Большой зал Московского радио, <br>
+Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1986
 </p>
 
 <p class="alb">
@@ -111,6 +176,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 @ Konzerthaus: Großer Saal, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1988.08
 </p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=KFdd2RakTqw&list=OLAK5uy_lQCAEJMTMyKG04x3wkouesRGPArH1CJ-Q&index=7&t=9s">
@@ -181,10 +247,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – X – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=_I8cwZ_5wek&list=OLAK5uy_kp0E_-Ks2TMffV2cftEsggGDipYB34Z1k&index=34">
-<img src="/assets/img/albums/staier-mozart-pc19.png" width="480"> </a> <br>
-@ Deutschlandfunk Kammermusiksaal, <br>
-Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2000.01
+<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
+<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
+<img src="/assets/img/albums/brendel-mozart-pc24.png" width="480"> </a> <br>
+@ Wembley Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.06
 </p>
 
 <p class="alb">
@@ -195,10 +268,24 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
-<img src="/assets/img/albums/brendel-mozart-pc24.png" width="480"> </a> <br>
-@ Wembley Town Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.06
+<a href="https://www.youtube.com/watch?v=hxJ3c85KOh4&list=OLAK5uy_nw8V0s5UFyeFewW84P3xCUVdC35KbV3SE&index=5">
+<img src="/assets/img/albums/immerseel-mozart-pc27.png" width="480"> </a> <br>
+@ Raphaëlpleinkerk, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1991.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=eQn1liz-bBc&list=OLAK5uy_ktRZARAni2XiP7F9LiRNL5vrBkypA-hMU&index=5">
+<img src="/assets/img/albums/anderszewski-mozart-pc27.png" width="480"> </a> <br>
+@ Festspielhaus, <br>
+Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2017.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_I8cwZ_5wek&list=OLAK5uy_kp0E_-Ks2TMffV2cftEsggGDipYB34Z1k&index=34">
+<img src="/assets/img/albums/staier-mozart-pc19.png" width="480"> </a> <br>
+@ Deutschlandfunk Kammermusiksaal, <br>
+Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2000.01
 </p>
 
 <p class="alb">
