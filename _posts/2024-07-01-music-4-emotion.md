@@ -15,10 +15,10 @@ tags: music
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
-<img src="/assets/img/albums/joubert-caillet-marais.png" width="480"> </a> <br>
-@ Notre-Dame de Centeilles, <br>
-Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.09–&#8203;2021.05
+<a href="https://www.youtube.com/watch?v=DtZva3mmUQ8&list=OLAK5uy_kAJEdGo0CAkNKGY_eTcPtqiGIYoaK-OEs&index=17">
+<img src="/assets/img/albums/odette-dalza.png" width="480"> </a> <br>
+@ Skywalker Sound, <br>
+Nicasio, California &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1997.04
 </p>
 
 <p class="alb">
@@ -28,6 +28,39 @@ Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="1
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956.05
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nZJngsHZng0&list=OLAK5uy_lv3d_NEKyJ5e5_FfBbv3nfyTPtZWnvBFA&index=61">
+<img src="/assets/img/albums/joubert-caillet-marais.png" width="480"> </a> <br>
+@ Notre-Dame de Centeilles, <br>
+Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2019.09–&#8203;2021.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ynwS6Pf6Sug&list=OLAK5uy_mZr4qx2gN8hj8Vn4koAIRIuXT3EjCyELA&index=8">
+<img src="/assets/img/albums/savall-bach-viol.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=z05m-4uMkTw&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=1">
+<img src="/assets/img/albums/rudin-schubert.png" width="480"> </a> <br>
+@ Schaumansali, <br>
+Jakobstad &nbsp;<img src="/assets/img/flags/fi.png" height="10.5" width="16"/>&nbsp; 2019.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4o6Tjz11p-0&list=OLAK5uy_naXpxQa8KivPLR59tNUVpdetKzQAWKFCw&index=5">
+<img src="/assets/img/albums/frisch-buxtehude.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2008.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
+<img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
+@ Länna kyrka, <br> 
+Norrtälje &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
+</p>
 
 <br>
 
@@ -133,7 +166,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=YecN4_zZ9nM&list=OLAK5uy_nG09a7vQjW8iMLJlyfSt7-jIG3fE8jaBQ&index=1">
 <img src="/assets/img/albums/pletnev-tchaikovsky-seasons.png" width="480"> </a> <br>
-@ Большой зал Московского радио, <br>
+@ Всесоюзная студия грамзаписи, <br>
 Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1986
 </p>
 
