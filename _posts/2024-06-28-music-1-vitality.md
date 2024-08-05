@@ -4,7 +4,7 @@ title: 音乐笔记 1 &colon; 音乐的生命
 subtitle: 
 excerpt: <br>
 
-tags: music
+tags: music-notes
 ---
 
 <style>

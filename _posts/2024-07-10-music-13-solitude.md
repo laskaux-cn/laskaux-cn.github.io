@@ -4,7 +4,7 @@ title: 音乐笔记 13 &colon; 喧嚣与孤独
 subtitle: 
 excerpt: <br>
 
-tags: music
+tags: music-notes
 ---
 
 <style>

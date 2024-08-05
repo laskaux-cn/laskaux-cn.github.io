@@ -4,7 +4,7 @@ title: 音乐笔记 4 &colon; 愉悦与忧伤
 subtitle: 
 excerpt: <br>
 
-tags: music
+tags: music-notes
 ---
 
 
@@ -26,6 +26,13 @@ Nicasio, California &nbsp;<img src="/assets/img/flags/us.png" height="10.5" widt
 <img src="/assets/img/albums/bream-dowland.png" width="480"> </a> <br>
 @ Konzerthaus: Mozart-Saal, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1956.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ZBaPQeHPq5c&list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&index=5">
+<img src="/assets/img/albums/sainz-villegas-tarrega.png" width="480"> </a> <br>
+@ AfterHours Studios, Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; / <br>
+Estudio Uno, Madriad &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.07–08
 </p>
 
 <p class="alb">
@@ -60,18 +67,6 @@ Jakobstad &nbsp;<img src="/assets/img/flags/fi.png" height="10.5" width="16"/>&n
 <img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
 @ Länna kyrka, <br> 
 Norrtälje &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
-</p>
-
-<br>
-
-<p class="ttl"> – X – </p>
-
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
-<img src="/assets/img/albums/gould-nielsen.png" width="480"> </a> <br>
-@ Orchestra Hall, <br>
-Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.06
 </p>
 
 

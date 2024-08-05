@@ -4,7 +4,7 @@ title: 音乐笔记 2 &colon; 约束与自由
 subtitle: 
 excerpt: <br>
 
-tags: music
+tags: music-notes
 ---
 
 <style>

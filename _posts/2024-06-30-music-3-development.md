@@ -4,7 +4,7 @@ title: 音乐笔记 3 &colon; 简单与繁复
 subtitle: 
 excerpt: <br>
 
-tags: music
+tags: music-notes
 ---
 
 <style>
