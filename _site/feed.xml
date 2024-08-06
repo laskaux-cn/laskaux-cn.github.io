@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 04 Aug 2024 20:05:06 -0400</pubDate>
+    <pubDate>Tue, 06 Aug 2024 02:33:35 -0400</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -1607,12 +1607,14 @@ Bærum &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;1
       </item>
     
       <item>
-        <title>不严肃音乐 1 &amp;colon; 一&amp;#8203;首&amp;#8203;歌&amp;#8203;的&amp;#8203;音&amp;#8203;乐&amp;#8203;史</title>
+        <title>不严肃音乐 1 &amp;colon; 一&amp;#8288;首&amp;#8288;歌&amp;#8288;的&amp;#8288;音&amp;#8288;乐&amp;#8288;史</title>
         <link>/2022/03/30/la-marseillaise.html</link>
         <guid isPermaLink="true">/2022/03/30/la-marseillaise.html</guid>
-        <description>&lt;p class=&quot;alb&quot;&gt;
+        <description>&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nvoqiWSCEx4&amp;amp;list=OLAK5uy_l5Y9E5mLb7hcfH-9JHTY_f0rivyzOZDvI&amp;amp;index=21&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-lunaisiens.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-lunaisiens.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Cité de la Musique, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.07
 &lt;/p&gt;
@@ -1621,21 +1623,21 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=UPWTJwqHMlc&amp;amp;list=OLAK5uy_nQp6bQKiUafuczEZt76fI4m53l1ayq7uo&amp;amp;index=20&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-balbastre-fp.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-balbastre-fp.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Kammersaal Isoldestrasse, &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2003.03–&amp;#8203;2004.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=jXgd_bzQtfo&amp;amp;list=OLAK5uy_l1SDV9FQDShhnrtDu60rLahp52Q3WPmrY&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-balbastre-org.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-balbastre-org.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Notre-Dame de Paris, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013.01
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=5p6xRTcfuzU&amp;amp;list=OLAK5uy_nj1K63NfI_Tm9ftje0U9B697ROy4aN8TA&amp;amp;index=6&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseilliase-beauvarlet-charpentier.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseilliase-beauvarlet-charpentier.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Château de Beauvoir, &lt;br /&gt;
 Saint-Pourçain-sur-Besbre &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1989.02
 &lt;/p&gt;
@@ -1644,21 +1646,21 @@ Saint-Pourçain-sur-Besbre &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=U2RRC6qmF3Y&amp;amp;list=OLAK5uy_nULHWXjB6uEwMjYeHnnNfEGYrpOerchl8&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-gossec.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-gossec.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Teatr Wielki – Opera Narodowa, &lt;br /&gt;
 Warszawa &amp;nbsp;&lt;img src=&quot;/assets/img/flags/po.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2018.08
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=gcQIGqyMoLs&amp;amp;list=OLAK5uy_nh8H1n_r0GNEm0dMzrg4w5cDE66m2guSI&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-davaux.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-davaux.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Conservatoire Jean-Baptiste Lully, &lt;br /&gt;
 Puteaux &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.11
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=gcQIGqyMoLs&amp;amp;list=OLAK5uy_nh8H1n_r0GNEm0dMzrg4w5cDE66m2guSI&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-viotti.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-viotti.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Teatro Civico, &lt;br /&gt;
 Vercelli &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013.01
 &lt;/p&gt;
@@ -1667,14 +1669,14 @@ Vercelli &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=g0osep19iU0&amp;amp;list=OLAK5uy_khywdt24gQpPVA4Fo2CpvlSQTlsZfaR-E&amp;amp;index=8&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-berlioz.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-berlioz.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Halle aux Grains, &lt;br /&gt;
 Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nqMv8fMQllk&amp;amp;list=OLAK5uy_nw4MT9VpiTgo2P3ruQKrTtGtMiY3l_cVE&amp;amp;index=14&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-liszt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-liszt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Bradshaw Hall, &lt;br /&gt;
 Birmingham &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2019.08
 &lt;/p&gt;
@@ -1683,14 +1685,14 @@ Birmingham &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&qu
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=ADejPwhmrFA&amp;amp;list=OLAK5uy_lhMfHoULdo8F-glDv6HgFWARjyQ-NhSzI&amp;amp;index=19&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-stravinsky.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-stravinsky.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Potton Hall, &lt;br /&gt;
 Westleton, Suffolk &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2016.02
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=BBlIEctEts4&amp;amp;list=OLAK5uy_nagFfGtFVkuxEIa86ouSgQqvuPOHNg-nk&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-dediu.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-dediu.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Universitatea Națională de Muzică, &lt;br /&gt;
 București &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ro.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.01
 &lt;/p&gt;
@@ -1699,42 +1701,78 @@ București &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ro.png&quot; height=&qu
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=azDXF6HnKeQ&amp;amp;list=PL_WIXLJ24LKD334b3amo2s0pNsL8SQuo2&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-reinhardt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-reinhardt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Abbey Road Studios, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1946.01
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=Jdp8DHT0WH4&amp;amp;list=OLAK5uy_kHwSG5mIFpPI6Obd-GdZgXNlCDKETmIVs&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-bolling.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-bolling.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Théâtre Déjazet, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1994.06
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13.&lt;/strong&gt;  二战后的法国流行音乐人也偶尔「魔改」一下 &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt;：其中比较有名的是 &lt;span class=&quot;reg&quot;&gt;Serge Gainsbourg&lt;/span&gt; 在 &lt;span class=&quot;num&quot;&gt;1979&lt;/span&gt; 年发行的专辑 &lt;span class=&quot;ita&quot;&gt;Aux armes et cætera&lt;/span&gt; 中的同名歌曲 &lt;a href=&quot;https://www.youtube.com/watch?v=egHsU2zBgKI&amp;amp;list=OLAK5uy_lQXE6YALADpsQCeoOgQ09ouQinn_vbOhM&amp;amp;index=2&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“Aux armes et cætera”&lt;/span&gt;&lt;/a&gt;。这张专辑作为七十年代西方音乐人探索&lt;strong&gt;雷鬼&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(reggae)&lt;/span&gt; 风格的代表作拥有相当的历史地位——它由 &lt;span class=&quot;reg&quot;&gt;Gainsbourg&lt;/span&gt; 前往牙买加与本土最优秀的 &lt;span class=&quot;reg&quot;&gt;reggae&lt;/span&gt; 艺术家们共同完成，但其中的 &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 改编引发的争议极大。我自己对 &lt;span class=&quot;reg&quot;&gt;reggae&lt;/span&gt; 基本无感，不过对这类经典歌曲和「新世界」音乐元素的融合却是喜闻乐见——我总以为这样实质是在为传统作品赋予新的生命。&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=egHsU2zBgKI&amp;amp;list=OLAK5uy_lQXE6YALADpsQCeoOgQ09ouQinn_vbOhM&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-gainsbourg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Dynamic Sounds Studio, &lt;br /&gt;
+Kingston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/jm.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1979.01
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=16R26fs1ldA&amp;amp;list=OLAK5uy_kZpxqbw_BpecAtB_WhPLTCi_flQNS-BqQ&amp;amp;index=10&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-cochereau.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-cochereau.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Notre-Dame de Paris, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1977.11
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=FTIk66b3dds&amp;amp;list=OLAK5uy_mFG0fcB5Bw_CIiZbH7Pt5zaDEHUnR3wD0&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/marseillaise-boutry.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-boutry.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Salle Wagram, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.07
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;S1.&lt;/strong&gt;  上世纪二十年代末，技术可靠的有声电影在得到了全面推广；但是&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;S2.&lt;/strong&gt;  &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 在电影银幕上的最高光呈现无疑是 &lt;span class=&quot;ita&quot;&gt;Casablanca&lt;/span&gt; &lt;span class=&quot;num&quot;&gt;(1942)&lt;/span&gt; 中的名场面 &lt;a href=&quot;https://www.youtube.com/watch?v=nMhIEoTdOjw&amp;amp;list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&amp;amp;index=1&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“Play&lt;/span&gt; &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt;&lt;span class=&quot;reg&quot;&gt;! Play it!”&lt;/span&gt;&lt;/a&gt;——相信大家过于熟知，这里不再多述。但是，通过 &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 来呼唤自由与抗争的叙事镜头并非 &lt;span class=&quot;ita&quot;&gt;Casablanca&lt;/span&gt; 首创：例如，由 &lt;span class=&quot;reg&quot;&gt;Jean Renoir&lt;/span&gt; 执导的 &lt;span class=&quot;ita&quot;&gt;La Grande Illusion&lt;/span&gt; &lt;span class=&quot;num&quot;&gt;(1937)&lt;/span&gt; 中就有一个相当类似的场景 &lt;a href=&quot;https://www.youtube.com/watch?v=byAWSUqluL0&amp;amp;t=0s&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“Arrêtez, arrêtez les copains”&lt;/span&gt;&lt;/a&gt;——一战期间，正在德军战俘营中表演滑稽歌舞 &lt;span class=&quot;reg&quot;&gt;(vaudeville)&lt;/span&gt; 的法国军人听闻凡尔登前线捷报，当即中断演出，带领全场起立高唱 &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt;。也许当年很多人不曾想到，在 &lt;span class=&quot;ita&quot;&gt;La Grande Illusion&lt;/span&gt; 上映三年后，法德再次开战，&lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 又将被迫承担类似的使命。历史的循环经常令人无奈。&lt;/p&gt;
+
+&lt;p&gt;回到 &lt;span class=&quot;ita&quot;&gt;Casablanca&lt;/span&gt;，发生在 &lt;span class=&quot;reg&quot;&gt;Rick’s Café Américain&lt;/span&gt; 里的那段「对歌」并不是 &lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 在片中唯一一次响起——它与 &lt;a href=&quot;https://www.youtube.com/watch?v=AlDuNqWKDak&amp;amp;list=PLkAUJkbhd-RiBRmuQWI-eeHSWgkNERG6K&amp;amp;index=20&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“As Time Goes By”&lt;/span&gt;&lt;/a&gt; 作为最重要的两个音乐主题多次重现，分别贯连了&lt;strong&gt;抗战&lt;/strong&gt;与&lt;strong&gt;爱情&lt;/strong&gt;两条剧情主线。特别地，&lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt; 高调现身全片始末：&lt;a href=&quot;https://www.youtube.com/watch?v=FbjjraucbIA&amp;amp;t=0s&quot;&gt;片头&lt;/a&gt;被放在一段突出铜管和打击乐、紧张阴郁的阿拉伯风格旋律（象征北非战局）之后，突然明朗坚定；&lt;a href=&quot;https://www.youtube.com/watch?v=FbjjraucbIA&amp;amp;t=2s&quot;&gt;片末&lt;/a&gt;则是在 &lt;span class=&quot;reg&quot;&gt;Rick Blaine&lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt;Louis Renault&lt;/span&gt; 同道投奔自由法国驻军时由弦乐缓缓奏出，渐强到军乐队结束。我认为这样的编排再次明显表达：相比于爱情，&lt;strong&gt;抗战&lt;/strong&gt;才是 &lt;span class=&quot;ita&quot;&gt;Casablanca&lt;/span&gt; 的第一主题。这样两个主题、一刚一柔的平衡反差很容易让人联想到古典奏鸣曲式——杰出的艺术往往是相通的。&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=7TFTmqlatu0&amp;amp;list=PLkAUJkbhd-RiBRmuQWI-eeHSWgkNERG6K&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums-general/casablanca-1942.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt;  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;S3.&lt;/strong&gt;  论世界范围内最专业的革命歌曲演出团体，许多人可能首先想到苏联的&lt;strong&gt;亚历山德罗夫红旗歌舞团&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(Краснознаменный имени Александрова ансамбль песни и пляски Советской Армии)&lt;/span&gt;&lt;span style=&quot;margin-left:0.15em&quot;&gt;。&lt;/span&gt;有趣的是，红旗歌舞团曾于冷战高潮的六十年代初在时任团长/指挥 &lt;span class=&quot;reg&quot;&gt;Борис Александров 的带领下频繁访问法国，并录制了一系列 &lt;span class=&quot;ita&quot;&gt;Les Chœurs de l’Armée Soviétique à Paris&lt;/span&gt; 唱片。其中 &lt;span class=&quot;num&quot;&gt;1963&lt;/span&gt; 年 &lt;span class=&quot;num&quot;&gt;12&lt;/span&gt; 月在巴黎 &lt;span class=&quot;reg&quot;&gt;Salle Wagram&lt;/span&gt; 录制的这张同时收录了 &lt;a href=&quot;https://www.youtube.com/watch?v=Dr19PnvEyoE&amp;amp;list=OLAK5uy_liSNLWm3oxsuREX0YqeLGcORw631_Md1c&amp;amp;index=1&quot;&gt;&lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt;&lt;/a&gt; 与苏联国歌 &lt;a href=&quot;https://www.youtube.com/watch?v=fH1q62CMVp0&amp;amp;list=OLAK5uy_liSNLWm3oxsuREX0YqeLGcORw631_Md1c&amp;amp;index=2&quot;&gt;&lt;span class=&quot;reg&quot;&gt;Гимн СССР&lt;/span&gt;&lt;/a&gt;，很像是红旗歌舞团在真正的「革命老区」对前辈的致敬。&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Dr19PnvEyoE&amp;amp;list=OLAK5uy_liSNLWm3oxsuREX0YqeLGcORw631_Md1c&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums-general/marseillaise-red-army.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt;  
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;S4.&lt;/strong&gt;   在 &lt;span class=&quot;num&quot;&gt;1976&lt;/span&gt; 年发行的专辑 &lt;span class=&quot;ita&quot;&gt;Le monde symphonique de Michel Sardou et Jacques Revaux&lt;/span&gt; 中，&lt;span class=&quot;reg&quot;&gt;Michel Sardou&lt;/span&gt; 演唱了由 &lt;span class=&quot;reg&quot;&gt;Jean Claudric&lt;/span&gt; 编曲的 &lt;a href=&quot;https://www.youtube.com/watch?v=D6PDFqjiZY0&amp;amp;t=0s&quot;&gt;&lt;span class=&quot;ita&quot;&gt;La Marseillaise&lt;/span&gt;&lt;/a&gt;，声线硬朗，字正腔圆，颇具当代革命者的气质。&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;num&quot;&gt;1980&lt;/span&gt; 年初，&lt;span class=&quot;reg&quot;&gt;Sardou&lt;/span&gt; 为 &lt;span class=&quot;reg&quot;&gt;Alain Boublil&lt;/span&gt; 与 &lt;span class=&quot;reg&quot;&gt;Claude-Michel Schönberg&lt;/span&gt; 一部新音乐剧的概念专辑录制了一首题为 &lt;a href=&quot;https://www.youtube.com/watch?v=PZxejoUFeN4&amp;amp;list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&amp;amp;index=17&amp;amp;t=2s&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“À la volonté du peuple”&lt;/span&gt;&lt;/a&gt; 革命歌。五年后，这部音乐剧在伦敦重新制作后走向世界，&lt;span class=&quot;reg&quot;&gt;Sardou&lt;/span&gt; 原唱的这首歌曲后来的英文版叫做 &lt;a href=&quot;https://youtu.be/KPpkTgMbhRU?si=qDCp2afMPUKmCAA2&amp;amp;t=95s&quot;&gt;&lt;span class=&quot;reg&quot;&gt;“Do You Hear the People Sing?”&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=PZxejoUFeN4&amp;amp;list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&amp;amp;index=15&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/les-miz-1980.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Music Centre, Wembley &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; / &lt;br /&gt;
-Studio Davout, Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1980.01–04
+&lt;img src=&quot;/assets/img/albums-general/les-miz-1980.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; 
 &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=5LbrPTD78ek&amp;amp;t=229s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums-general/revolution-1989.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;reg&quot;&gt;Pesquet&lt;/span&gt; 随后在 &lt;span class=&quot;num&quot;&gt;2021&lt;/span&gt; 年 &lt;span class=&quot;num&quot;&gt;10&lt;/span&gt; 月 4 日至 &lt;span class=&quot;num&quot;&gt;11&lt;/span&gt; 月 6 日间担任国际空间站指令长。所以说，无论在哪里做什么工作，一点小才艺都可能是有用的。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
