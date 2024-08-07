@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为何要回学术界
-subtitle: 最近的思考历程
+subtitle: 近期的思考轨迹
 excerpt: <br>
 
 tags: random
@@ -14,15 +14,15 @@ tags: random
 ><p class="poem">
 >Prodigious birth of love it is to me, </p>
 ><p class="poem-last">
-That I must love a loathed enemy. </p>
+>That I must love a loathed enemy. </p>
 ><p align="right" class="quote-ttl"> 
 ><a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I">—<i>Romeo and Juliet</i><span style="margin-left:0.1em">:</span> Act I, Scene 5 </a> </p>
 
 <p style="margin-bottom:2em"> </p>
 
-最近做出了一个并不轻松的决定——辞去了开始不到两年的工业界职位，准备以普通博士后身份重返大学，继续基础研究；随之还将暂别学习、工作超过九年的新英格兰地区，独闯人文环境和生活方式迥异的西部世界。
+最近做出了一个并不轻松的决定——辞去了开始不到两年的工业界职位，准备以普通博士后身份重返大学，继续基础研究；随之还将暂别学习、工作超过九年的新英格兰地区，独闯人文环境和生活方式迥异的西部世界。虽说选择本身几乎没有犹豫，但由此导致的人生轨迹变化毕竟不小，思绪的飘荡、心情的起伏也难免成为自己这段时间的常态。
 
-我为什么现在选择回到学术界？之前又为何暂时离开？下面我将尝试给出一个至少能令自己基本信服的回答。
+我为什么要现在回到学术界？之前又为何暂时离开？以下我将尝试给出一个至少能令自己基本信服的回答。我自很早开始就坚信：学业和事业的选择与其它重要的人生抉择一样，本质都不是明确的理性优化，关键取决于限定自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活追求等等，而这些特质又是个体与环境长期相互作用的结果。
 
 <br>
 
@@ -54,7 +54,7 @@ That I must love a loathed enemy. </p>
 >тем, что не делаю ее!</p>
 >
 > <p class="quote-transl">
-> Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my own career / by trying not to pursue one! </i> </p>
+> Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
 >
 ><p align="right" class="quote-ttl"> <a href="https://www.culture.ru/poems/26258/karera"> —Евгений Евтушенко, <i>Карьера</i> </a> </p>
 
