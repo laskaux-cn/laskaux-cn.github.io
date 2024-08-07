@@ -4,7 +4,7 @@ title: 我想有怎样的事业
 subtitle: 
 excerpt: <br>
 
-tags: work
+tags: random
 ---
 
 > <p class="quote">
