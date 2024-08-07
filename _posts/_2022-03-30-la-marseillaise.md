@@ -139,7 +139,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-**S1.**&nbsp; 上世纪二十年代末，技术可靠的有声电影在得到了全面推广；但是
+**S1.**&nbsp; 有声电影在上世纪二十年代末全面推广之前其实有大量的早期实验，法国发明家 <span class='reg'>Georges Mendel</span>
 
 
 **S2.**&nbsp; <span class='ita'>La Marseillaise</span> 在电影银幕上的最高光呈现无疑是 <span class='ita'>Casablanca</span> <span class='num'>(1942)</span> 中的名场面 <a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1"><span class='reg'>“Play</span> <span class='ita'>La Marseillaise</span><span class='reg'>! Play it!”</span></a>——相信大家过于熟知，这里不再多述。但是，通过 <span class='ita'>La Marseillaise</span> 来呼唤自由与抗争的叙事镜头并非 <span class='ita'>Casablanca</span> 首创：例如，由 <span class='reg'>Jean Renoir</span> 执导的 <span class='ita'>La Grande Illusion</span> <span class='num'>(1937)</span> 中就有一个相当类似的场景 <a href="https://www.youtube.com/watch?v=byAWSUqluL0&t=0s"><span class='reg'>“Arrêtez, arrêtez les copains”</span></a>——一战期间，正在德军战俘营中表演滑稽歌舞 <span class='reg'>(vaudeville)</span> 的法国军人听闻凡尔登前线捷报，当即中断演出，带领全场起立高唱 <span class='ita'>La Marseillaise</span>。也许当年很多人不曾想到，在 <span class='ita'>La Grande Illusion</span> 上映三年后，法德再次开战，<span class='ita'>La Marseillaise</span> 又将被迫承担类似的使命。历史的循环经常令人无奈。
@@ -162,7 +162,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 **S4.**&nbsp;  在 <span class='num'>1976</span> 年发行的专辑 <span class='ita'>Le monde symphonique de Michel Sardou et Jacques Revaux</span> 中，<span class='reg'>Michel Sardou</span> 演唱了由 <span class='reg'>Jean Claudric</span> 编曲的 <a href="https://www.youtube.com/watch?v=D6PDFqjiZY0&t=0s"><span class='ita'>La Marseillaise</span></a>，声线硬朗，字正腔圆，颇具当代革命者的气质。
 
-<span class='num'>1980</span> 年初，<span class='reg'>Sardou</span> 为 <span class='reg'>Alain Boublil</span> 与 <span class='reg'>Claude-Michel Schönberg</span> 一部新音乐剧的概念专辑录制了一首题为 <a href="https://www.youtube.com/watch?v=PZxejoUFeN4&list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&index=17&t=2s"><span class='reg'>“À la volonté du peuple”</span></a> 革命歌。五年后，这部音乐剧在伦敦重新制作后走向世界，<span class='reg'>Sardou</span> 原唱的这首歌曲后来的英文版叫做 <a href="https://youtu.be/KPpkTgMbhRU?si=qDCp2afMPUKmCAA2&t=95s"><span class='reg'>“Do You Hear the People Sing?”</span></a> 
+<span class='num'>1980</span> 年初，<span class='reg'>Sardou</span> 为 <span class='reg'>Alain Boublil</span> 与 <span class='reg'>Claude-Michel Schönberg</span> 一部新音乐剧的概念专辑录制了一首题为 <a href="https://www.youtube.com/watch?v=PZxejoUFeN4&list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&index=17&t=2s"><span class='reg'>“À la volonté du peuple”</span></a> 革命歌。五年后，这部音乐剧在伦敦重新制作后走向世界，<span class='reg'>Sardou</span> 原唱的这首歌在英文版中叫做 <a href="https://youtu.be/KPpkTgMbhRU?si=qDCp2afMPUKmCAA2&t=95s"><span class='reg'>“Do You Hear the People Sing?”</span></a> 
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=PZxejoUFeN4&list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&index=15">
@@ -177,7 +177,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 
-<span class='reg'>Pesquet</span> 随后在 <span class='num'>2021</span> 年 <span class='num'>10</span> 月 4 日至 <span class='num'>11</span> 月 6 日间担任国际空间站指令长。所以说，无论在哪里做什么工作，一点小才艺都可能是有用的。
+<span class='reg'>Pesquet</span> 随后在<span class='num'> 2021 </span>年<span class='num'> 10 </span>月<span class='num'> 4 </span>日至<span class='num'> 11 </span>月<span class='num'> 6 </span>日间担任国际空间站指令长。所以说，无论在哪里做什么工作，一点小才艺都可能是有用的。
 
 <br>
 

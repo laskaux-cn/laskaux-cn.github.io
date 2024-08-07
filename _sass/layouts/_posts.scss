@@ -80,6 +80,13 @@ p.quote {
   letter-spacing: 0px;
   font-family: Noto Sans;
   font-size:0.96em;
+  line-height: 1.5;
+}
+p.quote-transl {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.87em;
+  line-height: 1.5;
 }
 p.poem {
   margin-bottom: 0.5em; 
@@ -87,19 +94,22 @@ p.poem {
   font-family: Noto Sans; 
   margin-left: 1em; 
   text-indent:-1em;
+  line-height: 1.5;
 }
 p.poem-ns {
-  margin-bottom: 0.0em; 
+  margin-bottom: 0.25em; 
   font-size:.96em; 
   font-family: Noto Sans; 
   margin-left: 1em; 
   text-indent:-1em;
+  line-height: 1.5;
 }
 p.poem-last {
   font-size:.96em; 
   font-family: Noto Sans; 
   margin-left: 1em; 
   text-indent:-1em;
+  line-height: 1.5;
 }
 p.cn {
   line-height: 1.65;

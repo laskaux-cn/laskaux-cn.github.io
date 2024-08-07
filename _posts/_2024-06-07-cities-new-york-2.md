@@ -22,6 +22,7 @@ tags: cities
 }
 p.quote {
   letter-spacing: 0px;
+  line-height: 1.5;
   font-family: Noto Sans;
   font-size:0.96em;
 }
@@ -168,7 +169,7 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
 <img src="/assets/img/albums/kempe-don-quixote.png" width="480"> </a> <br>
-@ Grunewaldkirche <br>
+@ Grunewaldkirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
 
