@@ -74,7 +74,7 @@ tags: random
 [^bush]: 	&emsp;<span class='reg'>Vannevar Bush (1945), <a href="https://www.nsf.gov/about/history/vbush1945.htm"> <span class='ita'>Science—the Endless Frontier: A Report to the President</span>.
 
 
-以上三种对「学术事业」的解读在我看来更多是**互补**而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。但这种必要的互补关系同时表明——即使在最理想的环境中，学者也只能享受**有限的自由**，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；此刻，学术与政治产生了奇妙的呼应。
+以上三种对「学术事业」的解读经常会让不同背景与立场的人们争论地不可开交，但在我看来它们更多是**互补**而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是一个学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。但这种必要的互补关系表明——即使在最理想的环境中，学者也只能享受**有限的自由**，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；在这里，学术与政治产生了奇妙的呼应。
 
 <br>
 
@@ -96,7 +96,7 @@ tags: random
 >
 > <p class="quote-transl"> 
 > Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. <nobr>. . .</nobr> So I dare to hope that you will forgive my frankness, and that I will remain, Madam, your very obedient and devoted servant. </i> </p>
-><p align="right" class="quote-ttl"> —Pierre-Gilles de Gennes, <a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up"><nobr> <i>Petit point</i> </nobr> </a> </p>
+><p align="right" class="quote-ttl"> ―Pierre-Gilles de Gennes, <a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up"><nobr> <i>Petit point</i> </nobr> </a> </p>
 
 
 <br>
@@ -114,7 +114,7 @@ tags: random
 > <p class="quote-transl">
 > Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
 >
-><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> —Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> ―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
 
 <p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
 <a href="https://www.youtube.com/watch?v=PW7dBAj9t24&list=OLAK5uy_k4btzHBaJYoVuq4x3XjIoT9omYRxhw3vw&index=5"> <img src="/assets/img/albums/petrenko-shostakovich13.png" width="480"> </a> 
@@ -163,7 +163,7 @@ tags: random
 > <p class="quote" style="margin-top:-0.67em">
 > I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must still try to learn from history. History is ourselves. </p>
 ><p align="right" class="quote-ttl"> 
-> —Kenneth Clark, <a href="https://youtu.be/Mt-vqdgvsoo?si=qBnprXmCylsBLdIm&t=35"> <i>Civilisation</i> </a> </p>
+> ―Kenneth Clark, <a href="https://youtu.be/Mt-vqdgvsoo?si=qBnprXmCylsBLdIm&t=35"> <i>Civilisation</i> </a> </p>
 
 <br>
 

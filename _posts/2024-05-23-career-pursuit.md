@@ -7,25 +7,29 @@ excerpt: <br>
 tags: random
 ---
 
-> <p class="quote">
+> <p class="quote" style="margin-top:-0.67em">
 > En tout cas, je n’étais peut-être pas sûr de ce qui m’intéressait réellement, mais j’étais tout à fait sur de ce qui ne m’intéressait pas. </p> 
 >
 > <p class="quote-transl"> 
 > Transl.&nbsp; <i> In any case, I might not be certain about what really interested me, but I was more than certain about what didn’t. </i> </p>
-><p align="right" class="quote"> <a href="https://archive.org/details/albertcamus-letranger-1942_20190820/page/n89/mode/2up">—Albert Camus, <i>L’Étranger</i> </a> </p>
+> <p align="right" class="quote"> ―Albert Camus, <a href="https://archive.org/details/albertcamus-letranger-1942_20190820/page/n89/mode/2up"><i>L’Étranger</i> </a> </p>
 
 <p style="margin-bottom:2em"> </p>
 
 <br>
 
-> <p class="quote">
+> <p class="quote" style="margin-top:-0.67em">
 > It is the glistening and softly spoken lie; the amiable fallacy; the patriotic lie of the historian, the provident lie of the politician, the zealous lie of the partizan, the merciful lie of the friend, and the careless lie of each man to himself, that cast that black mystery over humanity, through which any man who pierces, we thank as we would thank one who dug a well in a desert. </p>
 ><p align="right" class="quote"> 
->	<a href="https://archive.org/details/lamps_architect/page/n59/mode/2up">—John Ruskin, <nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
+>	―John Ruskin, <a href="https://archive.org/details/lamps_architect/page/n59/mode/2up"><nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
 
 <br>
 
-> <p class="quote">
+> <p class="quote" style="margin-top:-0.67em">
+> He said about this place, “Those who love me will know where to find me; for anyone else, it makes no difference.” To a lot of us, it makes a big difference. </p> 
+
+
+> <p class="quote" style="margin-top:-0.67em">
 > Die mich suchen, wissen, wer ich war, und die anderen brauchen es nicht zu wissen. </p> 
 >
 > <p class="quote-transl"> 
