@@ -12,6 +12,7 @@ tags: random
 ><p align="right" class="quote"> 
 >	―John Ruskin, <a href="https://archive.org/details/lamps_architect/page/n59/mode/2up"><nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
 
+
 <br>
 
 

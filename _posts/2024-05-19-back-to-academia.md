@@ -91,12 +91,7 @@ tags: random
 
 问题—<span class='reg'>Is it still fun to do science?</span>
 
-> <p class="quote" style="margin-top:-0.67em">
-> Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point. <nobr>. . .</nobr> J’ose donc espérer que vous me pardonnerez ma franchise, et que je resterai, Madame, votre très obéissant et très dévoué serviteur. </p> 
->
-> <p class="quote-transl"> 
-> Transl.&nbsp; <i> Madam, you look at science from the top and see it as a vast tapestry. I look at it from the bottom and notice every single stitch. <nobr>. . .</nobr> So I dare to hope that you will forgive my frankness, and that I will remain, Madam, your very obedient and devoted servant. </i> </p>
-><p align="right" class="quote-ttl"> ―Pierre-Gilles de Gennes, <a href="https://archive.org/details/petitpoint0000genn/page/7/mode/2up"><nobr> <i>Petit point</i> </nobr> </a> </p>
+
 
 
 <br>

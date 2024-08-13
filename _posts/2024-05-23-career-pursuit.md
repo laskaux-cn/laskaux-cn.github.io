@@ -18,7 +18,7 @@ tags: random
 
 <br>
 
-<span class='reg'>MTT</span> 站在位于维也纳城郊 <span class='reg'>Friedhof Grinzing</span> 的 <span class='reg'>Mahler</span> 墓碑前，「引用」了一句生前关于身后事的
+在全片最后，<span class='reg'>MTT</span> 站在 <span class='reg'>Mahler</span> 位于维也纳城郊 <span class='reg'>Friedhof Grinzing</span> 的僻静墓碑前，「引用」了一句生前关于身后事的
 
 > <p class="quote" style="margin-top:-0.67em">
 > He (Mahler) said about this place, “Those who love me will know where to find me; for anyone else, it makes no difference.” </p> 
