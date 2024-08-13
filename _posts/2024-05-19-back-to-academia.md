@@ -47,12 +47,12 @@ tags: random
 究竟什么是学术事业？我觉得这个问题有点像视觉中的多义图像 <span class='reg'>(ambiguous image)</span>，从不同角度出发可以得出迥异且互补的答案——
 
 <p class="alb">
-<img src="/assets/img/essays/rabbit-duck.png" width="275" style="margin-bottom:0.5em"> <br>
+<img src="/assets/img/essays/rabbit-duck.png" width="250" style="margin-bottom:0.5em"> <br>
 ―Which animals are most like each other? <br>
 ―Rabbit and duck.
 </p>
 
-相对传统的观点认为，真正的学术研究是一种非功利活动；出色的学者是在受本能的探索热忱驱使，从解决难题、揭秘未知中收获乐趣与成就感，并通过创造知识、启迪世界实现人生价值。因而选择以学术为业，必要前提是自己能够感受并享受强烈的内心召唤。<span class='reg'>John Ziman</span>[^ziman] 曾试图描述这种科学研究「不是工作，而是执念」的**纯粹主义** <span class='reg'>(purism)</span> 状态：
+相对传统的观点认为，真正的学术研究是一种非功利活动；出色的学者是在受本能的探索热忱驱使，从解决难题、揭秘未知中收获乐趣与成就感，并通过创造知识、启迪世界实现人生价值。因而选择以学术为业，必要前提是能够感受并享受强烈的内心召唤。<span class='reg'>John Ziman</span>[^ziman] 曾试图描述这种科学研究的**纯粹主义** <span class='reg'>(purism)</span> 状态：
 
 > <p class="quote" style="margin-top:-0.67em">
 > Real scientific research is very like play. It is unguided, personal activity, perfectly serious for those taking part, drawing unsuspected imaginative forces from the inner being, and deeply satisfying. <nobr>. . .</nobr> Science is not a job; it is an obsession. </p>
@@ -74,7 +74,7 @@ tags: random
 [^bush]: 	&emsp;<span class='reg'>Vannevar Bush (1945), <a href="https://www.nsf.gov/about/history/vbush1945.htm"> <span class='ita'>Science—the Endless Frontier: A Report to the President</span>.
 
 
-以上三种对「学术事业」的解读经常会让不同背景与立场的人们争论地不可开交，但在我看来它们更多是**互补**而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是一个学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。但这种必要的互补关系表明——即使在最理想的环境中，学者也只能享受**有限的自由**，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；在这里，学术与政治产生了奇妙的呼应。
+以上三种对「学术事业」的解读经常会让不同背景与立场的人们争论地不可开交，但在我看来它们更多是**互补**而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是一个学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。这种必要的互补关系表明——即使在最理想的环境中，学者也只能享受**有限的自由**，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；在这里，学术与政治产生了奇妙的呼应。
 
 <br>
 

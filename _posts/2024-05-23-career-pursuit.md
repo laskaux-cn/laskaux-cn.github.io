@@ -18,16 +18,12 @@ tags: random
 
 <br>
 
-> <p class="quote" style="margin-top:-0.67em">
-> It is the glistening and softly spoken lie; the amiable fallacy; the patriotic lie of the historian, the provident lie of the politician, the zealous lie of the partizan, the merciful lie of the friend, and the careless lie of each man to himself, that cast that black mystery over humanity, through which any man who pierces, we thank as we would thank one who dug a well in a desert. </p>
-><p align="right" class="quote"> 
->	―John Ruskin, <a href="https://archive.org/details/lamps_architect/page/n59/mode/2up"><nobr> <i>The Seven Lamps of Architecture</i> </nobr> </a> </p>
-
-<br>
+<span class='reg'>MTT</span> 站在位于维也纳城郊 <span class='reg'>Friedhof Grinzing</span> 的 <span class='reg'>Mahler</span> 墓碑前，「引用」了一句生前关于身后事的
 
 > <p class="quote" style="margin-top:-0.67em">
-> He said about this place, “Those who love me will know where to find me; for anyone else, it makes no difference.” To a lot of us, it makes a big difference. </p> 
-
+> He (Mahler) said about this place, “Those who love me will know where to find me; for anyone else, it makes no difference.” </p> 
+> <p class="quote">
+> To a lot of us, it makes a big difference. </p> 
 
 > <p class="quote" style="margin-top:-0.67em">
 > Die mich suchen, wissen, wer ich war, und die anderen brauchen es nicht zu wissen. </p> 
