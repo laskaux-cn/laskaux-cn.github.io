@@ -25,6 +25,8 @@ tags: random
 > <p class="quote">
 > To a lot of us, it makes a big difference. </p> 
 
+后来，我在 <span class='reg'>Mahler</span> 的遗孀 <span class='reg'>Alma Mahler</span> 于 <span class='num'>1940</span> 年出版的回忆录与书信集 <a href="https://archive.org/details/gustavmahlerderf0000fisc/page/838/mode/2up?q=%22die+mich+suchen%22"> <span class='ita'>Gustav Mahler: <nobr> Erinnerungen und Briefe </nobr> </span> </a> 中找到了这句转述的原文：
+
 > <p class="quote" style="margin-top:-0.67em">
 > Die mich suchen, wissen, wer ich war, und die anderen brauchen es nicht zu wissen. </p> 
 >
