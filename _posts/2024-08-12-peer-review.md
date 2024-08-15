@@ -8,6 +8,14 @@ tags: random
 ---
 
 > <p class="quote" style="margin-top:-0.67em">
+> Quatuor vero sunt maxima comprehendendae veritatis offendicula, <nobr>. . .</nobr> videlicet fragilis et indignae auctoritatis exemplum, consuetudinis diutumitas, vulgi sensus imperiti, et propriae ignorantiae occultatio cum ostentatione sapientiae apparentis. </p> 
+>
+> <p class="quote-transl"> 
+> Transl.&nbsp; <i> There are four chief obstacles in grasping truth, <nobr>. . .</nobr> namely, submission to faulty and unworthy authority, influence of custom, popular prejudice, and concealment of our own ignorance accompanied by an ostentatious display of our knowledge. </i> </p>
+><p align="right" class="quote"> 
+>	―Roger Bacon, <a href="https://archive.org/details/opusmajusofroger0001robe/page/4/mode/2up?view=theater"><nobr> <i>Opus Majus</i> </nobr> </a> </p>
+>
+> <p class="quote" style="margin-top:2em">
 > “Men han har jo ikke noget på,” sagde et lille barn. <nobr>. . .</nobr> og den ene hviskede til den anden, hvad barnet sagde. “Men han har jo ikke noget på,” råbte til sidst hele folket. </p> 
 >
 > <p class="quote-transl"> 
@@ -29,6 +37,26 @@ tags: random
 
 <br>
 
+
+> <p class="list" style="margin-top:-0.67em">
+> 1. Savoir de quoi on parle. </p>
+> <p class="list">
+> 2. Tout ce qui est obscur n’est pas nécessairement profond. </p>
+> <p class="list">
+> 3. La science n’est pas un « text ». </p>
+> <p class="list">
+> 4. Ne pas imiter les sciences exactes. </p>
+> <p class="list">
+> 5. Contre l’argument d’autorité. </p>
+> <p class="list">
+> 6. Ne pas mélanger scepticisme spécifique et scepticisme radical. </p>
+> <p class="list">
+> 7. L’ambiguïté utilisée comme subterfuge. </p>
+>
+> <p class="quote-transl"> 
+> Transl.&nbsp; 1. <i>Know what one is talking about. </i> &nbsp;2. <i>Not all that is obscure is necessarily profound.</i>  &nbsp;3. <i>Science is not a “text”.</i> &nbsp;4. <i>Do not imitate the exact sciences.</i>  &nbsp;5. <i>Be wary of argument from authority.</i>  &nbsp;6. <i> Do not mix specific skepticism and radical skepticism.</i>  &nbsp;7. <i>Ambiguity used as subterfuge.</i>  </p>
+
+<br>
 
 
 

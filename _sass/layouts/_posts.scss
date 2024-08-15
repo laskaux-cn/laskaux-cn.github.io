@@ -160,15 +160,19 @@ p.note {
   margin-bottom:2em;
   margin-left:1.25em; 
   margin-right:1.25em;
+  letter-spacing: 0;
+  line-height: 1.5;
 }
 p.list {
   text-align:left; 
   font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
+  font-size:0.95em; 
+  margin-top:-0.5em; 
+  margin-bottom:1.0em;
+  margin-left: 1.15em; 
+  text-indent:-1.15em;
+  letter-spacing: 0;
+  line-height: 1.5;
 }
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我想有怎样的事业
+title: 我向往怎样的事业
 subtitle: 
 excerpt: <br>
 
