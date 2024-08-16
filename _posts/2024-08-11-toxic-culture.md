@@ -7,7 +7,7 @@ excerpt: <br>
 tags: random
 ---
 
-> <p class="quote" style="margin-top:-0.69em">
+> <p class="quote">
 > Madame, vous voyez la science de haut, comme une vaste tapisserie. Je la vois d’en bas, au niveau du petit point. <nobr>. . .</nobr> J’ose donc espérer que vous me pardonnerez ma franchise, et que je resterai, Madame, votre très obéissant et très dévoué serviteur. </p> 
 >
 > <p class="quote-transl"> 
@@ -17,7 +17,7 @@ tags: random
 
 一封 <span class='num'>1996</span> 年由时任加州理工学院化学副教授 <span class='reg'>Erick M. Carreira</span> 写给自己实验室博士后 <span class='reg'>Guido Koch</span> 的<a href="https://forbetterscience.com/2020/09/06/new-jacs-eic-erick-carreira-correct-your-work-ethic-immediately/comment-page-2/">劝诫信</a>——个人以为具有极高的历史档案价值：
 
-> <p class="quote" style="margin-top:-0.69em">
+> <p class="quote">
 > I would like to provide for you in written form what is expected from you as a member of the research group. In addition to the usual work-day schedule, I expect all of the members of the group to work evenings and weekends. You will find that this is the norm here at Caltech. <nobr>. . .</nobr> </p> 
 >
 > <p class="quote">
