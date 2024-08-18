@@ -133,7 +133,7 @@ p.ttl {
   text-align:center;
   font-size:1.05em;
   font-weight: 600;
-  margin-bottom:1.0em;
+  margin-bottom:1.2em;
   margin-top:-1.0em;
 }
 p.end {
@@ -163,7 +163,7 @@ p.note {
   letter-spacing: 0;
   line-height: 1.5;
 }
-p.list {
+p.quote-list {
   text-align:left; 
   font-family: Noto Sans; 
   font-size:0.95em; 
@@ -174,5 +174,12 @@ p.list {
   letter-spacing: 0;
   line-height: 1.5;
 }
-
-
+p.list {
+  margin-left: 1.35em; 
+  text-indent:-1.35em;
+  margin-bottom:1.0em;
+}
+p.list-last {
+  margin-left: 1.35em; 
+  text-indent:-1.35em;
+}

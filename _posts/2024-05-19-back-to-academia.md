@@ -60,7 +60,7 @@ tags: random
 [^ziman]: 	&emsp;<span class='reg'>John Ziman (1972), <a href="https://archive.org/details/puzzlesproblemse0000zima_a3q0/page/2/mode/2up"> “Puzzles, Problems and Enigmas”</a>, in <span class='ita'>Puzzles, Problems and Enigmas: Occasional Pieces on the Human Aspects of Science</span> (Cambridge University Press, 1981). </span>
 
 
-与强调内在驱动相对的，是基于现代知识体系构建原则的**专业主义** <span class='reg'>(professionalism)</span> 视角：研究区别于创作、知识区别于作品的核心在于前者的客观性 <span class='reg'>(objectivity)</span>——有价值的学术成果必须在相对稳定、公开的评价标准下，至少得到一定规模专业群体的大致认同；故相较于纯粹的个人追求，外界的评判与约束对知识创造和学者的生涯发展实则有更本质的意义。<span class='reg'>Karl Popper</span>[^popper] 简练总结过这种知识社会学 <span class='reg'>(sociology of knowledge)</span> 的观点逻辑：
+与强调内在驱动相对的，是基于现代知识体系构建原则的**专业主义** <span class='reg'>(professionalism)</span> 视角：研究区别于创作、知识区别于作品的核心在于前者的客观性 <span class='reg'>(objectivity)</span>——有价值的学术成果必须在相对稳定、公开的评价标准下，至少得到一定规模专业群体的大致认同；故相较于纯粹的个人追求，外界的评判与约束对知识创造和学者的生涯发展实则有更本质的意义。<span class='reg'>Karl Popper</span>[^popper] 提练过这种知识社会学 <span class='reg'>(sociology of knowledge)</span> 的观点逻辑：
 
 > <p class="quote">
 > What we call ‘scientific objectivity’ is not a product of the individual scientist’s impartiality, but a product of the social or public character of scientific method; and the individual scientist’s impartiality is, so far as it exists, not the source but rather the result of this socially or institutionally organized objectivity of science. </p>
@@ -69,10 +69,7 @@ tags: random
 
 现实中，多数人是否坚持学术也直接取决于能否获得同行足够的认可和心仪研究机构的职位——此时学术就是一份依赖社会联系的普通工作，与其它职业并无根本区别。
 
-最后，关于什么是学术，还有另一种时下相当主流的**实用主义** <span class='reg'>(pragmatism)</span> 论点：以人才和资金为核心的现代学术研究本质是一种经济活动，它最普遍的意义既非个人追求，亦非同行认可，而在于通过资源投入产生具体可见的价值回报。这种观念貌似与传统学术精神背离，现实中却有力推动了知识创新的制度化 <span class='reg'>(institutionalization)</span> 发展，也成为了当代国家调用公共资源长期有组织地支持基础研究的理论依据。越来越多的「新时代」学者和科研机构都在尝试各种方式将经济或商业思维引入学术圈，其中一些直至把研究成果的实际影响置于工作目标的首位。于是我们思考职业路线时就有了另一条优化依据——如何让自己的知识与能力实现最大的社会经济效益；这样的选择也通常伴随着很高的个人物质回报。
-
-
-
+最后，关于什么是学术，时下还相当流行另一种**实用主义** <span class='reg'>(pragmatism)</span> 论点：以人才和资金为核心的现代学术研究本质是一种经济活动，它最普遍的意义既非个人追求，亦非同行认可，而在于通过资源投入产生具体可见的价值回报。这种观念貌似与传统学术精神背离，现实中却有力推动了知识创新的制度化 <span class='reg'>(institutionalization)</span> 发展，也成为了当代国家调用公共资源长期有组织地支持基础研究的理论依据。越来越多的「新时代」学者和科研机构都在尝试各种方式将经济或商业思维引入学术圈，其中一些直至把研究成果的实际影响置于工作目标的首位。于是我们思考职业路线时就有了另一条优化依据——如何让自己的知识与能力实现最大的社会经济效益；这样的选择也通常伴随着很高的个人物质回报。
 
 以上三种对「学术事业」的解读经常令不同背景与立场的人们争论不休，但在我看来它们更多是**互补**而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是一个学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。然而这种必要的互补性表明——即使在最理想的环境中，学者也只能享受**有限的自由**，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；在这里，学术与政治产生了奇妙的呼应。
 
@@ -81,11 +78,38 @@ tags: random
 
 <p class="ttl"> 二 </p>
 
+自大学本科开始到博士毕业前夕，出于几个简单的原因，我一直都把学术路线作为自己未来规划的首选：
 
-可在现实中，真正想做的人并不多。
+<p class="list">
+	1.&nbsp; 从小到大，高度专注的学习与思考给我带来的本能快感是其它任何事情都无法比拟的。
+</p>
 
+<p class="list">
+	2.&nbsp; 我及时发现了自己喜欢的、处于交叉活跃状态的前沿研究领域，并有幸在这一领域的世界学术中心接受最高质量的科研训练。
+</p>
 
-那些几乎人尽皆知的弊端，比如：人才供求失衡导致的过度竞争、巨大的工作压力和相较于真正的高收入职业不算丰厚的物质回报、获得长聘职位前不稳定的工作和生活状态等等。
+<p class="list">
+	3.&nbsp; 我愿意致力于知识的创造与传播；特别地，我希望能用知识服务最宽泛意义上的现代社会而非特定的组织或利益群体。
+</p>
+
+<p class="list-last">
+	4.&nbsp; 在理想中，我倾向于长期从事创造型事业，让自己漫长的人生充满惊喜与期待。
+</p>
+
+而对于学术职业一些众所周知的弊端，比如工作强度高、竞争压力大、收入不算丰厚等，我其实并没有十分介意：
+
+<p class="list">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我很享受沉浸式的工作状态，只要是在学习、研究我感兴趣的内容；这种感觉反而是我喜欢科研生活的原因之一。
+</p>
+
+<p class="list">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我从来不认为任教于顶级名校是实现学术理想的唯一途径；至少在我的领域，最重要的基础创新反而更多来自相对宽松自由的学术环境和长期坚持探索的研究团队。
+</p>
+
+<p class="list-last">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我出生长大于一个普通中产家庭，未曾经历拮据，但也从未体验或幻想过优渥——这使得我对物质生活一向没有太多要求，大学教授那份不高不低的工资其实颇合我意。
+</p>
+
 
 投机与功利主义驱使下，学术评价标准的滑坡；研究性大学的运行管理加速财团化和官僚化；近些年来，**反智**思潮在美国社会政治光谱的保守和自由两侧同时抬头
 

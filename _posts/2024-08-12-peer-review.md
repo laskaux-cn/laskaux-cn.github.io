@@ -38,7 +38,7 @@ tags: random
 <br>
 
 
-> <p class="list">
+> <p class="quote-list">
 > 1. Savoir de quoi on parle. </p>
 > <p class="list">
 > 2. Tout ce qui est obscur n’est pas nécessairement profond. </p>

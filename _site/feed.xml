@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 16 Aug 2024 02:04:28 -0400</pubDate>
+    <pubDate>Sun, 18 Aug 2024 12:00:08 -0400</pubDate>
     
       <item>
         <title>学术不端可怕吗？</title>
@@ -71,7 +71,7 @@ It disturbs me to see accelerator physics viewed as a nationalistic, competitive
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p class=&quot;list&quot;&gt;
+  &lt;p class=&quot;quote-list&quot;&gt;
 1. Savoir de quoi on parle. &lt;/p&gt;
   &lt;p class=&quot;list&quot;&gt;
 2. Tout ce qui est obscur n’est pas nécessairement profond. &lt;/p&gt;
@@ -338,7 +338,7 @@ Because, my dear Ricky, I suspect that under that cynical shell you are at heart
 Real scientific research is very like play. It is unguided, personal activity, perfectly serious for those taking part, drawing unsuspected imaginative forces from the inner being, and deeply satisfying. &lt;nobr&gt;. . .&lt;/nobr&gt; Science is not a job; it is an obsession. &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;与强调内在驱动相对的，是基于现代知识体系构建原则的&lt;strong&gt;专业主义&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(professionalism)&lt;/span&gt; 视角：研究区别于创作、知识区别于作品的核心在于前者的客观性 &lt;span class=&quot;reg&quot;&gt;(objectivity)&lt;/span&gt;——有价值的学术成果必须在相对稳定、公开的评价标准下，至少得到一定规模专业群体的大致认同；故相较于纯粹的个人追求，外界的评判与约束对知识创造和学者的生涯发展实则有更本质的意义。&lt;span class=&quot;reg&quot;&gt;Karl Popper&lt;/span&gt;&lt;sup id=&quot;fnref:popper&quot;&gt;&lt;a href=&quot;#fn:popper&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; 简练总结过这种知识社会学 &lt;span class=&quot;reg&quot;&gt;(sociology of knowledge)&lt;/span&gt; 的观点逻辑：&lt;/p&gt;
+&lt;p&gt;与强调内在驱动相对的，是基于现代知识体系构建原则的&lt;strong&gt;专业主义&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(professionalism)&lt;/span&gt; 视角：研究区别于创作、知识区别于作品的核心在于前者的客观性 &lt;span class=&quot;reg&quot;&gt;(objectivity)&lt;/span&gt;——有价值的学术成果必须在相对稳定、公开的评价标准下，至少得到一定规模专业群体的大致认同；故相较于纯粹的个人追求，外界的评判与约束对知识创造和学者的生涯发展实则有更本质的意义。&lt;span class=&quot;reg&quot;&gt;Karl Popper&lt;/span&gt;&lt;sup id=&quot;fnref:popper&quot;&gt;&lt;a href=&quot;#fn:popper&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; 提练过这种知识社会学 &lt;span class=&quot;reg&quot;&gt;(sociology of knowledge)&lt;/span&gt; 的观点逻辑：&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p class=&quot;quote&quot;&gt;
@@ -347,7 +347,7 @@ What we call ‘scientific objectivity’ is not a product of the individual sci
 
 &lt;p&gt;现实中，多数人是否坚持学术也直接取决于能否获得同行足够的认可和心仪研究机构的职位——此时学术就是一份依赖社会联系的普通工作，与其它职业并无根本区别。&lt;/p&gt;
 
-&lt;p&gt;最后，关于什么是学术，还有另一种时下相当主流的&lt;strong&gt;实用主义&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(pragmatism)&lt;/span&gt; 论点：以人才和资金为核心的现代学术研究本质是一种经济活动，它最普遍的意义既非个人追求，亦非同行认可，而在于通过资源投入产生具体可见的价值回报。这种观念貌似与传统学术精神背离，现实中却有力推动了知识创新的制度化 &lt;span class=&quot;reg&quot;&gt;(institutionalization)&lt;/span&gt; 发展，也成为了当代国家调用公共资源长期有组织地支持基础研究的理论依据。越来越多的「新时代」学者和科研机构都在尝试各种方式将经济或商业思维引入学术圈，其中一些直至把研究成果的实际影响置于工作目标的首位。于是我们思考职业路线时就有了另一条优化依据——如何让自己的知识与能力实现最大的社会经济效益；这样的选择也通常伴随着很高的个人物质回报。&lt;/p&gt;
+&lt;p&gt;最后，关于什么是学术，时下还相当流行另一种&lt;strong&gt;实用主义&lt;/strong&gt; &lt;span class=&quot;reg&quot;&gt;(pragmatism)&lt;/span&gt; 论点：以人才和资金为核心的现代学术研究本质是一种经济活动，它最普遍的意义既非个人追求，亦非同行认可，而在于通过资源投入产生具体可见的价值回报。这种观念貌似与传统学术精神背离，现实中却有力推动了知识创新的制度化 &lt;span class=&quot;reg&quot;&gt;(institutionalization)&lt;/span&gt; 发展，也成为了当代国家调用公共资源长期有组织地支持基础研究的理论依据。越来越多的「新时代」学者和科研机构都在尝试各种方式将经济或商业思维引入学术圈，其中一些直至把研究成果的实际影响置于工作目标的首位。于是我们思考职业路线时就有了另一条优化依据——如何让自己的知识与能力实现最大的社会经济效益；这样的选择也通常伴随着很高的个人物质回报。&lt;/p&gt;
 
 &lt;p&gt;以上三种对「学术事业」的解读经常令不同背景与立场的人们争论不休，但在我看来它们更多是&lt;strong&gt;互补&lt;/strong&gt;而非互斥关系——兴趣与自由、知识客观性、广义社会价值都是一个学术领域健康发展的需要，也是个人从事学术研究不同侧面的成就感来源。然而这种必要的互补性表明——即使在最理想的环境中，学者也只能享受&lt;strong&gt;有限的自由&lt;/strong&gt;，并接受来自专业群体内部和外部的多方面约束。理解（学术）自由的有限性是我们成长为负责任的（学术）公民的开始；在这里，学术与政治产生了奇妙的呼应。&lt;/p&gt;
 
@@ -355,9 +355,37 @@ What we call ‘scientific objectivity’ is not a product of the individual sci
 
 &lt;p class=&quot;ttl&quot;&gt; 二 &lt;/p&gt;
 
-&lt;p&gt;可在现实中，真正想做的人并不多。&lt;/p&gt;
+&lt;p&gt;自大学本科开始到博士毕业前夕，出于几个简单的原因，我一直都把学术路线作为自己未来规划的首选：&lt;/p&gt;
 
-&lt;p&gt;那些几乎人尽皆知的弊端，比如：人才供求失衡导致的过度竞争、巨大的工作压力和相较于真正的高收入职业不算丰厚的物质回报、获得长聘职位前不稳定的工作和生活状态等等。&lt;/p&gt;
+&lt;p class=&quot;list&quot;&gt;
+	1.&amp;nbsp; 从小到大，高度专注的学习与思考给我带来的本能快感是其它任何事情都无法比拟的。
+&lt;/p&gt;
+
+&lt;p class=&quot;list&quot;&gt;
+	2.&amp;nbsp; 我及时发现了自己喜欢的、处于交叉活跃状态的前沿研究领域，并有幸在这一领域的世界学术中心接受最高质量的科研训练。
+&lt;/p&gt;
+
+&lt;p class=&quot;list&quot;&gt;
+	3.&amp;nbsp; 我愿意致力于知识的创造与传播；特别地，我希望能用知识服务最宽泛意义上的现代社会而非特定的组织或利益群体。
+&lt;/p&gt;
+
+&lt;p class=&quot;list-last&quot;&gt;
+	4.&amp;nbsp; 在理想中，我倾向于长期从事创造型事业，让自己漫长的人生充满惊喜与期待。
+&lt;/p&gt;
+
+&lt;p&gt;而对于学术职业一些众所周知的弊端，比如工作强度高、竞争压力大、收入不算丰厚等，我其实并没有十分介意：&lt;/p&gt;
+
+&lt;p class=&quot;list&quot;&gt;
+	&lt;img src=&quot;/assets/img/symbols/bullet.png&quot; width=&quot;14.2&quot; /&gt;&amp;nbsp; 我很享受沉浸式的工作状态，只要是在学习、研究我感兴趣的内容；这种感觉反而是我喜欢科研生活的原因之一。
+&lt;/p&gt;
+
+&lt;p class=&quot;list&quot;&gt;
+	&lt;img src=&quot;/assets/img/symbols/bullet.png&quot; width=&quot;14.2&quot; /&gt;&amp;nbsp; 我从来不认为任教于顶级名校是实现学术理想的唯一途径；至少在我的领域，最重要的基础创新反而更多来自相对宽松自由的学术环境和长期坚持探索的研究团队。
+&lt;/p&gt;
+
+&lt;p class=&quot;list-last&quot;&gt;
+	&lt;img src=&quot;/assets/img/symbols/bullet.png&quot; width=&quot;14.2&quot; /&gt;&amp;nbsp; 我出生长大于一个普通中产家庭，未曾经历拮据，但也从未体验或幻想过优渥——这使得我对物质生活一向没有太多要求，大学教授那份不高不低的工资其实颇合我意。
+&lt;/p&gt;
 
 &lt;p&gt;投机与功利主义驱使下，学术评价标准的滑坡；研究性大学的运行管理加速财团化和官僚化；近些年来，&lt;strong&gt;反智&lt;/strong&gt;思潮在美国社会政治光谱的保守和自由两侧同时抬头&lt;/p&gt;
 
