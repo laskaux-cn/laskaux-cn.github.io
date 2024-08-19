@@ -24,7 +24,7 @@ tags: random
 
 我为什么要现在返回学术界？之前又为何暂时离开？以下我将尝试给出一个至少能令自己基本信服的回答。我一直认为：学业、事业的选择与其它重要的人生抉择一样，都不是标准明确的理性优化，而关键在于限定自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统又是**个体**与**环境**长期相互作用的结果。<span class='reg'>Goethe</span>[^goethe] 曾在随 <a href="https://books.google.com/books?id=JRbfAAAAMAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"><span class='ita'>Zur Morphologie</span></a> 一同发表的一篇短文里写过一句大白话：
 
-[^goethe]: 	&emsp;<span class='reg'>Johann Wolfgang von Goethe (1823), <a href="http://www.zeno.org/Literatur/M/Goethe,+Johann+Wolfgang/Theoretische+Schriften/Bedeutende+F%C3%B6rdernis+durch+ein+einziges+geistreiches+Wort"> “Bedeutende Fördernis durch ein einziges geistreiches Wort”</a>, in <span class='ita'>Zur Morphologie</span>, Band 2, Heft 1 (Stuttgart: J.G. Cotta’sche). </span>
+[^goethe]: 	&ensp;<span class='reg'>Johann Wolfgang von Goethe (1823), <a href="http://www.zeno.org/Literatur/M/Goethe,+Johann+Wolfgang/Theoretische+Schriften/Bedeutende+F%C3%B6rdernis+durch+ein+einziges+geistreiches+Wort"> “Bedeutende Fördernis durch ein einziges geistreiches Wort”</a>, in <span class='ita'>Zur Morphologie</span>, Band 2, Heft 1 (Stuttgart: J.G. Cotta’sche). </span>
 
 > <p class="quote">
 > Der Mensch kennt nur sich selbst, insofern er die Welt kennt, die er nur in sich und sich nur in ihr gewahr wird. </p> 
@@ -57,7 +57,7 @@ tags: random
 > <p class="quote">
 > Real scientific research is very like play. It is unguided, personal activity, perfectly serious for those taking part, drawing unsuspected imaginative forces from the inner being, and deeply satisfying. <nobr>. . .</nobr> Science is not a job; it is an obsession. </p>
 
-[^ziman]: 	&emsp;<span class='reg'>John Ziman (1972), <a href="https://archive.org/details/puzzlesproblemse0000zima_a3q0/page/2/mode/2up"> “Puzzles, Problems and Enigmas”</a>, in <span class='ita'>Puzzles, Problems and Enigmas: Occasional Pieces on the Human Aspects of Science</span> (Cambridge University Press, 1981). </span>
+[^ziman]: 	&ensp;<span class='reg'>John Ziman (1972), <a href="https://archive.org/details/puzzlesproblemse0000zima_a3q0/page/2/mode/2up"> “Puzzles, Problems and Enigmas”</a>, in <span class='ita'>Puzzles, Problems and Enigmas: Occasional Pieces on the Human Aspects of Science</span> (Cambridge University Press, 1981). </span>
 
 
 与强调内在驱动相对的，是基于现代知识体系构建原则的**专业主义** <span class='reg'>(professionalism)</span> 视角：研究区别于创作、知识区别于作品的核心在于前者的客观性 <span class='reg'>(objectivity)</span>——有价值的学术成果必须在相对稳定、公开的评价标准下，至少得到一定规模专业群体的大致认同；故相较于纯粹的个人追求，外界的评判与约束对知识创造和学者的生涯发展实则有更本质的意义。<span class='reg'>Karl Popper</span>[^popper] 提练过这种知识社会学 <span class='reg'>(sociology of knowledge)</span> 的观点逻辑：
@@ -65,7 +65,7 @@ tags: random
 > <p class="quote">
 > What we call ‘scientific objectivity’ is not a product of the individual scientist’s impartiality, but a product of the social or public character of scientific method; and the individual scientist’s impartiality is, so far as it exists, not the source but rather the result of this socially or institutionally organized objectivity of science. </p>
 
-[^popper]: 	&emsp;<span class='reg'>Karl Popper (1945), <a href="https://www.google.com/books/edition/Knowledge/73m8mTdpsKgC?hl=en&gbpv=1&pg=PA63&printsec=frontcover"> “The Sociology of Knowledge”</a>, in <span class='ita'>The Open Society and Its Enemies</span>, Vol. 2 (London: Routledge). </span>
+[^popper]: 	&ensp;<span class='reg'>Karl Popper (1945), <a href="https://www.google.com/books/edition/Knowledge/73m8mTdpsKgC?hl=en&gbpv=1&pg=PA63&printsec=frontcover"> “The Sociology of Knowledge”</a>, in <span class='ita'>The Open Society and Its Enemies</span>, Vol. 2 (London: Routledge). </span>
 
 现实中，多数人是否坚持学术也直接取决于能否获得同行足够的认可和心仪研究机构的职位——此时学术就是一份依赖社会联系的普通工作，与其它职业并无根本区别。
 
@@ -78,47 +78,64 @@ tags: random
 
 <p class="ttl"> 二 </p>
 
-自大学本科开始到博士毕业前夕，出于几个简单的原因，我一直都把学术路线作为自己未来规划的首选：
+自大学本科开始到博士毕业前夕，我一直都把学术路线作为自己未来规划的首选。这份「专一」出于几个简单的原因：
 
 <p class="list">
-	1.&nbsp; 从小到大，高度专注的学习与思考给我带来的本能快感是其它任何事情都无法比拟的。
+	1.&nbsp; 迄今为止，高度专注的学习与思考给我带来的本能快感无法被其它任何事情替代。
 </p>
 
 <p class="list">
-	2.&nbsp; 我及时发现了自己喜欢的、处于交叉活跃状态的前沿研究领域，并有幸在这一领域的世界学术中心接受最高质量的科研训练。
+	2.&nbsp; 我及时发现了自己喜欢的前沿研究领域，并有幸在这一领域的世界学术中心接受最高质量的科研训练。
 </p>
 
 <p class="list">
-	3.&nbsp; 我愿意致力于知识的创造与传播；特别地，我希望能用知识服务最宽泛意义上的现代社会而非特定的组织或利益群体。
+	3.&nbsp; 我热爱知识的创造与传播；特别地，我希望能用知识服务最宽泛意义上的现代社会而非特定的组织或利益群体。
 </p>
 
 <p class="list-last">
-	4.&nbsp; 在理想中，我倾向于长期从事创造型事业，让自己漫长的人生充满惊喜与期待。
+	4.&nbsp; 在理想中，我希望能长期从事创造型事业，让自己漫长的人生充满惊喜与期待。
 </p>
 
-而对于学术职业一些众所周知的弊端，比如工作强度高、竞争压力大、收入不算丰厚等，我其实并没有十分介意：
+而对于学术职业一些众所周知的弊端，比如工作强度高、竞争压力大、收入不算丰厚[^prof]等，我倒并不十分介意：
+
+[^prof]: 	&ensp;事实上，在今天的美国，大学教授或研究机构长聘职位的收入仍然高于大部分普通职业，也要好过世界多数国家的同类学术工作；只是这份工资与真正的高收入职业相比就略显寒酸。
 
 <p class="list">
-	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我很享受沉浸式的工作状态，只要是在学习、研究我感兴趣的内容；这种感觉反而是我喜欢科研生活的原因之一。
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我很享受沉浸式的工作状态，只要是在学习、研究自己感兴趣的内容；这种感觉正是我喜欢科研生活的原因之一。
 </p>
 
 <p class="list">
-	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我从来不认为任教于顶级名校是实现学术理想的唯一途径；至少在我的领域，最重要的基础创新反而更多来自相对宽松自由的学术环境和长期坚持探索的研究团队。
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我不认为任教于顶级名校是实现学术理想的唯一途径；至少在我的领域，最重要的基础创新事实上更多源于相对宽松的学术环境和长期坚持探索的研究氛围。
 </p>
 
 <p class="list-last">
-	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我出生长大于一个普通中产家庭，未曾经历拮据，但也从未体验或幻想过优渥——这使得我对物质生活一向没有太多要求，大学教授那份不高不低的工资其实颇合我意。
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 我出生长大于一个普通中产家庭，未曾经历拮据，但也从未体验或幻想过优渥——这使得我对物质生活一向没有太多要求，也不认为经济地位能直接反映人的社会价值；大学教授那份不高不低的工资其实颇合我意。
 </p>
 
+然而我在博士毕业后却没有直接进入博士后研究，而是选择在工业界做第一份正式工作。其中最重要的原因是：随着读博期间对当下美国学术科研系统的逐步了解，我对自己是否愿意在这套体系下长期工作产生了动摇，因为担心未来的职业境遇很可能背离自己选择学术道路的初衷。最主要的非理想因素可以大致概括如下：
 
-投机与功利主义驱使下，学术评价标准的滑坡；研究性大学的运行管理加速财团化和官僚化；近些年来，**反智**思潮在美国社会政治光谱的保守和自由两侧同时抬头
+<p class="list">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 美国学术界繁荣的表象下存在严重的<b>资源分配不均</b>——人才与经费过于向名校、发达地区和热门学科领域集中，使得年轻学者在教职与研究方向上的选择非常受限，不得不面对本质无益于学术多元发展的同质化 <span class='reg'>(homogenization)</span> 竞争。
+</p>
 
-问题—<span class='reg'>Is it still fun to do science?</span>
+<p class="list">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 在<b>功利</b>与<b>投机</b>思维的冲击下，美国学术界的整体健康状况开始愈发不稳定——比如学术评价标准时常出现的混乱以及严肃学者素养的滑坡；甚至于最基本的学术道德都有在局部范围内遭遇严峻挑战。
+</p>
 
+<p class="list">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 美国的研究型大学普遍走向<b>财团化</b>和<b>官僚化</b>，知识创新与教书育人作为大学的传统核心使命正在被逐渐推向边缘；教授和学者从旧概念里大学的「主人」变为新时期「学术资本主义」体制下的打工人。
+</p>
 
+<p class="list-last">
+	<img src="/assets/img/symbols/bullet.png" width="14.2">&nbsp; 近些年来，<b>反智</b>思潮在美国社会政治光谱的保守和自由两侧同时抬头，并公开向知识和教育领域渗透；虽说目前自然科学受其直接影响还相对较小，但学术大环境的改变已经不容忽视。
+</p>
 
+当然我有意识到：以上这些犹豫很大概率源于我在美国学术界的长期浸没，从而有机会察觉并放大了其中的缺陷——认识到真实世界的不完美未尝不是一种走向成熟的表现。但同时，长期的独立思考习惯让我无法故意忽视问题（或自我洗脑）去迎合任何貌似强大的体系。我需要更多的时间和经历来做出负责任的下一步选择。
 
 <br>
+
+
+<p class="ttl"> 三 </p>
 
 
 ><p class="poem-ns">
@@ -142,7 +159,7 @@ tags: random
 <br>
 
 
-<p class="ttl"> 三 </p>
+<p class="ttl"> 四 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a>
@@ -153,7 +170,7 @@ tags: random
 <br>
 
 
-<p class="ttl"> 四 </p>
+<p class="ttl"> 五 </p>
 
 > <p class="quote">
 > You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
@@ -179,7 +196,7 @@ tags: random
 <br>
 
 
-<p class="ttl"> 五 </p>
+<p class="ttl"> 六 </p>
 
 > <p class="quote">
 > I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must still try to learn from history. History is ourselves. </p>
