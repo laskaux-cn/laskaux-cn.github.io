@@ -1,90 +1,11 @@
 ---
 layout: post
-title: 音乐笔记 2 &colon; 约束与自由
+title: 音乐笔记 3 &colon; 约束与自由
 subtitle: 
 excerpt: <br>
 
 tags: music-notes
 ---
-
-<style>
-.ita {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-style: italic;
-}
-.reg {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-}
-.num {
-  letter-spacing: 0px;
-}
-p.quote {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-size:0.96em;
-}
-p.poem {
-  margin-bottom: 0.5em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-last {
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.cn {
-  line-height: 1.65;
-  letter-spacing: 0.1px;
-  margin-bottom:1.45em;
-}
-p.ttl {
-  text-align:center;
-  font-size:1.05em;
-  font-weight: 600;
-  margin-bottom:1.0em;
-}
-p.end {
-  letter-spacing: 0.1px;
-  text-align:center;
-  margin-bottom:2em;
-}
-p.alb {
-  text-align:center; 
-  font-family: Noto Sans; 
-  color:#707070; 
-  font-size:0.88em; 
-  margin-top:2em; 
-  margin-bottom:2em;
-}
-p.note {
-  text-align:left; 
-  color:#707070; 
-  font-size:0.88em; 
-  letter-spacing: 0.4px;
-  margin-top:2em; 
-  margin-bottom:2em;
-  margin-left:1.25em; 
-  margin-right:1.25em;
-}
-
-p.list {
-  text-align:left; 
-  font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
-}
-
-</style>
-
 
 <br>
 
@@ -110,7 +31,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
-
+</p>
 
 <p class="alb">
 <a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
@@ -213,7 +134,6 @@ Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbs
 @ Espace de projection, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
 </p>
-
 
 <br>
 
@@ -376,6 +296,10 @@ Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" widt
 
 <p class="ttl"> – 5 – </p>
 
+> <p class="quote">
+> After Beethoven, the sonata was the vehicle of the sublime. It played the same role in music as the epic in poetry, and the large historical fresco in painting. The proof of craftsmanship was the fugue, but the proof of greatness was the sonata. Only through the sonata, it seemed, could the highest musical ambitions be realized. </p>
+><p align="right" class="quote-ttl"> 
+> ―Charles Rosen, <a href="https://archive.org/details/sonataforms00rose/page/366/mode/2up"> <i>Sonata Forms</i> </a> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">

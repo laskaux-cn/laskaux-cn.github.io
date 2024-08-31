@@ -1,90 +1,11 @@
 ---
 layout: post
-title: 音乐笔记 3 &colon; 简单与繁复
+title: 音乐笔记 2 &colon; 简单与繁复
 subtitle: 
 excerpt: <br>
 
 tags: music-notes
 ---
-
-<style>
-.ita {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-style: italic;
-}
-.reg {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-}
-.num {
-  letter-spacing: 0px;
-}
-p.quote {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-size:0.96em;
-}
-p.poem {
-  margin-bottom: 0.5em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-last {
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.cn {
-  line-height: 1.65;
-  letter-spacing: 0.1px;
-  margin-bottom:1.45em;
-}
-p.ttl {
-  text-align:center;
-  font-size:1.05em;
-  font-weight: 600;
-  margin-bottom:1.0em;
-}
-p.end {
-  letter-spacing: 0.1px;
-  text-align:center;
-  margin-bottom:2em;
-}
-p.alb {
-  text-align:center; 
-  font-family: Noto Sans; 
-  color:#707070; 
-  font-size:0.88em; 
-  margin-top:2em; 
-  margin-bottom:2em;
-}
-p.note {
-  text-align:left; 
-  color:#707070; 
-  font-size:0.88em; 
-  letter-spacing: 0.4px;
-  margin-top:2em; 
-  margin-bottom:2em;
-  margin-left:1.25em; 
-  margin-right:1.25em;
-}
-
-p.list {
-  text-align:left; 
-  font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
-}
-
-</style>
-
 
 <br>
 
@@ -140,13 +61,6 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 <p class="ttl"> – 2 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
-<img src="/assets/img/albums/longhini-monteverdi8.png" width="480"> </a> <br>
-@ Chiesa di San Briccio, <br>
-Verona &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.06–07
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=jenblJUDlbw&list=OLAK5uy_kh-dI8StjsDOjWHgU29rTkk_EkRFQOQP4&index=20">
 <img src="/assets/img/albums/papasergio-lully.png" width="480"> </a> <br>
 @ Auditorium du Conservatoire, <br>
@@ -167,6 +81,12 @@ Crema &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp;
 Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2014.09
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
+<img src="/assets/img/albums/longhini-monteverdi8.png" width="480"> </a> <br>
+@ Chiesa di San Briccio, <br>
+Verona &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.06–07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=K6yAnOSPvPY&list=OLAK5uy_kNkEmg4Ad77jCTttP5CeDaIPyfFo6iSvo&index=136">

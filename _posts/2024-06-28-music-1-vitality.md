@@ -7,21 +7,6 @@ excerpt: <br>
 tags: music-notes
 ---
 
-<style>
-.ita {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-style: italic;
-}
-.reg {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-}
-.num {
-  letter-spacing: 0px;
-}
-</style>
-
 冒昧地借用自己最喜欢的古早人文纪录片结构，从 <span class='num'>13</span> 个不同主题出发，试图打破音乐类型、音乐史的界限
 
 <br>
@@ -59,6 +44,16 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="ttl"> – 2 – </p>
 
+><p class="poem-ns">
+>Ja nus hons pris ne dira sa raison </p>
+><p class="poem-ns">
+>Adroitement, se dolantement non; </p>
+><p class="poem-last">
+>Mais par effort puet il faire chançon.</p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>No prisoner will ever state his case cleverly, as he will put it in a sorrowful way; he can, however, write a song to comfort himself. </i> </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
 <img src="/assets/img/albums/munrow-richard.png" width="480"> </a> <br>
@@ -66,12 +61,37 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1970.09
 </p>
 
+
+><p class="poem-ns">
+>Si dolce è’l tormento </p>
+><p class="poem-ns">
+>Ch’in seno mi sta, </p>
+><p class="poem-ns">
+>Ch’io vivo contento </p>
+><p class="poem-last">
+>Per cruda beltà. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>So sweet is the torment / which resides in my heart, / that I live happily / because of its cruel beauty. </i> </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=8Rt7o619o3M&list=OLAK5uy_lABMOUq5aC3eITdStvC4uZqO_DEUyeNco&index=2">
 <img src="/assets/img/albums/alarcon-monteverdi.png" width="480"> </a> <br>
 @ Temple du Sentier, <br>
 Le Chenit, Vaud &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2016.04
 </p>
+
+><p class="poem-ns">
+>Le doux silence de nos bois </p>
+><p class="poem-ns">
+>N’est plus troublé que de la voix </p>
+><p class="poem-last">
+>Des oiseaux que l’amour assemble. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>The soft silence of our woods / is now broken only by the songs / of the birds that Love gathers here. </i> </p>
+
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
@@ -103,6 +123,11 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 
+> <p class="quote">
+> I believe that there is something constant in us all, a sense of what is right, a sense of balance, of harmony with ourselves and the world in which we all must live. Yet we also need a sense of hope for something beyond ourselves, which helps to give our lives proportion and direction. Music lives and breathes to tell us just that: who we are and what we face. It is a path between ourselves and the infinite. <nobr>. . .</nobr> Such music is that which is best in all of us, and which we call <i>humanity</i>. </p>
+><p align="right" class="quote-ttl"> 
+> ―Yehudi Menuhin, <a href="hhttps://archive.org/details/musicofman0000menu/page/158/mode/2up"> <i>The Music of Man</i> </a> </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=TrCbRZV252c&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=2">
 <img src="/assets/img/albums/fricsay-dvorak9.png" width="480"> </a> <br>
@@ -110,6 +135,17 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1959.10
 </p>
 
+><p class="poem-ns">
+>Mais la vie sépare ceux qui s’aiment, </p>
+><p class="poem-ns">
+>Tout doucement, sans faire de bruit </p>
+><p class="poem-ns">
+>Et la mer efface sur le sable </p>
+><p class="poem-last">
+>Les pas des amants désunis.</p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>But life separates those who love each other / very softly, without making a sound. / And the sea erases on the sand / the steps of separated lovers. </i> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=pvp0NTFfLPk&list=OLAK5uy_nX18lKkQ7hjB1du4AdAvBpyRGfQ4zj4HQ&index=26">
@@ -123,12 +159,37 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 
 <p class="ttl"> – 3 – </p>
 
+><p class="poem-ns">
+>Come away, fellow sailors, come away, </p>
+><p class="poem-ns">
+>Your anchors be weighing. </p>
+><p class="poem-ns">
+>Time and tide will admit no delaying. </p>
+><p class="poem-ns">
+>Take a bouzy short leave</p>
+><p class="poem-ns">
+>Of your nymphs on the shore, </p>
+><p class="poem-ns">
+>And silence their mourning </p>
+><p class="poem-ns">
+>With vows of returning </p>
+><p class="poem-last">
+>But never intending to visit them more.</p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
 <img src="/assets/img/albums/haim-purcell-dido.png" width="480"> </a> <br>
 @ Arsenal, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003.03
 </p>
+
+><p class="poem-ns">
+>Tendre Amour, que pour nous ta chaîne </p>
+><p class="poem-last">
+>Dure à jamais !</p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>Tender Love, let your bond / last forever! </i> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=J3lKxpQ12iA&list=OLAK5uy_kZ7jHwSGwC1Fm0I_kqQc3FAI0IxNec8PQ&index=40">
@@ -184,6 +245,12 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
 </p>
 
+><p class="poem-ns">
+>Never be clever </p>
+><p class="poem-ns">
+>For the sake of being clever, </p>
+><p class="poem-last">
+>For the sake of showing off. </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=MCmtO-vAtKI&list=OLAK5uy_lXw2tLW9woycN8d-07vL85R-P7J-DPAbE&index=7">
