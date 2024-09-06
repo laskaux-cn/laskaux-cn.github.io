@@ -26,6 +26,21 @@ Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width
 Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
 </p>
 
+><p class="poem-ns">
+>Ah ! vous dirai-je, maman, </p>
+><p class="poem-ns">
+>Ce qui cause mon tourment ? </p>
+><p class="poem-ns">
+>Depuis que j’ai vu Sylvandre, </p>
+><p class="poem-ns">
+>Me regarder d’un air tendre ; </p>
+><p class="poem-ns">
+>Mon cœur dit à chaque instant : </p>
+><p class="poem-last">
+>« Peut-on vivre sans amant ? » </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>Ah, shall I tell you, mother, / the cause of my torment? / Since I have seen Silvander / gaze on me with eye so tender; / each moment my heart asks: / can one live without a lover? </i> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
@@ -247,6 +262,11 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="ttl"> – 5 – </p>
 
+> <p class="quote">
+> After Beethoven, the sonata was the vehicle of the sublime. It played the same role in music as the epic in poetry, and the large historical fresco in painting. The proof of craftsmanship was the fugue, but the proof of greatness was the sonata. Only through the sonata, it seemed, could the highest musical ambitions be realized. </p>
+><p align="right" class="quote-ttl"> 
+> ―Charles Rosen, <a href="https://archive.org/details/sonataforms00rose/page/366/mode/2up"> <i>Sonata Forms</i> </a> (1980) </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">
 <img src="/assets/img/albums/mackerras-schubert8-nb.png" width="480"> </a> <br>
@@ -262,7 +282,7 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ffJ2AMEhqIQ&list=OLAK5uy_kIUsjgCjLyeegA_9RH0S-pxJx0705bIDo&index=3">
+<a href="https://www.youtube.com/watch?v=GHAnbksFSWg&list=OLAK5uy_kNAKSlm9BHMcYmDNE1Ahh2AZ9fMiIk7SY&index=5">
 <img src="/assets/img/albums/solti-mahler6.png" width="480"> </a> <br>
 @ Medinah Temple, <br>
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.04–05

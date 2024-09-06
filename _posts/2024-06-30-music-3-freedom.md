@@ -33,6 +33,11 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
 </p>
 
+> <p class="quote">
+> As a realm of experience, then, the fantastic meant more in Berlioz’ day than it does now: it extended from the dream world to the sinister aspects of nature, taking in religious and subreligious entities on the way. Betokening also a return to one of the oldest elements in European culture, it did not carry its modern connotation of vagrant fancy or unreality. <nobr>. . .</nobr> What it reflects, what the music may legitimately be associated with, is young love in dramatic contrast with nature, with the presence of death, and the forces of darkness. </p>
+><p align="right" class="quote-ttl"> 
+> ―Jacques Barzun, <a href="https://archive.org/details/berliozromanticc0001barz/page/n9/mode/2up"> <i>Berlioz and the Romantic Century</i>, vol. 1 </a> (1950) </p>
+
 <p class="alb">
 <a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
 <img src="/assets/img/albums/martinon-debussy-nocturnes.png" width="480"> </a> <br>
@@ -297,9 +302,9 @@ Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" widt
 <p class="ttl"> – 5 – </p>
 
 > <p class="quote">
-> After Beethoven, the sonata was the vehicle of the sublime. It played the same role in music as the epic in poetry, and the large historical fresco in painting. The proof of craftsmanship was the fugue, but the proof of greatness was the sonata. Only through the sonata, it seemed, could the highest musical ambitions be realized. </p>
+> There is a dangerous common fallacy that what is technically conventional is always artistically lifeless. In every art and every faculty there is a certain technical sense of the word ‘conventional’, which implies no adverse criticism and is in no sense inconsistent with originality. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Charles Rosen, <a href="https://archive.org/details/sonataforms00rose/page/366/mode/2up"> <i>Sonata Forms</i> </a> </p>
+> ―Donald Francis Tovey, <a href="https://archive.org/details/chambermusic0000tove/page/58/mode/2up"> <i>The Goldberg Variations</i> </a> (1900) </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
