@@ -126,7 +126,7 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 > <p class="quote">
 > I believe that there is something constant in us all, a sense of what is right, a sense of balance, of harmony with ourselves and the world in which we all must live. Yet we also need a sense of hope for something beyond ourselves, which helps to give our lives proportion and direction. Music lives and breathes to tell us just that: who we are and what we face. It is a path between ourselves and the infinite. <nobr>. . .</nobr> Such music is that which is best in all of us, and which we call <i>humanity</i>. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Yehudi Menuhin, <a href="https://archive.org/details/musicofman0000menu/page/158/mode/2up"> <i>The Music of Man</i> </a> (1979) </p>
+>―Yehudi Menuhin, <a href="https://archive.org/details/musicofman0000menu/page/158/mode/2up"> <i>The Music of Man</i> </a> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=TrCbRZV252c&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=2">
@@ -279,7 +279,7 @@ Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbs
 > Transl.&nbsp; <i>The right type of peasant music is most varied and perfect in its forms. Its expressive power is amazing, and at the same time it is void of all sentimentality and superfluous ornaments. It is simple, sometimes primitive but never silly. It is the ideal starting point for a musical renaissance, and a composer in search of new ways cannot be led by a better master. </i> </p>
 >
 ><p align="right" class="quote-ttl"> 
-> ―Béla Bartók, <a href="https://www.jstor.org/stable/943852"> “A népi zene hatása a mai műzenére” </a> (1931) </p>
+> ―Béla Bartók, <nobr><a href="https://www.jstor.org/stable/943852"> “A népi zene hatása a mai műzenére” </a> </nobr> </p>
 
 
 <p class="alb">
@@ -316,7 +316,7 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 > <p class="quote">
 > The remarkable thing about <i>Petrushka</i>, however, is that despite the massive infusion of natural artifacts in the form of folk and street music, the impression the ballet makes is anything but naturalistic. We never feel that we are observing an evocation of the real world; rather, we confront a “created reality” after the romantic <i>Mir iskusstva</i> ideal. This distinction goes right to the heart ofthe ballet’s concept—a teasing, disquieting tug-of-war between inner and outer reality. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Richard Taruskin, <a href="https://archive.org/details/stravinskyrussia0001taru/page/734/mode/2up"> <i>Stravinsky and the Russian Traditions</i>, vol. 1 </a> (1996) </p>
+> ―Richard Taruskin, <nobr> <a href="https://archive.org/details/stravinskyrussia0001taru/page/734/mode/2up"> <i>Stravinsky and the Russian Traditions</i>, vol. 1 </a> </nobr> </p>
 
 
 <p class="alb">

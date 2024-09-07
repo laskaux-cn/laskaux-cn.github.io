@@ -265,7 +265,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 > <p class="quote">
 > After Beethoven, the sonata was the vehicle of the sublime. It played the same role in music as the epic in poetry, and the large historical fresco in painting. The proof of craftsmanship was the fugue, but the proof of greatness was the sonata. Only through the sonata, it seemed, could the highest musical ambitions be realized. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Charles Rosen, <a href="https://archive.org/details/sonataforms00rose/page/366/mode/2up"> <i>Sonata Forms</i> </a> (1980) </p>
+> ―Charles Rosen, <a href="https://archive.org/details/sonataforms00rose/page/366/mode/2up"> <i>Sonata Forms</i> </a> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ORieaXQ69pU&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=5">

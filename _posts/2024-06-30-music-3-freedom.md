@@ -36,7 +36,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 > <p class="quote">
 > As a realm of experience, then, the fantastic meant more in Berlioz’ day than it does now: it extended from the dream world to the sinister aspects of nature, taking in religious and subreligious entities on the way. Betokening also a return to one of the oldest elements in European culture, it did not carry its modern connotation of vagrant fancy or unreality. <nobr>. . .</nobr> What it reflects, what the music may legitimately be associated with, is young love in dramatic contrast with nature, with the presence of death, and the forces of darkness. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Jacques Barzun, <a href="https://archive.org/details/berliozromanticc0001barz/page/n9/mode/2up"> <i>Berlioz and the Romantic Century</i>, vol. 1 </a> (1950) </p>
+> ―Jacques Barzun, <nobr> <a href="https://archive.org/details/berliozromanticc0001barz/page/n9/mode/2up"> <i>Berlioz and the Romantic Century</i>, vol. 1 </a> </nobr> </p>
 
 <p class="alb">
 <a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
@@ -304,7 +304,7 @@ Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" widt
 > <p class="quote">
 > There is a dangerous common fallacy that what is technically conventional is always artistically lifeless. In every art and every faculty there is a certain technical sense of the word ‘conventional’, which implies no adverse criticism and is in no sense inconsistent with originality. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Donald Francis Tovey, <a href="https://archive.org/details/chambermusic0000tove/page/58/mode/2up"> <i>The Goldberg Variations</i> </a> (1900) </p>
+> ―Donald Francis Tovey, <a href="https://archive.org/details/chambermusic0000tove/page/58/mode/2up"> <i>The Goldberg Variations</i> </a> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
