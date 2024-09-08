@@ -30,6 +30,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 > <p class="quote">
 > Opera, next to Gothic architecture, is one of the strangest inventions of western man. It could not have been foreseen by any logical process. <nobr>. . .</nobr> What on earth has given opera its prestige in western civilisation—a prestige that has outlasted so many different fashions and ways of thought? <nobr>. . .</nobr> I think, because it is <i>irrational</i>. ‘What is too silly to be said may be sung’—well, yes; but what is too subtle to be said, or too deeply felt, or too revealing or too mysterious—these things can also be sung and only be sung. </p>
+>
 ><p align="right" class="quote-ttl"> 
 > ―Kenneth Clark, <a href="https://archive.org/details/civilisationpers00clar/page/240/mode/2up"> <i>Civilisation</i> </a></p>
 

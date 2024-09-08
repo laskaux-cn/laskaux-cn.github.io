@@ -330,13 +330,24 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
 
+> <p class="quote">
+> As you listen to these exalted final pages, try to keep in the back of your mind that there are two ways to think about all this. One way is that life is absurd to start with; that only a madman goes out and tries to change the world, to fight for good and against evil. The other way is that life is indeed absurd to start with and that it can be given meaning only if you live it for your ideals, visions and poetic truths, and despite all the skepticism of all the Sancho Panzas in the world, saddle up whatever worn-out horse you’ve got and go after those visions. Take your pick.  </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Leonard Bernstein, <nobr> <a href="https://leonardbernstein.com/lectures/television-scripts/young-peoples-concerts/fantastic-vatiations"> “Fantastic Variations” </a> </nobr> </p>
 
 <p class="alb">
-<a href="https://youtu.be/EQhwlBdYBd8?t=7s">
-<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
+<a href="https://www.youtube.com/watch?v=nTfJK9J1aRY&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=8">
+<img src="/assets/img/albums/karajan-schoenberg.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.01–02
 </p>
+
+> <p class="quote">
+> I do not believe that a language like that of Schoenberg, which tries so hard to be logical, to trumpet its logic with organic proof of a raison d’etre, is a language which in the true sense of the word is complicated. In my view, the really complex language is the one in which not only are there certain rules and regulations but there is also an element that is not quite susceptible to proof, not entirely demonstrable, but which to a degree is concealed and subliminal. In other words, I suggest to you that the most complicated endeavors in art are those in which the process of rational decision is closely allied with the instinctive process. </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Glenn Gould, <nobr> <a href="https://archive.org/details/glenngouldreader0000goul/page/110/mode/2up"> “Arnold Schoenberg: A Perspective” </a> </nobr> </p>
 
 <br>
 

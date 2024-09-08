@@ -304,7 +304,7 @@ Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" widt
 > <p class="quote">
 > There is a dangerous common fallacy that what is technically conventional is always artistically lifeless. In every art and every faculty there is a certain technical sense of the word ‘conventional’, which implies no adverse criticism and is in no sense inconsistent with originality. </p>
 ><p align="right" class="quote-ttl"> 
-> ―Donald Francis Tovey, <a href="https://archive.org/details/chambermusic0000tove/page/58/mode/2up"> <i>The Goldberg Variations</i> </a> </p>
+> ―Donald Francis Tovey, <nobr> <a href="https://archive.org/details/chambermusic0000tove/page/58/mode/2up"> <i>The Goldberg Variations</i> </a> </nobr> </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
