@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 音乐笔记 结语 &colon; 告别音乐
-subtitle: 
+title: 音乐笔记—结语
+subtitle: 告别音乐
 excerpt: <br>
 
 tags: music-notes

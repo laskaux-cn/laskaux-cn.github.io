@@ -200,6 +200,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 
+> <p class="quote">
+> Art is, essentially, an individual expression. The individual is molded in some way by the sociological group or nation he comes from. Every individual is so molded, and in that way he expresses his tradition and collective characteristics; but the tradition and the collective characteristics express themselves through an individual, not through collectivity itself. </p>
+><p align="right" class="quote-ttl"> 
+> ―Carlos Chávez, <nobr> <a href="https://files.eportfolios.macaulay.cuny.edu/wp-content/uploads/sites/5659/2016/09/16125632/What-to-Listen-for-in-Music.pdf"> <i>Music Thought</i> </a> </nobr> </p>
+
+
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=h5eCTHodKMw&list=OLAK5uy_nQTKsUpPTGqwEF9h7wek5RPcF8qw1ThdY&index=16">
 <img src="/assets/img/albums/herreweghe-schumann4.png" width="480"> </a> <br>
