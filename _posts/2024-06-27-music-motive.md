@@ -11,7 +11,7 @@ tags: music-notes
 > Ce qu’un autre aurait aussi bien dit que toi, ne le dis pas, — aussi bien écrit que toi, ne l’écris pas. Ne t’attache en toi qu’à ce que tu ne sens qu’en toi-même, et crée de toi, impatiemment ou patiemment, ah ! le plus irremplaçable des êtres. </p>
 >
 > <p class="quote-transl">
-> Transl.&nbsp; <i>What others could say as well as you—do not say it; what others could write as well as you—do not write it. Attach to nothing but what you feel in yourself, and out of yourself create, impatiently or patiently, ah! the most irreplaceable of beings. </i> </p>
+> Transl.&nbsp; <i>What others could say or write as well as you—do not say or write it. Attach to nothing but what you feel in yourself, and out of yourself create, impatiently or patiently, ah! the most irreplaceable of beings. </i> </p>
 >
 ><p align="right" class="quote-ttl"> 
 > ―André Gide, <nobr> <a href="https://fr.wikisource.org/wiki/Nourritures_terrestres/Envoi"> <i>Les Nourritures terrestres</i> </a> </nobr> </p>
