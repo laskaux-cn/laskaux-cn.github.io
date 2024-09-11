@@ -7,6 +7,15 @@ excerpt: <br>
 tags: music-notes
 ---
 
+> <p class="quote">
+> Alle Formen der Musik <nobr>. . .</nobr> sind niedergeschlagene Inhalte. In ihnen uberlebt was sonst vergessen ist und unmittelbar nicht mehr zu reden vermag. Was einmal Zuflucht suchte bei der Form, besteht namenlos in deren Dauer. Die Formen der Kunst verzeichnen die Geschichte der Menschheit gerechter als die Dokumente.  </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>All forms of music <nobr>. . .</nobr> are sedimented contents. In them survives what is otherwise forgotten and is no longer capable of speaking directly. What once sought refuge in form subsists anonymously in form’s persistence. The forms of art register the history of humanity with more justice than do historical documents. </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Theodor W. Adorno, <nobr> <a href="https://archive.org/details/philosophiederne0000ador/page/46/mode/2up"> <i>Philosophie der neuen Musik</i> </a> </nobr> </p>
+
 <br>
 
 
@@ -35,6 +44,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 > <p class="quote">
 > As a realm of experience, then, the fantastic meant more in Berlioz’ day than it does now: it extended from the dream world to the sinister aspects of nature, taking in religious and subreligious entities on the way. Betokening also a return to one of the oldest elements in European culture, it did not carry its modern connotation of vagrant fancy or unreality. <nobr>. . .</nobr> What it reflects, what the music may legitimately be associated with, is young love in dramatic contrast with nature, with the presence of death, and the forces of darkness. </p>
+>
 ><p align="right" class="quote-ttl"> 
 > ―Jacques Barzun, <nobr> <a href="https://archive.org/details/berliozromanticc0001barz/page/n9/mode/2up"> <i>Berlioz and the Romantic Century</i>, vol. 1 </a> </nobr> </p>
 
@@ -198,12 +208,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 @ Grunewaldkirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.12
 </p>
-
-
-> <p class="quote">
-> Art is, essentially, an individual expression. The individual is molded in some way by the sociological group or nation he comes from. Every individual is so molded, and in that way he expresses his tradition and collective characteristics; but the tradition and the collective characteristics express themselves through an individual, not through collectivity itself. </p>
-><p align="right" class="quote-ttl"> 
-> ―Carlos Chávez, <nobr> <a href="https://files.eportfolios.macaulay.cuny.edu/wp-content/uploads/sites/5659/2016/09/16125632/What-to-Listen-for-in-Music.pdf"> <i>Music Thought</i> </a> </nobr> </p>
 
 
 

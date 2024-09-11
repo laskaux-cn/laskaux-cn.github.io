@@ -29,6 +29,19 @@ tags: random
 [^bush]: 	&emsp;<span class='reg'>Vannevar Bush (1945), <a href="https://www.nsf.gov/about/history/vbush1945.htm"> <span class='ita'>Science—the Endless Frontier </span></a> (Washington, D.C.: United States Government Printing Office).
 
 
+> <p class="quote">
+> Quant au beau absolu, si ce n’est celui qui, dans tous les temps, dans tous les lieux et par tous les hommes, serait reconnu pour beau, je ne sais en quoi il consiste. Or, ce beau-là n’existe pas. Je crois seulement qu’il y a des beautés d’art dont le sentiment devenu inhérent à certaines civilisations durera, grâce à quelques hommes, autant que ces civilisations elles-mêmes. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>For unless absolute beauty is that which at all times, in all places, and by all men must be acknowledged as beautiful, I cannot imagine what it means or where it might reside. And that kind of beauty I am sure does not exist. I believe only that there exist artistic beauties of which the appreciation has become inherent in certain civilizations and which will last, thanks to a minority, as long as those civilizations themselves.
+ </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Hector Berlioz, <nobr> <a href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_l%E2%80%99orchestre"> <i>Les Soirées de l’orchestre</i> </a> </nobr> </p>
+
+
+
+
 <br>
 
 
