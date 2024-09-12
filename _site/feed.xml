@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 11 Sep 2024 03:13:26 -0700</pubDate>
+    <pubDate>Thu, 12 Sep 2024 03:58:26 -0700</pubDate>
     
       <item>
         <title>音乐笔记—结语</title>
@@ -51,85 +51,7 @@ Transl.&amp;nbsp; &lt;i&gt;From the Middle Ages to the French Revolution, music 
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
         <link>/2024/07/10/music-13-solitude.html</link>
         <guid isPermaLink="true">/2024/07/10/music-13-solitude.html</guid>
-        <description>&lt;style&gt;
-.ita {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-style: italic;
-}
-.reg {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-}
-.num {
-  letter-spacing: 0px;
-}
-p.quote {
-  letter-spacing: 0px;
-  font-family: Noto Sans;
-  font-size:0.96em;
-}
-p.poem {
-  margin-bottom: 0.5em; 
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.poem-last {
-  font-size:.96em; 
-  font-family: Noto Sans; 
-  margin-left: 1em; 
-  text-indent:-1em;
-}
-p.cn {
-  line-height: 1.65;
-  letter-spacing: 0.1px;
-  margin-bottom:1.45em;
-}
-p.ttl {
-  text-align:center;
-  font-size:1.05em;
-  font-weight: 600;
-  margin-bottom:1.0em;
-}
-p.end {
-  letter-spacing: 0.1px;
-  text-align:center;
-  margin-bottom:2em;
-}
-p.alb {
-  text-align:center; 
-  font-family: Noto Sans; 
-  color:#707070; 
-  font-size:0.88em; 
-  margin-top:2em; 
-  margin-bottom:2em;
-}
-p.note {
-  text-align:left; 
-  color:#707070; 
-  font-size:0.88em; 
-  letter-spacing: 0.4px;
-  margin-top:2em; 
-  margin-bottom:2em;
-  margin-left:1.25em; 
-  margin-right:1.25em;
-}
-
-p.list {
-  text-align:left; 
-  font-family: Noto Sans; 
-  font-size:0.88em; 
-  margin-top:1em; 
-  margin-bottom:1em;
-  margin-left: 1.37em; 
-  text-indent:-1.37em;
-}
-
-&lt;/style&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
 
@@ -172,6 +94,53 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 
 </description>
         <pubDate>Wed, 10 Jul 2024 00:00:00 -0700</pubDate>
+      </item>
+    
+      <item>
+        <title>音乐笔记 11 &amp;colon; 庄重的诙谐</title>
+        <link>/2024/07/08/music-11-humor.html</link>
+        <guid isPermaLink="true">/2024/07/08/music-11-humor.html</guid>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class=&quot;quote&quot;&gt;
+Why does classical music lend itself so readily to comic effects? Because it seems to me to reflect, in its solid and self-sufficient forms and structures, the trust of the Enlightenment in rational structures that rule the universe. The spirit of classical music seems to imply the belief that the world is good, or at least that it could become so. &lt;/p&gt;
+  &lt;p align=&quot;right&quot; class=&quot;quote-ttl&quot;&gt; 
+―Alfred Brendel, &lt;nobr&gt; &lt;a href=&quot;https://archive.org/details/alfredbrendelonm0000bren/page/98/mode/2up&quot;&gt; “Must Classical Music Be Entirely Serious?” &lt;/a&gt; &lt;/nobr&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=2LaMAURcp6E&amp;amp;list=OLAK5uy_kOapVra-Yu4h3BAUXEJ3wcDPANTbXOEEc&amp;amp;index=50&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/jacobs-figaro.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Orchesterprobenzentrum Stolberger Straße, &lt;br /&gt;
+Köln &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2003.04
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class=&quot;quote&quot;&gt;
+Non, monsieur le comte, vous ne l’aurez pas &lt;nobr&gt;. . .&lt;/nobr&gt; vous ne l’aurez pas. Parce que vous êtes un grand seigneur, vous vous croyez un grand génie ! &lt;nobr&gt;. . .&lt;/nobr&gt; noblesse, fortune, un rang, des places, tout cela rend si fier ! Qu’avez-vous fait pour tant de biens ? vous vous êtes donné la peine de naître, et rien de plus : du reste, homme assez ordinaire ! &lt;/p&gt;
+
+  &lt;p class=&quot;quote-transl&quot;&gt;
+Transl.&amp;nbsp; &lt;i&gt;No my lord Count, you shan’t have her, you shall not! You think that because you are a great lord you are a great genius. Nobility, wealth, rank, high position, they all make a man proud. But what have you ever done to earn so much good? You took the trouble to be born, and nothing more. Apart from that, you are a very ordinary man! &lt;/i&gt; &lt;/p&gt;
+
+  &lt;p align=&quot;right&quot; class=&quot;quote-ttl&quot;&gt; 
+―Pierre Beaumarchais, &lt;nobr&gt; &lt;a href=&quot;https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V&quot;&gt; &lt;i&gt;Le Mariage de Figaro&lt;/i&gt; &lt;/a&gt; &lt;/nobr&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p class=&quot;quote&quot;&gt;
+Was Louis XVI toppled from his throne and beheaded because of &lt;i&gt;The Marriage of Figaro&lt;/i&gt;? Of course not. Satire is not a social dynamite. But it is a social indicator: it shows that new men are knocking at the door. &lt;/p&gt;
+
+  &lt;p align=&quot;right&quot; class=&quot;quote-ttl&quot;&gt; 
+―Jacob Bronowski, &lt;nobr&gt; &lt;a href=&quot;https://archive.org/details/ascentofman0000jbro_k7k3/page/266/mode/2up&quot;&gt; &lt;i&gt;The Ascent of Man&lt;/i&gt; &lt;/a&gt; &lt;/nobr&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Jul 2024 00:00:00 -0700</pubDate>
       </item>
     
       <item>
@@ -505,7 +474,7 @@ Atlanta &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;
 &lt;a href=&quot;https://www.youtube.com/watch?v=aVjuZ6Bb2vQ&amp;amp;list=PL9yl-ZQyD9w8y8cAgBD5H21Lao6fKL5qN&amp;amp;index=60&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/jacobs-don-giovanni.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Teldex Studio, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2016.11
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2006.11
 &lt;/p&gt;
 
 &lt;blockquote&gt;
