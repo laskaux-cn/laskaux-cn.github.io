@@ -176,7 +176,10 @@ tags: random
 <p class="ttl"> 五 </p>
 
 > <p class="quote">
-> You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+> FRANK VALLEE. You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Frank Vallee, in <a href="https://youtu.be/Tsux27kMwjc?si=9yaMuVbJSCnjl3MN&t=1337s"> <i>The Idea of North</i> </a> </p>
 
 
 <br>

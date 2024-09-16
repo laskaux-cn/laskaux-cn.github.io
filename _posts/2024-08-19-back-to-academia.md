@@ -16,14 +16,14 @@ tags: random
 ><p class="poem-last">
 >That I must love a loathed enemy. </p>
 ><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> 
-> ―<a href="https://en.wikisource.org/wiki/Romeo_and_Juliet_(1917)_Yale/Text/Act_I"><i>Romeo and Juliet</i><span style="margin-left:0.1em">:</span> Act 1, Scene 5 </a> </p>
+> ―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
 
-<p style="margin-bottom:2em"> </p>
+<p style="margin-bottom:1.5em"> </p>
 
 
-前段时间做了一个并不轻松的决定——辞去了毕业后开始不到两年、体验良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的美国新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿，逐渐找回久违的、简单专注的学术状态同时也想重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
+前段时间做了一个并不轻松的决定——辞去了开始不到两年、体验良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿下来，逐渐找回简单专注的学术状态同时也想重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
 
-新版博客计划按不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](tags#random) 的文章将随性探讨一些关于学术、知识、社会的零杂话题——在没有太多约束下，写且仅写我最想说的话。作为首篇，我想谈谈自己两年前为什么暂时离开学术界，现在又为何选择回归。我一直认为：学业、事业的选择与其它重要的人生抉择一样，本质都并非标准明晰的理性优化，而关键在于支撑自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统的塑造又是**个体**与**环境**长期相互作用的结果——
+新版博客计划按不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](/tags#random) 的文章将随性探讨一些关于学术、知识、社会的零杂话题——在没有太多约束下，写且仅写我最想说的话。作为首篇，我想谈谈自己之前为什么暂时离开学术界，现在又为何选择回归。我一直认为：学业、事业的选择与其它重要的人生抉择一样，本质都并非标准明晰的理性优化，而关键在于支撑自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统的塑造又是**个体**与**环境**长期相互作用的结果——
 
 > <p class="quote">
 > Hiebei bekenn’ ich, daß mir von jeher die große und so bedeutend klingende Aufgabe: erkenne dich selbst, immer verdächtig vorkam, als eine List geheim verbündeter Priester, die den Menschen durch unerreichbare Forderungen verwirren und von der Tätigkeit gegen die Außenwelt zu einer innern falschen Beschaulichkeit verleiten wollten. Der Mensch kennt nur sich selbst, insofern er die Welt kennt, die er nur in sich und sich nur in ihr gewahr wird. </p> 
@@ -32,7 +32,7 @@ tags: random
 > Transl.&nbsp; <i> Hereby I confess that the great and so important-sounding phrase—know thyself—always seems suspicious to me as a plot of secretly allied priests, who confused people with unattainable demands and wanted to lead them away from the activities of the outside world to a false inner tranquility. Man knows himself only insofar as he knows the world, of which he becomes aware only in himself, and he becomes aware of himself only in it. </i> </p>
 >
 ><p align="right" class="quote-ttl"> 
-> ―Goethe, <nobr> <a href="http://www.zeno.org/Literatur/M/Goethe,+Johann+Wolfgang/Theoretische+Schriften/Bedeutende+F%C3%B6rdernis+durch+ein+einziges+geistreiches+Wort"><i>Zur Morphologie</i><span style="margin-left:0.1em">:</span> Band 2, Heft 1 </a> </nobr> </p>
+> ―Goethe, <a href="http://www.zeno.org/Literatur/M/Goethe,+Johann+Wolfgang/Theoretische+Schriften/Bedeutende+F%C3%B6rdernis+durch+ein+einziges+geistreiches+Wort"> “Bedeutende Fördernis durch <nobr> ein einziges geistreiches Wort” </nobr> </a> </p>
 
 换言之，人的自我认知与外部体验具有很强的对偶性，所谓的「内心追求」常常不过是现实经历的投射与沉淀。
 
@@ -41,6 +41,19 @@ tags: random
 
 <p class="ttl"> 一 </p>
 
+><p class="poem-ns">
+>Я верю в их святую веру. </p>
+><p class="poem-ns">
+>Их вера — мужество мое. </p>
+><p class="poem-ns">
+>Я делаю себе карьеру </p>
+><p class="poem-last">
+>тем, что не делаю ее!</p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
+>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> ―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
 
 <br>
 
@@ -110,23 +123,7 @@ tags: random
 
 我选择这份工作的一个重要原因是：不同于多数科技公司常见的研究岗位，我将同时参与对内的产品设计、应用管理和对外的交流合作，日常会与众多高水平的学界、业界实验室频繁接触，这为我思考今后是否想长期从事学术提供了宝贵的信息窗口。事实也证明，这段不长的工业界经历反而使我对美国学术界有了比以往更立体的认识。这种参与者与旁观者的叠加视角还让我联想到博士期间接受过的一点科技人类学 <span class='reg'>(anthropology of science and technology)</span> 训练——
 
-><p class="poem-ns">
->Я верю в их святую веру. </p>
-><p class="poem-ns">
->Их вера — мужество мое. </p>
-><p class="poem-ns">
->Я делаю себе карьеру </p>
-><p class="poem-last">
->тем, что не делаю ее!</p>
->
-> <p class="quote-transl">
-> Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
->
-><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> ―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
 
-<p style="text-align:center; color:grey; font-family: Noto Sans; font-size:0.87em">
-<a href="https://www.youtube.com/watch?v=PW7dBAj9t24&list=OLAK5uy_k4btzHBaJYoVuq4x3XjIoT9omYRxhw3vw&index=5"> <img src="/assets/img/albums/petrenko-shostakovich13.png" width="480"> </a> 
-</p>
 
 <br>
 
@@ -144,11 +141,9 @@ tags: random
 
 <p class="ttl"> 五 </p>
 
-> <p class="quote">
-> You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
->
-><p align="right" class="quote-ttl"> 
-> ―Frank Vallee, in <a href="https://youtu.be/Tsux27kMwjc?si=9yaMuVbJSCnjl3MN&t=1337s"> <i>The Idea of North</i> </a> </p>
+> <p class="poem">
+> FRANK VALLEE. You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+
 
 
 <br>
@@ -158,32 +153,10 @@ tags: random
 <img src="/assets/img/albums/gould-solitude.png" width="480"> </a> 
 </p>
 
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=E0Ytqf2zXWc&list=OLAK5uy_loP8ByqcmsH-7hLj9q2cXnEcB1Y19gHo4&index=26">
-<img src="/assets/img/albums/gould-goldberg81.png" width="480"> </a> 
-</p>
-
-
-
-
-
 <br>
 
 
 <p class="ttl"> 六 </p>
-
-> <p class="quote">
-> I believe that in spite of the recent triumphs of science, men haven’t changed much in the last two thousand years; and in consequence we must still try to learn from history. History is ourselves. </p>
-><p align="right" class="quote-ttl"> 
-> ―Kenneth Clark, <a href="https://youtu.be/Mt-vqdgvsoo?si=qBnprXmCylsBLdIm&t=35"> <i>Civilisation</i> </a> </p>
-
-<br>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> 
-</p>
 
 
 <br>
