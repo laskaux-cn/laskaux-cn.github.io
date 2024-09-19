@@ -7,23 +7,26 @@ excerpt: <br>
 tags: random
 ---
 
-><p class="poem">
+<p style="margin-top:-1.0em"> </p>
+
+><p class="poem-ns">
 >My only love sprung from my only hate! </p>
-><p class="poem">
+><p class="poem-ns">
 >Too early seen unknown, and known too late! </p>
-><p class="poem">
+><p class="poem-ns">
 >Prodigious birth of love it is to me, </p>
 ><p class="poem-last">
 >That I must love a loathed enemy. </p>
-><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> 
-> ―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
-
-<p style="margin-bottom:1.5em"> </p>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.5em">  
+>―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
 
 
-前段时间做了一个并不轻松的决定——辞去了开始不到两年、体验良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿下来，逐渐找回简单专注的学术状态同时也想重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
+<p style="margin-bottom:2em"> </p>
 
-新版博客计划按不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](/tags#random) 的文章将随性探讨一些关于学术、知识、社会的零杂话题——在没有太多约束下，写且仅写我最想说的话。作为首篇，我想谈谈自己之前为什么暂时离开学术界，现在又为何选择回归。我一直认为：学业、事业的选择与其它重要的人生抉择一样，本质都并非标准明晰的理性优化，而关键在于支撑自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统的塑造又是**个体**与**环境**长期相互作用的结果——
+
+前段时间做了一个并不轻松的决定——辞去了开始不到两年、体验相当良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的美国东北海岸，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿下来，逐渐找回简单专注状态的同时也想趁机重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
+
+新版博客计划按不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](/tags#random) 的文章将随性探讨一些关于学术、知识、社会的零杂话题——在没有太多约束下，写且仅写我最真实的想法。作为首篇，我很想分享一下自己之前为何暂时离开学术界，现在又为何选择回归——自我感觉这是一段挺有趣的思考历程。我一直认为：学业、事业的选择与其它重要的人生抉择一样，本质都并非标准明晰的理性优化，而关键在于支撑自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统的塑造又是**个体**与**环境**长期相互作用的结果——
 
 > <p class="quote">
 > Hiebei bekenn’ ich, daß mir von jeher die große und so bedeutend klingende Aufgabe: erkenne dich selbst, immer verdächtig vorkam, als eine List geheim verbündeter Priester, die den Menschen durch unerreichbare Forderungen verwirren und von der Tätigkeit gegen die Außenwelt zu einer innern falschen Beschaulichkeit verleiten wollten. Der Mensch kennt nur sich selbst, insofern er die Welt kennt, die er nur in sich und sich nur in ihr gewahr wird. </p> 
@@ -53,7 +56,8 @@ tags: random
 > <p class="quote-transl">
 > Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
 >
-><p align="right" class="quote-ttl" style="margin-bottom:-0.25em"> ―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
+><p align="right" class="quote-ttl"> 
+>―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
 
 <br>
 

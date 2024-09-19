@@ -237,6 +237,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
 </p>
 
+><p class="poem-last">
+>MERCUTIO. Nay, an there were two such, we should
+have none shortly, for one would kill the other.
+Thou! why, thou wilt quarrel with a man that
+hath a hair more or a hair less in his beard than
+thou hast. Thou wilt quarrel with a man for
+cracking nuts, having no other reason but be-
+cause thou hast hazel eyes. <nobr>. . .</nobr> Thy
+head is as full of quarrels as an egg is full of
+meat, and yet thy head hath been beaten as
+addle as an egg for quarrelling. </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JR5iWGLcbsw&list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&index=13">
@@ -245,6 +256,18 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
 </p>
 
+><p class="poem-ns">
+>So you want to write a fugue? </p>
+><p class="poem-ns">
+>You've got the urge to write a fugue. </p>
+><p class="poem-ns">
+>You've got the nerve to write a fugue. </p>
+><p class="poem-ns">
+>So go ahead </p>
+><p class="poem-ns"> 
+>And write a fugue that we can sing. </p>
+><p class="poem-ns">
+>· · ·</p>
 ><p class="poem-ns">
 >Never be clever </p>
 ><p class="poem-ns">
