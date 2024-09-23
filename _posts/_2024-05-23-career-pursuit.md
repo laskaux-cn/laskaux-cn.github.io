@@ -7,14 +7,30 @@ excerpt: <br>
 tags: random
 ---
 
+<p style="margin-top:-1.0em"> </p>
+
 > <p class="quote">
 > En tout cas, je n’étais peut-être pas sûr de ce qui m’intéressait réellement, mais j’étais tout à fait sur de ce qui ne m’intéressait pas. </p> 
 >
 > <p class="quote-transl"> 
 > Transl.&nbsp; <i> In any case, I might not be certain about what really interested me, but I was more than certain about what didn’t. </i> </p>
+>
 > <p align="right" class="quote"> ―Albert Camus, <a href="https://archive.org/details/albertcamus-letranger-1942_20190820/page/n89/mode/2up"><i>L’Étranger</i> </a> </p>
 
 <p style="margin-bottom:2em"> </p>
+
+我一直认为：学业、事业的选择与其它重要的人生抉择一样，本质都并非标准明晰的理性优化，而关键在于支撑自身理性框架的**非理性原则**——具体可见于一个人的价值取向、道德判断、激励模式、生活目标等等；这些观念系统的塑造又是**个体**与**环境**长期相互作用的结果。
+
+> <p class="quote">
+> Hiebei bekenn’ ich, daß mir von jeher die große und so bedeutend klingende Aufgabe: erkenne dich selbst, immer verdächtig vorkam, als eine List geheim verbündeter Priester, die den Menschen durch unerreichbare Forderungen verwirren und von der Tätigkeit gegen die Außenwelt zu einer innern falschen Beschaulichkeit verleiten wollten. Der Mensch kennt nur sich selbst, insofern er die Welt kennt, die er nur in sich und sich nur in ihr gewahr wird. </p> 
+>
+> <p class="quote-transl"> 
+> Transl.&nbsp; <i> Hereby I confess that the great and so important-sounding phrase—know thyself—always seems suspicious to me as a plot of secretly allied priests, who confused people with unattainable demands and wanted to lead them away from the activities of the outside world to a false inner tranquility. Man knows himself only insofar as he knows the world, of which he becomes aware only in himself, and he becomes aware of himself only in it. </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Goethe, <a href="http://www.zeno.org/Literatur/M/Goethe,+Johann+Wolfgang/Theoretische+Schriften/Bedeutende+F%C3%B6rdernis+durch+ein+einziges+geistreiches+Wort"> “Bedeutende Fördernis durch <nobr> ein einziges geistreiches Wort” </nobr> </a> </p>
+
+换言之，人的自我认知与外部体验具有很强的对偶性，所谓的「内心追求」常常不过是现实经历的投射与沉淀。
 
 <br>
 
@@ -29,18 +45,8 @@ tags: random
 
 <span class='reg'>Thomas Sydenham</span> 在<span class='num'> 1676 </span>年出版的 <a href="https://archive.org/details/BIUSante_82971x01/page/n17/mode/2up"><span class='ita'>Observationes medicae</span></a>
 
-> <p class="quote">
->Your god always wins. It is the longest unbeaten streak in the history of the world. Yet, J.M. Christiansen fearlessly took up arms in that battle to oppose inevitable, throwing himself in at an enemy that has never known defeat and, as sure as I’m standing here, never will. <nobr>. . .</nobr> </p>
->
-> <p class="quote"> He and I spent our lives tilting at the very same windmills. So, why have I not lost hope like he did? Because those windmills at which we tilted were created by men to turn grindstones that transformed the Earth’s bounty into flour. From such humble beginnings grew the astonishing modern world in which we now live. </p>
->
-> <p class="quote">
-> We cannot conquer the mountains, but our railroads now run through them with ease. We cannot defeat the river, but we can bend it to our will and dam it for our own purposes.  </p>
->
-> <p class="quote">
-> We now live in a time of endless possibility. More has been learned about the treatment of the human body in the last five years than was learned in the previous five hundred. Twenty years ago, 39 was the number of years a man could expect from his life. Today, it is more than 47.  </p>
->
-> <p class="quote"> Eventually the train tunnels will crumble. The dams will be overrun. Our patients’ hearts will all stop their beating. But we humans can get in a few good licks in battle before we surrender. </p>
+> <p class="play">
+> THACKERY.&nbsp; Your god always wins. It is the longest unbeaten streak in the history of the world. Yet, J.M.&nbsp;Christiansen fearlessly took up arms in that battle to oppose inevitable, throwing himself in at an enemy that has never known defeat and, as sure as I’m standing here, never will. <nobr>. . .</nobr> He and I spent our lives tilting at the very same windmills. So, why have I not lost hope like he did? Because those windmills at which we tilted were created by men to turn grindstones that transformed the Earth’s bounty into flour. From such humble beginnings grew the astonishing modern world in which we now live. We cannot conquer the mountains, but our railroads now run through them with ease. We cannot defeat the river, but we can bend it to our will and dam it for our own purposes. We now live in a time of endless possibility. More has been learned about the treatment of the human body in the last five years than was learned in the previous five hundred. Twenty years ago, 39 was the number of years a man could expect from his life. Today, it is more than 47. Eventually, the train tunnels will crumble; the dams will be overrun; our patients’ hearts will all stop their beating. But we humans can get in a few good licks in battle before we surrender. </p>
 
 
 <br>

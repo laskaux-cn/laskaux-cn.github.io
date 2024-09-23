@@ -1,0 +1,140 @@
+---
+layout: post
+title: 我为何返回学术界
+subtitle: 
+excerpt: <br>
+
+tags: random
+---
+
+<p style="margin-top:-1.0em"> </p>
+
+><p class="poem-ns">
+>My only love sprung from my only hate! </p>
+><p class="poem-ns">
+>Too early seen unknown, and known too late! </p>
+><p class="poem-ns">
+>Prodigious birth of love it is to me, </p>
+><p class="poem-last">
+>That I must love a loathed enemy. </p>
+>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.5em">  
+>―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
+
+
+<p style="margin-bottom:2em"> </p>
+
+
+前段时间做了一个并不轻松的选择——辞去了开始不到两年、体验f相当良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校刚刚安顿下来，借机重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
+
+新版博客计划将按若干不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](/tags#random) 的博文会不设约束地随性探讨一些关于学术、知识、社会的零杂话题，写且仅写我最真实的想法。作为首篇，我想认真谈一谈自己之前为何暂时离开学术界、现在又为何决定回归。
+
+之所以想写这个话题，是因为这两次选择于我个人意义特殊：相较于之前顺利连贯的求学经历，博士毕业后在学术界与工业界间的一来一回是我真正开始学习在没有明显的外部训导或惯性驱使下，关于未来发展的大方向行使**独立选择**的自由——事实表明，这种主动「变轨」要比自己之前经历过的各种竞争性应试、择校、求职更考验人的心理素质与自我认知。
+
+> <p class="quote">
+> Savoir se libérer n’est rien ; l’ardu, c’est savoir être libre. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>Knowing to free oneself is nothing; the arduous task is to know what to do with one’s freedom. </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―André Gide, <nobr> <a href="https://fr.wikisource.org/wiki/Page%3AGide_-_L%E2%80%99Immoraliste.djvu/26"> <i>L’immoraliste</i> </a> </nobr> </p>
+
+
+虽说意外获知心仪的博士后机会后决定接受只是一念之间，但此番我从萌生回归学术的想法到最终完成目标设定与心态调整前后历时将近一年——我试图探明时下自己真正向往的价值目标，并重新审视学术事业对于个人和社会可能的长期意义。最后，我觉得自己找到了答案，尽管已不能记清当初的全部问题。
+
+以下是我的一些回忆片段——谨以此为曾经或正在面对类似的现实选择、又不愿舍弃理想主义情结的普通人提供一个真实的样本。
+
+
+
+<p class="ttl"> 一 </p>
+
+从大学本科开始到博士毕业前夕，我一直都把学术路线作为未来规划的首选——最简单直接原因是：迄今为止，高度专注的学习与思考给我带来的本能快感无法被其它任何事情取代。此外，我热爱知识的发现与传播，并希望能用知识服务最宽泛意义上的人类社会（而非特定的组织或利益群体）<span style="margin-left:-0.67em">；</span>我还希望能从事基于独立思考的创造型工作，在贡献价值、收获成就感的同时为漫长的生命增添惊喜与期待。现代学术机构中的「科学家」貌似是最接近以上描述的职业选项。
+
+在教育经历方面，客观地说我也比较顺利：先后在中国和美国最好大学之一读书，及时发现了自己喜欢的前沿研究领域，并有幸在这一领域的世界学术中心接受最高质量的科研训练。
+
+> <p class="quote">
+> Thus there is a serious tension between professionalism in science and the free, amateur spirit that must be in the heart of every scientist. There is a contradiction in the idea of deliberately selecting students for training as scientists. There is a discrepancy between training in research and original research itself. There is an antithesis between ambition for professional success and the disinterested search for truth. There is antipathy between the team spirit and the freedom of the individual to follow his bent. </p>
+>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.5em">  
+>―John Ziman, <a href="https://archive.org/details/puzzlesproblemse0000zima_a3q0/page/90/mode/2up"> <nobr> “Scientists: Gentlemen or Players?” </nobr> </a> </p>
+
+
+[^ziman]: 	&ensp;<span class='reg'>John Ziman (1972), <a href="https://archive.org/details/puzzlesproblemse0000zima_a3q0/page/2/mode/2up"> “Puzzles, Problems and Enigmas”</a>, in <span class='ita'>Puzzles, Problems and Enigmas: Occasional Pieces on the Human Aspects of Science</span> (Cambridge University Press, 1981). </span>
+
+
+><p class="poem-ns">
+>Я верю в их святую веру. </p>
+><p class="poem-ns">
+>Их вера — мужество мое. </p>
+><p class="poem-ns">
+>Я делаю себе карьеру </p>
+><p class="poem-last">
+>тем, что не делаю ее!</p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>I believe in their sacred faith. / From their faith my courage is won. / I shall therefore pursue my career / by trying not to pursue one! </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+>―Евгений Евтушенко, <a href="https://www.culture.ru/poems/26258/karera"> <i>Карьера</i> </a> </p>
+
+<br>
+
+
+<p class="ttl"> 二 </p>
+
+<br>
+
+
+<p class="ttl"> 三 </p>
+
+<br>
+
+
+<p class="ttl"> 四 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a>
+</p>
+
+<a href="https://www.youtube.com/watch?v=ccHfDX9GChc&list=OLAK5uy_njqc-matMrey91PLHScbAOkh_NGsaKMtg&index=6"> <span class='reg'>“Simple Gifts”</span> </a>
+
+<br>
+
+
+<p class="ttl"> 五 </p>
+
+<p class="alb">
+<a href="https://youtu.be/Tsux27kMwjc?si=9yaMuVbJSCnjl3MN&t=1337s">
+<img src="/assets/img/albums/gould-solitude.png" width="480"> </a> 
+</p>
+
+
+
+> <p class="play">
+> MARIANNE SCHROEDER.&nbsp; It did seem like a very romantic place to me. And this was one of the reasons why I wanted to go north, because considering a place romantic means that one doesn’t know too much about it. </p>
+
+> <p class="play">
+> FRANK VALLEE.&nbsp; You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+
+> <p class="play">
+> W. V. MACLEAN.&nbsp; There’s no moral equivalent, said William James, no moral equivalent of war. That is that there’s nothing like war for providing something for you to be against. Apparently very few of us can afford to be <i>for</i> something; apparently all of us can afford to be <i>against</i> something. <nobr>. . .</nobr> So I go on to say that the north is the war, that you can afford to be against Monther Nature, if only humans make it possible. <nobr>. . .</nobr> No longer do humans combine to defy or to measure or to read or to understand or to live with the thing we call Mother Nature. Our number one enemy instead of being Mother Nature is of course <i>human nature</i>. <nobr>. . .</nobr> So we’re up against this William James. <nobr>. . .</nobr> I suppose he meant really that not war, the moral equivalent for us is going north. </p>
+
+
+
+<br>
+
+
+
+
+<p class="ttl"> 六 </p>
+
+
+<br>
+
+
+
+
+
+
+

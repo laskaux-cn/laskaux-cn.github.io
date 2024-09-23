@@ -331,7 +331,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 > <p class="quote">
-> As you listen to these exalted final pages, try to keep in the back of your mind that there are two ways to think about all this. One way is that life is absurd to start with; that only a madman goes out and tries to change the world, to fight for good and against evil. The other way is that life is indeed absurd to start with and that it can be given meaning only if you live it for your ideals, visions and poetic truths, and despite all the skepticism of all the Sancho Panzas in the world, saddle up whatever worn-out horse you’ve got and go after those visions. Take your pick.  </p>
+> As you listen to these exalted final pages, try to keep in the back of your mind that there are two ways to think about all this. One way is that life is absurd to start with, that only a madman goes out and tries to change the world, to fight for good and against evil. The other way is that life is indeed absurd to start with and that it can be given meaning only if you live it for your ideals, visions and poetic truths, and despite all the skepticism of all the Sancho Panzas in the world, saddle up whatever worn-out horse you’ve got and go after those visions. Take your pick.  </p>
 >
 ><p align="right" class="quote-ttl"> 
 > ―Leonard Bernstein, <nobr> <a href="https://leonardbernstein.com/lectures/television-scripts/young-peoples-concerts/fantastic-vatiations"> “Fantastic Variations” </a> </nobr> </p>
