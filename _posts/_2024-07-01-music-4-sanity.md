@@ -49,7 +49,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 > <p class="quote">
-> So here we are in our sharp, clean, efficient, hygienic century, longing for the old one in our secret hearts. <nobr>. . .</nobr> The romantics give us back our moon, for instance, which science has taken away from us and made into just another airport. Secretly we all want the moon to be what it was before—a musterious, hypnotic light in the sky. <nobr>. . .</nobr> We crave mystery even while we forge ahead toward the solution of one cosmic mystery after the other.  </p>
+> So here we are in our sharp, clean, efficient, hygienic century, longing for the old one in our secret hearts. It’s the truth. <nobr>. . .</nobr> The romantics give us back our moon, for instance, which science has taken away from us and made into just another airport. Secretly we all want the moon to be what it was before—a musterious, hypnotic light in the sky. <nobr>. . .</nobr> We crave mystery even while we forge ahead toward the solution of one cosmic mystery after the other.  </p>
 >
 > <p class="quote">
 > We are all still romantics at heart. I think that the world, once bitten by that bug, will never quite be free of the fever, the freedom fever by which we are still so hotly driven. </p>
