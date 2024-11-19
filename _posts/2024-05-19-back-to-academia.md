@@ -35,7 +35,7 @@ tags: random
 > Savoir se libérer n’est rien ; l’ardu, c’est savoir être libre. </p>
 >
 > <p class="quote-transl">
-> Transl.&nbsp; <i>Knowing to free oneself is nothing; the struggle is to know what to do with one’s freedom. </i> </p>
+> Transl.&nbsp; <i>Knowing to free oneself is nothing; the arduous task is to know what to do with one’s freedom. </i> </p>
 >
 ><p align="right" class="quote-ttl"> 
 > ―André Gide, <nobr> <a href="https://fr.wikisource.org/wiki/Page%3AGide_-_L%E2%80%99Immoraliste.djvu/26"> <i>L’immoraliste</i> </a> </nobr> </p>
