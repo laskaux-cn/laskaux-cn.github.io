@@ -34,19 +34,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 ><p align="right" class="quote-ttl"> 
 > ―Kenneth Clark, <a href="https://archive.org/details/civilisationpers00clar/page/240/mode/2up"> <i>Civilisation</i> </a></p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
-<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
-@ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
-</p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
-<img src="/assets/img/albums/brendel-mozart-pc24.png" width="480"> </a> <br>
-@ Wembley Town Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.06
-</p>
 
 > <p class="quote">
 > So here we are in our sharp, clean, efficient, hygienic century, longing for the old one in our secret hearts. It’s the truth. <nobr>. . .</nobr> The romantics give us back our moon, for instance, which science has taken away from us and made into just another airport. Secretly we all want the moon to be what it was before—a musterious, hypnotic light in the sky. <nobr>. . .</nobr> We crave mystery even while we forge ahead toward the solution of one cosmic mystery after the other.  </p>

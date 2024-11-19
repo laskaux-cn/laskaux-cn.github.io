@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 5 &colon; 愉悦与忧伤
+title: 音乐笔记 4 &colon; 愉悦与忧伤
 subtitle: 
 excerpt: <br>
 
@@ -75,7 +75,7 @@ Norrtälje &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 2 – </p>
 
 > <p class="quote">
 > In tracing the historical development of music there is a tendency to dwell too exclusively on the evolution of forms. Seldom do musical historians look beyond the conventional periphery of the church, the concert hall and the opera house. No doubt the values thus established have their special significance. But they do not represent the sum total of musical experience in its full range of social and human values. This can only be embraced by including every manifestation of the musical instinct among human beings, not only in its aspect of genuine folk music, but also in such hybrid manifestations as urban street music and popular theatrical music. Music in this wider sense, inseparably allied to its natural partner the dance, has always been the life breath of the Spanish people. Spanish music may have ceased to be formally impressive for a time; it has never ceased to be intensely <i>alive</i>. </p>
@@ -143,7 +143,7 @@ Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="1
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=X0nU5qae4MY&list=OLAK5uy_koRzOgRgTSXVaL1Qmj7r86BtKt3YssAXk&index=7">
@@ -182,7 +182,7 @@ Nacka &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=O6SPt3c_bJw&list=OLAK5uy_m9ovvJW17LNJhvJlBba6nANoAzQkjnlSQ&index=1">
@@ -223,7 +223,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=bzl_IMJbmVg&list=OLAK5uy_kAAz-JjfNXPZ4BaF3NjEW1aXnRGpNNDQo&index=17">
@@ -280,8 +280,21 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 6 – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
+<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
+<img src="/assets/img/albums/brendel-mozart-pc24.png" width="480"> </a> <br>
+@ Wembley Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.06
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3loOAxGosTg&list=OLAK5uy_n3REzpOdfQiYhHlX7JoUd7P4_DptAk7FM&index=2">
