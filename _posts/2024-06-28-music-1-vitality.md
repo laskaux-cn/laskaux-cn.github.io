@@ -7,12 +7,7 @@ excerpt: <br>
 tags: music-notes
 ---
 
-冒昧地借用自己最喜欢的古早人文纪录片结构，从 <span class='num'>13</span> 个不同主题出发，试图打破音乐类型、音乐史的界限
 
-<br>
-
-
-<p class="ttl"> – 0 – </p>
 
 <p class="cn">
 我为什么喜欢音乐？我说不清楚——我甚至不知道自己算不算真正的乐迷
@@ -75,11 +70,20 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 > Transl.&nbsp; <i>So sweet is the torment / which resides in my heart, / that I live happily / because of its cruel beauty. </i> </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=8Rt7o619o3M&list=OLAK5uy_lABMOUq5aC3eITdStvC4uZqO_DEUyeNco&index=2">
+<a href="https://www.youtube.com/watch?v=fCEoNZxt_1s&list=PL8AhTXrM6LH28BhEAa67Zfmf_p2NqjmY8&index=2">
 <img src="/assets/img/albums/alarcon-monteverdi.png" width="480"> </a> <br>
 @ Temple du Sentier, <br>
 Le Chenit, Vaud &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2016.04
 </p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=DrthVb7Vc5c&list=PL8AhTXrM6LH0MPsq8X0d9sUff8Lv5iWAW&index=5">
+<img src="/assets/img/albums/cauvin-cities-ii.png" width="480"> </a> <br>
+@ Château d’Hérouville, <br>
+Hérouville-en-Vexin &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2017.09
+</p>
+
 
 ><p class="poem-ns">
 >Le doux silence de nos bois </p>
@@ -98,6 +102,14 @@ Le Chenit, Vaud &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="1
 <img src="/assets/img/albums/christie-dambrius.png" width="480"> </a> <br>
 @ Auditorium Jean-Pierre Miquel, <br>
 Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013.12
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ifgjtGzb1Pc&list=OLAK5uy_ko1oPTfZTJhxInxPZvkt7MrZ4f0KBl0XI&index=43">
+<img src="/assets/img/albums/haim-handel-trionfo.png" width="480"> </a> <br>
+@ Ircam: Espace de projection, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.03 / 2006.01
 </p>
 
 <p class="alb">

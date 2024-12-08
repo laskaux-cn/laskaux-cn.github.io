@@ -49,11 +49,12 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=x-ww02cucyA&list=OLAK5uy_kviY8rVJsIrwNpDoAVOx2cdm8xwWfa0rA&index=14">
-<img src="/assets/img/albums/bruggen-haydn94.png" width="480"> </a> <br>
-@ Muziekcentrum Vredenburg, Utrecht /<br>
-De Vereeniging, Nijmegen &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.03
+<a href="https://www.youtube.com/watch?v=HpVah-JbvxM&list=OLAK5uy_nwnZc1W2zZoKkvWggkugHfRx3qsI_7bYc&index=9&t=4s">
+<img src="/assets/img/albums/alban-berg-haydn-op76-3.png" width="480"> </a> <br>
+@ Bayrischer Hof, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1974.03
 </p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&index=4">
@@ -95,6 +96,19 @@ Crema &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp;
 @ Deutschlandfunk Kammermusiksaal, <br>
 Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2014.09
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=OFBMmxIte8o&list=OLAK5uy_k7loh1hDaWlqsIS0Hij35tdeH4LLDtbpU&index=1&t=5s">
+<img src="/assets/img/albums/ashkenazy-rachmaninov-corelli.png" width="480"> </a> <br>
+@ Kingsway Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.01
+</p>
+
+<br>
+
+
+
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
@@ -152,7 +166,7 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 
 <br>
 
-<p class="ttl"> – 3 – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
@@ -218,7 +232,7 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – 4 – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
@@ -258,7 +272,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
-<p class="ttl"> – 5 – </p>
+<p class="ttl"> – 6 – </p>
 
 > <p class="quote">
 > After Beethoven, the sonata was the vehicle of the sublime. It played the same role in music as the epic in poetry, and the large historical fresco in painting. The proof of craftsmanship was the fugue, but the proof of greatness was the sonata. Only through the sonata, it seemed, could the highest musical ambitions be realized. </p>
@@ -296,7 +310,7 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s">
@@ -351,7 +365,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> – 7 – </p>
+<p class="ttl"> – 8 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=k_a3fOy-_Jk&list=PL8AhTXrM6LH3WydwO9LoGa576r57jAoLk&index=1">

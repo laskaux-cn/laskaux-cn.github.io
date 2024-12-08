@@ -37,6 +37,7 @@ tags: music-notes
 ><p align="right" class="quote-ttl"> 
 > ―Thomas Mann, <nobr> <a href="https://archive.org/details/derzauberberg0000thom_e5f8/page/104/mode/2up"> <i>Der Zauberberg</i> </a> </nobr> </p>
 
+冒昧地借用自己最喜欢的古早人文纪录片结构，从 <span class='num'>13</span> 个不同主题出发，试图打破音乐类型、音乐史的界限
 
 <br>
 
