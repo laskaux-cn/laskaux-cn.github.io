@@ -262,10 +262,10 @@ meat, and yet thy head hath been beaten as
 addle as an egg for quarrelling. </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=JR5iWGLcbsw&list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&index=13">
-<img src="/assets/img/albums/bernstein-wss.png" width="480"> </a> <br>
-@ RCA Victor Studio A, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
+<a href="https://www.youtube.com/watch?v=Ul9oiAD_fls&list=OLAK5uy_kXYhobZMgN8q1OzVSDQ8LG_GfBfou4PtQ&index=20">
+<img src="/assets/img/albums/tilson-thomas-wss.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1993.09
 </p>
 
 ><p class="poem-ns">
@@ -356,7 +356,7 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=q_S0M6HIeQo&list=OLAK5uy_mK7-8pMrx95pA0LgHiyDrOcUSnt3FshQM&index=2">
-<img src="/assets/img/albums/slatkin-copland-rodeo.png" width="480"> </a> <br>
+<img src="/assets/img/albums/slatkin-copland-billy.png" width="480"> </a> <br>
 @ Powell Hall, <br>
 St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1985.10
 </p>
@@ -445,8 +445,8 @@ Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1">
-<img src="/assets/img/albums/hantai-goldberg.png" width="480"> </a> <br>
-@ Doopsgezinde Kerk, <br>
+<img src="/assets/img/albums/hantai-goldberg-opus111.png" width="480"> </a> <br>
+@ Doopsgezinde kerk, <br>
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06
 </p>
 
