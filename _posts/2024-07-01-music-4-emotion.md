@@ -23,13 +23,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p class="ttl"> – X – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
-<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
-@ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
 <img src="/assets/img/albums/brendel-mozart-pc24.png" width="480"> </a> <br>
 @ Wembley Town Hall, <br>

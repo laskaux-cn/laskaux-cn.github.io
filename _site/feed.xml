@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 08 Jan 2025 03:11:37 -0800</pubDate>
+    <pubDate>Fri, 10 Jan 2025 03:50:22 -0800</pubDate>
     
       <item>
         <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
@@ -25,13 +25,6 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – X – &lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=55A3gfYObzU&amp;amp;list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&amp;amp;index=50&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/bilson-mozart-pc20.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ St John&amp;rsquo;s, Smith Square, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1986.04 / 1988.05
-&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=MAVwxtP50l4&amp;amp;t=794s&quot;&gt;
@@ -209,9 +202,44 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 神戸市 &amp;nbsp;&lt;img src=&quot;/assets/img/flags/jp.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999.12
 &lt;/p&gt;
 
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=N9xmaJURJzU&amp;amp;list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/leinsdorf-stravinsky-agon.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=N9xmaJURJzU&amp;amp;list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/markevitch-beethoven-overtures.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Polydor Studio, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1958.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=55A3gfYObzU&amp;amp;list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&amp;amp;index=50&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bilson-mozart-pc20.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ St John&amp;rsquo;s, Smith Square, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1986.04
+&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=0ikegfV1dHY&amp;amp;list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&amp;amp;index=22&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ragossnig-spinacino.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Residenz: Plenarsaal, &lt;br /&gt;
+München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=3ttybRNhj3M&amp;amp;list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/savall-falconieri-folias.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Castell de Cardona: Església de Sant Vicenç, &lt;br /&gt;
+Cardona &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2005.02–03
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=pyklI8D2tkc&amp;amp;list=OLAK5uy_nJfR-E4Gachq_FRZ3PNH6Xyf-jfWFBhoc&amp;amp;index=6&quot;&gt;
@@ -225,6 +253,13 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;img src=&quot;/assets/img/albums/munch-ravel-daphnis.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Symphony Hall, &lt;br /&gt;
 Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.02
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ICSu1P7JtPE&amp;amp;list=OLAK5uy_m9lIIolwdHt1RNlK3k7f8jB1eo0Ey2lJI&amp;amp;index=12&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pichon-bach232I.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Temple du Saint-Esprit, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.11
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -256,7 +291,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=6ncxzyF6AhI&amp;amp;list=OLAK5uy_nWB1o730v8ybY2UU3Rx8yriYib8ZWtaNw&amp;amp;index=3&quot;&gt; &lt;img src=&quot;/assets/img/albums/markevitch-sym-fantas.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=6ncxzyF6AhI&amp;amp;list=OLAK5uy_nWB1o730v8ybY2UU3Rx8yriYib8ZWtaNw&amp;amp;index=3&quot;&gt; &lt;img src=&quot;/assets/img/albums/markevitch-berlioz-sf.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Maison de la Mutualité, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.01 
 &lt;/p&gt;

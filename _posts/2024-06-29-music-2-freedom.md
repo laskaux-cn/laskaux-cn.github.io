@@ -18,9 +18,44 @@ tags: music-notes
 神戸市 &nbsp;<img src="/assets/img/flags/jp.png" height="10.5" width="16"/>&nbsp; 1999.12
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<img src="/assets/img/albums/leinsdorf-stravinsky-agon.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1965.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
+@ Polydor Studio, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
+<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04
+</p>
+
 <br>
 
 <p class="ttl"> – 2 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
+<img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
+@ Residenz: Plenarsaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
+<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
+@ Castell de Cardona: Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=pyklI8D2tkc&list=OLAK5uy_nJfR-E4Gachq_FRZ3PNH6Xyf-jfWFBhoc&index=6">
@@ -34,6 +69,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/munch-ravel-daphnis.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ICSu1P7JtPE&list=OLAK5uy_m9lIIolwdHt1RNlK3k7f8jB1eo0Ey2lJI&index=12">
+<img src="/assets/img/albums/pichon-bach232I.png" width="480"> </a> <br>
+@ Temple du Saint-Esprit, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.11
 </p>
 
 <br>
@@ -66,7 +108,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=6ncxzyF6AhI&list=OLAK5uy_nWB1o730v8ybY2UU3Rx8yriYib8ZWtaNw&index=3"> <img src="/assets/img/albums/markevitch-sym-fantas.png" width="480"> </a> <br>
+<a href="https://www.youtube.com/watch?v=6ncxzyF6AhI&list=OLAK5uy_nWB1o730v8ybY2UU3Rx8yriYib8ZWtaNw&index=3"> <img src="/assets/img/albums/markevitch-berlioz-sf.png" width="480"> </a> <br>
 @ Maison de la Mutualité, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1961.01 
 </p>
