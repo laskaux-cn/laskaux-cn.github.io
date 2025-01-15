@@ -7,8 +7,6 @@ excerpt: <br>
 tags: music-notes
 ---
 
-<br>
-
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
@@ -26,28 +24,41 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=oohn-xMnC6o&list=OLAK5uy_nXri7h3fqReizbgYijrqIGovsPcmBSXrE&index=6">
+<img src="/assets/img/albums/alain-poulenc.png" width="480"> </a> <br>
+@ Maison de la Radio: Studio 104, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1970.09
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
 <img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
 @ Polydor Studio, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
 </p>
 
+<br>
+
+
+<p class="ttl"> – 2 – </p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
-<img src="/assets/img/albums/bilson-mozart-pc20.png" width="480"> </a> <br>
+<img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04
 </p>
 
 <br>
 
-<p class="ttl"> – 2 – </p>
+
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
 <img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
-@ Residenz: Plenarsaal, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
+@ Bayerische Akademie der Wissenschaften: <br>
+Plenarsaal, München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
 <p class="alb">
@@ -71,17 +82,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.02
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=ICSu1P7JtPE&list=OLAK5uy_m9lIIolwdHt1RNlK3k7f8jB1eo0Ey2lJI&index=12">
-<img src="/assets/img/albums/pichon-bach232I.png" width="480"> </a> <br>
-@ Temple du Saint-Esprit, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.11
-</p>
-
 <br>
 
 
 <p class="ttl"> – 3 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=YoRXWq3wcn0&list=OLAK5uy_lLuBXP6hq-7w3n70dNIZOrUaqZ9vYyb_o&index=24">
+<img src="/assets/img/albums/haitink-tannhauser.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1981.05
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=YwJD9kjgVoM&list=OLAK5uy_mXMM9divWpl8aEj4RHG28uPcJTZsSPdNk&index=2"> <img src="/assets/img/albums/kuijken-mozart364.png" width="480"> </a> <br>
