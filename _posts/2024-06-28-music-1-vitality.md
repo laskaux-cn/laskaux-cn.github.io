@@ -152,7 +152,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Ul9oiAD_fls&list=OLAK5uy_kXYhobZMgN8q1OzVSDQ8LG_GfBfou4PtQ&index=20">
-<img src="/assets/img/albums/tilson-thomas-wss.png" width="480"> </a> <br>
+<img src="/assets/img/albums/mtt-wss.png" width="480"> </a> <br>
 @ Henry Wood Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1993.09
 </p>
@@ -169,6 +169,13 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 <p class="ttl"> – 4 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=KnP3M8Vy8z0&list=OLAK5uy_kQI2Bd_I3heY2TGodaCiKmLBwRhcBwf0k&index=18">
+<img src="/assets/img/albums/1700-uccellini.png" width="480"> </a> <br>
+@ Deutschlandfunk Kammermusiksaal, <br>
+Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2019.10
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VeirRa-TAUE&list=OLAK5uy_mm3MD0CZinyqA3cn7bGNtKX6A_0xp19hM&index=32">
