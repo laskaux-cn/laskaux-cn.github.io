@@ -7,6 +7,59 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
+<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
+@ Berwaldhallen, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
+<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
+@ Castell de Cardona: Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<img src="/assets/img/albums/leinsdorf-stravinsky-agon.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1965.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
+@ Polydor Studio, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ICSu1P7JtPE&list=OLAK5uy_m9lIIolwdHt1RNlK3k7f8jB1eo0Ey2lJI&index=12">
+<img src="/assets/img/albums/pichon-bach232I.png" width="480"> </a> <br>
+@ Temple du Saint-Esprit, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=oohn-xMnC6o&list=OLAK5uy_nXri7h3fqReizbgYijrqIGovsPcmBSXrE&index=6">
+<img src="/assets/img/albums/alain-poulenc.png" width="480"> </a> <br>
+@ Maison de la Radio: Studio 104, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1970.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VqEkwVViM9c&list=OLAK5uy_nBUqEtf-D0G0L1h13FVOQ2LuiCObWwME0&index=20"> <img src="/assets/img/albums/visse-josquin.png" width="480"> </a> <br>
+@ Théâtre élisabéthain, Château d’Hardelot, <br>
+Condette &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020.02 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=d7dD1JXwtPU&list=OLAK5uy_ndJ4Ez2Es0AZIAt2XyirZio4iQ8hH5NAw&index=17"> <img src="/assets/img/albums/linde-la-pellegrina.png" width="480"> </a> <br>
+@ Martinskirche, <br>
+Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1973.06–07 
+</p>
 
 <p style="text-align:center">
 	3.X &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)

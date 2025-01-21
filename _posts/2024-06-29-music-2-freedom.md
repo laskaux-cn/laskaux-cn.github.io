@@ -10,10 +10,22 @@ tags: music-notes
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=8aoBVoRbQlc&list=OLAK5uy_nqB7H3McYqyVxHvRpE9DYYm_YXgWWPH14&index=10">
-<img src="/assets/img/albums/suzuki-monteverdi1610.png" width="480"> </a> <br>
-@ 神戸松蔭女子学院大学 チャペル, <br>
-神戸市 &nbsp;<img src="/assets/img/flags/jp.png" height="10.5" width="16"/>&nbsp; 1999.12
+<a href="https://www.youtube.com/watch?v=kPRnTmNvhY4&list=OLAK5uy_kj97DeMPDQZUdor1r2qfceL2KcsThUWhc&index=3"> <img src="/assets/img/albums/herreweghe-monteverdi-vespro.png" width="480"> </a> <br>
+@ Chiesa di San Francesco, <br>
+Asciano &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2017.08 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Ole7qVe81qg&list=OLAK5uy_mdYxNNC7FNasqCk3BlERgSrRBW20Zl8oM&index=10"> <img src="/assets/img/albums/gothic-voices-dufay.png" width="480"> </a> <br>
+@ Boxgrove Priory, <br>
+West Sussex &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2016.03 
+</p>
+
+<p class="alb">
+<a href="https://youtu.be/ecbGFgY9wkU?t=2926s">
+<img src="/assets/img/albums/christie-dido-aeneas.png" width="480"> </a> <br>
+@ Église Saint-Martin du Méjan, <br>
+Arles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1985.07
 </p>
 
 <p class="alb">
@@ -24,11 +36,52 @@ Plenarsaal, München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
-<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
-@ Castell de Cardona: Església de Sant Vicenç, <br>
-Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+<a href="https://www.youtube.com/watch?v=_xsIMQ9IINI&list=OLAK5uy_mlC50hdNtbgaEm1ZcOu9EGLKSqR5Nu6yY&index=1">
+<img src="/assets/img/albums/daehler-byrd.png" width="480"> </a> <br>
+@ Museum für Völkerkunde: Aula, <br> 
+Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1975
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=AEfHB7FPb4c&list=OLAK5uy_mcoiTclzfyU7yDf8PJsSVdHmIIfFNdASQ&index=10">
+<img src="/assets/img/albums/tuma-sweelinck.png" width="480"> </a> <br>
+@ Kostel svatého Bartoloměje, <br>
+Doksy &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1994.10
+</p>
+
+<p class="alb" style="margin-bottom:-1.8em">
+<a href="https://www.youtube.com/watch?v=zLtsIMIXFJI&list=OLAK5uy_l_JoHJbYYl_Rb5C2W6K8TTRdUjHsqzopY&index=2">
+<img src="/assets/img/albums/faust-bach-1001-2-3.png" width="480"> </a> <br> </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=dwui5VpnqEM&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=7">
+<img src="/assets/img/albums/faust-bach-1004-5-6.png" width="480"> </a> <br>
+
+@ Teldex Studio, <br>   
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2011.08–09 / 2009.09
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=azcTyClwyPc&list=OLAK5uy_lN6DnJ3XcFhkyVDmsBegltIgslSTRgbU8&index=7">
+<img src="/assets/img/albums/tetzlaff-bartok.png" width="480"> </a> <br>
+@ Deutschlandfunk Kammermusiksaal, <br>
+Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2003.01
+</p>
+
+<br>
+
+
+
+<p class="ttl"> – 2 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=T1C-5KW8gXg&list=OLAK5uy_kNU9IkQ2r_O-vdiCx94nHqOXFfCqu-uPI&index=11">
+<img src="/assets/img/albums/alessandrini-monteverdi-vespro.png" width="480"> </a> <br>
+@ Palazzo Farnese, <br>
+Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.12
+</p>
+
 
 <p class="alb">
 <a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-romeo-juliette.png" width="480"> </a> <br>
@@ -53,7 +106,14 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <br>
 
 
-<p class="ttl"> – 2 – </p>
+
+<p class="ttl"> – 3 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=V3OG_ukdxbI&list=OLAK5uy_l449aFyJV_ddpxBlMELtXc4ZKS9bRUB_o&index=3"> <img src="/assets/img/albums/king-monteverdi-vespro.png" width="480"> </a> <br>
+@ St Jude-on-the-Hill, Hampstead, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2006.02 
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=YoRXWq3wcn0&list=OLAK5uy_lLuBXP6hq-7w3n70dNIZOrUaqZ9vYyb_o&index=24">
@@ -89,7 +149,8 @@ San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"
 <br>
 
 
-<p class="ttl"> – 3 – </p>
+
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
@@ -122,7 +183,8 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 <br>
 
 
-<p class="ttl"> – 4 – </p>
+
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://https://www.youtube.com/watch?v=RvheqbdazZ4&list=OLAK5uy_nVbGn1Xs-6CALKj5iICjFguQZ_UAeWubY&index=2"> <img src="/assets/img/albums/schola-hungarica-ambrose.png" width="480"> </a> <br>
@@ -162,7 +224,9 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
-<p class="ttl"> – 5 – </p>
+
+
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eVOIEAz680I&list=OLAK5uy_nVZCVKGktHvXUoSlh2tHxT4cF--7dgFSk&index=34"> <img src="/assets/img/albums/munrow-perotin.png" width="480"> </a> <br>
@@ -208,18 +272,14 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+
+
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=VqEkwVViM9c&list=OLAK5uy_nBUqEtf-D0G0L1h13FVOQ2LuiCObWwME0&index=20"> <img src="/assets/img/albums/visse-josquin.png" width="480"> </a> <br>
-@ Théâtre élisabéthain, Château d’Hardelot, <br>
-Condette &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020.02 
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=d7dD1JXwtPU&list=OLAK5uy_ndJ4Ez2Es0AZIAt2XyirZio4iQ8hH5NAw&index=17"> <img src="/assets/img/albums/linde-la-pellegrina.png" width="480"> </a> <br>
-@ Martinskirche, <br>
-Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1973.06–07 
+<a href="https://www.youtube.com/watch?v=6TQplHg6New&list=OLAK5uy_lWz_65k9slYs3KLEVpHZQsSZelVDYRnik&index=7"> <img src="/assets/img/albums/savall-monteverdi-vespro.png" width="480"> </a> <br>
+@ Basilica palatina di Santa Barbara, <br>
+Mantova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1988.01 
 </p>
 
 <p class="alb">
@@ -235,10 +295,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
-@ Berwaldhallen, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+<a href="https://www.youtube.com/watch?v=8aoBVoRbQlc&list=OLAK5uy_nqB7H3McYqyVxHvRpE9DYYm_YXgWWPH14&index=10">
+<img src="/assets/img/albums/suzuki-monteverdi-vespro.png" width="480"> </a> <br>
+@ 神戸松蔭女子学院大学 チャペル, <br>
+神戸市 &nbsp;<img src="/assets/img/flags/jp.png" height="10.5" width="16"/>&nbsp; 1999.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
+<img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> </a> <br>
+@ Grande Salle de l’Arsenal, <br>
+Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10
 </p>
 
 <br>
