@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 21 Jan 2025 13:20:40 -0800</pubDate>
+    <pubDate>Fri, 24 Jan 2025 02:29:53 -0500</pubDate>
     
       <item>
         <title>音乐笔记 4 &amp;colon; 愉悦与忧伤</title>
@@ -69,7 +69,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 01 Jul 2024 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -180,7 +180,7 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 30 Jun 2024 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 30 Jun 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -206,6 +206,13 @@ West Sussex &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&q
 &lt;img src=&quot;/assets/img/albums/christie-dido-aeneas.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Église Saint-Martin du Méjan, &lt;br /&gt;
 Arles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1985.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Xso_0kj0cjk&amp;amp;list=OLAK5uy_mioiettoesLuByzLIPWOSe8N__jUShn8Y&amp;amp;index=18&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/tenebrae-poulenc.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ St Bartholomew-the-Great, Smithfield, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2009.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -297,6 +304,12 @@ München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt; &lt;img src=&quot;/assets/img/albums/copland-copland-london.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Walthamstow Assembly Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.11 
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=KZLxn33GuGo&amp;amp;list=OLAK5uy_kzFtNfZrXVqxY9KyOeCgyBXkJBdKs47Rc&amp;amp;index=5&quot;&gt; &lt;img src=&quot;/assets/img/albums/rilling-bach213.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Gedächtniskirche, &lt;br /&gt;
 Stuttgart &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.01 
@@ -343,6 +356,13 @@ Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 &lt;img src=&quot;/assets/img/albums/mravinsky-tchaikovsky4.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Wembley Town Hall, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jUqqM4I0riI&amp;amp;list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/fricsay-vltava.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Jesus-Christus-Kirche, &lt;br /&gt;
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.01
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -455,12 +475,6 @@ Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=JYUqEpQoabw&amp;amp;list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&amp;amp;index=5&quot;&gt; &lt;img src=&quot;/assets/img/albums/copland-copland-london.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Walthamstow Assembly Hall, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.11 
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=8aoBVoRbQlc&amp;amp;list=OLAK5uy_nqB7H3McYqyVxHvRpE9DYYm_YXgWWPH14&amp;amp;index=10&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/suzuki-monteverdi-vespro.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ 神戸松蔭女子学院大学 チャペル, &lt;br /&gt;
@@ -477,7 +491,7 @@ Metz &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 29 Jun 2024 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 29 Jun 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -611,6 +625,20 @@ Baden-Baden &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&q
 &lt;img src=&quot;/assets/img/albums/takacs-haydn-op76.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ St Barnabas, North Finchley, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=XWHgKLN1PoI&amp;amp;list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&amp;amp;index=25&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/brautigam-diabelli.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Österåkers kyrka, &lt;br /&gt;   
+Österåker &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.08
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=UABWxIbUdLs&amp;amp;list=OLAK5uy_m7ZgCjQQOncIhwG7WI0VxN4ylWFgP2rNE&amp;amp;index=18&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/hula-schoenberg-pierrot.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Sál Bohuslava Martinů, &lt;br /&gt;
+Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.09
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -794,7 +822,7 @@ Diemen &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;1
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 28 Jun 2024 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 28 Jun 2024 00:00:00 -0400</pubDate>
       </item>
     
   </channel>

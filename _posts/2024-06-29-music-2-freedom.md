@@ -29,6 +29,13 @@ Arles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=Xso_0kj0cjk&list=OLAK5uy_mioiettoesLuByzLIPWOSe8N__jUShn8Y&index=18">
+<img src="/assets/img/albums/tenebrae-poulenc.png" width="480"> </a> <br>
+@ St Bartholomew-the-Great, Smithfield, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2009.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=0ikegfV1dHY&list=OLAK5uy_nyKYyo4-dZwN5g_QaD-YMJ49VWqgmweJo&index=22">
 <img src="/assets/img/albums/ragossnig-spinacino.png" width="480"> </a> <br>
 @ Bayerische Akademie der Wissenschaften: <br>
@@ -123,6 +130,12 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=KZLxn33GuGo&list=OLAK5uy_kzFtNfZrXVqxY9KyOeCgyBXkJBdKs47Rc&index=5"> <img src="/assets/img/albums/rilling-bach213.png" width="480"> </a> <br>
 @ Gedächtniskirche, <br>
 Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.01 
@@ -171,6 +184,13 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 <img src="/assets/img/albums/mravinsky-tchaikovsky4.png" width="480"> </a> <br>
 @ Wembley Town Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1960.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jUqqM4I0riI&list=OLAK5uy_mEhKFSXvYLniWcyrhgVDvN11ZY3w-Hew0&index=5">
+<img src="/assets/img/albums/fricsay-vltava.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1960.01
 </p>
 
 <p class="alb">
@@ -288,11 +308,6 @@ Mantova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbs
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.05 
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
-@ Walthamstow Assembly Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11 
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=8aoBVoRbQlc&list=OLAK5uy_nqB7H3McYqyVxHvRpE9DYYm_YXgWWPH14&index=10">

@@ -142,6 +142,19 @@ Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.09
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=XWHgKLN1PoI&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=25">
+<img src="/assets/img/albums/brautigam-diabelli.png" width="480"> </a> <br>
+@ Österåkers kyrka, <br>   
+Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=UABWxIbUdLs&list=OLAK5uy_m7ZgCjQQOncIhwG7WI0VxN4ylWFgP2rNE&index=18">
+<img src="/assets/img/albums/hula-schoenberg-pierrot.png" width="480"> </a> <br>
+@ Sál Bohuslava Martinů, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.09
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=6&t=216s">
