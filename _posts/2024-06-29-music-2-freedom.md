@@ -89,6 +89,19 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.12
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
+<img src="/assets/img/albums/fricsay-leonore.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=L-t_SP5BDcY&list=OLAK5uy_kKAmW_aWuSMWODxX9ljEnGxKbbyRV0Tn0&index=5">
+<img src="/assets/img/albums/mackerras-mendelssohn.png" width="480"> </a> <br>
+@ Royal Festival Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2009.02
+</p>
 
 <p class="alb">
 <a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-romeo-juliette.png" width="480"> </a> <br>
@@ -127,6 +140,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/haitink-tannhauser.png" width="480"> </a> <br>
 @ Herkulessaal, <br>
 München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1981.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=-Cv_OonRUlI&list=OLAK5uy_lyVhLqFPTmCj7S2SSRT5Y1cuUk5VY7Kvs&index=43">
+<img src="/assets/img/albums/bernstein-rosenkavalier.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1971.03–04
 </p>
 
 <p class="alb">
