@@ -63,7 +63,6 @@ Doksy &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=dwui5VpnqEM&list=OLAK5uy_k9uIqni_78Dt5KAT5CgbOE0dI5iv0I_QY&index=7">
 <img src="/assets/img/albums/faust-bach-1004-5-6.png" width="480"> </a> <br>
-
 @ Teldex Studio, <br>   
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2011.08–09 / 2009.09
 </p>
@@ -81,53 +80,6 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 
 
 <p class="ttl"> – 2 – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=T1C-5KW8gXg&list=OLAK5uy_kNU9IkQ2r_O-vdiCx94nHqOXFfCqu-uPI&index=11">
-<img src="/assets/img/albums/alessandrini-monteverdi-vespro.png" width="480"> </a> <br>
-@ Palazzo Farnese, <br>
-Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.12
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
-<img src="/assets/img/albums/fricsay-leonore.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.09
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=L-t_SP5BDcY&list=OLAK5uy_kKAmW_aWuSMWODxX9ljEnGxKbbyRV0Tn0&index=5">
-<img src="/assets/img/albums/mackerras-mendelssohn.png" width="480"> </a> <br>
-@ Royal Festival Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2009.02
-</p>
-
-<p class="alb">
-<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-romeo-juliette.png" width="480"> </a> <br>
-@ Colosseum, <br>
-Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1995.10 
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=pyklI8D2tkc&list=OLAK5uy_nJfR-E4Gachq_FRZ3PNH6Xyf-jfWFBhoc&index=6">
-<img src="/assets/img/albums/svetlanov-debussy.png" width="480"> </a> <br>
-@ St Augustine’s, Kilburn, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1992.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=XopYQbIDlBw&list=OLAK5uy_kC0jldIJcYaHNewmnyEvfSJ2ddmRvXE14&index=23">
-<img src="/assets/img/albums/munch-ravel-daphnis.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.02
-</p>
-
-<br>
-
-
-
-<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=V3OG_ukdxbI&list=OLAK5uy_l449aFyJV_ddpxBlMELtXc4ZKS9bRUB_o&index=3"> <img src="/assets/img/albums/king-monteverdi-vespro.png" width="480"> </a> <br>
@@ -177,6 +129,60 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <a href="https://www.youtube.com/watch?v=Ux6U6mPcqrM&list=OLAK5uy_lndPgeRA0NVo_pYblziPmaVLy-M_TgYww&index=17"> <img src="/assets/img/albums/mtt-ives-question.png" width="480"> </a> <br>
 @ Davies Symphony Hall, <br>
 San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.10 
+</p>
+
+<br>
+
+
+
+<p class="ttl"> – 3 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=T1C-5KW8gXg&list=OLAK5uy_kNU9IkQ2r_O-vdiCx94nHqOXFfCqu-uPI&index=11">
+<img src="/assets/img/albums/alessandrini-monteverdi-vespro.png" width="480"> </a> <br>
+@ Palazzo Farnese, <br>
+Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Vvj1Qnx7u3s&list=OLAK5uy_lTXmRJpPzrRAOl3FO1rEJGLCNXONk0wNA&index=1">
+<img src="/assets/img/albums/rousset-rameau-zais.png" width="480"> </a> <br>
+@ Chapelle royale, <br>
+Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
+<img src="/assets/img/albums/fricsay-beethoven9.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=L-t_SP5BDcY&list=OLAK5uy_kKAmW_aWuSMWODxX9ljEnGxKbbyRV0Tn0&index=5">
+<img src="/assets/img/albums/mackerras-mendelssohn.png" width="480"> </a> <br>
+@ Royal Festival Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2009.02
+</p>
+
+<p class="alb">
+<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-romeo-juliette.png" width="480"> </a> <br>
+@ Colosseum, <br>
+Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1995.10 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=pyklI8D2tkc&list=OLAK5uy_nJfR-E4Gachq_FRZ3PNH6Xyf-jfWFBhoc&index=6">
+<img src="/assets/img/albums/svetlanov-debussy.png" width="480"> </a> <br>
+@ St Augustine’s, Kilburn, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1992.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=XopYQbIDlBw&list=OLAK5uy_kC0jldIJcYaHNewmnyEvfSJ2ddmRvXE14&index=23">
+<img src="/assets/img/albums/munch-ravel-daphnis.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.02
 </p>
 
 <br>
@@ -315,6 +321,13 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 
 <p class="ttl"> – 7 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=lQ8erjD5MFc&list=OLAK5uy_ksTLAhSoC45hgEFNaYg1gNQ69dSxHQJaA&index=10">
+<img src="/assets/img/albums/takacs-haydn-op76.png" width="480"> </a> <br>
+@ St Barnabas, North Finchley, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.09
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=6TQplHg6New&list=OLAK5uy_lWz_65k9slYs3KLEVpHZQsSZelVDYRnik&index=7"> <img src="/assets/img/albums/savall-monteverdi-vespro.png" width="480"> </a> <br>
