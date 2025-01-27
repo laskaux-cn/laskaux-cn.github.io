@@ -14,12 +14,7 @@ tags: music
 Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
-<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
-@ Castell de Cardona: Església de Sant Vicenç, <br>
-Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
-</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
