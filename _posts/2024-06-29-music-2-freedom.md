@@ -192,6 +192,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – 4 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
+<img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
+@ Saletta acustica “Eric James”, <br>
+Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
 <img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
@@ -276,8 +283,8 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eVOIEAz680I&list=OLAK5uy_nVZCVKGktHvXUoSlh2tHxT4cF--7dgFSk&index=34"> <img src="/assets/img/albums/munrow-perotin.png" width="480"> </a> <br>
-@ Charterhouse Chapel / Conway Hall, <br>
-Godalming/London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975.04/10 
+@ Charterhouse Chapel, Godalming / <br>
+Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975.04/10 
 </p>
 
 <p class="alb">
@@ -323,6 +330,12 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="ttl"> – 7 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=4JDVPYt03TE&list=OLAK5uy_lGUEkKLaGDtBucFctCuoDqM0uPDpaF938&index=20"> <img src="/assets/img/albums/gini-monteverdi-vespro.png" width="480"> </a> <br>
+@ Chiesa di San Giuliano, <br>
+Catania &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2006.08 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=lQ8erjD5MFc&list=OLAK5uy_ksTLAhSoC45hgEFNaYg1gNQ69dSxHQJaA&index=10">
 <img src="/assets/img/albums/takacs-haydn-op76.png" width="480"> </a> <br>
 @ St Barnabas, North Finchley, <br>
@@ -341,7 +354,6 @@ Mantova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbs
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.05 
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=8aoBVoRbQlc&list=OLAK5uy_nqB7H3McYqyVxHvRpE9DYYm_YXgWWPH14&index=10">
 <img src="/assets/img/albums/suzuki-monteverdi-vespro.png" width="480"> </a> <br>
@@ -354,6 +366,13 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 <img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> </a> <br>
 @ Grande Salle de l’Arsenal, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=OmdWo0IwMq0&list=OLAK5uy_nVNWxwZXHYQjiLkRuZSQyj2j7S45zI5ks&index=4">
+<img src="/assets/img/albums/suzuki-beethoven9.png" width="480"> </a> <br>
+@ 東京オペラシティ コンサートホール, <br>
+東京都 &nbsp;<img src="/assets/img/flags/jp.png" height="10.5" width="16"/>&nbsp; 2019.01
 </p>
 
 <br>
