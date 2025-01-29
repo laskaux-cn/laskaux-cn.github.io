@@ -9,6 +9,18 @@ tags: music-notes
 
 <p class="ttl"> – 1 – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=cjV7eHUIoE4&list=OLAK5uy_m5zgftKQzIO_QYTHtpH1xtbok0_-no04g&index=5"> <img src="/assets/img/albums/markevitch-beethoven5.png" width="480"> </a> <br>
+@ Maison de la Mutualité, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1959.12 
+</p>
+
+<br>
+
+
+
+<p class="ttl"> – 2 – </p>
+
 <p class="alb" style="margin-bottom:-1.8em">
 <a href="https://drive.google.com/file/d/1x9kzFv6Ptm2eXv0_KOORjxgsMWXRZ2Ay/view?usp=sharing">
 <img src="/assets/img/albums/collegium-aureum-beethoven3.png" width="480"> </a> <br> </p>
@@ -17,7 +29,81 @@ tags: music-notes
 <a href="https://www.youtube.com/watch?v=93IOV96WHqw&t=943s">
 <img src="/assets/img/albums/collegium-aureum-beethoven7.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>   
-Kirchheim unter Teck &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
+Kirchheim &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15">
+<img src="/assets/img/albums/pichon-castor-pollux.png" width="480"> </a> <br>
+@ Le Corum: Opéra Berlioz, <br>   
+Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
+</p>
+
+<br>
+
+
+<p class="ttl"> – 3 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4Jg4UjBHjm0&t=1650s">
+<img src="/assets/img/albums/jochum-beethoven9.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1969.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=2cnOnRLBqOQ&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=4">
+<img src="/assets/img/albums/haitink-mahler5.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
+<img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
+@ Großer Musikvereinssaal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=hfgrXm1t69c&list=OLAK5uy_mApgN0ddKaPPPSrJndn3o1RJXkYnMGmtU&index=10">
+<img src="/assets/img/albums/ashkenazy-rachmaninov2.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.09
+</p>
+
+<br>
+
+
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=BHEPJQ5x1Kk&list=OLAK5uy_lP_RODwLf6SLQD8an-LQF7W1CqzVUCqR8&index=3">
+<img src="/assets/img/albums/cluytens-beethoven1.png" width="480"> </a> <br>
+@ Grunewaldkirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=xnKi1ru-Sog&list=OLAK5uy_nEv1U8_02ZJxrKGA15g9wtfZHEgZH7yNo&index=7">
+<img src="/assets/img/albums/sawallisch-schumann4.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=A-8_WEcaCRo&list=OLAK5uy_nJ5jJ3wRYLBgf_ogEu7zdIfKD3pfpzLJ8&index=34">
+<img src="/assets/img/albums/jochum-bruckner9.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1964.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+<img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
+@ Église Saint-Hippolyte de Lagriffoul, <br>
+Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.08
 </p>
 
 <br>
@@ -41,10 +127,17 @@ Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=aXuiwjpRO34&list=OLAK5uy_n0avO_29-2i_zzLL1l8yaayFcEX8I8mas&index=5">
-<img src="/assets/img/albums/levine-bartok-mspc.png" width="480"> </a> <br>
-@ Orchestra Hall, <br>
-Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.06
+<a href="https://www.youtube.com/watch?v=bHH3LPph8MI&list=OLAK5uy_kEp6uIqS2CW8B_jUV2OZlp5nSSA9L5I5Y&index=5">
+<img src="/assets/img/albums/dohnanyi-mahler5.png" width="480"> </a> <br>
+@ Masonic Temple, <br>
+Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1988.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=lNtnFg0geH0&list=OLAK5uy_kEp6uIqS2CW8B_jUV2OZlp5nSSA9L5I5Y&index=4">
+<img src="/assets/img/albums/boulez-bartok-cfo.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1972.12
 </p>
 
 <br>
@@ -67,14 +160,12 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1972.06–07
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
 <img src="/assets/img/albums/marville-farnaby.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
 Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
@@ -104,10 +195,53 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a> <br>
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> 
+<img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a> <br>
 @ Davies Symphony Hall, <br>
 San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.05 
 </p>
+
+<br>
+
+
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_ndYJcYuHiI&list=OLAK5uy_kc72iM_0imDa6lW9zuyiaNGLNTJB0tyj4&index=1">
+<img src="/assets/img/albums/gardiner-beethoven7.png" width="480"> </a> <br>
+@ All Hallows’, Gospel Oak, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1992.12 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LfGZM7a7UVY&list=OLAK5uy_nBPi0jsArSVqTuMMtiuNncQN8QVsiD4kw&index=1">
+<img src="/assets/img/albums/herreweghe-schumann1.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2006.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ZF4n7lshik&list=OLAK5uy_kE2nUJWiQY4a4W-OeNl0PKnpp5NWZoKZI&index=4">
+<img src="/assets/img/albums/bernstein-dvorak9.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kwDqFmh2bjU&list=OLAK5uy_l4R-78Tto8N8qADgmux6P_3qyY9FuCvqI&index=3">
+<img src="/assets/img/albums/guilini-bruckner9.png" width="480"> </a> <br>
+@ Medinah Temple, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1976.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=UMfXPGwGPq8&list=OLAK5uy_nwYr6skRuaT2uhag2vlKvRtqJj9s4ccns&index=4">
+<img src="/assets/img/albums/ancerl-mahler9.png" width="480"> </a> <br>
+@ Dvořákova síň, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1966.04
+</p>
+
 
 <br>
 

@@ -157,6 +157,13 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=aXuiwjpRO34&list=OLAK5uy_n0avO_29-2i_zzLL1l8yaayFcEX8I8mas&index=5">
+<img src="/assets/img/albums/levine-bartok-mspc.png" width="480"> </a> <br>
+@ Orchestra Hall, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=wuuQgM2OmtI&list=OLAK5uy_n6rzyLVLVg9VLtQxkUtxDcJva_htigWYY&index=6&t=216s">
 <img src="/assets/img/albums/munch-milhaud.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
