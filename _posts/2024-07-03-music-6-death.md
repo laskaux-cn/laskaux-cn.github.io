@@ -39,6 +39,27 @@ Kirchheim &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&n
 Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
+<img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=PlOglISMYiQ&list=OLAK5uy_nZoP1vBTQn1cQDgpDANqlI49OZkdeyb6s&index=1">
+<img src="/assets/img/albums/karajan-mahler5.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9">
+<img src="/assets/img/albums/rattle-webern.png" width="480"> </a> <br>
+@ Warwick Arts Centre, <br>
+Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.12/1988.04
+</p>
+
 <br>
 
 
