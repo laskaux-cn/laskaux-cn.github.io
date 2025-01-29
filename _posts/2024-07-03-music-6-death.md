@@ -57,7 +57,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=dd-pdxOYQOc&list=OLAK5uy_mkxDfS1mXk1CXiwhisgqnD3P-wSng8IW8&index=9">
 <img src="/assets/img/albums/rattle-webern.png" width="480"> </a> <br>
 @ Warwick Arts Centre, <br>
-Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.12/1988.04
+Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.12 / 1988.04
 </p>
 
 <br>
@@ -168,10 +168,24 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p class="ttl"> – X – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=BciDM85sHgs&list=OLAK5uy_kRnmmscweYiEF2zDgZN2XkluWCQKmaKKg&index=55">
+<img src="/assets/img/albums/fricsay-beethoven3.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=C8pKh70eDls&list=OLAK5uy_nUlvK67it48AmD5i9MviPF3WXp1JrTsJ0&index=7">
 <img src="/assets/img/albums/brautigam-eroica.png" width="480"> </a> <br>
 @ Österåkers kyrka, <br>   
 Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LFp3BmSpRSY&list=OLAK5uy_lkammF2HLe6oH6q0e5Fl6EJ-VC4yZh83A&index=14">
+<img src="/assets/img/albums/mosaiques-haydn-op76.png" width="480"> </a> <br>
+@ Casino Zögernitz, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 2000.01
 </p>
 
 <p class="alb">
