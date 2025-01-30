@@ -40,6 +40,13 @@ Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=1elVMyuCVzQ&list=OLAK5uy_mweoxM1-9byzOUZfvzoX0RTKmmbD9ywhE&index=17">
+<img src="/assets/img/albums/bernius-schubert-lazarus.png" width="480"> </a> <br>
+@ Nikolaikirche, <br>
+Leipzig &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
 <img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
@@ -182,13 +189,6 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=LFp3BmSpRSY&list=OLAK5uy_lkammF2HLe6oH6q0e5Fl6EJ-VC4yZh83A&index=14">
-<img src="/assets/img/albums/mosaiques-haydn-op76.png" width="480"> </a> <br>
-@ Casino Zögernitz, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 2000.01
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12">
 <img src="/assets/img/albums/bream-cutting.png" width="480"> </a> <br>
 @ Wardour Chapel, <br>
@@ -216,17 +216,44 @@ Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=MDT1CR-XJs8&list=OLAK5uy_nonmTKLSXSlNNmeVyAZ18mLRmgPzSSdtI&index=2">
+<img src="/assets/img/albums/skampa-haydn.png" width="480"> </a> <br>
+@ Studio Domovina, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_PlI5nbTKp4&list=OLAK5uy_mIbuCxeqy-4-sAZDVgdav4R5PyfYAhDzg&index=2">
+<img src="/assets/img/albums/talich-schubert.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&index=4">
+<img src="/assets/img/albums/lubin-schubert-trout.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
+</p>
+
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
 <img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
 @ Grunewaldkirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
 </p>
 
-<p class="alb">
+<p class="alb" style="margin-bottom:-1.8em">
 <a href="https://www.youtube.com/watch?v=nTfJK9J1aRY&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=8">
-<img src="/assets/img/albums/karajan-schoenberg.png" width="480"> </a> <br>
+<img src="/assets/img/albums/karajan-schoenberg.png" width="480"> </a> <br> </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MmhIL8V5mVI&list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&index=48">
+<img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
 @ Philharmonie Berlin, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.01–02
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
 <p class="alb">

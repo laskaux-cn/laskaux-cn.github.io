@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 29 Jan 2025 15:14:48 -0800</pubDate>
+    <pubDate>Thu, 30 Jan 2025 02:05:32 -0800</pubDate>
     
       <item>
         <title>音乐笔记 6 &amp;colon; 生存与死亡</title>
@@ -39,6 +39,13 @@ Kirchheim &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quo
 &lt;img src=&quot;/assets/img/albums/pichon-castor-pollux.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Le Corum: Opéra Berlioz, &lt;br /&gt;   
 Montpellier &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=1elVMyuCVzQ&amp;amp;list=OLAK5uy_mweoxM1-9byzOUZfvzoX0RTKmmbD9ywhE&amp;amp;index=17&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernius-schubert-lazarus.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Nikolaikirche, &lt;br /&gt;
+Leipzig &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2013.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -177,13 +184,6 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=LFp3BmSpRSY&amp;amp;list=OLAK5uy_lkammF2HLe6oH6q0e5Fl6EJ-VC4yZh83A&amp;amp;index=14&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/mosaiques-haydn-op76.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Casino Zögernitz, &lt;br /&gt;
-Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.01
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=2-n0SruJN_U&amp;amp;list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&amp;amp;index=12&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/bream-cutting.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Wardour Chapel, &lt;br /&gt;
@@ -211,17 +211,42 @@ Cardona &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=MDT1CR-XJs8&amp;amp;list=OLAK5uy_nonmTKLSXSlNNmeVyAZ18mLRmgPzSSdtI&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/skampa-haydn.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Studio Domovina, &lt;br /&gt;
+Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=_PlI5nbTKp4&amp;amp;list=OLAK5uy_mIbuCxeqy-4-sAZDVgdav4R5PyfYAhDzg&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/talich-schubert.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Fondation Tibor Varga, &lt;br /&gt;
+Sion &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1994.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=_nh1BKvliGw&amp;amp;list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/lubin-schubert-trout.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Henry Wood Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=uOYELHlIJ6g&amp;amp;list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/kempe-strauss-don-quixote.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Grunewaldkirche, &lt;br /&gt;
 Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1958.04
 &lt;/p&gt;
 
-&lt;p class=&quot;alb&quot;&gt;
+&lt;p class=&quot;alb&quot; style=&quot;margin-bottom:-1.8em&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=nTfJK9J1aRY&amp;amp;list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&amp;amp;index=8&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/karajan-schoenberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/img/albums/karajan-schoenberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt; &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=MmhIL8V5mVI&amp;amp;list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&amp;amp;index=48&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/karajan-webern.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Philharmonie Berlin, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.01–02
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.02
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
