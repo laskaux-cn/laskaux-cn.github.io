@@ -8,17 +8,16 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
+<img src="/assets/img/albums/dumestre-chansons.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
 <img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
 @ Berwaldhallen, <br>
 Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=LFp3BmSpRSY&list=OLAK5uy_lkammF2HLe6oH6q0e5Fl6EJ-VC4yZh83A&index=14">
-<img src="/assets/img/albums/mosaiques-haydn-op76.png" width="480"> </a> <br>
-@ Casino Zögernitz, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 2000.01
 </p>
 
 <p class="alb">

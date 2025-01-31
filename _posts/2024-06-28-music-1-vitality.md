@@ -143,6 +143,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=LU14y6BRNvQ&list=OLAK5uy_kOxrM8PDMUCMf32LwJsA5nthYoSIiRvvQ&index=4">
+<img src="/assets/img/albums/mosaiques-mozart.png" width="480"> </a> <br>
+@ Casino Zögernitz, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1990.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=XWHgKLN1PoI&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=25">
 <img src="/assets/img/albums/brautigam-diabelli.png" width="480"> </a> <br>
 @ Österåkers kyrka, <br>   

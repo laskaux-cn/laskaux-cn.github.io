@@ -15,6 +15,13 @@ tags: music-notes
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1959.12 
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=GpcdsAIdKhg&list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&index=8">
+<img src="/assets/img/albums/ozawa_pini_roma.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1977.10
+</p>
+
 <br>
 
 
@@ -189,6 +196,44 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=VADuEOOBSr0&list=OLAK5uy_lBCd4nC2yTuULpmi-xt3LSrM2W88OiYZE&index=1">
+<img src="/assets/img/albums/masselos-copland.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fIM2-mKCWDM&list=OLAK5uy_lwoE8_-oeBgNFXX-k-333i-puY3l7ObaE&index=3"> <img src="/assets/img/albums/copland-copland-var.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968.10 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
+<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
+@ Castell de Cardona: Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
+<img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
+@ Grunewaldkirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
+</p>
+
+<p class="alb" style="margin-bottom:-1.8em">
+<a href="https://www.youtube.com/watch?v=nTfJK9J1aRY&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=8">
+<img src="/assets/img/albums/karajan-schoenberg.png" width="480"> </a> <br> </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MmhIL8V5mVI&list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&index=48">
+<img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12">
 <img src="/assets/img/albums/bream-cutting.png" width="480"> </a> <br>
 @ Wardour Chapel, <br>
@@ -200,19 +245,6 @@ Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width
 <img src="/assets/img/albums/marville-farnaby.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
 Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
-<img src="/assets/img/albums/dumestre-chansons.png" width="480"> </a> <br>
-@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
-<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
-@ Castell de Cardona: Església de Sant Vicenç, <br>
-Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
 </p>
 
 <p class="alb">
@@ -234,26 +266,6 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 <img src="/assets/img/albums/lubin-schubert-trout.png" width="480"> </a> <br>
 @ Henry Wood Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
-</p>
-
-
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
-<img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
-@ Grunewaldkirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
-</p>
-
-<p class="alb" style="margin-bottom:-1.8em">
-<a href="https://www.youtube.com/watch?v=nTfJK9J1aRY&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=8">
-<img src="/assets/img/albums/karajan-schoenberg.png" width="480"> </a> <br> </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=MmhIL8V5mVI&list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&index=48">
-<img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
-@ Philharmonie Berlin, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
 <p class="alb">
