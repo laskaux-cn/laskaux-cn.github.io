@@ -122,7 +122,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=xnKi1ru-Sog&list=OLAK5uy_nEv1U8_02ZJxrKGA15g9wtfZHEgZH7yNo&index=7">
-<img src="/assets/img/albums/sawallisch-schumann4.png" width="480"> </a> <br>
+<img src="/assets/img/albums/sawallisch-schumann.png" width="480"> </a> <br>
 @ Lukaskirche, <br>
 Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972.09
 </p>
