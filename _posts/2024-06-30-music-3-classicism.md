@@ -21,6 +21,20 @@ Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbs
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=cqcJEPVSC2o&list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&index=19">
+<img src="/assets/img/albums/savall-couperin-concerts.png" width="480"> </a> <br>
+@ Abbaye de Saint-Michel en Thiérache, <br>
+Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=JisgBUieSOA&list=OLAK5uy_kYz8hA9W3D5mRoGfPLe0vAb5CByugbxLE&index=1">
+<img src="/assets/img/albums/goebel-telemann.png" width="480"> </a> <br>
+@ Friedrich-Ebert-Halle, <br>
+Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1984.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=AFsd6s3mpDc&list=OLAK5uy_mrqCvnA-kXqFYv6Vpp3fR2cRUSpb5qiII&index=3">
 <img src="/assets/img/albums/frisch-bach816.png" width="480"> </a> <br>
 @ Maison de la Radio: Studio 103, <br>
@@ -80,7 +94,7 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 2 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
@@ -136,7 +150,7 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=d2wWrkqplzg&list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&index=27">
@@ -184,7 +198,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=d-HwlM_AAZk&list=OLAK5uy_mj3o5CcEHWJ-9cf-etm1auHkUjUDcUA_U&index=1">
@@ -225,7 +239,7 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=lczd-GZnKe4&list=OLAK5uy_kKVeHHlv0L_KAEs8WeHcRip_TEqQpXRt0&index=3">
@@ -294,7 +308,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <br>
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=unIpUZOh_Gw&list=PL8AhTXrM6LH2hy-frkMw5efpWgYVAI8Sw&index=1">
