@@ -259,6 +259,12 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5LKrlbvYTSc&list=OLAK5uy_lCzvmRC_nYRRBwa5r-Ln9wlpWRWtfxR_Q&index=15">
+<img src="/assets/img/albums/perrot-purcell.png" width="480"> </a> <br>
+@ Chapelle Saint-Augustin de Vallérysthal, <br> 
+Troisfontaines, Moselle &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2006.07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=bOrBurXdfNs&list=OLAK5uy_nE2oTLykyKEN86tqWq8_kR6SLl-ourbS0&index=1">
@@ -267,14 +273,12 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1985.07
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ss36egf40-c&list=OLAK5uy_l6bVWfGWFrlDDKzYpRcdvmFtkaZkqySyw&index=33">
 <img src="/assets/img/albums/vashegyi-gluck.png" width="480"> </a> <br>
 @ Bartók Béla Nemzeti Hangversenyterem, <br>
 Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 2016.11
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=tUC3x8_ofDM&list=PLt_iN-ytBvZySxjminY4PoeAtLeJE0N_D&index=3">
@@ -283,14 +287,12 @@ Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nb
 München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1979.11
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1">
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="480"> </a> <br>
 @ Performing Arts Center, <br>
 Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987.12
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
@@ -299,10 +301,9 @@ Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=VHxmbv3Uu60&list=PLUBnVmx4iYHK6p_qWcf0PW2ewBZGmrEeg&index=7">
-<img src="/assets/img/albums/mints-schnittke.png" width="480"> </a> <br>
-@ Музыкальные студии «Мосфильма», <br>
-Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 2015.06
+<a href="https://www.youtube.com/watch?v=OivJwt6Ym-U&list=PL2Z7pmlc6aIrpuTlBILPQEYHZFURgkzy-&index=1">
+<img src="/assets/img/albums/dudarova-schnittke.png" width="480"> </a> <br>
+@ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1965
 </p>
 
 

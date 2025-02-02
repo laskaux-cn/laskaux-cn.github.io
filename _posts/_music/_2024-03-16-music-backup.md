@@ -7,6 +7,22 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=JisgBUieSOA&list=OLAK5uy_kYz8hA9W3D5mRoGfPLe0vAb5CByugbxLE&index=1">
+<img src="/assets/img/albums/goebel-telemann.png" width="480"> </a> <br>
+@ Friedrich-Ebert-Halle, <br>
+Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1984.03
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
+<img src="/assets/img/albums/toennesen-grieg.png" width="480"> </a> <br>
+@ Lommedalen kirke, <br>
+Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2012.10–&#8203;2013.02
+</p>
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
 <img src="/assets/img/albums/dumestre-chansons.png" width="480"> </a> <br>

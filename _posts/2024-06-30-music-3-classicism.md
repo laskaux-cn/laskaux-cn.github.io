@@ -21,17 +21,17 @@ Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbs
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=cqcJEPVSC2o&list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&index=19">
-<img src="/assets/img/albums/savall-couperin-concerts.png" width="480"> </a> <br>
-@ Abbaye de Saint-Michel en Thiérache, <br>
-Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.09
+<a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
+<img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.04
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=JisgBUieSOA&list=OLAK5uy_kYz8hA9W3D5mRoGfPLe0vAb5CByugbxLE&index=1">
-<img src="/assets/img/albums/goebel-telemann.png" width="480"> </a> <br>
-@ Friedrich-Ebert-Halle, <br>
-Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1984.03
+<a href="https://www.youtube.com/watch?v=Wy2ii1aYmyQ&list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&index=23">
+<img src="/assets/img/albums/savall-couperin-concerts.png" width="480"> </a> <br>
+@ Abbaye de Saint-Michel en Thiérache, <br>
+Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.09
 </p>
 
 <p class="alb">
@@ -63,13 +63,6 @@ Alfortville &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
-<img src="/assets/img/albums/toennesen-grieg.png" width="480"> </a> <br>
-@ Lommedalen kirke, <br>
-Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2012.10–&#8203;2013.02
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=KK8TlBYPguw&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=4">
 <img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
 @ Salle de l&rsquo;Alcazar, <br>
@@ -82,6 +75,21 @@ Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>
 @ Église de Saint-Eustache, <br>
 Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1983.05
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=owJ7NUCUIPQ&list=OLAK5uy_lMGRy6trAzHI0hRorgucMbBbi_-38slSo&index=9">
+<img src="/assets/img/albums/spivakov-schnittke.png" width="480"> </a> <br>
+@ Église Notre-Dame du Liban, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VHxmbv3Uu60&list=PLUBnVmx4iYHK6p_qWcf0PW2ewBZGmrEeg&index=7">
+<img src="/assets/img/albums/mints-schnittke.png" width="480"> </a> <br>
+@ Музыкальные студии «Мосфильма», <br>
+Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 2015.06
+</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=UNSN8bWzq88&list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&index=15">
