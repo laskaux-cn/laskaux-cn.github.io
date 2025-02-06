@@ -21,17 +21,10 @@ Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbs
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
-<img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.04
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Wy2ii1aYmyQ&list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&index=23">
-<img src="/assets/img/albums/savall-couperin-concerts.png" width="480"> </a> <br>
-@ Abbaye de Saint-Michel en Thiérache, <br>
-Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.09
+<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
+<img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
+@ Saletta acustica “Eric James”, <br>
+Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
 </p>
 
 <p class="alb">
@@ -63,6 +56,20 @@ Alfortville &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=UNSN8bWzq88&list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&index=15">
+<img src="/assets/img/albums/pontinen-schoenberg.png" width="480"> </a> <br>
+@ Musikaliska Kvarteret, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2001.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Wy2ii1aYmyQ&list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&index=23">
+<img src="/assets/img/albums/savall-couperin-concerts.png" width="480"> </a> <br>
+@ Abbaye de Saint-Michel en Thiérache, <br>
+Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.09
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=KK8TlBYPguw&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=4">
 <img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
 @ Salle de l&rsquo;Alcazar, <br>
@@ -74,6 +81,13 @@ Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>
 <img src="/assets/img/albums/dutoit-ravel-couperin.png" width="480"> </a> <br>
 @ Église de Saint-Eustache, <br>
 Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1983.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=mytwTQcBiNo&list=OLAK5uy_nFkUNp7uYwMSf131iPsCD0poe_d_Ox33o&index=8">
+<img src="/assets/img/albums/tognetti-grieg.png" width="480"> </a> <br>
+@ Cerretti Chapel, Manly, <br>
+Sydney &nbsp;<img src="/assets/img/flags/au.png" height="10.5" width="16"/>&nbsp; 1992.10
 </p>
 
 <p class="alb">
@@ -90,13 +104,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 2015.06
 </p>
 
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=UNSN8bWzq88&list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&index=15">
-<img src="/assets/img/albums/pontinen-schoenberg.png" width="480"> </a> <br>
-@ Musikaliska Kvarteret, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2001.03
-</p>
 
 <br>
 
@@ -250,6 +257,20 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <p class="ttl"> – 5 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
+<img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
+@ Kulturní dům Domovina, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LeK-MT-m73g&list=OLAK5uy_nwry7EOD1Jo6HjfJWNP-rp3dgDAcjwYxE&index=31">
+<img src="/assets/img/albums/kubelik-dvorak8.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1966.09
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=lczd-GZnKe4&list=OLAK5uy_kKVeHHlv0L_KAEs8WeHcRip_TEqQpXRt0&index=3">
 <img src="/assets/img/albums/bernstein-mahler5.png" width="480"> </a> <br>
 @ Philharmonic Hall, <br>
@@ -264,10 +285,10 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
-<img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
-@ Kulturní dům Domovina, <br>
-Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.10
+<a href="https://www.youtube.com/watch?v=3YBC6VsoE3I&list=OLAK5uy_kB_h4Ci7Y2b4wlFJ9mBFQDQL5rzD6fujM&index=17">
+<img src="/assets/img/albums/svetlanov-rachmaninov-dances.png" width="480"> </a> <br>
+@ Большой зал Московского радио, <br>
+Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1995.10
 </p>
 
 <p class="alb">
@@ -275,20 +296,6 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/obc-som.png" width="480"> </a> <br>
 @ Columbia 30th Street Studio, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.11
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=LeK-MT-m73g&list=OLAK5uy_nwry7EOD1Jo6HjfJWNP-rp3dgDAcjwYxE&index=31">
-<img src="/assets/img/albums/kubelik-dvorak8.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1966.09
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3YBC6VsoE3I&list=OLAK5uy_kB_h4Ci7Y2b4wlFJ9mBFQDQL5rzD6fujM&index=17">
-<img src="/assets/img/albums/svetlanov-rachmaninov-dances.png" width="480"> </a> <br>
-@ Большой зал Московского радио, <br>
-Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1995.10
 </p>
 
 <p class="alb">
@@ -312,6 +319,12 @@ Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbs
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fO_Ntn17s3Q&t=3s">
+<img src="/assets/img/albums/martinon-la-valse.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1974.10–11
+</p>
 
 <br>
 

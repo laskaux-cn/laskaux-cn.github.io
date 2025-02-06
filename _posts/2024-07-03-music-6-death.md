@@ -87,6 +87,13 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=MCNk-GBxSdQ&list=OLAK5uy_kPKbFsL3eEMgXKgxmutcbDg6AZDGk-jwE&index=21">
+<img src="/assets/img/albums/antonini-bach1068.png" width="480"> </a> <br>
+@ Chiesa di San Giorgio, <br>
+Morbio Inferiore, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2001.01–02
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=2cnOnRLBqOQ&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=4">
 <img src="/assets/img/albums/haitink-mahler5.png" width="480"> </a> <br>
 @ Philharmonie Berlin, <br>

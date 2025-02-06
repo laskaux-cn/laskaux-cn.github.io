@@ -192,13 +192,6 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – 4 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=dklN57UwjvE&list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&index=1">
-<img src="/assets/img/albums/stella-buxtehude.png" width="480"> </a> <br>
-@ Saletta acustica “Eric James”, <br>
-Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2010.11
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
 <img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>

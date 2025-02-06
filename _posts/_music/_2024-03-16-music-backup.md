@@ -24,6 +24,14 @@ Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
+<img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.04
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=s8L0-EksiHs&list=OLAK5uy_me_GTCkHrWB7Pli6Z7Yvl5BuJPWLlIAHw&index=11">
 <img src="/assets/img/albums/dumestre-chansons.png" width="480"> </a> <br>
 @ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.06

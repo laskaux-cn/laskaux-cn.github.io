@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 02 Feb 2025 15:52:22 -0800</pubDate>
+    <pubDate>Wed, 05 Feb 2025 18:17:57 -0800</pubDate>
     
       <item>
         <title>音乐笔记 6 &amp;colon; 生存与死亡</title>
@@ -85,6 +85,13 @@ Coventry &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot
 &lt;img src=&quot;/assets/img/albums/jochum-beethoven9.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Concertgebouw, &lt;br /&gt;
 Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1969.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=MCNk-GBxSdQ&amp;amp;list=OLAK5uy_kPKbFsL3eEMgXKgxmutcbDg6AZDGk-jwE&amp;amp;index=21&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/antonini-bach1068.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Chiesa di San Giorgio, &lt;br /&gt;
+Morbio Inferiore, Ticino &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2001.01–02
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -461,17 +468,10 @@ Hamburg &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;
 &lt;p class=&quot;ttl&quot;&gt; – 1 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=96Th_y6PGUg&amp;amp;list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&amp;amp;index=11&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/pinnock-handel-water.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Henry Wood Hall, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.04
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Wy2ii1aYmyQ&amp;amp;list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&amp;amp;index=23&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/savall-couperin-concerts.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Abbaye de Saint-Michel en Thiérache, &lt;br /&gt;
-Saint-Michel, Aisne &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2004.09
+&lt;a href=&quot;https://www.youtube.com/watch?v=dklN57UwjvE&amp;amp;list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/stella-buxtehude.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Saletta acustica “Eric James”, &lt;br /&gt;
+Pove del Grappa, Vicenza &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.11
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -503,6 +503,20 @@ Alfortville &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&q
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=UNSN8bWzq88&amp;amp;list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&amp;amp;index=15&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/pontinen-schoenberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Musikaliska Kvarteret, &lt;br /&gt;
+Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2001.03
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Wy2ii1aYmyQ&amp;amp;list=OLAK5uy_lOcXYXfBfIm0qkwcF1BGuNDqyZF_3JZcw&amp;amp;index=23&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/savall-couperin-concerts.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Abbaye de Saint-Michel en Thiérache, &lt;br /&gt;
+Saint-Michel, Aisne &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2004.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=KK8TlBYPguw&amp;amp;list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&amp;amp;index=4&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/francois-ravel-couperin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Salle de l&amp;rsquo;Alcazar, &lt;br /&gt;
@@ -517,6 +531,13 @@ Montréal &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ca.png&quot; height=&quo
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=mytwTQcBiNo&amp;amp;list=OLAK5uy_nFkUNp7uYwMSf131iPsCD0poe_d_Ox33o&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/tognetti-grieg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Cerretti Chapel, Manly, &lt;br /&gt;
+Sydney &amp;nbsp;&lt;img src=&quot;/assets/img/flags/au.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=owJ7NUCUIPQ&amp;amp;list=OLAK5uy_lMGRy6trAzHI0hRorgucMbBbi_-38slSo&amp;amp;index=9&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/spivakov-schnittke.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Église Notre-Dame du Liban, &lt;br /&gt;
@@ -528,13 +549,6 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;img src=&quot;/assets/img/albums/mints-schnittke.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Музыкальные студии «Мосфильма», &lt;br /&gt;
 Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2015.06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=UNSN8bWzq88&amp;amp;list=OLAK5uy_lmcFf1ZvxbE53OD8KDvx4DcEa4kXvImf0&amp;amp;index=15&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/pontinen-schoenberg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Musikaliska Kvarteret, &lt;br /&gt;
-Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2001.03
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -680,6 +694,20 @@ Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.
 &lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/prazak-haydn-op71.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Kulturní dům Domovina, &lt;br /&gt;
+Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=LeK-MT-m73g&amp;amp;list=OLAK5uy_nwry7EOD1Jo6HjfJWNP-rp3dgDAcjwYxE&amp;amp;index=31&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/kubelik-dvorak8.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Jesus-Christus-Kirche, &lt;br /&gt;
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.09
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=lczd-GZnKe4&amp;amp;list=OLAK5uy_kKVeHHlv0L_KAEs8WeHcRip_TEqQpXRt0&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/bernstein-mahler5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Philharmonic Hall, &lt;br /&gt;
@@ -694,10 +722,10 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=c9AbZaA_vPs&amp;amp;list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&amp;amp;index=7&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/prazak-haydn-op71.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Kulturní dům Domovina, &lt;br /&gt;
-Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.10
+&lt;a href=&quot;https://www.youtube.com/watch?v=3YBC6VsoE3I&amp;amp;list=OLAK5uy_kB_h4Ci7Y2b4wlFJ9mBFQDQL5rzD6fujM&amp;amp;index=17&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/svetlanov-rachmaninov-dances.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Большой зал Московского радио, &lt;br /&gt;
+Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -705,20 +733,6 @@ Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10
 &lt;img src=&quot;/assets/img/albums/obc-som.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Columbia 30th Street Studio, &lt;br /&gt;
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.11
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=LeK-MT-m73g&amp;amp;list=OLAK5uy_nwry7EOD1Jo6HjfJWNP-rp3dgDAcjwYxE&amp;amp;index=31&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/kubelik-dvorak8.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Jesus-Christus-Kirche, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.09
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=3YBC6VsoE3I&amp;amp;list=OLAK5uy_kB_h4Ci7Y2b4wlFJ9mBFQDQL5rzD6fujM&amp;amp;index=17&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/svetlanov-rachmaninov-dances.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Большой зал Московского радио, &lt;br /&gt;
-Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1995.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -740,6 +754,13 @@ Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11
 &lt;img src=&quot;/assets/img/albums/helffer-schoenberg-new.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Ircam: Espace de projection, &lt;br /&gt;
 Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fO_Ntn17s3Q&amp;amp;t=3s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/martinon-la-valse.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle Wagram, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.10–11
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -960,13 +981,6 @@ Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;1
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=dklN57UwjvE&amp;amp;list=OLAK5uy_kyaZELVzZ73iRKM0Yp8_ofEssqLta6Cwo&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/stella-buxtehude.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Saletta acustica “Eric James”, &lt;br /&gt;
-Pove del Grappa, Vicenza &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.11
-&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=55A3gfYObzU&amp;amp;list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&amp;amp;index=50&quot;&gt;
@@ -1356,7 +1370,7 @@ Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.
 &lt;a href=&quot;https://www.youtube.com/watch?v=HGoNtinfLrw&amp;amp;list=OLAK5uy_kjbyTXq8F_YMz3TKan1qe2lM633sHm3EQ&amp;amp;index=3&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/arod-schoenberg-sq2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Salle de musique, &lt;br /&gt;
-La Chaux-de-Fonds &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2019.04
+La Chaux-de-Fonds, Neuchâtel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2019.04
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
