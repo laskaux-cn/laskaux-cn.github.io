@@ -7,6 +7,12 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+<p class="alb">
+<a href="https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing">
+<img src="/assets/img/albums/helffer-schoenberg-new.png" width="480"> </a> <br>
+@ Ircam: Espace de projection, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JisgBUieSOA&list=OLAK5uy_kYz8hA9W3D5mRoGfPLe0vAb5CByugbxLE&index=1">

@@ -7,16 +7,6 @@ excerpt: <br>
 tags: music-notes
 ---
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=112s">
-<img src="/assets/img/albums/metzmacher-wozzeck.png" width="480"> </a> <br>
-@ Hamburgische Staatsoper, <br>
-Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1998.09–10
-</p>
-
-<br>
-
-
 
 <p class="ttl"> – 1 – </p>
 
@@ -257,6 +247,13 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <p class="ttl"> – 5 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=7ibNSFCLSxU&list=OLAK5uy_kEQZIpnyXfx5H4QZzWTAjlXhJYYvJOLBk&index=9&t=112s">
+<img src="/assets/img/albums/metzmacher-wozzeck.png" width="480"> </a> <br>
+@ Hamburgische Staatsoper, <br>
+Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1998.09–10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
 <img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
 @ Kulturní dům Domovina, <br>
@@ -278,10 +275,10 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
-<img src="/assets/img/albums/mravinsky-shostakovich5.png" width="480"> </a> <br>
-@ Большой зал Ленинградской филармонии, <br>
-Ленинград &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1984.04
+<a href="https://drive.google.com/file/d/1VsNUE2-9AQceO19tnK0239G0oXmdaREZ/view?usp=sharing">
+<img src="/assets/img/albums/maazel-rosenkavalier.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1966.10
 </p>
 
 <p class="alb">
@@ -292,11 +289,24 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=orjJBI1u9os&list=OLAK5uy_lnxDzYZ2b9qqj1TNLSCaaiFSq9SDSj9U8&index=11"> <img src="/assets/img/albums/copland-copland-rodeo.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968.10 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=YEbyE6rnIc4&list=OLAK5uy_kpXUU065gxvc9VIP2LhW8gq_6SgRuYIio&index=10">
 <img src="/assets/img/albums/obc-som.png" width="480"> </a> <br>
 @ Columbia 30th Street Studio, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.11
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ynwGHR9I3zM&list=OLAK5uy_mR-_He08LRJ0hMz_IaZreWgUrvzMQj63A&index=2">
+<img src="/assets/img/albums/davis-berlioz-sf.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1974.01
+</p> 
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ffJ2AMEhqIQ&list=OLAK5uy_kIUsjgCjLyeegA_9RH0S-pxJx0705bIDo&index=3">
@@ -306,17 +316,33 @@ Urbana, Illinois &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=orskFy4ms4Q&list=OLAK5uy_nMUnkZN6hkPOZWoOvcTKQbDPnrqsa15cQ&index=7">
+<img src="/assets/img/albums/monteux-petrouchka.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=qac_KfbjjMA&list=OLAK5uy_kOu_vtK8C3fr9R6mMA4QKVIcdlkL5X4j8&index=16">
+<img src="/assets/img/albums/craft-pierrot.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=AZk7FQyAYfw&list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&index=2">
 <img src="/assets/img/albums/dullaert-hindemith.png" width="480"> </a> <br>
 @ DRS Studio, <br>
 Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1992.10–12
 </p>
 
+
+
 <p class="alb">
-<a href="https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing">
-<img src="/assets/img/albums/helffer-schoenberg-new.png" width="480"> </a> <br>
-@ Ircam: Espace de projection, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
+<a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
+<img src="/assets/img/albums/mravinsky-shostakovich5.png" width="480"> </a> <br>
+@ Большой зал Ленинградской филармонии, <br>
+Ленинград &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1984.04
 </p>
 
 <p class="alb">

@@ -7,19 +7,8 @@ excerpt: <br>
 tags: music-notes
 ---
 
+
 <p class="ttl"> – 1 – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
-<img src="/assets/img/albums/cole-goldberg.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06
-</p>
-
-<br>
-
-
-<p class="ttl"> – 2 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=shEDxgEFUeA&list=OLAK5uy_mO_WyajZ5la46sZoo4iKFnLTBx0RKWvAc&index=18">
@@ -95,7 +84,7 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 <br>
 
 
-<p class="ttl"> – 3 – </p>
+<p class="ttl"> – 2 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
@@ -195,7 +184,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <br>
 
 
-<p class="ttl"> – 4 – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=KnP3M8Vy8z0&list=OLAK5uy_kQI2Bd_I3heY2TGodaCiKmLBwRhcBwf0k&index=18">
@@ -250,7 +239,7 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 <br>
 
 
-<p class="ttl"> – 5 – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
@@ -309,7 +298,14 @@ Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 5 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nMhIEoTdOjw&list=PLr0MsaDpKsY9wv0VmDKUXreDrBjqYsW_2&index=1">
+<img src="/assets/img/albums/cole-goldberg.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.06
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=caSjitbWow4&list=OLAK5uy_k_Ywlf6mlngntAOpfG5LOZCeuMXGwLaaI&index=1&t=3s">
