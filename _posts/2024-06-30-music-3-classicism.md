@@ -41,8 +41,8 @@ Dijon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=qmKPg_lamTc&list=OLAK5uy_nURZMPUdcHLdj4aXAAtxvnvgfXji8Hs9g&index=1">
 <img src="/assets/img/albums/tharaud-rameau.png" width="480"> </a> <br>
-@ Maison de l’Orchestre national <br>d’Île-de-France, 
-Alfortville &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2001.05
+@ Maison de l’Orchestre national d’Île-de-France, <br> 
+Alfortville, Val-de-Marne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2001.05
 </p>
 
 <p class="alb">
@@ -60,17 +60,18 @@ Saint-Michel, Aisne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" widt
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=KK8TlBYPguw&list=OLAK5uy_m8TppGxi97WDylBp8z7yQZKeyGlDYZZlk&index=4">
-<img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1967.06
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=IUsXZioNleY&list=OLAK5uy_nnsJ81JDW_aVaPia3G-T8XY6UAI7nQ_2U&index=18">
 <img src="/assets/img/albums/dutoit-ravel-couperin.png" width="480"> </a> <br>
 @ Église de Saint-Eustache, <br>
 Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1983.05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=W-S2n0ndfnk&list=OLAK5uy_mL1zQOkCuPtzEjNyBJc235XRpIV4gTPLM&index=21">
+<img src="/assets/img/albums/francois-ravel-couperin.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1967.06
 </p>
 
 <p class="alb">
@@ -134,7 +135,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=qmu9x_Fi8SI&list=OLAK5uy_lPwVUFANXnq7ZfaBpm23FJaqfWdlaz8WA&index=22">
 <img src="/assets/img/albums/brautigam-beethoven-var-c.png" width="480"> </a> <br>
 @ Österåkers kyrka, <br>   
-Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2014.08
+Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2014.08
 </p>
 
 <p class="alb">
@@ -167,8 +168,8 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_aDfQ8VRyUk&t=0s">
 <img src="/assets/img/albums/dorati-milhaud.png" width="480"> </a> <br>
-@ Watford Town Hall, <br>
-Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.08
+@ Watford Town Hall Assembly Rooms, <br>
+Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.08
 </p>
 
 <p class="alb">
@@ -189,7 +190,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
 <img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>
-Kirchheim unter Teck &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
+Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
 </p>
 
 <p class="alb">
@@ -316,6 +317,13 @@ Urbana, Illinois &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=vPRenMyamj8&list=OLAK5uy_mpaxhj_oJXF6ZNLIj7BBJhVEpU8-D3jvI&index=5">
+<img src="/assets/img/albums/haitink-petrouchka.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.12
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=orskFy4ms4Q&list=OLAK5uy_nMUnkZN6hkPOZWoOvcTKQbDPnrqsa15cQ&index=7">
 <img src="/assets/img/albums/monteux-petrouchka.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
@@ -361,14 +369,14 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <a href="https://www.youtube.com/watch?v=unIpUZOh_Gw&list=PL8AhTXrM6LH2hy-frkMw5efpWgYVAI8Sw&index=1">
 <img src="/assets/img/albums/gilbert-wtc.png" width="480"> </a> <br>
 @ Musée des Beaux-Arts: Salle à l&rsquo;italienne, <br>
-Chartres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.10
+Chartres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1983.01–04
 </p> 
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=J6j9RrNqHls&list=OLAK5uy_n_27bMDYctnHO6yW3pon7DYDdD6GWHFSU&index=24">
 <img src="/assets/img/albums/frisch-bach-wtc1.png" width="480"> </a> <br>
 @ Église Saint-Rémi de Franc-Warêt, <br>
-Fernelmont &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2014.10
+Fernelmont, Namur &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2014.10
 </p> 
 
 <p class="alb">

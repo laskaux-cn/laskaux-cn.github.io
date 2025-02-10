@@ -28,14 +28,14 @@ Le Chenit, Vaud &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="1
 <a href="https://www.youtube.com/watch?v=DrthVb7Vc5c&list=PL8AhTXrM6LH0MPsq8X0d9sUff8Lv5iWAW&index=5">
 <img src="/assets/img/albums/cauvin-cities-ii.png" width="480"> </a> <br>
 @ Château d’Hérouville, <br>
-Hérouville-en-Vexin &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2017.09
+Hérouville-en-Vexin, Val-d’Oise &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2017.09
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3NcM12Sd0Vw&list=OLAK5uy_mJRNZW7Dwc7_mtgVkJ5fjJ2mom3bz4_Zw&index=14">
 <img src="/assets/img/albums/christie-dambrius.png" width="480"> </a> <br>
 @ Auditorium Jean-Pierre Miquel, <br>
-Vincennes &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013.12
+Vincennes, Val-de-Marne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013.12
 </p>
 
 <p class="alb">
@@ -49,7 +49,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <a href="https://www.youtube.com/watch?v=1Uiz0_w0AKg&list=OLAK5uy_nVpAtz6XnqaLhXznZw_pkrwf51koFZAVk&index=2">
 <img src="/assets/img/albums/grazzi-marcello.png" width="480"> </a> <br>
 @ Villa Contarini, <br>
-Piazzola sul Brenta &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
+Piazzola sul Brenta, Padova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1997.10
 </p>
 
 <p class="alb">
@@ -142,7 +142,7 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <a href="https://www.youtube.com/watch?v=XWHgKLN1PoI&list=OLAK5uy_mbApOmQaGzaPw3gOGoa1fcU3yjVUnUkTs&index=25">
 <img src="/assets/img/albums/brautigam-diabelli.png" width="480"> </a> <br>
 @ Österåkers kyrka, <br>   
-Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08
+Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2015.08
 </p>
 
 <p class="alb">
@@ -194,10 +194,16 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=zl8rUYBofFk&list=OLAK5uy_mnu2hELElEnv0zaYh9T3-jA7s4rBYq49Y&index=54"> <img src="/assets/img/albums/a-sei-voci-josquin.png" width="480"> </a> <br>
+@ Abbaye royale de Fontevraud, <br>
+Fontevraud-l’Abbaye, Maine-et-Loire &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.07 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=VeirRa-TAUE&list=OLAK5uy_mm3MD0CZinyqA3cn7bGNtKX6A_0xp19hM&index=32">
 <img src="/assets/img/albums/staier-scarlatti87.png" width="480"> </a> <br>
 @ Kulturzentrum, <br>
-Lindlar &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991.02
+Lindlar, Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991.02
 </p>
 
 <p class="alb">
@@ -317,7 +323,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=L15pXCnYbQo&list=OLAK5uy_lUp2Viv45q46o6RPlGX7hXbEDy5y1diCM&index=1">
 <img src="/assets/img/albums/verlet-goldberg.png" width="480"> </a> <br>
 @ Église Saint-Hippolyte de Lagriffoul, <br>
-Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09
+Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.09
 </p>
 
 <p class="alb">
@@ -352,7 +358,7 @@ Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=LJQAgA44gCM&list=PL8AhTXrM6LH1jlfdKlmBJYEBoi08vC2CD&index=1">
 <img src="/assets/img/albums/seldom-sene-goldberg.png" width="480"> </a> <br>
 @ Schuilkerk De Hoop, <br>
-Diemen &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2017.03
+Diemen, North Holland &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2017.03
 </p>
 
 <br>

@@ -12,13 +12,13 @@ tags: music-notes
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=kPRnTmNvhY4&list=OLAK5uy_kj97DeMPDQZUdor1r2qfceL2KcsThUWhc&index=3"> <img src="/assets/img/albums/herreweghe-monteverdi-vespro.png" width="480"> </a> <br>
 @ Chiesa di San Francesco, <br>
-Asciano &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2017.08 
+Asciano, Siena &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2017.08 
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Ole7qVe81qg&list=OLAK5uy_mdYxNNC7FNasqCk3BlERgSrRBW20Zl8oM&index=10"> <img src="/assets/img/albums/gothic-voices-dufay.png" width="480"> </a> <br>
 @ Boxgrove Priory, <br>
-West Sussex &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2016.03 
+Boxgrove, West Sussex &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2016.03 
 </p>
 
 <p class="alb">
@@ -53,7 +53,7 @@ Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbs
 <a href="https://www.youtube.com/watch?v=AEfHB7FPb4c&list=OLAK5uy_mcoiTclzfyU7yDf8PJsSVdHmIIfFNdASQ&index=10">
 <img src="/assets/img/albums/tuma-sweelinck.png" width="480"> </a> <br>
 @ Kostel svatého Bartoloměje, <br>
-Doksy &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1994.10
+Doksy, Liberecký &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1994.10
 </p>
 
 <p class="alb" style="margin-bottom:-1.8em">
@@ -166,9 +166,9 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-romeo-juliette.png" width="480"> </a> <br>
+<a href="https://drive.google.com/file/d/1CQgoZU1Wd1cLtJ8iGU-UDMGNlT6Z3WjY/view?usp=sharing"> <img src="/assets/img/albums/gardiner-berlioz-romeo.png" width="480"> </a> <br>
 @ Colosseum, <br>
-Watford &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1995.10 
+Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1995.10 
 </p>
 
 <p class="alb">
@@ -196,6 +196,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
+<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
 <p class="alb">
@@ -235,13 +242,13 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 <p class="alb">
 <a href="https://https://www.youtube.com/watch?v=RvheqbdazZ4&list=OLAK5uy_nVbGn1Xs-6CALKj5iICjFguQZ_UAeWubY&index=2"> <img src="/assets/img/albums/schola-hungarica-ambrose.png" width="480"> </a> <br>
 @ Ócsai Református Templom, <br>
-Ócsa &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1970 
+Ócsa, Pest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1970 
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=9XO6kBrRtYU&list=OLAK5uy_nPjIKmsN-u7V70yoPaGbr_X2NvN8jhask&index=10"> <img src="/assets/img/albums/schweitzer-wipo.png" width="480"> </a> <br>
 @ Kirche St. Stephan, <br>
-Denklingen &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2011.10 
+Denklingen, Oberbayern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2011.10 
 </p>
 
 <p class="alb">
@@ -259,7 +266,7 @@ València &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&n
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=uAtVvdUGy7I&list=OLAK5uy_lHQujzK8qN3kyBaOp8sg2DCzA4MW4J6uo&index=1"> <img src="/assets/img/albums/a-sei-voci-allegri.png" width="480"> </a> <br>
 @ Prieuré de Vivoin, <br>
-Vivoin &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1993.11 
+Vivoin, Sarthe &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1993.11 
 </p>
 
 <p class="alb">
@@ -276,14 +283,14 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eVOIEAz680I&list=OLAK5uy_nVZCVKGktHvXUoSlh2tHxT4cF--7dgFSk&index=34"> <img src="/assets/img/albums/munrow-perotin.png" width="480"> </a> <br>
-@ Charterhouse Chapel, Godalming / <br>
-Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975.04/10 
+@ Charterhouse Chapel, Godalming, Surrey<br>
+/ Conway Hall, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1975.04/10 
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=0-g1MihAu-E&list=OLAK5uy_kwfoJWjUHYZ3rhEuDr2aObqaY4jDuLsTA&index=2"> <img src="/assets/img/albums/guerber-machaut.png" width="480"> </a> <br>
 @ Abbaye royale de Fontevraud, <br>
-Fontevraud-l’Abbaye &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007.10 
+Fontevraud-l’Abbaye, Maine-et-Loire &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007.10 
 </p>
 
 <p class="alb">
@@ -301,7 +308,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=8JLbCeSAj0c&list=OLAK5uy_mmtF6EQrEBkU3FSaSa0dTMyWRps-XXOFU&index=12"> <img src="/assets/img/albums/spering-rossini.png" width="480"> </a> <br>
 @ Festhalle, <br>
-Viersen &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994.09 
+Viersen, Düsseldorf &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994.09 
 </p>
 
 <p class="alb">

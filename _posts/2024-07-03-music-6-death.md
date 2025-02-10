@@ -36,7 +36,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=93IOV96WHqw&t=943s">
 <img src="/assets/img/albums/collegium-aureum-beethoven7.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>   
-Kirchheim &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
+Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
 </p>
 
 <p class="alb">
@@ -199,7 +199,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=C8pKh70eDls&list=OLAK5uy_nUlvK67it48AmD5i9MviPF3WXp1JrTsJ0&index=7">
 <img src="/assets/img/albums/brautigam-eroica.png" width="480"> </a> <br>
 @ Österåkers kyrka, <br>   
-Österåker &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
+Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
 </p>
 
 <p class="alb">
