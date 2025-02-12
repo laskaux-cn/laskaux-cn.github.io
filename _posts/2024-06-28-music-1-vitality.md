@@ -329,7 +329,7 @@ Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1">
 <img src="/assets/img/albums/hantai-goldberg-opus111.png" width="480"> </a> <br>
-@ Doopsgezinde kerk, <br>
+@ Doopsgezinde Kerk, <br>
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06
 </p>
 

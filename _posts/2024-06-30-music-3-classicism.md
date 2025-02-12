@@ -344,8 +344,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1992.10–12
 </p>
 
-
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=RwWXiz-cv-w&list=OLAK5uy_kba_Pb4SVHvOFfiP7869z6jOep5FsoRc0&index=2">
 <img src="/assets/img/albums/mravinsky-shostakovich5.png" width="480"> </a> <br>

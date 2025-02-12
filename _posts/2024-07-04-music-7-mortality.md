@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 6 &colon; 生存与死亡
+title: 音乐笔记 7 &colon; 生存与死亡
 subtitle: 
 excerpt: <br>
 
@@ -169,7 +169,7 @@ Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=bHH3LPph8MI&list=OLAK5uy_kEp6uIqS2CW8B_jUV2OZlp5nSSA9L5I5Y&index=5">
+<a href="https://www.youtube.com/watch?v=KA548ED6HwU&list=OLAK5uy_lRtwfR_aJsQSWpvRgVke9gz1bl3f8APxE&index=5">
 <img src="/assets/img/albums/dohnanyi-mahler5.png" width="480"> </a> <br>
 @ Masonic Temple, <br>
 Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1988.07

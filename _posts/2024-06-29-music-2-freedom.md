@@ -152,6 +152,13 @@ Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=e8HAg_4IOx8&list=OLAK5uy_k-1tRniBgRYqZkeOsM-2PvnwZYg3y9QIc&index=3">
+<img src="/assets/img/albums/demitriev-gluck.png" width="480"> </a> <br>
+@ Лютеранская церковь Святой Екатерины, <br>
+Ленинград &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1977
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
 <img src="/assets/img/albums/fricsay-beethoven9.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
@@ -192,6 +199,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – 4 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=x1nXLkpr6hw&t=4s">
+<img src="/assets/img/albums/marcon-vivaldi-arsilda.png" width="480"> </a> <br>
+@ Martinskirche, <br>
+Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2024.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
 <img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
@@ -199,16 +213,22 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
-<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
-@ Sofiensäle, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
+<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
+<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
+@ Lutherse Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=FykCvAEt92k&list=OLAK5uy_njEXlnuORzqlP_DZ94gzmPjMIOjngPCzA&index=12"> <img src="/assets/img/albums/levin-beethoven-pc3-4.png" width="480"> </a> <br>
+@ Colosseum, <br>
+Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1997.11 
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ncP6VVNrlD0&list=OLAK5uy_lFIIzfis8pTbZnE2gyeBRXtSSssa1Y1wE&index=8">
 <img src="/assets/img/albums/kuijken-haydn104.png" width="480"> </a> <br>
-@ Doopsgezinde kerk, <br>
+@ Doopsgezinde Kerk, <br>
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.01 
 </p>
 
@@ -350,7 +370,7 @@ Mantova &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=YwJD9kjgVoM&list=OLAK5uy_mXMM9divWpl8aEj4RHG28uPcJTZsSPdNk&index=2"> <img src="/assets/img/albums/kuijken-mozart364.png" width="480"> </a> <br>
-@ Doopsgezinde kerk, <br>
+@ Doopsgezinde Kerk, <br>
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1995.05 
 </p>
 

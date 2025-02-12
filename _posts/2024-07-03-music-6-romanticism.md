@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐笔记 5 &colon; 现实与浪漫
+title: 音乐笔记 6 &colon; 现实与浪漫
 subtitle: 
 excerpt: <br>
 
