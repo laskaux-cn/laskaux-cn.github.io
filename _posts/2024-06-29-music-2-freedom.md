@@ -207,9 +207,9 @@ Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
-<img src="/assets/img/albums/bilson-mozart-pc20-21.png" width="480"> </a> <br>
+<img src="/assets/img/albums/bilson-mozart-pc20-24.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
 </p>
 
 <p class="alb">

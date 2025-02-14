@@ -18,15 +18,92 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ibayKwOHbfk&list=OLAK5uy_lfJO3zJ_OWxcyaFpXLJwIASfqct52gQlM&index=2">
-<img src="/assets/img/albums/obc-mfl.png" width="480"> </a> <br>
-@ Columbia 30th Street Studio, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1956.03
+<a href="https://www.youtube.com/watch?v=2I8MR-_tEog&list=OLAK5uy_lVVqCDv0D_So3cS4kZrn1TBg6KER4wGfg&index=13">
+<img src="/assets/img/albums/fallis-fogliano.png" width="480"> </a> <br>
+@ Humbercrest United Church, <br>
+Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 2006.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5yyvHNRswdo&list=OLAK5uy_mgRUODFCleq3UxFSQGOadpodaGStWMlwM&index=39">
+<img src="/assets/img/albums/rousset-rameau-clavecin.png" width="480"> </a> <br>
+@ Église Saint-Hippolyte de Lagriffoul, <br>
+Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
+<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
+@ Kingsway Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LY-JUbgCxsU&list=OLAK5uy_kre9d9HK3o_ZrMkErpGkzN7gLoCaAjWzw&index=9">
+<img src="/assets/img/albums/bernstein-copland-mexico.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
+<img src="/assets/img/albums/gould-nielsen.png" width="480"> </a> <br>
+@ Orchestral Hall, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.04
 </p>
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 2 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=DNLeW62kH-M&list=OLAK5uy_kE8Fjry4UTMA8rS-ZoQujFEL_nOlSO5ic&index=5">
+<img src="/assets/img/albums/bavouzet-mozart-pc22-23.png" width="480"> </a> <br>
+@ Stoller Hall, <br>
+Manchester &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2021.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kaWo866elOc&list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&index=23">
+<img src="/assets/img/albums/haebler-jcbach.png" width="480"> </a> <br>
+@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1972.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
+<img src="/assets/img/albums/schlechta-stamitz.png" width="480"> </a> <br>
+@ Südwestrundfunk Studio, <br>
+Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994.05/12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
+<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1">
+<img src="/assets/img/albums/lubin-beethoven.png" width="480"> </a> <br>
+@ St Barnabas’, North Finchley, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.06
+</p>
+
+<br>
+
+<p class="ttl"> – 3 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fF1EjSS67tY&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=63">
+<img src="/assets/img/albums/bilson-mozart-pc25-26.png" width="480"> </a> <br>
+@ St John&rsquo;s, Smith Square, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.10
+</p>
+
+<br>
+
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3loOAxGosTg&list=OLAK5uy_n3REzpOdfQiYhHlX7JoUd7P4_DptAk7FM&index=2">
@@ -141,6 +218,13 @@ Münstertal, Freiburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wi
 
 
 <p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ibayKwOHbfk&list=OLAK5uy_lfJO3zJ_OWxcyaFpXLJwIASfqct52gQlM&index=2">
+<img src="/assets/img/albums/obc-mfl.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1956.03
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
