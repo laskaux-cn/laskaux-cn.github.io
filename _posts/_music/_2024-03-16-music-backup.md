@@ -8,6 +8,13 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ibayKwOHbfk&list=OLAK5uy_lfJO3zJ_OWxcyaFpXLJwIASfqct52gQlM&index=2">
+<img src="/assets/img/albums/obc-mfl.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1956.03
+</p>
+
+<p class="alb">
 <a href="https://drive.google.com/file/d/1dZolSJR5M4JpaFGRZf0LmEb0k-PBwYM4/view?usp=sharing">
 <img src="/assets/img/albums/helffer-schoenberg-new.png" width="480"> </a> <br>
 @ Ircam: Espace de projection, <br>

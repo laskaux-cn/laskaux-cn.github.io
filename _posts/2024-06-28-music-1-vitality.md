@@ -89,7 +89,7 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=qVFK-lViUwo&list=OLAK5uy_k-JpYV6RN6YzcVp13em-OKYAyDnpoff3g&index=26">
 <img src="/assets/img/albums/haim-purcell-dido.png" width="480"> </a> <br>
-@ Arsenal, <br>
+@ Arsenal: La Grande Salle, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2003.03
 </p>
 

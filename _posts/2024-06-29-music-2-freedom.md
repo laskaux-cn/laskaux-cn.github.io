@@ -384,7 +384,7 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VugS2OIiAtk&list=OLAK5uy_mlYEbpHLuL4tvnipLZurUTrKLbFzept9E&index=4">
 <img src="/assets/img/albums/herreweghe-beethoven9.png" width="480"> </a> <br>
-@ Grande Salle de l’Arsenal, <br>
+@ Arsenal: La Grande Salle, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1998.10
 </p>
 

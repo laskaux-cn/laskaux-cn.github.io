@@ -126,10 +126,9 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NX9QyjCIz14&list=OLAK5uy_nwlYefOzpivR0s4hjX0o4W84ceahexMNg&index=1">
 <img src="/assets/img/albums/staier-handel-chaconne.png" width="480"> </a> <br>
-@ NLG Studio 1, <br>   
+@ Funkhaus Nalepastraße: Studio 1, <br>   
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2005.05
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=qmu9x_Fi8SI&list=OLAK5uy_lPwVUFANXnq7ZfaBpm23FJaqfWdlaz8WA&index=22">
@@ -230,7 +229,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_8_8oeU39u8&list=PLeDLH3VAm7qnBBgzmtOarKu4yi3lGDKAy&index=8">
 <img src="/assets/img/albums/herreweghe-franck.png" width="480"> </a> <br>
-@ Grande Salle de l’Arsenal, <br>
+@ Arsenal: La Grande Salle, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2001.11
 </p>
 

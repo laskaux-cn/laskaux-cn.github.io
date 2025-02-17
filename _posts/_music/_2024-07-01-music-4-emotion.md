@@ -152,12 +152,7 @@ Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="1
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1964.04
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
-<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
-</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
