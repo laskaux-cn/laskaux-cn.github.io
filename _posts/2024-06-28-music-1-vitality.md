@@ -207,6 +207,13 @@ Lindlar, Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
+<img src="/assets/img/albums/nicholson-scarlatti.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2015.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Bw3FsOfxTmo&list=OLAK5uy_mkTchd24wD0nQSic4cNZx13GsTbNxmw-4&index=7">
 <img src="/assets/img/albums/solti-wagner-overtures.png" width="480"> </a> <br>
 @ Sofiensäle, <br>

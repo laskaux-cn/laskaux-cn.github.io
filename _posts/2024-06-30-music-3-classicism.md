@@ -175,7 +175,14 @@ Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" w
 <a href="https://www.youtube.com/watch?v=evm6xyJyFNg&list=OLAK5uy_lLNBbxOGarxKFBcKHF69GBixAsrBz4L14&index=20">
 <img src="/assets/img/albums/stella-rameau.png" width="480"> </a> <br>
 @ Saletta acustica “Eric James”, <br>
-Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2015
+Pove del Grappa, Vicenza &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2015.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Fa_NvKavRdg&list=OLAK5uy_nw6y2zExMf7ugEdWlfnZVVmVd6IMvD2wo&index=29">
+<img src="/assets/img/albums/savall-rameau-zoroastre.png" width="480"> </a> <br>
+@ Arsenal: La Grande Salle, <br>
+Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.01
 </p>
 
 <p class="alb">

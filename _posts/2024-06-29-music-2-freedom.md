@@ -226,6 +226,13 @@ Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" w
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
+<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=ncP6VVNrlD0&list=OLAK5uy_lFIIzfis8pTbZnE2gyeBRXtSSssa1Y1wE&index=8">
 <img src="/assets/img/albums/kuijken-haydn104.png" width="480"> </a> <br>
 @ Doopsgezinde Kerk, <br>

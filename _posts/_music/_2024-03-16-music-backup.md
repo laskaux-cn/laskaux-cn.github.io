@@ -8,6 +8,20 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
+<img src="/assets/img/albums/varsano-satie.png" width="480"> </a> <br>
+@ Notre-Dame du Liban, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1979.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=ibayKwOHbfk&list=OLAK5uy_lfJO3zJ_OWxcyaFpXLJwIASfqct52gQlM&index=2">
 <img src="/assets/img/albums/obc-mfl.png" width="480"> </a> <br>
 @ Columbia 30th Street Studio, <br>
@@ -19,13 +33,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <img src="/assets/img/albums/helffer-schoenberg-new.png" width="480"> </a> <br>
 @ Ircam: Espace de projection, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
-<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
-@ Sofiensäle, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
 </p>
 
 <p class="alb">
@@ -98,11 +105,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Condette &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020.02 
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=d7dD1JXwtPU&list=OLAK5uy_ndJ4Ez2Es0AZIAt2XyirZio4iQ8hH5NAw&index=17"> <img src="/assets/img/albums/linde-la-pellegrina.png" width="480"> </a> <br>
-@ Martinskirche, <br>
-Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1973.06–07 
-</p>
+
 
 <p style="text-align:center">
 	3.X &nbsp;|&nbsp; ALBAN BERG &nbsp;(1935)
