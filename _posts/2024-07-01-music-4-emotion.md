@@ -32,7 +32,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3QCnZFRoZGE&t=4s">
-<img src="/assets/img/albums/gluettler-grossi.png" width="480"> </a> <br>
+<img src="/assets/img/albums/guettler-grossi.png" width="480"> </a> <br>
 @ Lukaskirche, <br>
 Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1986.05
 </p>
