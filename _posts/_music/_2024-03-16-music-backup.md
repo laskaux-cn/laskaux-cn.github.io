@@ -64,12 +64,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 @ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2004.06
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
-@ Berwaldhallen, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
-</p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">

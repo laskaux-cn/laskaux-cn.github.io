@@ -162,10 +162,10 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=eb8YqxEI-iY&list=OLAK5uy_mTvFodARexcF-Hcs4P_dVjNxEjr43BEW0&index=15">
-<img src="/assets/img/albums/mackerras-mozart41.png" width="480"> </a> <br>
-@ City Halls, <br>
-Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007.08
+<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+<img src="/assets/img/albums/suitner-mozart41.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1975.03
 </p>
 
 <p class="alb">
@@ -266,13 +266,6 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/talich-schubert.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
 Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=_nh1BKvliGw&list=OLAK5uy_kZr-scA3sfOhqOyfr71rph_0WmGtHk3SI&index=4">
-<img src="/assets/img/albums/lubin-schubert-trout.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
 </p>
 
 <p class="alb">

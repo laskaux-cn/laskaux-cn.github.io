@@ -59,7 +59,6 @@ Piazzola sul Brenta, Padova &nbsp;<img src="/assets/img/flags/it.png" height="10
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=y-Dd5KNqr8c&list=OLAK5uy_kdmZXqGhCzXsq_Hops9zvrQSwWRZf1ASU&index=2">
 <img src="/assets/img/albums/hudecek-beethoven.png" width="480"> </a> <br>
@@ -290,10 +289,10 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1">
-<img src="/assets/img/albums/orpheus-prokofiev1.png" width="480"> </a> <br>
-@ Performing Arts Center, <br>
-Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987.12
+<a href="https://www.youtube.com/watch?v=MhMfs189YkM&list=OLAK5uy_kuhnm0wSMGZ5Jxl2gixPa3_bY7Kqrj34k&index=2">
+<img src="/assets/img/albums/jansons-prokofiev5.png" width="480"> </a> <br>
+@ National Concert Hall, <br>
+Dublin &nbsp;<img src="/assets/img/flags/ie.png" height="10.5" width="16"/>&nbsp; 1987.10
 </p>
 
 <p class="alb">

@@ -52,10 +52,10 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=EPLzHUEZlW4&list=PL8AhTXrM6LH3YqzMmTDFR5agpOIgrOXgQ&index=8"> 
-<img src="/assets/img/albums/mtt-copland3.png" width="480"> </a> <br>
-@ Davies Symphony Hall, <br>
-San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2018.03 
+<a href="https://www.youtube.com/watch?v=11b3AUHeoZ8&list=OLAK5uy_loqdEejUcfirQYxF1wpZTXRtmAJPXAgOg&index=4">
+<img src="/assets/img/albums/slatkin-copland3.png" width="480"> </a> <br>
+@ Powell Hall, <br>
+St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.05/10
 </p>
 
 <br>

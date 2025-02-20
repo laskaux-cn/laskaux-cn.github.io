@@ -44,6 +44,34 @@ Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nb
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.10
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=aVMB5aAVY7g&t=0s">
+<img src="/assets/img/albums/suitner-schubert5.png" width="480"> </a> <br>
+@ Christuskirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1983.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=zjD7f06LCsc&list=OLAK5uy_kkD8nyOlYQ4dByLfQ4ZBqwLAQhzVJuDtw&index=1"> <img src="/assets/img/albums/kosler-bizet.png" width="480"> </a> <br>
+@ Dvořákova síň, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1986.11 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1">
+<img src="/assets/img/albums/orpheus-prokofiev1.png" width="480"> </a> <br>
+@ Performing Arts Center, <br>
+Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=38MMIUE-m2o&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=2&t=10s">
+<img src="/assets/img/albums/mackerras-mozart41.png" width="480"> </a> <br>
+@ City Halls, <br>
+Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007.08
+</p>
+
+
 <br>
 
 
@@ -222,7 +250,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=bzl_IMJbmVg&list=OLAK5uy_kAAz-JjfNXPZ4BaF3NjEW1aXnRGpNNDQo&index=17">
 <img src="/assets/img/albums/lislevand-vivaldi-new.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
-Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04 / 2006.06
+Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04 / 2006.06
 </p>
 
 <p class="alb">
@@ -231,7 +259,6 @@ Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp
 @ Manhattan Center, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=7qB9iMDROTA&list=OLAK5uy_k11uyJMI4gcxs4H9APr-ImjL27J0BPY6w&index=8">
@@ -291,7 +318,7 @@ Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>
 <a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
 <img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
 @ Länna kyrka, <br> 
-Norrtälje &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
+Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
 </p>
 
 <p class="alb">
@@ -305,6 +332,13 @@ Norrtälje &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&
 <img src="/assets/img/albums/taylor-bach-italian.png" width="480"> </a> <br>
 @ Château d’Assas, <br> 
 Assas, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2023.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=plhpTKabZHY&list=OLAK5uy_lbRpK0Y2kdY1g7VH-UE_r6vr9hQVGQr_Q&index=37">
+<img src="/assets/img/albums/belder-scarlatti.png" width="480"> </a> <br>
+@ Penninckshuis, <br>
+Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2007
 </p>
 
 <p class="alb">
@@ -353,7 +387,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=PUYzOTb4I7Q&list=PLawrJgP30lZzo3-udXuqzsvGEz6dj7aKN&index=1&t=3s">
 <img src="/assets/img/albums/lubin-beethoven.png" width="480"> </a> <br>
-@ St Barnabas’, North Finchley, <br>
+@ St Barnabas, North Finchley, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.06
 </p>
 
@@ -379,9 +413,4 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <br>
-
-
-
-
-
 

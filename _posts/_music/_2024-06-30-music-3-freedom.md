@@ -172,13 +172,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=T-L9XEmCq9c&list=OLAK5uy_kfxu8WrARgVK2a0-BRukkfEO5yUqF9SnA&index=3">
-<img src="/assets/img/albums/friedrich-mudge.png" width="480"> </a> <br>
-@ Andreaskirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2001.07
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
 <img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
