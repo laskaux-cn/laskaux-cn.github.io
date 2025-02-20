@@ -17,13 +17,6 @@ Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fui8DoAa5oU&list=PL-yy7VF9ObFMbpNes1ApQlpVatBorstOh&index=1">
-<img src="/assets/img/albums/hogwood-pachelbel-canon.png" width="480"> </a> <br>
-@ St George the Martyr, Holborn, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980.12
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=zfyUKy5oqDc&list=PL8AhTXrM6LH2L-tNuoWxH8oolXOgaNuSs&index=5">
 <img src="/assets/img/albums/mortensen-corelli.png" width="480"> </a> <br>
 @ Garnisonskirken, <br>
@@ -38,6 +31,20 @@ Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=fui8DoAa5oU&list=PL-yy7VF9ObFMbpNes1ApQlpVatBorstOh&index=1">
+<img src="/assets/img/albums/hogwood-pachelbel-canon.png" width="480"> </a> <br>
+@ St George the Martyr, Holborn, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=e9014azeR2Y&list=OLAK5uy_kKPf6hW9nQ_jT8unCZDeFfl0XRsUMJkgE&index=7">
+<img src="/assets/img/albums/mosaiques-haydn-op20.png" width="480"> </a> <br>
+@ Casino Zögernitz, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1992.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
 <img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
@@ -45,12 +52,11 @@ Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ajMWZjKovE0&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=121">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
-@ Berwaldhallen, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+<a href="https://www.youtube.com/watch?v=Zky8639b4pI&list=OLAK5uy_lmVDww5ynmJUrCYBwoMuwLpyOwh_Q1BKA&index=3">
+<img src="/assets/img/albums/queyras-boulez.png" width="480"> </a> <br>
+@ Cité de la musique: Salle des concerts, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1999.10
 </p>
-
 
 <br>
 
@@ -96,6 +102,12 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 <p class="ttl"> – X – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
+<img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.04
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=prxNSksaa9c&list=OLAK5uy_lPyCaZdBc5s7HpigWSKL8j94iDFFFc0fA&index=4&t=163s">
@@ -142,15 +154,41 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LGSm_PT2-1Y&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=40">
+<img src="/assets/img/albums/boulez-webern.png" width="480"> </a> <br>
+@ Ircam: Espace de projection, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
+</p>
+
 <br>
 
 <p class="ttl"> – X – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9">
+<img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
+@ RCA 24th Street Studios, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
+</p>
 
 <br>
 
 <p class="ttl"> – X – </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Wyj2NcZnuJs&list=OLAK5uy_kiliEGE6z6IQhuYnFxHdQwA7GcUJvDjFQ&index=26">
+<img src="/assets/img/albums/kapsbergirl-rameau.png" width="480"> </a> <br>
+@ Moosestudio, <br>
+Evje, Aust-Agder &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2020.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=L-Yp_LV23qE&list=OLAK5uy_nuyMzhG9YdujrpgoJ-Sodvcue8HfFERtg&index=17">
+<img src="/assets/img/albums/rooley-monteverdi.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.07
+</p>
 
 <br>
 

@@ -7,6 +7,7 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
 <img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
@@ -48,13 +49,6 @@ Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbs
 <img src="/assets/img/albums/toennesen-grieg.png" width="480"> </a> <br>
 @ Lommedalen kirke, <br>
 Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2012.10–&#8203;2013.02
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
-<img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.04
 </p>
 
 

@@ -17,6 +17,13 @@ Manchester &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.02
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Yf1b3iZL82I&list=OLAK5uy_n8ONTkUQ4a2_8ZFMM-sLFMC4tLFSejY6I&index=10">
 <img src="/assets/img/albums/schlechta-stamitz.png" width="480"> </a> <br>
 @ Südwestrundfunk Studio, <br>
@@ -71,6 +78,19 @@ Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width
 Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007.08
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Upwuyfc_42o&t=0s">
+<img src="/assets/img/albums/szell-beethoven3.png" width="480"> </a> <br>
+@ Severance Hall, <br>
+Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1957.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=54Bq2Nk_ls4&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=129">
+<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
+@ Berwaldhallen, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+</p>
 
 <br>
 
@@ -338,7 +358,7 @@ Assas, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="1
 <a href="https://www.youtube.com/watch?v=plhpTKabZHY&list=OLAK5uy_lbRpK0Y2kdY1g7VH-UE_r6vr9hQVGQr_Q&index=37">
 <img src="/assets/img/albums/belder-scarlatti.png" width="480"> </a> <br>
 @ Penninckshuis, <br>
-Deventer &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2007
+Deventer, Overijssel &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2007
 </p>
 
 <p class="alb">

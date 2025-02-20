@@ -364,7 +364,7 @@ Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp
 <a href="https://www.youtube.com/watch?v=LJQAgA44gCM&list=PL8AhTXrM6LH1jlfdKlmBJYEBoi08vC2CD&index=1">
 <img src="/assets/img/albums/seldom-sene-goldberg.png" width="480"> </a> <br>
 @ Schuilkerk De Hoop, <br>
-Diemen, North Holland &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2017.03
+Diemen, Noord-Hollaand &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2017.03
 </p>
 
 <br>
