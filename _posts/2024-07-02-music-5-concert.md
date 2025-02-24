@@ -10,17 +10,62 @@ tags: music-notes
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=zQ4yYwlGqpw&t=0s">
+<img src="/assets/img/albums/janssens-polyphony.png" width="480"> </a> <br>
+@ Église Saints-Pierre-et-Martin de Vieusart, <br>
+Chaumont-Gistoux, Brabant wallon &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2000.02
+</p> 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VqEkwVViM9c&list=OLAK5uy_nBUqEtf-D0G0L1h13FVOQ2LuiCObWwME0&index=20"> <img src="/assets/img/albums/visse-josquin.png" width="480"> </a> <br>
+@ Château d’Hardelot: Théâtre élisabéthain, <br>
+Condette, Pas-de-Calais &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020.02 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=1elVMyuCVzQ&list=OLAK5uy_mweoxM1-9byzOUZfvzoX0RTKmmbD9ywhE&index=17">
+<img src="/assets/img/albums/bernius-schubert-lazarus.png" width="480"> </a> <br>
+@ Nikolaikirche, <br>
+Leipzig &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=UhU9dnK4MrM&list=OLAK5uy_lzJk6E-k_x_TOTL8jFwKDcD16E12gX5DQ&index=14"> <img src="/assets/img/albums/visse-janequin.png" width="480"> </a> <br>
+@ Notre-Dame des Anges, <br>
+Lurs, Alpes-de-Haute-Provence &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1981.04 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Wyj2NcZnuJs&list=OLAK5uy_kiliEGE6z6IQhuYnFxHdQwA7GcUJvDjFQ&index=26">
+<img src="/assets/img/albums/kapsbergirl-rameau.png" width="480"> </a> <br>
+@ Moosestudio, <br>
+Evje, Aust-Agder &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2020.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=0mR3ZUB_Nx8&t&t=0s">
+<img src="/assets/img/albums/sinatra-guys-and-dolls.png" width="480"> </a> <br>
+@ United Recording Studios, <br>
+Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=L-Yp_LV23qE&list=OLAK5uy_nuyMzhG9YdujrpgoJ-Sodvcue8HfFERtg&index=17">
+<img src="/assets/img/albums/rooley-monteverdi.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.07
+</p>
+
+<br>
+
+
+<p class="ttl"> – 2 – </p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=iEpMYLBRUVg&list=OLAK5uy_lW-YJ_DAjgFOBF_rVsCquJO-s3OXNUFkk&index=8">
 <img src="/assets/img/albums/goebel-brandenburg.png" width="480"> </a> <br>
 @ Deutschlandfunk Kammermusiksaal, <br>
 Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1986.06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=zfyUKy5oqDc&list=PL8AhTXrM6LH2L-tNuoWxH8oolXOgaNuSs&index=5">
-<img src="/assets/img/albums/mortensen-corelli.png" width="480"> </a> <br>
-@ Garnisonskirken, <br>
-København &nbsp;<img src="/assets/img/flags/dk.png" height="10.5" width="16"/>&nbsp; 2020.01
 </p>
 
 <p class="alb">
@@ -58,15 +103,27 @@ Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1999.10
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=54Bq2Nk_ls4&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=129">
+<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
+@ Berwaldhallen, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+</p>
+
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 3 – </p>
+
+
+<br>
+
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
-<img src="/assets/img/albums/alessandrini-brandenburg.png" width="480"> </a> <br>
-@ Palazzo Farnese, <br>
-Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.03
+<a href="https://www.youtube.com/watch?v=taptzNir0No&list=OLAK5uy_mNkqS6KxUd_7hfyQE5LzguVWPHdKcElnQ&index=7">
+<img src="/assets/img/albums/lotter-brandenburg.png" width="480"> </a> <br>
+@ Himmelfahrtskirche, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.02
 </p>
 
 <p class="alb">
@@ -97,11 +154,6 @@ Stocksund, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" wid
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2001.07
 </p>
 
-
-<br>
-
-<p class="ttl"> – X – </p>
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=96Th_y6PGUg&list=PLBgagen1f2_9HdrSrscOJqwzLlr0QdWEq&index=11">
 <img src="/assets/img/albums/pinnock-handel-water.png" width="480"> </a> <br>
@@ -118,13 +170,37 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 5 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SnY6sb6UMpU&list=OLAK5uy_kvPzwYqKedCjymZcj6AAXd4CKXQ5yXsaY&index=16">
+<img src="/assets/img/albums/freiburger-brandenburg.png" width="480"> </a> <br>
+@ Ensemblehaus, <br>
+Freiburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=10s">
+<img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
+@ RCA 24th Street Studios, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
+</p>
+
+<br>
+
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=mw1b_Bomu0s&list=OLAK5uy_ntpwc4EGE6gbJBwex2-2ST9n401ZyMGv0&index=13">
 <img src="/assets/img/albums/wallfisch-brandenburg.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=I7by0uu9Io8&list=OLAK5uy_mZbg7qt7JhsM52cxVpy7nZmUTvVZr93wU&index=15">
+<img src="/assets/img/albums/cafe-zimmermann-brandenburg.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2000.08 / 2001.08
 </p>
 
 <p class="alb">
@@ -163,31 +239,35 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9">
-<img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
-@ RCA 24th Street Studios, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
-</p>
-
-<br>
-
-<p class="ttl"> – X – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Wyj2NcZnuJs&list=OLAK5uy_kiliEGE6z6IQhuYnFxHdQwA7GcUJvDjFQ&index=26">
-<img src="/assets/img/albums/kapsbergirl-rameau.png" width="480"> </a> <br>
-@ Moosestudio, <br>
-Evje, Aust-Agder &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 2020.09
+<a href="https://www.youtube.com/watch?v=wm2k6YBlJrA&list=OLAK5uy_l4oOyg65uwFntlop3yEp5D7js_c1cGcj8&index=20">
+<img src="/assets/img/albums/savall-musical-offering.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 1999.11 / 2000.04
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=L-Yp_LV23qE&list=OLAK5uy_nuyMzhG9YdujrpgoJ-Sodvcue8HfFERtg&index=17">
-<img src="/assets/img/albums/rooley-monteverdi.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.07
+<a href="https://www.youtube.com/watch?v=KlJJKa2Hf_I&list=OLAK5uy_nJINY_lQ9LH0MDOfUcrJ9LycOXbnT-D6E&index=5">
+<img src="/assets/img/albums/salonen-bach.png" width="480"> </a> <br>
+@ Dorothy Chandler Pavilion, <br>
+Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=wuc9Gl76RAA&list=OLAK5uy_kHpdKRyx3EIu_0ZpGq9jKxop-3VkA7Xug&index=1">
+<img src="/assets/img/albums/loeki-stardust-bach.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1998.04–06 
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=W7TE9pOZuUQ&list=OLAK5uy_lPoXCEE0JSJO9XVOo2zHgR8S8mHBE6HBw&index=7">
+<img src="/assets/img/albums/kamp-bach.png" width="480"> </a> <br>
+@ Johanniskirche, <br>
+Herford, Detmold &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2003.02 
 </p>
 
 <br>

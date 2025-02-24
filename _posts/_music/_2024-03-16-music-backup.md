@@ -7,6 +7,26 @@ excerpt: ♬&nbsp; <br>
 tags: music
 ---
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=zfyUKy5oqDc&list=PL8AhTXrM6LH2L-tNuoWxH8oolXOgaNuSs&index=5">
+<img src="/assets/img/albums/mortensen-corelli.png" width="480"> </a> <br>
+@ Garnisonskirken, <br>
+København &nbsp;<img src="/assets/img/flags/dk.png" height="10.5" width="16"/>&nbsp; 2020.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
+<img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
+@ Schloss Kirchheim: Zedernsaal, <br>
+Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
+<img src="/assets/img/albums/nicholson-scarlatti.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2015.06
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
@@ -88,11 +108,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1970.09
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=VqEkwVViM9c&list=OLAK5uy_nBUqEtf-D0G0L1h13FVOQ2LuiCObWwME0&index=20"> <img src="/assets/img/albums/visse-josquin.png" width="480"> </a> <br>
-@ Théâtre élisabéthain, Château d’Hardelot, <br>
-Condette &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2020.02 
-</p>
 
 
 

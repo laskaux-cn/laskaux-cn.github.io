@@ -85,13 +85,6 @@ Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbs
 Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1957.02
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=54Bq2Nk_ls4&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=129">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
-@ Berwaldhallen, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
-</p>
-
 <br>
 
 

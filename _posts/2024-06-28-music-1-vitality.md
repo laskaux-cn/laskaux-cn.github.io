@@ -7,7 +7,6 @@ excerpt: <br>
 tags: music-notes
 ---
 
-
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">
@@ -200,16 +199,9 @@ Fontevraud-l’Abbaye, Maine-et-Loire &nbsp;<img src="/assets/img/flags/fr.png" 
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VeirRa-TAUE&list=OLAK5uy_mm3MD0CZinyqA3cn7bGNtKX6A_0xp19hM&index=32">
-<img src="/assets/img/albums/staier-scarlatti87.png" width="480"> </a> <br>
+<img src="/assets/img/albums/staier-scarlatti.png" width="480"> </a> <br>
 @ Kulturzentrum, <br>
 Lindlar, Köln &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1991.02
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
-<img src="/assets/img/albums/nicholson-scarlatti.png" width="480"> </a> <br>
-@ Doopsgezinde Kerk <br>
-Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2015.06
 </p>
 
 <p class="alb">

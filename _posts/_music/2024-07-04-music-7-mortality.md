@@ -46,12 +46,6 @@ Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=1elVMyuCVzQ&list=OLAK5uy_mweoxM1-9byzOUZfvzoX0RTKmmbD9ywhE&index=17">
-<img src="/assets/img/albums/bernius-schubert-lazarus.png" width="480"> </a> <br>
-@ Nikolaikirche, <br>
-Leipzig &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2013.06
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
