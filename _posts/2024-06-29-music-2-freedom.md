@@ -9,7 +9,7 @@ tags: music-notes
 
 <p class="ttl"> – 1 – </p>
 
-<p class="alb">
+<p class="alxb">
 <a href="https://www.youtube.com/watch?v=kPRnTmNvhY4&list=OLAK5uy_kj97DeMPDQZUdor1r2qfceL2KcsThUWhc&index=3"> <img src="/assets/img/albums/herreweghe-monteverdi-vespro.png" width="480"> </a> <br>
 @ Chiesa di San Francesco, <br>
 Asciano, Siena &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2017.08 

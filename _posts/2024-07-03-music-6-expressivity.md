@@ -62,7 +62,12 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 <p class="ttl"> – X – </p>
 
-
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
+<img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
+@ Länna kyrka, <br> 
+Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
+</p>
 
 <br>
 

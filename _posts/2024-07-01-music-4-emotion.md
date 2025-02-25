@@ -328,13 +328,6 @@ Baden-Baden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
-<img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
-@ Länna kyrka, <br> 
-Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1998.08
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=VR7_NXEpHco&list=OLAK5uy_mZNE49OmBKknOPC06i1YdmebyaMffnU9Y&index=2">
 <img src="/assets/img/albums/alard-bach-italian.png" width="480"> </a> <br>
 @ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2010.05

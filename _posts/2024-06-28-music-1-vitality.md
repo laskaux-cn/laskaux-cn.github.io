@@ -165,6 +165,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=prj10ppAMec&list=OLAK5uy_notGOryhIl8miCjlk2AVROwB3-9RrC8eo&index=1">
+<img src="/assets/img/albums/stravinsky-greeting.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1963.12
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Ul9oiAD_fls&list=OLAK5uy_kXYhobZMgN8q1OzVSDQ8LG_GfBfou4PtQ&index=20">
 <img src="/assets/img/albums/mtt-wss.png" width="480"> </a> <br>
 @ Henry Wood Hall, <br>

@@ -8,18 +8,12 @@ tags: music
 ---
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=zfyUKy5oqDc&list=PL8AhTXrM6LH2L-tNuoWxH8oolXOgaNuSs&index=5">
-<img src="/assets/img/albums/mortensen-corelli.png" width="480"> </a> <br>
-@ Garnisonskirken, <br>
-København &nbsp;<img src="/assets/img/flags/dk.png" height="10.5" width="16"/>&nbsp; 2020.01
+<a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
+<img src="/assets/img/albums/alessandrini-brandenburg.png" width="480"> </a> <br>
+@ Palazzo Farnese, <br>
+Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.03
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=4BSIFjB4Ebs&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=3">
-<img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
-@ Schloss Kirchheim: Zedernsaal, <br>
-Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.06
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
