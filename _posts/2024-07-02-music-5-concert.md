@@ -90,45 +90,6 @@ Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fui8DoAa5oU&list=PL-yy7VF9ObFMbpNes1ApQlpVatBorstOh&index=1">
-<img src="/assets/img/albums/hogwood-pachelbel-canon.png" width="480"> </a> <br>
-@ St George the Martyr, Holborn, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980.12
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=e9014azeR2Y&list=OLAK5uy_kKPf6hW9nQ_jT8unCZDeFfl0XRsUMJkgE&index=7">
-<img src="/assets/img/albums/mosaiques-haydn-op20.png" width="480"> </a> <br>
-@ Casino Zögernitz, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1992.03
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
-<img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
-@ Fondation Tibor Varga, <br>
-Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1995
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Zky8639b4pI&list=OLAK5uy_lmVDww5ynmJUrCYBwoMuwLpyOwh_Q1BKA&index=3">
-<img src="/assets/img/albums/queyras-boulez.png" width="480"> </a> <br>
-@ Cité de la musique: Salle des concerts, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1999.10
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=54Bq2Nk_ls4&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=129">
-<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
-@ Berwaldhallen, <br>
-Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
-</p>
-
-<br>
-
-<p class="ttl"> – 3 – </p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=McIzk8VyO5w&list=OLAK5uy_klUvYfnNI3Sms9roxV_e5e-Xx0jZeowz8&index=25">
 <img src="/assets/img/albums/alessandrini-brandenburg.png" width="480"> </a> <br>
 @ Palazzo Farnese, <br>
@@ -143,15 +104,59 @@ København &nbsp;<img src="/assets/img/flags/dk.png" height="10.5" width="16"/>&
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
-<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
+<a href="https://www.youtube.com/watch?v=fui8DoAa5oU&list=PL-yy7VF9ObFMbpNes1ApQlpVatBorstOh&index=1">
+<img src="/assets/img/albums/hogwood-pachelbel-canon.png" width="480"> </a> <br>
+@ St George the Martyr, Holborn, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980.12
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4u8ZoAq0beE&list=OLAK5uy_lk1xwgBsQVBPaXk_o4Ih5t8fdBrU7Y7tA&index=11">
+<img src="/assets/img/albums/recreations-scarlatti.png" width="480"> </a> <br>
+@ Notre-Dame de l’Assomption, <br>
+Basse-Bodeux, Liège &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2020.06–07
+</p> 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=awnwJIplqc8&list=OLAK5uy_lb7u1pn3fc1gLymyyysRVAO1f-kfQ4Q-w&index=8">
+<img src="/assets/img/albums/quartetto-italiano-ravel.png" width="480"> </a> <br>
+@ Théâtre Le Reflet, <br>
+Vevey, Vaud &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1965.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CsEAFUQN_Cw&list=OLAK5uy_lYXz2E3nolb2b4U-NNZHbel-vyscJM3PY&index=10">
+<img src="/assets/img/albums/latinoamericano-villa-lobos.png" width="480"> </a> <br>
+@ Troy Savings Bank Music Hall, <br>
+Troy, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1994.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=e9014azeR2Y&list=OLAK5uy_kKPf6hW9nQ_jT8unCZDeFfl0XRsUMJkgE&index=7">
+<img src="/assets/img/albums/mosaiques-haydn-op20.png" width="480"> </a> <br>
+@ Casino Zögernitz, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1992.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=OHE8kTifzx0&list=OLAK5uy_mRYYavJUKAegXpDISLa4NDVSyYi3gaS9s&index=8">
+<img src="/assets/img/albums/szymanowski-quartet-moscow.png" width="480"> </a> <br>
+@ SWR Kammermusikstudio, <br>
+Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2012.04
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=6h3LA0HunY0&list=OLAK5uy_npLjA6lNy00VCGWwFDAs6GmGIgczfQOGc&index=7">
+<img src="/assets/img/albums/oistrakh-quartet-shostakovich.png" width="480"> </a> <br>
+@ Flagey: Studio 4, <br>
+Ixelles, Bruxelles &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2018.01
+</p>
+
 
 <br>
 
-<p class="ttl"> – 4 – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=taptzNir0No&list=OLAK5uy_mNkqS6KxUd_7hfyQE5LzguVWPHdKcElnQ&index=7">
@@ -203,15 +208,36 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
+@ Polydor Studio, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=prxNSksaa9c&list=OLAK5uy_lPyCaZdBc5s7HpigWSKL8j94iDFFFc0fA&index=4&t=163s">
 <img src="/assets/img/albums/barbirolli-brahms1.png" width="480"> </a> <br>
 @ Großer Musikvereinssaal, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
+<img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
+@ Großer Musikvereinssaal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=PMCysBnftbw&list=OLAK5uy_mgsfs-tLKCuESkmI7SUjL_xDT57zmZUQc&index=6&t=1107s">
+<img src="/assets/img/albums/giulini-mahler1.png" width="480"> </a> <br>
+@ Medinah Temple, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1971.03
+</p>
+
 <br>
 
-<p class="ttl"> – 5 – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=SnY6sb6UMpU&list=OLAK5uy_kvPzwYqKedCjymZcj6AAXd4CKXQ5yXsaY&index=16">
@@ -229,7 +255,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=mw1b_Bomu0s&list=OLAK5uy_ntpwc4EGE6gbJBwex2-2ST9n401ZyMGv0&index=13">
@@ -258,6 +284,12 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=6ztK98Az2QA&list=OLAK5uy_nNrDJivv_u6HyafjwV0RZkA2jKNhhH6SE&index=2"> <img src="/assets/img/albums/ashkenazy-rachmaninov-pc2.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1963.09 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=AN3lLkwcV38&list=PL8AhTXrM6LH1eBoS3UownAbZ5X6jAmJ1Q&index=2">
 <img src="/assets/img/albums/aureum-beethoven-triple.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>
@@ -279,13 +311,11 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=LGSm_PT2-1Y&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=40">
-<img src="/assets/img/albums/boulez-webern.png" width="480"> </a> <br>
-@ Ircam: Espace de projection, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
+<a href="https://www.youtube.com/watch?v=O6SPt3c_bJw&list=OLAK5uy_m9ovvJW17LNJhvJlBba6nANoAzQkjnlSQ&index=1">
+<img src="/assets/img/albums/larrocha-falla.png" width="480"> </a> <br>
+@ Victoria Hall, <br>
+Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1970.09
 </p>
-
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Trc2KEwU8ms">
@@ -295,7 +325,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – 7 – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=wm2k6YBlJrA&list=OLAK5uy_l4oOyg65uwFntlop3yEp5D7js_c1cGcj8&index=20">

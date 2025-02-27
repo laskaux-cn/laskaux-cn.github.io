@@ -16,10 +16,10 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=GpcdsAIdKhg&list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&index=8">
-<img src="/assets/img/albums/ozawa_pini_roma.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1977.10
+<a href="https://www.youtube.com/watch?v=g0osep19iU0&list=OLAK5uy_khywdt24gQpPVA4Fo2CpvlSQTlsZfaR-E&index=8">
+<img src="/assets/img/albums-general/marseillaise-berlioz.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>
 
 <br>
@@ -40,21 +40,6 @@ Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15">
-<img src="/assets/img/albums/pichon-castor-pollux.png" width="480"> </a> <br>
-@ Le Corum: Opéra Berlioz, <br>   
-Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
-</p>
-
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
-<img src="/assets/img/albums/munch-sym-fantas.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=PlOglISMYiQ&list=OLAK5uy_nZoP1vBTQn1cQDgpDANqlI49OZkdeyb6s&index=1">
 <img src="/assets/img/albums/karajan-mahler5.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
@@ -66,6 +51,20 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/rattle-webern.png" width="480"> </a> <br>
 @ Warwick Arts Centre, <br>
 Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.12 / 1988.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15">
+<img src="/assets/img/albums/pichon-castor-pollux.png" width="480"> </a> <br>
+@ Le Corum: Opéra Berlioz, <br>   
+Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=S2BeOh65Ehg&list=OLAK5uy_muelfLhJ6_jM6RF-9ILdTWc1NMM0EzhU0&index=56">
+<img src="/assets/img/albums/nagano-poulenc-dialogues.png" width="480"> </a> <br>
+@ Auditorium Maurice-Ravel, <br>   
+Lyon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1990.06
 </p>
 
 <br>
@@ -94,12 +93,6 @@ Morbio Inferiore, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5"
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
-<img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
-@ Großer Musikvereinssaal, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.11
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=hfgrXm1t69c&list=OLAK5uy_mApgN0ddKaPPPSrJndn3o1RJXkYnMGmtU&index=10">
@@ -133,13 +126,6 @@ Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nb
 <img src="/assets/img/albums/jochum-bruckner9.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1964.12
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
-<img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
-@ Église Saint-Hippolyte de Lagriffoul, <br>
-Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.08
 </p>
 
 <br>
@@ -187,6 +173,13 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <img src="/assets/img/albums/fricsay-beethoven3.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=k4FUxbbyAxs&t=2347s">
+<img src="/assets/img/albums/suitner-beethoven3.png" width="480"> </a> <br>
+@ Christuskirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1980.06
 </p>
 
 <p class="alb">

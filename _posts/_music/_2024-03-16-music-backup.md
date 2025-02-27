@@ -8,12 +8,32 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+<img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
+@ Église Saint-Hippolyte de Lagriffoul, <br>
+Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=LGSm_PT2-1Y&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=40">
+<img src="/assets/img/albums/boulez-webern.png" width="480"> </a> <br>
+@ Ircam: Espace de projection, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">
 <img src="/assets/img/albums/alessandrini-brandenburg.png" width="480"> </a> <br>
 @ Palazzo Farnese, <br>
 Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.03
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=54Bq2Nk_ls4&list=OLAK5uy_k6SLP9aSQCU2K4tb2v73C5dRdw0zRgKtY&index=129">
+<img src="/assets/img/albums/salonen-stravinsky-apollo.png" width="480"> </a> <br>
+@ Berwaldhallen, <br>
+Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1990.09
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=CMWRVCn5m2Q&list=OLAK5uy_k7gwDHL_CUsw8slG--tHadBT0GuSOGrmU&index=17">
@@ -81,12 +101,14 @@ Bærum &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1965.04
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
-<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
-@ Polydor Studio, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+<a href="https://www.youtube.com/watch?v=Zky8639b4pI&list=OLAK5uy_lmVDww5ynmJUrCYBwoMuwLpyOwh_Q1BKA&index=3">
+<img src="/assets/img/albums/queyras-boulez.png" width="480"> </a> <br>
+@ Cité de la musique: Salle des concerts, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1999.10
 </p>
+
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ICSu1P7JtPE&list=OLAK5uy_m9lIIolwdHt1RNlK3k7f8jB1eo0Ey2lJI&index=12">

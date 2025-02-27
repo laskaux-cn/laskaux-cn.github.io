@@ -72,7 +72,7 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
-<img src="/assets/img/albums/tilson-thomas-ives-holidays.png" width="480"> </a> <br>
+<img src="/assets/img/albums/mtt-ives-holidays.png" width="480"> </a> <br>
 @ Medinah Temple, <br>
 Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986.05
 </p>
