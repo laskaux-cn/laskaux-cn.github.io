@@ -104,6 +104,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">
+<img src="/assets/img/albums/markevitch-bizet.png" width="480"> </a> <br>
+@ Maison de la Chimie, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1965.05–06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Pwb5kJEvbu0&list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&index=5">
 <img src="/assets/img/albums/davis-berg.png" width="480"> </a> <br>
 @ Herkulessaal, <br>
@@ -136,31 +143,6 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <p class="ttl"> – X – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
-<img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
-@ Fondation Tibor Varga, <br>
-Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1995
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=TvBSK2qKy7s&list=OLAK5uy_n7kepxAaQy0Avt7_5tPC03gNFWKSH33-4&index=4">
-<img src="/assets/img/albums/bernstein-copland-rodeo.png" width="480"> </a> <br>
-@ Manhattan Center, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=ktzzIfKk8rE&list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&index=11">
-<img src="/assets/img/albums/dudamel-wss.png" width="480"> </a> <br>
-@ Centro de Acción Social por la Música: <br>
-Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008.01
-</p>
-
-<br>
-
-<p class="ttl"> – X – </p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
 <img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
 @ Länna kyrka, <br> 
@@ -186,6 +168,13 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=lonuxGeaNf8&list=OLAK5uy_lGN0GlEf2Pi3c8XDf_AjZiB-povGFsTj0&index=1">
+<img src="/assets/img/albums/solti-tristan.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.09
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
 <img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
@@ -199,6 +188,44 @@ Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nb
 Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
 </p>
 
+<br>
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
+<img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1995
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=okfoSuhiRBU&list=OLAK5uy_n4Z20NljIlpjtTURzN2k6_A8KPgCzk47I&index=4">
+<img src="/assets/img/albums/markevitch-rimsky-korsakov.png" width="480"> </a> <br>
+@ Wembley Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1962.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=9I7ZOGkyEVc&list=OLAK5uy_ntS5zRQ5YNs_IixDPz20lz_A8OuLLZyjU&index=11">
+<img src="/assets/img/albums/ansermet-falla.png" width="480"> </a> <br>
+@ Victoria Hall, <br>
+Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1961.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=TvBSK2qKy7s&list=OLAK5uy_n7kepxAaQy0Avt7_5tPC03gNFWKSH33-4&index=4">
+<img src="/assets/img/albums/bernstein-copland-rodeo.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ktzzIfKk8rE&list=OLAK5uy_l25hLKAwr5yHRFphVpn-6DC7o7BJ7GKPA&index=11">
+<img src="/assets/img/albums/dudamel-wss.png" width="480"> </a> <br>
+@ Centro de Acción Social por la Música: <br>
+Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008.01
+</p>
 
 
 <br>
