@@ -17,7 +17,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=g0osep19iU0&list=OLAK5uy_khywdt24gQpPVA4Fo2CpvlSQTlsZfaR-E&index=8">
-<img src="/assets/img/albums-general/marseillaise-berlioz.png" width="480"> </a> <br>
+<img src="/assets/img/albums/plasson-berlioz-marseillaise.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>

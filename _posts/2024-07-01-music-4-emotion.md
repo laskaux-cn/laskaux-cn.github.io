@@ -113,13 +113,6 @@ Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
-<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
-@ Kingsway Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=yjbr5ZlqEoE&list=OLAK5uy_lpgnSmFtw8t62fM-NpXrcGZlaCkL7jT4g&index=14">
 <img src="/assets/img/albums/martinon-debussy-iberia.png" width="480"> </a> <br>
 @ Salle Wagram, <br>

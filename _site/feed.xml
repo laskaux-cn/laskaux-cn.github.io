@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Thu, 27 Feb 2025 04:24:14 -0800</pubDate>
+    <pubDate>Thu, 27 Feb 2025 17:09:41 -0800</pubDate>
     
       <item>
         <title>音乐笔记 6 &amp;colon; 现实与浪漫</title>
@@ -28,10 +28,10 @@ Cardona, Barcelona &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; he
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/christie-te-deum.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Notre-Dame du Travail, &lt;br /&gt;
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.10
+&lt;a href=&quot;https://www.youtube.com/watch?v=vUgo_E5kNrE&amp;amp;list=OLAK5uy_n7oUcm_9zK4puOzOM7P1R8s_R5UGS5GFE&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/paillard-mouret.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Studios Barclay, avenue Hoche, &lt;br /&gt; 
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.02
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -59,7 +59,7 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;a href=&quot;https://www.youtube.com/watch?v=exveTEjJa5E&amp;amp;list=OLAK5uy_lR7a3kDFSc6NxoNRCVTUdRfOpCJJ9WN7Y&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/karajan-zarathustra.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Jesus-Christus-Kirche, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.03
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.01/03
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -84,6 +84,20 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;a href=&quot;https://www.youtube.com/watch?v=zQ4yYwlGqpw&amp;amp;t=0s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/erik-van-nevel-isaac.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Jezuïetenkerk, Leuven / Sound Recording &lt;br /&gt; Centre Steurbaut, Ghent  &amp;nbsp;&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990/1994
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=d2wWrkqplzg&amp;amp;list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&amp;amp;index=27&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rousset-lully-alceste.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle Gaveau, &lt;br /&gt; 
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=xrdJXTypDTA&amp;amp;list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&amp;amp;index=6&amp;amp;t=495s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/abbado-rossini-overtures.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Kingsway Hall, &lt;br /&gt;
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1978.05
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -158,6 +172,17 @@ Norrtälje, Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=IciDireCk9c&amp;amp;list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schneiderhan-starker-brahms.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Jesus-Christus-Kirche, &lt;br /&gt;
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.06
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – X – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=pQpTTk-htcM&amp;amp;list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&amp;amp;index=5&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/maazel-berlioz-romeo.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Sofiensäle, &lt;br /&gt;
@@ -165,10 +190,17 @@ Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=IciDireCk9c&amp;amp;list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/schneiderhan-starker-brahms.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Jesus-Christus-Kirche, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.06
+&lt;a href=&quot;https://www.youtube.com/watch?v=4NrzUri8IJo&amp;amp;list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&amp;amp;index=6&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/plasson-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Halle aux Grains, &lt;br /&gt;
+Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.07 / 1988.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=OnV5hsrUdUU&amp;amp;list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&amp;amp;index=19&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/oistrakh-chausson.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1955.12
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -640,13 +672,6 @@ Castres, Tarn &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=xrdJXTypDTA&amp;amp;list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&amp;amp;index=6&amp;amp;t=495s&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/abbado-rossini-overtures.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Kingsway Hall, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1978.05
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=yjbr5ZlqEoE&amp;amp;list=OLAK5uy_lpgnSmFtw8t62fM-NpXrcGZlaCkL7jT4g&amp;amp;index=14&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/martinon-debussy-iberia.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Salle Wagram, &lt;br /&gt;
@@ -1091,10 +1116,10 @@ Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quo
 &lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=d2wWrkqplzg&amp;amp;list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&amp;amp;index=27&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/rousset-lully-alceste.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Salle Gaveau, &lt;br /&gt; 
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.07
+&lt;a href=&quot;https://www.youtube.com/watch?v=GUdNhJwLYDw&amp;amp;list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/christie-te-deum.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Notre-Dame du Travail, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
