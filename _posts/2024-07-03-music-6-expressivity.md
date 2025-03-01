@@ -193,6 +193,19 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <p class="ttl"> – X – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=aZnohlYL8ow&list=OLAK5uy_liKGnQEJbPK1jeJo_2cH0g4m8BYJTRopI&index=1">
+<img src="/assets/img/albums/shameyeva-francisque.png" width="480"> </a> <br>
+@ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1977
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Xu4sSspJTOk&list=OLAK5uy_nIGulle2C375vFqeemrYKSWwyxJzzhBY8&index=25">
+<img src="/assets/img/albums/odette-kapsberger.png" width="480"> </a> <br>
+@ Bethel United Church of Christ, <br>
+Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1989.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
 <img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
@@ -214,6 +227,13 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=CN0itj0yOLU&list=OLAK5uy_ncN0TH54LgdOdSmTITXzG5CvKVesOJOrI&index=15">
+<img src="/assets/img/albums/boulez-bolero.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=TvBSK2qKy7s&list=OLAK5uy_n7kepxAaQy0Avt7_5tPC03gNFWKSH33-4&index=4">
 <img src="/assets/img/albums/bernstein-copland-rodeo.png" width="480"> </a> <br>
 @ Manhattan Center, <br>
@@ -227,12 +247,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008.01
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=CN0itj0yOLU&list=OLAK5uy_ncN0TH54LgdOdSmTITXzG5CvKVesOJOrI&index=15">
-<img src="/assets/img/albums/boulez-bolero.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
-</p>
 
 <br>
 
