@@ -8,6 +8,12 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=aZnohlYL8ow&list=OLAK5uy_liKGnQEJbPK1jeJo_2cH0g4m8BYJTRopI&index=1">
+<img src="/assets/img/albums/shameyeva-francisque.png" width="480"> </a> <br>
+@ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1977
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
 <img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
 @ Église Saint-Hippolyte de Lagriffoul, <br>
