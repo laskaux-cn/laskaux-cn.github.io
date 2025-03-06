@@ -247,10 +247,17 @@ Freiburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=10s">
-<img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
-@ RCA 24th Street Studios, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
+<a href="https://www.youtube.com/watch?v=jWSq33Hn9oA&list=OLAK5uy_mYWMGuzTwZndESTBqLUxaw8hbhg98DDKQ&index=5">
+<img src="/assets/img/albums/harnoncourt-isaac.png" width="480"> </a> <br>
+@ Synchronhalle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1963.04–05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CwDI7XwyJUM&list=OLAK5uy_lmZ7FbIX58FzZRAVKKwbWyPOMuBG6vexI&index=13">
+<img src="/assets/img/albums/orpheus-mozart-serenade.png" width="480"> </a> <br>
+@ Performing Arts Center, <br>
+Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986.12
 </p>
 
 <br>
@@ -279,7 +286,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=IHaVhlJQIrw&list=OLAK5uy_nsEq_tCl0dNkiF09Vkj4IzgxRFooyQ90w&index=1">
 <img src="/assets/img/albums/ruzickova-poulenc.png" width="480"> </a> <br>
-@ Dvořákova síň, <br>
+@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1967.06
 </p>
 

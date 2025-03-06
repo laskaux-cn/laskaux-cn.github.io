@@ -8,6 +8,20 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=vPRenMyamj8&list=OLAK5uy_mpaxhj_oJXF6ZNLIj7BBJhVEpU8-D3jvI&index=5">
+<img src="/assets/img/albums/haitink-petrouchka.png" width="480"> </a> <br>
+@ Philharmonie Berlin, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=10s">
+<img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
+@ RCA 24th Street Studios, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=aZnohlYL8ow&list=OLAK5uy_liKGnQEJbPK1jeJo_2cH0g4m8BYJTRopI&index=1">
 <img src="/assets/img/albums/shameyeva-francisque.png" width="480"> </a> <br>
 @ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1977
@@ -20,12 +34,6 @@ tags: music
 Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.08
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=LGSm_PT2-1Y&list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&index=40">
-<img src="/assets/img/albums/boulez-webern.png" width="480"> </a> <br>
-@ Ircam: Espace de projection, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=vqVOwHUfmrw&list=PLNitVGYNCIxEbn257OCK5YuraLLW20fc5&index=11">

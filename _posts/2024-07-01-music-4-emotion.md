@@ -60,7 +60,7 @@ Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=zjD7f06LCsc&list=OLAK5uy_kkD8nyOlYQ4dByLfQ4ZBqwLAQhzVJuDtw&index=1"> <img src="/assets/img/albums/kosler-bizet.png" width="480"> </a> <br>
-@ Dvořákova síň, <br>
+@ Dům umělců: Dvořákova síň, <br>
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1986.11 
 </p>
 

@@ -143,6 +143,20 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <p class="ttl"> – X – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s">
+<img src="/assets/img/albums/garrido-gagliano-dafne.png" width="480"> </a> <br>
+@ Oratorio dell’Immacolatella, <br>
+Palermo &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1995.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_8bPO8LvxBM&t=2032s">
+<img src="/assets/img/albums/christie-charpentier-acteon.png" width="480"> </a> <br>
+@ Maison de la Radio: Studio 106, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1982.04
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
 <img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
 @ Länna kyrka, <br> 
@@ -159,13 +173,6 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <br>
 
 <p class="ttl"> – X – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
-<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
-@ Sofiensäle, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=lonuxGeaNf8&list=OLAK5uy_lGN0GlEf2Pi3c8XDf_AjZiB-povGFsTj0&index=1">
@@ -195,7 +202,8 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=9Ph_CyEGIV8&list=OLAK5uy_mDkQJnolH8w-UNpNl1wV4EzGh8IoTwKjw&index=1">
 <img src="/assets/img/albums/pancaroglu-francisque.png" width="480"> </a> <br>
-@ İstanbul &nbsp;<img src="/assets/img/flags/tr.png" height="10.5" width="16"/>&nbsp; 2002.05
+@ İstanbul Teknik Üniversitesi: <br> MİAM Stüdyo, 
+İstanbul &nbsp;<img src="/assets/img/flags/tr.png" height="10.5" width="16"/>&nbsp; 2002.05
 </p>
 
 <p class="alb">
@@ -206,10 +214,31 @@ Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" wid
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
+<img src="/assets/img/albums/ball-praetorius.png" width="480"> </a> <br>
+@ Eden Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=QEhLgOQLSI8&list=OLAK5uy_l2HxNZswibHDUr8mmwImghHeoOqCurfL8&index=13">
+<img src="/assets/img/albums/gatti-bach-flute.png" width="480"> </a> <br>
+@ Chiesa di San Carlo, <br>
+Modena &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2007.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=9wzI3QilA2s&list=OLAK5uy_mw9HpKpXyoyya7woeYeJ0Fj3xfVw-MWjE&index=7">
 <img src="/assets/img/albums/talich-mozart.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
 Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1995
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=c9AbZaA_vPs&list=OLAK5uy_ng5kcqylUYxcsip5nRpTvSiMu3_balW08&index=7">
+<img src="/assets/img/albums/prazak-haydn-op71.png" width="480"> </a> <br>
+@ Kulturní dům Domovina, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 2011.10
 </p>
 
 <p class="alb">
@@ -227,10 +256,9 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=CN0itj0yOLU&list=OLAK5uy_ncN0TH54LgdOdSmTITXzG5CvKVesOJOrI&index=15">
-<img src="/assets/img/albums/boulez-bolero.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
+<a href="https://www.youtube.com/watch?v=zpel-T5bD6Y&list=OLAK5uy_ljU0rnN49L4uKrD8OVtPdwTKk2HRgEVGc&index=4&t=364s"> <img src="/assets/img/albums/kosler-stravinsky.png" width="480"> </a> <br>
+@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1977.03 
 </p>
 
 <p class="alb">
@@ -247,6 +275,37 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="10.5" width="16"/>&nbsp; 2008.01
 </p>
 
+<br>
+
+<p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
+<img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1973.10
+</p>
+
+<p class="alb">
+<a href="https://youtu.be/ZXJ9-Vln3eo?si=-Rduyo_IJrVIwlwG&t=449s">
+<img src="/assets/img/albums/martinon-debussy-nocturnes.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1973.02–&#8203;1974.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CN0itj0yOLU&list=OLAK5uy_ncN0TH54LgdOdSmTITXzG5CvKVesOJOrI&index=15">
+<img src="/assets/img/albums/boulez-bolero.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> 
+<img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a> <br>
+@ Davies Symphony Hall, <br>
+San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.05 
+</p>
 
 <br>
 

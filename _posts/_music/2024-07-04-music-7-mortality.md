@@ -22,6 +22,12 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1">
+<img src="/assets/img/albums/agafonnikov-red-army.png" width="480"> </a> <br>
+@ Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1992
+</p>
+
 <br>
 
 
@@ -252,15 +258,9 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 <a href="https://www.youtube.com/watch?v=_PlI5nbTKp4&list=OLAK5uy_mIbuCxeqy-4-sAZDVgdav4R5PyfYAhDzg&index=2">
 <img src="/assets/img/albums/talich-schubert.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
-Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
+Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> 
-<img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a> <br>
-@ Davies Symphony Hall, <br>
-San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.05 
-</p>
 
 <br>
 
