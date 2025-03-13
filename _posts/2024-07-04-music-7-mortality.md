@@ -148,7 +148,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
+<a href="https://www.youtube.com/watch?v=aQrXPI0YJ5o&list=OLAK5uy_kBUSV5LTwNMo1Sz1IIoaYnV4QP6k3h61c&index=7">
 <img src="/assets/img/albums/suitner-mozart41.png" width="480"> </a> <br>
 @ Lukaskirche, <br>
 Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1975.03
@@ -166,6 +166,13 @@ Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 <img src="/assets/img/albums/boulez-bartok-cfo.png" width="480"> </a> <br>
 @ Manhattan Center, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1972.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=KsWyMt3e_Dc&list=OLAK5uy_mynBZ9AgtcWPBfnPctGl2n2Hf_UbeyyJs&index=1">
+<img src="/assets/img/albums/mitropoulos-berlioz-romeo.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1952.10
 </p>
 
 <br>

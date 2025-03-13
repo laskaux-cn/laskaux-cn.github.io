@@ -232,7 +232,6 @@ La Chaux-de-Fonds, Neuchâtel &nbsp;<img src="/assets/img/flags/sw.png" height="
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1963.09
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=eFP_sN4OWmY&list=OLAK5uy_lpnUN23_yNcpvlBhxqDzkm_PQ6tECrduo&index=1">
 <img src="/assets/img/albums/ansermet-stravinsky-petrouchka.png" width="480"> </a> <br>
@@ -251,6 +250,13 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 
 
 <p class="ttl"> – 4 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=371bYRQceU8&list=OLAK5uy_lwYFCR5preZwrCI2LY0cMRkBQpTB5_wp0&index=1">
+<img src="/assets/img/albums/savall-lully.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 1999.02
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=5LKrlbvYTSc&list=OLAK5uy_lCzvmRC_nYRRBwa5r-Ln9wlpWRWtfxR_Q&index=15">

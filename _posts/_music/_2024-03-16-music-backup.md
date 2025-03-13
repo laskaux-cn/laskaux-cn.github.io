@@ -15,6 +15,12 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=kkiTGS1KT7U&list=OLAK5uy_mMMZKmK145iO1KRWalvUWfaHWHMJMI4GE&index=9&t=10s">
 <img src="/assets/img/albums/orpheus-dumbarton.png" width="480"> </a> <br>
 @ RCA 24th Street Studios, <br>

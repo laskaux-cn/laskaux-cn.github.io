@@ -24,6 +24,13 @@ Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
+<img src="/assets/img/albums/christie-te-deum.png" width="480"> </a> <br>
+@ Notre-Dame du Travail, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=vUgo_E5kNrE&list=OLAK5uy_n7oUcm_9zK4puOzOM7P1R8s_R5UGS5GFE&index=1">
 <img src="/assets/img/albums/paillard-mouret.png" width="480"> </a> <br>
 @ Studios Barclay, avenue Hoche, <br> 
@@ -141,6 +148,27 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <br>
 
 <p class="ttl"> – X – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5j7lz9GH7zY&list=OLAK5uy_lzItwnVWXBxNMa7uGvqP6jJglrS7l7jDM&index=32">
+<img src="/assets/img/albums/davis-berlioz-romeo.png" width="480"> </a> <br>
+@ Wembley Town Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968.02/04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=gzdC-8Vs_Yg&list=OLAK5uy_mKABNkUMm3YBfMWDz6C3LENu7BQElw6MQ&index=6">
+<img src="/assets/img/albums/suitner-lohengrin.png" width="480"> </a> <br>
+@ Christuskirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
+<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
+@ Studios Barclay, avenue Hoche, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=v2Ms8jL-qp0&list=PL8AhTXrM6LH2ZKxm0rCETM5fKRAoHlbaX&index=9&t=375s">
