@@ -147,7 +147,7 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=5j7lz9GH7zY&list=OLAK5uy_lzItwnVWXBxNMa7uGvqP6jJglrS7l7jDM&index=32">
@@ -162,6 +162,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 @ Christuskirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972.08
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=QfqxDluteaQ&list=OLAK5uy_m2kFIOE_PlJS0wYf_V2finhgvgKrboAQY&index=14">
+<img src="/assets/img/albums/bernstein-wss.png" width="480"> </a> <br>
+@ RCA 24th Street Studios, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
+</p>
+
+<br>
+
+<p class="ttl"> – X – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
