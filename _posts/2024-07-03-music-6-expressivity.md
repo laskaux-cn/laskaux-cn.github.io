@@ -84,7 +84,7 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 <p class="ttl"> – 2 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=zQ4yYwlGqpw&t=0s">
+<a href="https://www.youtube.com/watch?v=CjiP32iI5uk&list=OLAK5uy_l5EjXhjg9AXGdwozUQOpVrchui3C40m7E&index=8">
 <img src="/assets/img/albums/erik-van-nevel-isaac.png" width="480"> </a> <br>
 @ Jezuïetenkerk, Leuven / Sound Recording <br> Centre Steurbaut, Ghent  &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 1990/1994
 </p> 
@@ -170,15 +170,28 @@ Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbs
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1984.09
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=D_rPlvMe4k4&list=OLAK5uy_lv8ZMPush35WE27cex1bfEOVGczMjtPGM&index=9">
+<img src="/assets/img/albums/suitner-liszt-orpheus.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1956.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5fELa_NBipI&list=OLAK5uy_kYpVs6d0u2qwL4yRmz7YKUBOGiPSaXLSQ&index=1&t=0s"> <img src="/assets/img/albums/danon-stravinsky.png" width="480"> </a> <br>
+@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; c. 1972 
+</p>
+
+
 <br>
 
 <p class="ttl"> – X – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
-<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
-@ Studios Barclay, avenue Hoche, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
+<a href="https://www.youtube.com/watch?v=p1NhX1EsFoo&list=OLAK5uy_k8xzjY8jDEMEk2-4QPJcnVPLVCUCDJVOw&index=6&t=1s">
+<img src="/assets/img/albums/dumestre-caccini.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007.09
 </p>
 
 <p class="alb">
@@ -196,6 +209,13 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=qhNrGoAXOz8&list=OLAK5uy_lYjO6BBDQ-Meolz6Jj8ezqJ8IxFzcLZ84&index=2">
+<img src="/assets/img/albums/mackerras-gluck-orfeo.png" width="480"> </a> <br>
+@ Konzerthaus: Großer Saal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1966.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=5bh08nv2W-s&list=OLAK5uy_l8YryKdUCRHgF-KaNXkJDxw-B1wAjKuig&index=8">
 <img src="/assets/img/albums/brautigam-haydn.png" width="480"> </a> <br>
 @ Länna kyrka, <br> 
@@ -203,10 +223,23 @@ Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" wi
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
-<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
+<a href="https://www.youtube.com/watch?v=HRB97xG9_sY&list=OLAK5uy_kNeqH-ebEWYrIkXCFUIKhv_gX1q73Ysvs&index=2"> <img src="/assets/img/albums/belohlavek-hindemith-mathis.png" width="480"> </a> <br>
+@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992.06 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5nLBXBhErUI&list=OLAK5uy_k4NBulZWrykDYQTYnBBL_bSx6O9PkP4Xo&index=8">
+<img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
+@ Rutgers Presbyterian Church, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
+<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
+@ Studios Barclay, avenue Hoche, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
 </p>
 
 <br>
@@ -256,7 +289,7 @@ Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" wid
 <a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
 <img src="/assets/img/albums/ball-praetorius.png" width="480"> </a> <br>
 @ Eden Studios, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; c. 1976
 </p>
 
 <p class="alb">

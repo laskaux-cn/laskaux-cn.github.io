@@ -15,6 +15,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
+<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1965.11 
