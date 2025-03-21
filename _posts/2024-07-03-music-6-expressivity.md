@@ -183,6 +183,19 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; c. 1972 
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5nLBXBhErUI&list=OLAK5uy_k4NBulZWrykDYQTYnBBL_bSx6O9PkP4Xo&index=8">
+<img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
+@ Rutgers Presbyterian Church, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
+<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
+@ Studios Barclay, avenue Hoche, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
+</p>
 
 <br>
 
@@ -229,17 +242,17 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=5nLBXBhErUI&list=OLAK5uy_k4NBulZWrykDYQTYnBBL_bSx6O9PkP4Xo&index=8">
-<img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
-@ Rutgers Presbyterian Church, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
+<a href="https://www.youtube.com/watch?v=Iudu1KaQtS8&list=PL8AhTXrM6LH2uhkf_xxWwCRgXbvDmnZZ3&index=13">
+<img src="/assets/img/albums/dunford-dowland.png" width="480"> </a> <br>
+@ Église luthérienne de l’Ascension, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2012.07
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
-<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
-@ Studios Barclay, avenue Hoche, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
+<a href="https://www.youtube.com/watch?v=EIPNtU1HZEw&list=PL8AhTXrM6LH2fiFhu45C2VRiC9MUSnZsk&index=1">
+<img src="/assets/img/albums/savall-dowland.png" width="480"> </a> <br>
+@ Església de Santa Maria, <br>
+Sant Martí Sarroca, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 1987.05
 </p>
 
 <br>
