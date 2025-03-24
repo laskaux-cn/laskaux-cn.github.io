@@ -191,6 +191,13 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
+<a href="https://drive.google.com/file/d/1mqOsFLpukAx0TUK6UkD-dzedHkuLI3bJ/view?usp=sharing">
+<img src="/assets/img/albums/greco-gainsbourg.png" width="480"> </a> <br>
+@ Palais des congrès, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1997
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
 <img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
 @ Studios Barclay, avenue Hoche, <br> 

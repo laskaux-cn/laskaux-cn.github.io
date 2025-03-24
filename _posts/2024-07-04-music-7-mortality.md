@@ -59,19 +59,6 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1987.12 / 1988.04
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=-NctFMCnAMQ&list=OLAK5uy_lBEXcFWE3ywBygQGwpSDw6m9AIOOLyXxA&index=15">
-<img src="/assets/img/albums/pichon-castor-pollux.png" width="480"> </a> <br>
-@ Le Corum: Opéra Berlioz, <br>   
-Montpellier &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=S2BeOh65Ehg&list=OLAK5uy_muelfLhJ6_jM6RF-9ILdTWc1NMM0EzhU0&index=56">
-<img src="/assets/img/albums/nagano-poulenc-dialogues.png" width="480"> </a> <br>
-@ Auditorium Maurice-Ravel, <br>   
-Lyon &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1990.06
-</p>
 
 <br>
 
