@@ -268,7 +268,7 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 <p class="ttl"> – 5 – </p>
 
 <p class="alb">
-<a href="https://https://www.youtube.com/watch?v=RvheqbdazZ4&list=OLAK5uy_nVbGn1Xs-6CALKj5iICjFguQZ_UAeWubY&index=2"> <img src="/assets/img/albums/schola-hungarica-ambrose.png" width="480"> </a> <br>
+<a href="https://www.youtube.com/watch?v=RvheqbdazZ4&list=OLAK5uy_nVbGn1Xs-6CALKj5iICjFguQZ_UAeWubY&index=2"> <img src="/assets/img/albums/schola-hungarica-ambrose.png" width="480"> </a> <br>
 @ Ócsai Református Templom, <br>
 Ócsa, Pest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; 1970 
 </p>
