@@ -183,30 +183,18 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; c. 1972 
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=5nLBXBhErUI&list=OLAK5uy_k4NBulZWrykDYQTYnBBL_bSx6O9PkP4Xo&index=8">
-<img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
-@ Rutgers Presbyterian Church, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
-</p>
 
-<p class="alb">
-<a href="https://drive.google.com/file/d/1mqOsFLpukAx0TUK6UkD-dzedHkuLI3bJ/view?usp=sharing">
-<img src="/assets/img/albums/greco-gainsbourg.png" width="480"> </a> <br>
-@ Palais des congrès, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1997
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
-<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
-@ Studios Barclay, avenue Hoche, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
-</p>
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 4 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7o59GZkmHms&list=OLAK5uy_l06zSRjh6SdkNCMd5tUF_-I6Q4lkCi3lI&index=19&t=368s">
+<img src="/assets/img/albums/rotem-cavalieri.png" width="480"> </a> <br>
+@ Evangelische Kirche Versam, <br>
+Safiental, Graubünden &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2023.03
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=p1NhX1EsFoo&list=OLAK5uy_k8xzjY8jDEMEk2-4QPJcnVPLVCUCDJVOw&index=6&t=1s">
@@ -243,6 +231,13 @@ Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" wi
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ihWPl22oSdo&list=OLAK5uy_l4iWyM8vOKxWUR52okJ-dyS4qYFxVVa9k&index=10">
+<img src="/assets/img/albums/ebene-beethoven-op131.png" width="480"> </a> <br>
+@ Kimmel Center for the Performing Arts: <br>Perelman Theater, 
+Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2019.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=HRB97xG9_sY&list=OLAK5uy_kNeqH-ebEWYrIkXCFUIKhv_gX1q73Ysvs&index=2"> <img src="/assets/img/albums/belohlavek-hindemith-mathis.png" width="480"> </a> <br>
 @ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992.06 
@@ -264,32 +259,41 @@ Sant Martí Sarroca, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height=
 
 <br>
 
-<p class="ttl"> – X – </p>
+
+
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=lonuxGeaNf8&list=OLAK5uy_lGN0GlEf2Pi3c8XDf_AjZiB-povGFsTj0&index=1">
-<img src="/assets/img/albums/solti-tristan.png" width="480"> </a> <br>
-@ Sofiensäle, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.09
+<a href="https://www.youtube.com/watch?v=JcmQOzaDoyo&list=OLAK5uy_nMC6f8MMlpgOH4LlA4mgx1ozo-lHlvA_s&index=10">
+<img src="/assets/img/albums/frana-chant.png" width="480"> </a> <br>
+@ Kostel Panny Marie pod řetězem, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.10
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
-<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
-@ Halle aux Grains, <br>
-Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+<a href="https://www.youtube.com/watch?v=5nLBXBhErUI&list=OLAK5uy_k4NBulZWrykDYQTYnBBL_bSx6O9PkP4Xo&index=8">
+<img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
+@ Rutgers Presbyterian Church, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=OnV5hsrUdUU&list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&index=19">
-<img src="/assets/img/albums/oistrakh-chausson.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
+<a href="https://drive.google.com/file/d/1mqOsFLpukAx0TUK6UkD-dzedHkuLI3bJ/view?usp=sharing">
+<img src="/assets/img/albums/greco-gainsbourg.png" width="480"> </a> <br>
+@ Palais des congrès, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1997
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=tOTHiX_cWxk&list=OLAK5uy_m2fa-CCfNr8F9kWOVmhacU2sEzrSoR_8M&index=3">
+<img src="/assets/img/albums/brel-67.png" width="480"> </a> <br>
+@ Studios Barclay, avenue Hoche, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1967.01
 </p>
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=9Ph_CyEGIV8&list=OLAK5uy_mDkQJnolH8w-UNpNl1wV4EzGh8IoTwKjw&index=1">
@@ -369,7 +373,7 @@ Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="1
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">

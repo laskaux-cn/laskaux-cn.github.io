@@ -8,6 +8,27 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=lonuxGeaNf8&list=OLAK5uy_lGN0GlEf2Pi3c8XDf_AjZiB-povGFsTj0&index=1">
+<img src="/assets/img/albums/solti-tristan.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
+<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=OnV5hsrUdUU&list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&index=19">
+<img src="/assets/img/albums/oistrakh-chausson.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=vPRenMyamj8&list=OLAK5uy_mpaxhj_oJXF6ZNLIj7BBJhVEpU8-D3jvI&index=5">
 <img src="/assets/img/albums/haitink-petrouchka.png" width="480"> </a> <br>
 @ Philharmonie Berlin, <br>

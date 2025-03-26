@@ -293,7 +293,7 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=UMfXPGwGPq8&list=OLAK5uy_nwYr6skRuaT2uhag2vlKvRtqJj9s4ccns&index=4">
 <img src="/assets/img/albums/ancerl-mahler9.png" width="480"> </a> <br>
-@ Dvořákova síň, <br>
+@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1966.04
 </p>
 

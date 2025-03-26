@@ -58,6 +58,13 @@ Plenarsaal, München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 Thun, Bern &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1970.08
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=D_FCjP2SqVg&list=OLAK5uy_k6tKyyAoxaCeXnuWix0It1J3jqN_Rzb9I&index=16">
+<img src="/assets/img/albums/sinopoli-pierrot.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1997.06
+</p>
+
 <br>
 
 
