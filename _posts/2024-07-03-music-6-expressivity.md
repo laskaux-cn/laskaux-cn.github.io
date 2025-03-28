@@ -238,6 +238,13 @@ Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=OnV5hsrUdUU&list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&index=19">
+<img src="/assets/img/albums/oistrakh-chausson.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=HRB97xG9_sY&list=OLAK5uy_kNeqH-ebEWYrIkXCFUIKhv_gX1q73Ysvs&index=2"> <img src="/assets/img/albums/belohlavek-hindemith-mathis.png" width="480"> </a> <br>
 @ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992.06 

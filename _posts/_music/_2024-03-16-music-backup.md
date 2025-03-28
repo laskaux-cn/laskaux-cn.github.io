@@ -22,13 +22,6 @@ Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=OnV5hsrUdUU&list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&index=19">
-<img src="/assets/img/albums/oistrakh-chausson.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=vPRenMyamj8&list=OLAK5uy_mpaxhj_oJXF6ZNLIj7BBJhVEpU8-D3jvI&index=5">
 <img src="/assets/img/albums/haitink-petrouchka.png" width="480"> </a> <br>
 @ Philharmonie Berlin, <br>

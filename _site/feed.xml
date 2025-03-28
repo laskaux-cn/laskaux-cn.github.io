@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 26 Mar 2025 01:25:42 -0700</pubDate>
+    <pubDate>Fri, 28 Mar 2025 02:32:56 -0700</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -716,6 +716,13 @@ Norrtälje, Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot;
 &lt;img src=&quot;/assets/img/albums/ebene-beethoven-op131.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Kimmel Center for the Performing Arts: &lt;br /&gt;Perelman Theater, 
 Philadelphia &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2019.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=OnV5hsrUdUU&amp;amp;list=OLAK5uy_no4pc7SF0WBiDPhd7IIV8S0JraSmmBRmo&amp;amp;index=19&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/oistrakh-chausson.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1955.12
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1943,13 +1950,6 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=lczd-GZnKe4&amp;amp;list=OLAK5uy_kKVeHHlv0L_KAEs8WeHcRip_TEqQpXRt0&amp;amp;index=3&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/bernstein-mahler5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Philharmonic Hall, &lt;br /&gt;
-New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1963.01
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://drive.google.com/file/d/1VsNUE2-9AQceO19tnK0239G0oXmdaREZ/view?usp=sharing&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/maazel-rosenkavalier.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Sofiensäle, &lt;br /&gt;
@@ -1998,6 +1998,13 @@ Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=AZk7FQyAYfw&amp;amp;list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/dullaert-hindemith.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ DRS Studio, &lt;br /&gt;
+Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1992.10–12
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=qac_KfbjjMA&amp;amp;list=OLAK5uy_kOu_vtK8C3fr9R6mMA4QKVIcdlkL5X4j8&amp;amp;index=16&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/craft-pierrot.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Columbia 30th Street Studio, &lt;br /&gt;
@@ -2005,10 +2012,10 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=AZk7FQyAYfw&amp;amp;list=OLAK5uy_kPAJd1716h_4tnmpOrlyLuV-OEsNxrLCA&amp;amp;index=2&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/dullaert-hindemith.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ DRS Studio, &lt;br /&gt;
-Basel &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1992.10–12
+&lt;a href=&quot;https://www.youtube.com/watch?v=lczd-GZnKe4&amp;amp;list=OLAK5uy_kKVeHHlv0L_KAEs8WeHcRip_TEqQpXRt0&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernstein-mahler5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Philharmonic Hall, &lt;br /&gt;
+New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1963.01
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
