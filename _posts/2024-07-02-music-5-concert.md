@@ -194,7 +194,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=dYVXd5UBDeU&list=OLAK5uy_kexIX3zv03OaHMe1LWykUy4PLpdYjw_rc&index=1">
+<a href="https://www.youtube.com/watch?v=dYVXd5UBDeU&list=OLAK5uy_kexIX3zv03OaHMe1LWykUy4PLpdYjw_rc&index=1&t=2s">
 <img src="/assets/img/albums/fasolis-brandenburg.png" width="480"> </a> <br>
 @ Auditorio Stelio Molo, <br>
 Lugano, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2004.12
@@ -286,7 +286,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=IHaVhlJQIrw&list=OLAK5uy_nsEq_tCl0dNkiF09Vkj4IzgxRFooyQ90w&index=1">
 <img src="/assets/img/albums/ruzickova-poulenc.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1967.06
 </p>
 

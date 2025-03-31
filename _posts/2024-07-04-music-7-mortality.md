@@ -66,10 +66,10 @@ Coventry &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nb
 <p class="ttl"> – 3 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=4Jg4UjBHjm0&t=1650s">
-<img src="/assets/img/albums/jochum-beethoven9.png" width="480"> </a> <br>
-@ Concertgebouw, <br>
-Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1969.06
+<a href="https://www.youtube.com/watch?v=p9NMRX47EUY&list=OLAK5uy_l_SkqE9jW8spDqNufHGspdEMUDdqRrRa8&index=4">
+<img src="/assets/img/albums/fricsay-beethoven9.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1957.12
 </p>
 
 <p class="alb">
@@ -98,7 +98,7 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=BHEPJQ5x1Kk&list=OLAK5uy_lP_RODwLf6SLQD8an-LQF7W1CqzVUCqR8&index=3">
@@ -125,7 +125,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=DemGJXp3WaY&list=OLAK5uy_mPYBskNE4gD6SlVmqRytB0Ox_pSmKZxSc&index=37">
@@ -166,7 +166,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=BciDM85sHgs&list=OLAK5uy_kRnmmscweYiEF2zDgZN2XkluWCQKmaKKg&index=55">
@@ -189,17 +189,19 @@ Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbs
 Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
 </p>
 
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=VADuEOOBSr0&list=OLAK5uy_lBCd4nC2yTuULpmi-xt3LSrM2W88OiYZE&index=1">
-<img src="/assets/img/albums/masselos-copland.png" width="480"> </a> <br>
-@ Columbia 30th Street Studio, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.05
+<a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12">
+<img src="/assets/img/albums/bream-cutting.png" width="480"> </a> <br>
+@ Wardour Chapel, <br>
+Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1972.06–07
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fIM2-mKCWDM&list=OLAK5uy_lwoE8_-oeBgNFXX-k-333i-puY3l7ObaE&index=3"> <img src="/assets/img/albums/copland-copland-var.png" width="480"> </a> <br>
-@ Walthamstow Assembly Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968.10 
+<a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
+<img src="/assets/img/albums/marville-farnaby.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
 </p>
 
 <p class="alb">
@@ -207,6 +209,20 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
 @ Castell de Cardona: Església de Sant Vicenç, <br>
 Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MDT1CR-XJs8&list=OLAK5uy_nonmTKLSXSlNNmeVyAZ18mLRmgPzSSdtI&index=2">
+<img src="/assets/img/albums/skampa-haydn.png" width="480"> </a> <br>
+@ Studio Domovina, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_PlI5nbTKp4&list=OLAK5uy_mIbuCxeqy-4-sAZDVgdav4R5PyfYAhDzg&index=2">
+<img src="/assets/img/albums/talich-schubert.png" width="480"> </a> <br>
+@ Fondation Tibor Varga, <br>
+Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
 </p>
 
 <p class="alb">
@@ -227,40 +243,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12">
-<img src="/assets/img/albums/bream-cutting.png" width="480"> </a> <br>
-@ Wardour Chapel, <br>
-Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1972.06–07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=WIsEeiOKyhw&list=OLAK5uy_mvNAcgNi4cqQOnAkxNinSuRmBoaOxl0Co&index=10">
-<img src="/assets/img/albums/marville-farnaby.png" width="480"> </a> <br>
-@ Fondation Tibor Varga, <br>
-Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=MDT1CR-XJs8&list=OLAK5uy_nonmTKLSXSlNNmeVyAZ18mLRmgPzSSdtI&index=2">
-<img src="/assets/img/albums/skampa-haydn.png" width="480"> </a> <br>
-@ Studio Domovina, <br>
-Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.11
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=_PlI5nbTKp4&list=OLAK5uy_mIbuCxeqy-4-sAZDVgdav4R5PyfYAhDzg&index=2">
-<img src="/assets/img/albums/talich-schubert.png" width="480"> </a> <br>
-@ Fondation Tibor Varga, <br>
-Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1994.05
-</p>
 
 
 <br>
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=_ndYJcYuHiI&list=OLAK5uy_kc72iM_0imDa6lW9zuyiaNGLNTJB0tyj4&index=1">

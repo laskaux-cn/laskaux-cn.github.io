@@ -179,10 +179,22 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=5fELa_NBipI&list=OLAK5uy_kYpVs6d0u2qwL4yRmz7YKUBOGiPSaXLSQ&index=1&t=0s"> <img src="/assets/img/albums/danon-stravinsky.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
-Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; c. 1972 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; a. 1972
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=DOj0NfxJMzc&list=OLAK5uy_mzNJ-qY2yH8xCirUDSEuKE-UatEDKl-Gg&index=36"> <img src="/assets/img/albums/solti-la-boheme.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.07–08 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=91D-tMlPqBs&list=OLAK5uy_l_0DDF0mdwpbrYvtVY1hRjPqZ8nm2Qakg&index=26">
+<img src="/assets/img/albums/les-miserables-1995.png" width="480"> </a> <br>
+@ Royal Albert Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1995.10
+</p>
 
 
 <br>
@@ -233,7 +245,7 @@ Norrtälje, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" wi
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ihWPl22oSdo&list=OLAK5uy_l4iWyM8vOKxWUR52okJ-dyS4qYFxVVa9k&index=10">
 <img src="/assets/img/albums/ebene-beethoven-op131.png" width="480"> </a> <br>
-@ Kimmel Center for the Performing Arts: <br>Perelman Theater, 
+@ Kimmel Center: Perelman Theater, <br> 
 Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 2019.05
 </p>
 
@@ -246,7 +258,7 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=HRB97xG9_sY&list=OLAK5uy_kNeqH-ebEWYrIkXCFUIKhv_gX1q73Ysvs&index=2"> <img src="/assets/img/albums/belohlavek-hindemith-mathis.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1992.06 
 </p>
 
@@ -271,10 +283,15 @@ Sant Martí Sarroca, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height=
 <p class="ttl"> – 5 – </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=JcmQOzaDoyo&list=OLAK5uy_nMC6f8MMlpgOH4LlA4mgx1ozo-lHlvA_s&index=10">
-<img src="/assets/img/albums/frana-chant.png" width="480"> </a> <br>
-@ Kostel Panny Marie pod řetězem, <br>
-Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.10
+<a href="https://www.youtube.com/watch?v=OK2qe4g2i20&list=OLAK5uy_lfUFCvz5SruvH53-dWGTvs6wAw_XWkU0g&index=13"> <img src="/assets/img/albums/alla-francesca-troubadours.png" width="480"> </a> <br>
+@ Abbaye royale de Fontevraud, <br>
+Fontevraud-l’Abbaye, Maine-et-Loire &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1996.03 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nMhhGQ2NJfA&t=3650s">
+<img src="/assets/img/albums/baines-medieval.png" width="480"> </a> <br>
+@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1967
 </p>
 
 <p class="alb">
@@ -282,6 +299,39 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/weisberg-pierrot.png" width="480"> </a> <br>
 @ Rutgers Presbyterian Church, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1970.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ycnbJpfII_k&list=OLAK5uy_nAWQShGEYwhQAXpa2VoTvxYw_DyI5jkxQ&index=7">
+<img src="/assets/img/albums/hickox-facade.png" width="480"> </a> <br>
+@ All Saints Church, Tooting, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=mbN-WTw679A&list=OLAK5uy_nhUM2MPdKY3typw4JoKMA0O_L4OIapvyk&index=9">
+<img src="/assets/img/albums/oh-kay-1955.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=d_HXF9nXLuE&list=OLAK5uy_mgSJqDczHxX-YVzAaTBHvwjZQMQuMs8ZA&index=2">
+<img src="/assets/img/albums/my-fair-lady-1959.png" width="480"> </a> <br>
+@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1959.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nMhhGQ2NJfA&t=3650s">
+<img src="/assets/img/albums/dench-a-little-night-music.png" width="480"> </a> <br>
+@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=zCyF525Xhso&list=OLAK5uy_m8t2n4wCC9oxUqsucjG91H-RN8bE1_sAE&index=7">
+<img src="/assets/img/albums/gielgud-cats.png" width="480"> </a> <br>
+@ Abbey Road / CTS / Metropolis / <br>Scratch Studios, 
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1995
 </p>
 
 <p class="alb">
@@ -320,7 +370,7 @@ Manchester, Michigan &nbsp;<img src="/assets/img/flags/us.png" height="10.5" wid
 <a href="https://www.youtube.com/watch?v=iKQ7T-Sdyi0&list=OLAK5uy_nu6Pf8R2rdubXekK-66VYemXwj9IaMHtw&index=2">
 <img src="/assets/img/albums/ball-praetorius.png" width="480"> </a> <br>
 @ Eden Studios, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; c. 1976
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1976
 </p>
 
 <p class="alb">
@@ -360,7 +410,7 @@ Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&n
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=zpel-T5bD6Y&list=OLAK5uy_ljU0rnN49L4uKrD8OVtPdwTKk2HRgEVGc&index=4&t=364s"> <img src="/assets/img/albums/kosler-stravinsky.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1977.03 
 </p>
 

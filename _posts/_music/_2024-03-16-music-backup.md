@@ -8,6 +8,13 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=JcmQOzaDoyo&list=OLAK5uy_nMC6f8MMlpgOH4LlA4mgx1ozo-lHlvA_s&index=10">
+<img src="/assets/img/albums/frana-chant.png" width="480"> </a> <br>
+@ Kostel Panny Marie pod řetězem, <br>
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1995.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=lonuxGeaNf8&list=OLAK5uy_lGN0GlEf2Pi3c8XDf_AjZiB-povGFsTj0&index=1">
 <img src="/assets/img/albums/solti-tristan.png" width="480"> </a> <br>
 @ Sofiensäle, <br>
@@ -19,6 +26,27 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=VADuEOOBSr0&list=OLAK5uy_lBCd4nC2yTuULpmi-xt3LSrM2W88OiYZE&index=1">
+<img src="/assets/img/albums/masselos-copland.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1960.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fIM2-mKCWDM&list=OLAK5uy_lwoE8_-oeBgNFXX-k-333i-puY3l7ObaE&index=3"> <img src="/assets/img/albums/copland-copland-var.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1968.10 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4Jg4UjBHjm0&t=1650s">
+<img src="/assets/img/albums/jochum-beethoven9.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1969.06
 </p>
 
 <p class="alb">

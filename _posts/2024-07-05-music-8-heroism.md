@@ -95,7 +95,7 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=PZxejoUFeN4&list=PLkbGQAOJ0kB-ORtZouE-xU5Tc8meq_EKV&index=17&t=2s">
-<img src="/assets/img/albums/sardou-les-miserables.png" width="480"> </a> <br>
+<img src="/assets/img/albums/les-miserables-1980.png" width="480"> </a> <br>
 @ Wembley Music Centre, London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; / <br> Studio Davout, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1980.01–04
 </p>
 

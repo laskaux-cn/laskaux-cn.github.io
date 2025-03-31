@@ -60,7 +60,7 @@ Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=zjD7f06LCsc&list=OLAK5uy_kkD8nyOlYQ4dByLfQ4ZBqwLAQhzVJuDtw&index=1"> <img src="/assets/img/albums/kosler-bizet.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1986.11 
 </p>
 
@@ -224,7 +224,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=q3emBFVHHGg&list=OLAK5uy_mkaiQhK5NGH0kvH3CSDY-H6Uhf_25xcEQ&index=36">
 <img src="/assets/img/albums/patane-butterfly.png" width="480"> </a> <br>
-@ Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; c. 1980
+@ Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; a. 1980
 </p>
 
 <p class="alb">

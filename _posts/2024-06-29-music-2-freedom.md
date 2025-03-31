@@ -161,7 +161,7 @@ Versailles &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ToKatff67Os&list=OLAK5uy_kCD7yx1rbqURNWi74tDh-tpgM5y5LwCKY&index=33">
-<img src="/assets/img/albums/fricsay-beethoven9.png" width="480"> </a> <br>
+<img src="/assets/img/albums/fricsay-leonore.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.09
 </p>
@@ -341,7 +341,7 @@ Viersen, Düsseldorf &nbsp;<img src="/assets/img/flags/de.png" height="10.5" wid
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=5WTPVUtmhmI&list=OLAK5uy_lK5dYoISgVuyi9575m0lvKApJcZKYypWQ&index=3"> <img src="/assets/img/albums/ancerl-stravinsky.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1966.06 
 </p>
 

@@ -61,7 +61,7 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=y-Dd5KNqr8c&list=OLAK5uy_kdmZXqGhCzXsq_Hops9zvrQSwWRZf1ASU&index=2">
 <img src="/assets/img/albums/hudecek-beethoven.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1985.03
 </p>
 
@@ -274,7 +274,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=2zld0eecdQM&list=OLAK5uy_nhgL7pXN2oG_PUqEA2t__jT82o9dqNZCQ&index=2"> <img src="/assets/img/albums/ancerl-zauberfloete.png" width="480"> </a> <br>
-@ Rudolfinum (Dům umělců): <br>Dvořákova síň, 
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
 Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1960.06 
 </p>
 
@@ -308,7 +308,7 @@ Dublin &nbsp;<img src="/assets/img/flags/ie.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=OivJwt6Ym-U&list=PL2Z7pmlc6aIrpuTlBILPQEYHZFURgkzy-&index=1">
 <img src="/assets/img/albums/dudarova-schnittke.png" width="480"> </a> <br>
-@ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; c. 1965
+@ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; a. 1965
 </p>
 
 
@@ -338,7 +338,7 @@ Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=QxqSyRujNcI&list=OLAK5uy_mToYPlWqN5k_DteVnbe-JyZFzBBGQWdAU&index=1">
-<img src="/assets/img/albums/hantai-goldberg-opus111.png" width="480"> </a> <br>
+<img src="/assets/img/albums/hantai-goldberg-111.png" width="480"> </a> <br>
 @ Doopsgezinde Kerk, <br>
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1992.06
 </p>
