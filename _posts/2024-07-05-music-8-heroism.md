@@ -7,8 +7,6 @@ excerpt: <br>
 tags: music-notes
 ---
 
-<br>
-
 <p class="ttl"> – 1 – </p>
 
 <p class="alb">

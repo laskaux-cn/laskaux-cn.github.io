@@ -207,12 +207,6 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1983.12
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Z9zbuJDeDBM&list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&index=11">
-<img src="/assets/img/albums/salonen-peer-gynt.png" width="480"> </a> <br>
-@ Oslo Konserthus, <br>
-Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1987.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JGNEZhXbOj8&list=OLAK5uy_moSRewWG44gAmr9RIYbkxM_l5Odly4XvM&index=19&t=7s"> 
@@ -260,10 +254,17 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=hbkQ8TRMxw8&list=PLy5IRCYvmbSxWaDf9o1ueY4kseUZ_ltvH&index=6&t=169s">
+<img src="/assets/img/albums/galfetti-vivaldi.png" width="480"> </a> <br>
+@ Auditorio Stelio Molo, <br>
+Lugano, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2001.04/06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=bzl_IMJbmVg&list=OLAK5uy_kAAz-JjfNXPZ4BaF3NjEW1aXnRGpNNDQo&index=17">
-<img src="/assets/img/albums/lislevand-vivaldi-new.png" width="480"> </a> <br>
+<img src="/assets/img/albums/lislevand-vivaldi.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
-Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04 / 2006.06
+Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1996.04
 </p>
 
 <p class="alb">

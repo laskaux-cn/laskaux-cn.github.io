@@ -88,10 +88,10 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=YoRXWq3wcn0&list=OLAK5uy_lLuBXP6hq-7w3n70dNIZOrUaqZ9vYyb_o&index=24">
-<img src="/assets/img/albums/haitink-tannhauser.png" width="480"> </a> <br>
+<a href="https://www.youtube.com/watch?v=FKLpZW2cexk&list=OLAK5uy_lAc9puqLt67uaTpC_CfE1A39QHaGs9T6c&index=36">
+<img src="/assets/img/albums/davis-lohengrin.png" width="480"> </a> <br>
 @ Herkulessaal, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1981.05
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1994.05
 </p>
 
 <p class="alb">

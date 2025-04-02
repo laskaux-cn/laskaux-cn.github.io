@@ -184,6 +184,13 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=YoRXWq3wcn0&list=OLAK5uy_lLuBXP6hq-7w3n70dNIZOrUaqZ9vYyb_o&index=24">
+<img src="/assets/img/albums/haitink-tannhauser.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1981.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=DOj0NfxJMzc&list=OLAK5uy_mzNJ-qY2yH8xCirUDSEuKE-UatEDKl-Gg&index=36"> <img src="/assets/img/albums/solti-la-boheme.png" width="480"> </a> <br>
 @ Walthamstow Assembly Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1973.07–08 
@@ -229,7 +236,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=qhNrGoAXOz8&list=OLAK5uy_lYjO6BBDQ-Meolz6Jj8ezqJ8IxFzcLZ84&index=2">
+<a href="https://www.youtube.com/watch?v=7aiXzGO93Rg&list=OLAK5uy_kHwoj-7CNYCv_A623OgZAJdAe5d51LdwE&index=2">
 <img src="/assets/img/albums/mackerras-gluck-orfeo.png" width="480"> </a> <br>
 @ Konzerthaus: Großer Saal, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1966.06
@@ -289,7 +296,7 @@ Fontevraud-l’Abbaye, Maine-et-Loire &nbsp;<img src="/assets/img/flags/fr.png" 
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=nMhhGQ2NJfA&t=3650s">
+<a href="https://www.youtube.com/watch?v=wFg42TJ-ejM&list=PLhLH_JWWzgh6c9a5Cr7GIdgKoXRddvMjk&index=10&t=1s">
 <img src="/assets/img/albums/baines-medieval.png" width="480"> </a> <br>
 @ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1967
 </p>
@@ -374,6 +381,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=skR0cGo0Nqs&list=OLAK5uy_mPsDBFkBf6ckstJQSoSF67WB6HmN6vmm8&index=13">
+<img src="/assets/img/albums/neumeyer-schein.png" width="480"> </a> <br>
+@ Rudolf-Oetker-Halle, <br>
+Bielefeld &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1960.01
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=QEhLgOQLSI8&list=OLAK5uy_l2HxNZswibHDUr8mmwImghHeoOqCurfL8&index=13">
 <img src="/assets/img/albums/gatti-bach-flute.png" width="480"> </a> <br>
 @ Chiesa di San Carlo, <br>
@@ -433,6 +447,27 @@ Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="1
 <p class="ttl"> – 7 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=FmlxP8fswbM&list=OLAK5uy_k81XqeNzkVVX2Rwd1XTDJjuAKs1z4hU9E&index=8">
+<img src="/assets/img/albums/jaffee-landini.png" width="480"> </a> <br>
+@ Vanguard 23rd Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1973.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=vxULv7UZJc0&list=OLAK5uy_nRcse4D1X71BROW1sxWkxmiTrRcgRbqRE&index=29">
+<img src="/assets/img/albums/jacobs-cavalieri.png" width="480"> </a> <br>
+@ Teldex Studio, <br>   
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2014.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=dvvMuzT4csU&list=OLAK5uy_mfGuxR6d1Zii8M0sPxDMMuWlOZtqXycns&index=8">
+<img src="/assets/img/albums/marcon-4seasons-1992.png" width="480"> </a> <br>
+@ Chiesa di San Vigilio, <br>
+Col San Martino, Treviso &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1992.03/10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=pQpTTk-htcM&list=OLAK5uy_ki_ddXxY1kItBBUza2r9IMJ5MEKk8nzvY&index=5">
 <img src="/assets/img/albums/maazel-berlioz-romeo.png" width="480"> </a> <br>
 @ Sofiensäle, <br>
@@ -444,13 +479,6 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <img src="/assets/img/albums/martinon-debussy-nocturnes.png" width="480"> </a> <br>
 @ Salle Wagram, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1973.02–&#8203;1974.04
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=CN0itj0yOLU&list=OLAK5uy_ncN0TH54LgdOdSmTITXzG5CvKVesOJOrI&index=15">
-<img src="/assets/img/albums/boulez-bolero.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
 </p>
 
 <p class="alb">
