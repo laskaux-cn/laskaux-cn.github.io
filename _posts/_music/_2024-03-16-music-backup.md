@@ -21,13 +21,6 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.09
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
-<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
-@ Halle aux Grains, <br>
-Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
-</p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=VADuEOOBSr0&list=OLAK5uy_lBCd4nC2yTuULpmi-xt3LSrM2W88OiYZE&index=1">
@@ -56,12 +49,6 @@ Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&n
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.12
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
-<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JYUqEpQoabw&list=OLAK5uy_nYH2hySk-1TSO-_FV3EiF4XUgOqxeOm60&index=5"> <img src="/assets/img/albums/copland-copland-london.png" width="480"> </a> <br>
@@ -80,13 +67,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 <a href="https://www.youtube.com/watch?v=aZnohlYL8ow&list=OLAK5uy_liKGnQEJbPK1jeJo_2cH0g4m8BYJTRopI&index=1">
 <img src="/assets/img/albums/shameyeva-francisque.png" width="480"> </a> <br>
 @ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1977
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Tm3HI0XYoRs&list=OLAK5uy_lkiCx5n-YHMzqPLZ-ZnIZ0hwVC6fPY0LE&index=11">
-<img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
-@ Église Saint-Hippolyte de Lagriffoul, <br>
-Castres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.08
 </p>
 
 

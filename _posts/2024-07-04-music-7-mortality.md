@@ -144,7 +144,7 @@ Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nb
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=KA548ED6HwU&list=OLAK5uy_lRtwfR_aJsQSWpvRgVke9gz1bl3f8APxE&index=5">
 <img src="/assets/img/albums/dohnanyi-mahler5.png" width="480"> </a> <br>
-@ Masonic Temple, <br>
+@ Masonic Temple Auditorium, <br>
 Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1988.07
 </p>
 

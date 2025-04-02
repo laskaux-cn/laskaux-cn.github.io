@@ -106,10 +106,10 @@ Toronto &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=5yyvHNRswdo&list=OLAK5uy_mgRUODFCleq3UxFSQGOadpodaGStWMlwM&index=39">
-<img src="/assets/img/albums/rousset-rameau-clavecin.png" width="480"> </a> <br>
-@ Église Saint-Hippolyte de Lagriffoul, <br>
-Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06
+<a href="https://www.youtube.com/watch?v=5KtuJ1OkJW8&list=OLAK5uy_mS7L6mfRo6Stg-X12pN2h3E2WVilS-udQ&index=57">
+<img src="/assets/img/albums/belder-rameau.png" width="480"> </a> <br>
+@ Penninckshuis, <br>
+Deventer, Overijssel &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2008.11
 </p>
 
 <p class="alb">
@@ -221,12 +221,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 @ Budapest &nbsp;<img src="/assets/img/flags/hu.png" height="10.5" width="16"/>&nbsp; a. 1980
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=1V9p1b1Sg80&list=OLAK5uy_nqw5EmQLiGK0JcSM4RPRm4jVImkQV-Q-o&index=12">
-<img src="/assets/img/albums/copland-copland-movies.png" width="480"> </a> <br>
-@ Abbey Road Studios, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1974.06
-</p>
 
 <br>
 
