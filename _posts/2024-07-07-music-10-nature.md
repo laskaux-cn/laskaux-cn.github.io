@@ -18,6 +18,13 @@ Stocksund, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" wid
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=9SfjkVr48iU&list=OLAK5uy_nyAXBtvNDt1W_pyd5BYUxD2PXmudVz2y0&index=1">
+<img src="/assets/img/albums/visse-janequin-oyseaulx.png" width="480"> </a> <br>
+@ Maison de la Radio: Studio 106, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1982.07
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=sQo5zo9DFjI&list=PL8AhTXrM6LH3FAkduOE9P3kfJH0dCaWJK&index=13">
 <img src="/assets/img/albums/frisch-rameau.png" width="480"> </a> <br>
 @ Église Saint-Rémi de Franc-Warêt, <br>
@@ -39,7 +46,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=aPHuY5ZrVQI&list=OLAK5uy_l5TnuO_R9L6y05ihAM97DIEWSK_uhYA4I&index=11">
+<a href="https://www.youtube.com/watch?v=aPHuY5ZrVQI&list=OLAK5uy_l5TnuO_R9L6y05ihAM97DIEWSK_uhYA4I&index=11&t=10s">
 <img src="/assets/img/albums/boulez-messiaen.png" width="480"> </a> <br>
 @ Masonic Temple Auditorium, <br>
 Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1994.11
@@ -56,6 +63,20 @@ Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 <img src="/assets/img/albums/marcon-4seasons-1999.png" width="480"> </a> <br>
 @ Abbazia di Rosazzo, <br>
 Manzano, Udine &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 1999.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=5tJRPRrfIpQ&list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&index=23">
+<img src="/assets/img/albums/chamayou-liszt.png" width="480"> </a> <br>
+@ Théâtre Auditorium de Poitiers, <br>
+Poitiers, Vienne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.03–07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nSNGK6dJ0qs&list=OLAK5uy_mI5ex7Uw6JcJwC0fogaoX_ccp1qSXapI4&index=5">
+<img src="/assets/img/albums/argerich-debut.png" width="480"> </a> <br>
+@ Stadthalle: Beethoven-Saal, <br>
+Hannover &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.07
 </p>
 
 <br>
@@ -84,6 +105,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Rt7NPe4S0YU&list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&index=4">
+<img src="/assets/img/albums/sainz-villegas-tarrega.png" width="480"> </a> <br>
+@ AfterHours Studios, Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; / <br>
+Estudio Uno, Madriad &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.07–08
 </p>
 
 <p class="alb">
@@ -152,6 +180,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
+
+<br>
+
+<p class="ttl"> – 6 – </p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=EQqiRYIF5Vs&list=OLAK5uy_l6CMamgPdDoM2Zg0K-W4Z0_y4-WkRz5LU&index=1">
 <img src="/assets/img/albums/antonini-vivaldi-mandolin.png" width="480"> </a> <br>
 @ Auditorio Stelio Molo, <br>
@@ -175,7 +214,7 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 7 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=efnCOVda7-o&list=OLAK5uy_n4gCBZiEJ_Jnh5iWM0BbdTP55-Qb1aWtY&index=3">

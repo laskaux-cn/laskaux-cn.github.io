@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 02 Apr 2025 11:42:04 -0700</pubDate>
+    <pubDate>Thu, 03 Apr 2025 02:04:18 -0700</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -113,6 +113,13 @@ Stocksund, Stockholm &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sv.png&quot; 
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=9SfjkVr48iU&amp;amp;list=OLAK5uy_nyAXBtvNDt1W_pyd5BYUxD2PXmudVz2y0&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/visse-janequin-oyseaulx.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Maison de la Radio: Studio 106, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1982.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=sQo5zo9DFjI&amp;amp;list=PL8AhTXrM6LH3FAkduOE9P3kfJH0dCaWJK&amp;amp;index=13&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/frisch-rameau.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Église Saint-Rémi de Franc-Warêt, &lt;br /&gt;
@@ -134,7 +141,7 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=aPHuY5ZrVQI&amp;amp;list=OLAK5uy_l5TnuO_R9L6y05ihAM97DIEWSK_uhYA4I&amp;amp;index=11&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=aPHuY5ZrVQI&amp;amp;list=OLAK5uy_l5TnuO_R9L6y05ihAM97DIEWSK_uhYA4I&amp;amp;index=11&amp;amp;t=10s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/boulez-messiaen.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Masonic Temple Auditorium, &lt;br /&gt;
 Cleveland &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1994.11
@@ -149,6 +156,20 @@ Cleveland &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;img src=&quot;/assets/img/albums/marcon-4seasons-1999.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Abbazia di Rosazzo, &lt;br /&gt;
 Manzano, Udine &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1999.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=5tJRPRrfIpQ&amp;amp;list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&amp;amp;index=23&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/chamayou-liszt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Théâtre Auditorium de Poitiers, &lt;br /&gt;
+Poitiers, Vienne &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.03–07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=nSNGK6dJ0qs&amp;amp;list=OLAK5uy_mI5ex7Uw6JcJwC0fogaoX_ccp1qSXapI4&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/argerich-debut.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Stadthalle: Beethoven-Saal, &lt;br /&gt;
+Hannover &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.07
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -174,6 +195,13 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;img src=&quot;/assets/img/albums/plasson-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Halle aux Grains, &lt;br /&gt;
 Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.07 / 1988.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Rt7NPe4S0YU&amp;amp;list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/sainz-villegas-tarrega.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ AfterHours Studios, Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; / &lt;br /&gt;
+Estudio Uno, Madriad &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.07–08
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -238,6 +266,17 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=92MwW_7v2HE&amp;amp;list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/francois-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle de l&amp;rsquo;Alcazar, &lt;br /&gt;
+Monte-Carlo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/mc.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1969.05
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;ttl&quot;&gt; – 6 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=EQqiRYIF5Vs&amp;amp;list=OLAK5uy_l6CMamgPdDoM2Zg0K-W4Z0_y4-WkRz5LU&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/antonini-vivaldi-mandolin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Auditorio Stelio Molo, &lt;br /&gt;
@@ -260,7 +299,7 @@ Boulogne-Billancourt &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; – 6 – &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 7 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=efnCOVda7-o&amp;amp;list=OLAK5uy_n4gCBZiEJ_Jnh5iWM0BbdTP55-Qb1aWtY&amp;amp;index=3&quot;&gt;
@@ -1190,7 +1229,7 @@ Loughton, Essex &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; heigh
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=UhU9dnK4MrM&amp;amp;list=OLAK5uy_lzJk6E-k_x_TOTL8jFwKDcD16E12gX5DQ&amp;amp;index=14&quot;&gt; &lt;img src=&quot;/assets/img/albums/visse-janequin.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=UhU9dnK4MrM&amp;amp;list=OLAK5uy_lzJk6E-k_x_TOTL8jFwKDcD16E12gX5DQ&amp;amp;index=14&quot;&gt; &lt;img src=&quot;/assets/img/albums/visse-janequin-paris.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Notre-Dame des Anges, &lt;br /&gt;
 Lurs, Alpes-de-Haute-Provence &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1981.04 
 &lt;/p&gt;
@@ -1594,7 +1633,7 @@ Glasgow &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Upwuyfc_42o&amp;amp;t=0s&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Upwuyfc_42o&amp;amp;t=2s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/szell-beethoven3.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Severance Hall, &lt;br /&gt;
 Cleveland &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1957.02
@@ -1865,10 +1904,10 @@ Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=ZBaPQeHPq5c&amp;amp;list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/sainz-villegas-tarrega.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ AfterHours Studios, Los Angeles &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; / &lt;br /&gt;
-Estudio Uno, Madriad &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.07–08
+&lt;a href=&quot;https://www.youtube.com/watch?v=EQMJjD0pD7k&amp;amp;list=OLAK5uy_mFN-ziGEa4dRaSORHiM-7NohYiUQjhjiM&amp;amp;index=34&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/moreno-tarrega.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Villa Consuelo, San Lorenzo de &lt;br /&gt;
+El Escorial, Madriad &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2000.07–08
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;

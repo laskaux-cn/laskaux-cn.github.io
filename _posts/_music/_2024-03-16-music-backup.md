@@ -91,12 +91,6 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2015.06
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
-<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">

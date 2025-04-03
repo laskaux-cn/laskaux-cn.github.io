@@ -79,7 +79,7 @@ Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=Upwuyfc_42o&t=0s">
+<a href="https://www.youtube.com/watch?v=Upwuyfc_42o&t=2s">
 <img src="/assets/img/albums/szell-beethoven3.png" width="480"> </a> <br>
 @ Severance Hall, <br>
 Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1957.02
@@ -356,10 +356,10 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ZBaPQeHPq5c&list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&index=5">
-<img src="/assets/img/albums/sainz-villegas-tarrega.png" width="480"> </a> <br>
-@ AfterHours Studios, Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; / <br>
-Estudio Uno, Madriad &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.07–08
+<a href="https://www.youtube.com/watch?v=EQMJjD0pD7k&list=OLAK5uy_mFN-ziGEa4dRaSORHiM-7NohYiUQjhjiM&index=34">
+<img src="/assets/img/albums/moreno-tarrega.png" width="480"> </a> <br>
+@ Villa Consuelo, San Lorenzo de <br>
+El Escorial, Madriad &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.07–08
 </p>
 
 <p class="alb">
