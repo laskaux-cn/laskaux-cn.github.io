@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 04 Apr 2025 01:45:19 -0700</pubDate>
+    <pubDate>Mon, 07 Apr 2025 00:14:46 -0700</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -134,6 +134,13 @@ Utrecht &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=n0d9mZ9lUmg&amp;amp;list=OLAK5uy_mVq6LXSayWIKrX7ABMMzPBYm_wsPlwU-w&amp;amp;index=3&amp;amp;&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/haitink-mahler3.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Concertgebouw, &lt;br /&gt;
+Amsterdam &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1966.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=wLdG3EsU8FQ&amp;amp;list=OLAK5uy_l8ppD0hTIo7HMfTOHGUrb31ON6ZCK1bKo&amp;amp;index=1&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/chailly-gurrelieder.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Jesus-Christus-Kirche, &lt;br /&gt;
@@ -159,7 +166,7 @@ Manzano, Udine &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=5tJRPRrfIpQ&amp;amp;list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&amp;amp;index=23&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=5tJRPRrfIpQ&amp;amp;list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&amp;amp;index=23&amp;amp;t=1s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/chamayou-liszt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Théâtre Auditorium de Poitiers, &lt;br /&gt;
 Poitiers, Vienne &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2011.03–07
@@ -286,13 +293,6 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Z9zbuJDeDBM&amp;amp;list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&amp;amp;index=11&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/salonen-peer-gynt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Oslo Konserthus, &lt;br /&gt;
-Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.05
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=1V9p1b1Sg80&amp;amp;list=OLAK5uy_nqw5EmQLiGK0JcSM4RPRm4jVImkQV-Q-o&amp;amp;index=12&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/copland-copland-movies.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Abbey Road Studios, &lt;br /&gt;
@@ -334,6 +334,13 @@ Boulogne-Billancourt &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 7 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Z9zbuJDeDBM&amp;amp;list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&amp;amp;index=11&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/salonen-peer-gynt.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Oslo Konserthus, &lt;br /&gt;
+Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.05
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=efnCOVda7-o&amp;amp;list=OLAK5uy_n4gCBZiEJ_Jnh5iWM0BbdTP55-Qb1aWtY&amp;amp;index=3&quot;&gt;
@@ -1044,16 +1051,17 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=mbN-WTw679A&amp;amp;list=OLAK5uy_nhUM2MPdKY3typw4JoKMA0O_L4OIapvyk&amp;amp;index=9&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/oh-kay-1955.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Columbia 30th Street Studio, &lt;br /&gt;
-New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1955.12
+&lt;a href=&quot;https://www.youtube.com/watch?v=fgUebC9mFQA&amp;amp;list=OLAK5uy_nY6G7I7SOtApFWqKYOqlUHhJ5yNV-dUsU&amp;amp;index=18&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/zavalloni-stravinsky.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Auditorium Santa Cecilia, &lt;br /&gt;
+Perugia &amp;nbsp;&lt;img src=&quot;/assets/img/flags/it.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2007.11
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=d_HXF9nXLuE&amp;amp;list=OLAK5uy_mgSJqDczHxX-YVzAaTBHvwjZQMQuMs8ZA&amp;amp;index=2&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/my-fair-lady-1959.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.02
+&lt;a href=&quot;https://www.youtube.com/watch?v=zCyF525Xhso&amp;amp;list=OLAK5uy_m8t2n4wCC9oxUqsucjG91H-RN8bE1_sAE&amp;amp;index=7&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/gielgud-cats.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Abbey Road / CTS / Metropolis / &lt;br /&gt;Scratch Studios, 
+London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; a. 1995
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1063,10 +1071,16 @@ New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=zCyF525Xhso&amp;amp;list=OLAK5uy_m8t2n4wCC9oxUqsucjG91H-RN8bE1_sAE&amp;amp;index=7&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/gielgud-cats.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Abbey Road / CTS / Metropolis / &lt;br /&gt;Scratch Studios, 
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; a. 1995
+&lt;a href=&quot;https://www.youtube.com/watch?v=d_HXF9nXLuE&amp;amp;list=OLAK5uy_mgSJqDczHxX-YVzAaTBHvwjZQMQuMs8ZA&amp;amp;index=2&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/my-fair-lady-1959.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.02
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=mbN-WTw679A&amp;amp;list=OLAK5uy_nhUM2MPdKY3typw4JoKMA0O_L4OIapvyk&amp;amp;index=9&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/oh-kay-1955.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Columbia 30th Street Studio, &lt;br /&gt;
+New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1955.12
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;

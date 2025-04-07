@@ -316,16 +316,17 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=mbN-WTw679A&list=OLAK5uy_nhUM2MPdKY3typw4JoKMA0O_L4OIapvyk&index=9">
-<img src="/assets/img/albums/oh-kay-1955.png" width="480"> </a> <br>
-@ Columbia 30th Street Studio, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
+<a href="https://www.youtube.com/watch?v=fgUebC9mFQA&list=OLAK5uy_nY6G7I7SOtApFWqKYOqlUHhJ5yNV-dUsU&index=18">
+<img src="/assets/img/albums/zavalloni-stravinsky.png" width="480"> </a> <br>
+@ Auditorium Santa Cecilia, <br>
+Perugia &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2007.11
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=d_HXF9nXLuE&list=OLAK5uy_mgSJqDczHxX-YVzAaTBHvwjZQMQuMs8ZA&index=2">
-<img src="/assets/img/albums/my-fair-lady-1959.png" width="480"> </a> <br>
-@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1959.02
+<a href="https://www.youtube.com/watch?v=zCyF525Xhso&list=OLAK5uy_m8t2n4wCC9oxUqsucjG91H-RN8bE1_sAE&index=7">
+<img src="/assets/img/albums/gielgud-cats.png" width="480"> </a> <br>
+@ Abbey Road / CTS / Metropolis / <br>Scratch Studios, 
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1995
 </p>
 
 <p class="alb">
@@ -335,10 +336,16 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=zCyF525Xhso&list=OLAK5uy_m8t2n4wCC9oxUqsucjG91H-RN8bE1_sAE&index=7">
-<img src="/assets/img/albums/gielgud-cats.png" width="480"> </a> <br>
-@ Abbey Road / CTS / Metropolis / <br>Scratch Studios, 
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; a. 1995
+<a href="https://www.youtube.com/watch?v=d_HXF9nXLuE&list=OLAK5uy_mgSJqDczHxX-YVzAaTBHvwjZQMQuMs8ZA&index=2">
+<img src="/assets/img/albums/my-fair-lady-1959.png" width="480"> </a> <br>
+@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1959.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=mbN-WTw679A&list=OLAK5uy_nhUM2MPdKY3typw4JoKMA0O_L4OIapvyk&index=9">
+<img src="/assets/img/albums/oh-kay-1955.png" width="480"> </a> <br>
+@ Columbia 30th Street Studio, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1955.12
 </p>
 
 <p class="alb">

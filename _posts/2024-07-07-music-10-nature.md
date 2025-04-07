@@ -39,6 +39,13 @@ Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=n0d9mZ9lUmg&list=OLAK5uy_mVq6LXSayWIKrX7ABMMzPBYm_wsPlwU-w&index=3&">
+<img src="/assets/img/albums/haitink-mahler3.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1966.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=wLdG3EsU8FQ&list=OLAK5uy_l8ppD0hTIo7HMfTOHGUrb31ON6ZCK1bKo&index=1">
 <img src="/assets/img/albums/chailly-gurrelieder.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
@@ -66,7 +73,7 @@ Manzano, Udine &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=5tJRPRrfIpQ&list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&index=23">
+<a href="https://www.youtube.com/watch?v=5tJRPRrfIpQ&list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&index=23&t=1s">
 <img src="/assets/img/albums/chamayou-liszt.png" width="480"> </a> <br>
 @ Théâtre Auditorium de Poitiers, <br>
 Poitiers, Vienne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2011.03–07
@@ -199,12 +206,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1982.11–12 
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Z9zbuJDeDBM&list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&index=11">
-<img src="/assets/img/albums/salonen-peer-gynt.png" width="480"> </a> <br>
-@ Oslo Konserthus, <br>
-Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1987.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=1V9p1b1Sg80&list=OLAK5uy_nqw5EmQLiGK0JcSM4RPRm4jVImkQV-Q-o&index=12">
@@ -249,6 +250,13 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 <br>
 
 <p class="ttl"> – 7 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Z9zbuJDeDBM&list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&index=11">
+<img src="/assets/img/albums/salonen-peer-gynt.png" width="480"> </a> <br>
+@ Oslo Konserthus, <br>
+Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1987.05
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=efnCOVda7-o&list=OLAK5uy_n4gCBZiEJ_Jnh5iWM0BbdTP55-Qb1aWtY&index=3">
