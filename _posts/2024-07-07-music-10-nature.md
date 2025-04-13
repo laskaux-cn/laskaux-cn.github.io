@@ -73,6 +73,20 @@ Manzano, Udine &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=unIpUZOh_Gw&list=PL8AhTXrM6LH2hy-frkMw5efpWgYVAI8Sw&index=1">
+<img src="/assets/img/albums/gilbert-wtc.png" width="480"> </a> <br>
+@ Musée des Beaux-Arts: Salle à l&rsquo;italienne, <br>
+Chartres &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1983.01–04
+</p> 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ZMQTm8zxJ9Y&list=PLBmUFT8Ypez2fSkfuyOohGgfmFyCKZkez&index=14">
+<img src="/assets/img/albums/scherbakov-shostakovich.png" width="480"> </a> <br>
+@ St Martin’s, East Woodhay, <br>
+Hampshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1999.06 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=5tJRPRrfIpQ&list=OLAK5uy_m_04GJrKXo45dspnpw6m1bsbe7YHRirtY&index=23&t=1s">
 <img src="/assets/img/albums/chamayou-liszt.png" width="480"> </a> <br>
 @ Théâtre Auditorium de Poitiers, <br>
@@ -84,6 +98,13 @@ Poitiers, Vienne &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="
 <img src="/assets/img/albums/argerich-debut.png" width="480"> </a> <br>
 @ Stadthalle: Beethoven-Saal, <br>
 Hannover &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Mslavm5bPrE&list=OLAK5uy_mDObmSShFkFVpakp-nNxiA09o2CQN26R8&index=1">
+<img src="/assets/img/albums/moravec-debussy-images.png" width="480"> </a> <br>
+@ RCA 24th Street Studios, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1982.04
 </p>
 
 <br>
@@ -252,6 +273,20 @@ Boulogne-Billancourt &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" wid
 <p class="ttl"> – 7 – </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=ppD_zJ9f-YQ&list=OLAK5uy_l_MiQGKXmHsLt7LBjMKZJy-MTlaB-Ijxw&index=1&t=4s">
+<img src="/assets/img/albums/boskovsky-strauss.png" width="480"> </a> <br>
+@ Sofiensäle, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1959.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=EQhwlBdYBd8&t=8s">
+<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Z9zbuJDeDBM&list=OLAK5uy_mXfzaZaHqwjfgwssWhSoVF0b-CZ1Ubgqc&index=11">
 <img src="/assets/img/albums/salonen-peer-gynt.png" width="480"> </a> <br>
 @ Oslo Konserthus, <br>
@@ -272,12 +307,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Pittsburgh &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1967.05
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=EQhwlBdYBd8&t=8s">
-<img src="/assets/img/albums/karajan-rheingold.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1993.03
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Ym0Qie9zsdI&list=OLAK5uy_n9_c5QLZ_wCU3TPOp--4qtYEKINwDgwvI&index=15">

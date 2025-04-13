@@ -208,7 +208,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=N9xmaJURJzU&list=OLAK5uy_nZI5fDiUfswd-L358DOTVELuuOw0ULcY0&index=1">
+<a href="https://www.youtube.com/watch?v=NR8W2ueVfgw&list=OLAK5uy_k6ZUw7Wq0MJ3G7IOVeCjpbJhLLEspsCzw&index=7">
 <img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
 @ Polydor Studio, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
@@ -221,12 +221,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
-<img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
-@ Großer Musikvereinssaal, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.11
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=PMCysBnftbw&list=OLAK5uy_mgsfs-tLKCuESkmI7SUjL_xDT57zmZUQc&index=6&t=1107s">

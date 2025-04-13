@@ -23,7 +23,7 @@ Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1">
+<a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1&t=1s">
 <img src="/assets/img/albums/agafonnikov-red-army.png" width="480"> </a> <br>
 @ Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1992
 </p>
@@ -86,12 +86,18 @@ Morbio Inferiore, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5"
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
+<img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
+@ Großer Musikvereinssaal, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1960.11
+</p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=hfgrXm1t69c&list=OLAK5uy_mApgN0ddKaPPPSrJndn3o1RJXkYnMGmtU&index=10">
-<img src="/assets/img/albums/ashkenazy-rachmaninov2.png" width="480"> </a> <br>
-@ Concertgebouw, <br>
-Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.09
+<a href="https://www.youtube.com/watch?v=NmZTRk-FxAY&list=OLAK5uy_kI1VMovWURKgy2x1OsCkT8C5MKLbP5eKw&index=3">
+<img src="/assets/img/albums/ormandy-rachmaninov2.png" width="480"> </a> <br>
+@ Philadelphia City Hall, <br>
+Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.04
 </p>
 
 <br>

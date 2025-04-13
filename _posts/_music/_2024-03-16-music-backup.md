@@ -91,6 +91,12 @@ Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&n
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 2015.06
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=hfgrXm1t69c&list=OLAK5uy_mApgN0ddKaPPPSrJndn3o1RJXkYnMGmtU&index=10">
+<img src="/assets/img/albums/ashkenazy-rachmaninov2.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.09
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=i9_miuZ0EFY&list=PL8AhTXrM6LH10edFoNr0ye9pt22xF959I&index=4">
@@ -113,12 +119,6 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=JisgBUieSOA&list=OLAK5uy_kYz8hA9W3D5mRoGfPLe0vAb5CByugbxLE&index=1">
-<img src="/assets/img/albums/goebel-telemann.png" width="480"> </a> <br>
-@ Friedrich-Ebert-Halle, <br>
-Hamburg &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1984.03
-</p>
 
 
 <p class="alb">
