@@ -194,6 +194,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=NR8W2ueVfgw&list=OLAK5uy_k6ZUw7Wq0MJ3G7IOVeCjpbJhLLEspsCzw&index=7">
+<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
+@ Polydor Studio, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=dYVXd5UBDeU&list=OLAK5uy_kexIX3zv03OaHMe1LWykUy4PLpdYjw_rc&index=1&t=2s">
 <img src="/assets/img/albums/fasolis-brandenburg.png" width="480"> </a> <br>
 @ Auditorio Stelio Molo, <br>
@@ -208,10 +215,10 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=NR8W2ueVfgw&list=OLAK5uy_k6ZUw7Wq0MJ3G7IOVeCjpbJhLLEspsCzw&index=7">
-<img src="/assets/img/albums/markevitch-beethoven-overtures.png" width="480"> </a> <br>
-@ Polydor Studio, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1958.11
+<a href="https://dn721602.ca.archive.org/0/items/bruckner-4-blomstedt-dresden/bruckner%204%20%28blomstedt-dresden%29.mp3">
+<img src="/assets/img/albums/blomstedt-bruckner4.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1981.09
 </p>
 
 <p class="alb">
@@ -220,7 +227,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 @ Großer Musikvereinssaal, <br>
 Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=PMCysBnftbw&list=OLAK5uy_mgsfs-tLKCuESkmI7SUjL_xDT57zmZUQc&index=6&t=1107s">

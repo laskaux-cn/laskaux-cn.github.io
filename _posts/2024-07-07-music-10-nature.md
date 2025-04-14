@@ -39,6 +39,13 @@ Utrecht &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=tjJhk0ypWc8&list=OLAK5uy_lR6Ku2Gty3nLp1Bavv7AZAo5tsU4Jahac&index=30">
+<img src="/assets/img/albums/janowski-siegfried.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1982.02–03
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=n0d9mZ9lUmg&list=OLAK5uy_mVq6LXSayWIKrX7ABMMzPBYm_wsPlwU-w&index=3&">
 <img src="/assets/img/albums/haitink-mahler3.png" width="480"> </a> <br>
 @ Concertgebouw, <br>
@@ -126,13 +133,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
 @ Jesus-Christus-Kirche, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
-<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
-@ Halle aux Grains, <br>
-Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
 </p>
 
 <p class="alb">
@@ -240,6 +240,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
 @ Salle de l&rsquo;Alcazar, <br>
 Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
+<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
 </p>
 
 <br>
