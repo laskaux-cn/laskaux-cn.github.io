@@ -308,7 +308,7 @@ Dublin &nbsp;<img src="/assets/img/flags/ie.png" height="10.5" width="16"/>&nbsp
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=3TagkfyXZWU&list=OLAK5uy_nlOQnWnqB8bLO8SzUd6kliY_YK0Ogpjig&index=28">
-<img src="/assets/img/albums/kondrashin-shostakovich.png" width="480"> </a> <br>
+<img src="/assets/img/albums/kondrashin-shostakovich9.png" width="480"> </a> <br>
 @ Москва &nbsp;<img src="/assets/img/flags/su.png" height="10.5" width="16"/>&nbsp; 1965.03
 </p>
 

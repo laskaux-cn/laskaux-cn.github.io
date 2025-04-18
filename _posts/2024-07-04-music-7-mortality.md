@@ -16,10 +16,24 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
+<img src="/assets/img/albums/munch-berlioz-sf.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=g0osep19iU0&list=OLAK5uy_khywdt24gQpPVA4Fo2CpvlSQTlsZfaR-E&index=8">
 <img src="/assets/img/albums/plasson-berlioz-marseillaise.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=eW6iW8lwAXY&list=OLAK5uy_lNCQOvsY2UqS-ygnpvDvFdRiSs2VyukGU&index=4">
+<img src="/assets/img/albums/bernstein-shostakovich5.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.10
 </p>
 
 <p class="alb">
@@ -82,7 +96,7 @@ Morbio Inferiore, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5"
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=2cnOnRLBqOQ&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=4">
 <img src="/assets/img/albums/haitink-mahler5.png" width="480"> </a> <br>
-@ Philharmonie Berlin, <br>
+@ Berliner Philharmonie, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
 </p>
 
@@ -239,7 +253,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=MmhIL8V5mVI&list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&index=48">
 <img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
-@ Philharmonie Berlin, <br>
+@ Berliner Philharmonie, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 

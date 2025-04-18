@@ -24,6 +24,13 @@ Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=1aQscaXUm0A&list=OLAK5uy_lQRj-lA9q7gRSS2JXd07dp6cJS8_zg6ZA&index=1">
+<img src="/assets/img/albums/kubelik-janacek.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1970.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=GUdNhJwLYDw&list=OLAK5uy_m25SLnCKEgvIGqn0mnWSr9IRqfyIQqyQU&index=2">
 <img src="/assets/img/albums/christie-te-deum.png" width="480"> </a> <br>
 @ Notre-Dame du Travail, <br>
@@ -42,6 +49,13 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/pinnock-handel-fireworks.png" width="480"> </a> <br>
 @ St John&rsquo;s, Smith Square, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1984.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=G3Se5NkEaP0&list=OLAK5uy_k-3SEqzmoKZxyuIiAInTOwhPNTJSB2EqY&index=15">
+<img src="/assets/img/albums/ormandy-pictures.png" width="480"> </a> <br>
+@ Philadelphia City Hall, <br>
+Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.04/06
 </p>
 
 <p class="alb">
@@ -65,12 +79,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.01/03
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=1aQscaXUm0A&list=OLAK5uy_lQRj-lA9q7gRSS2JXd07dp6cJS8_zg6ZA&index=1">
-<img src="/assets/img/albums/kubelik-janacek.png" width="480"> </a> <br>
-@ Herkulessaal, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1970.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=11b3AUHeoZ8&list=OLAK5uy_loqdEejUcfirQYxF1wpZTXRtmAJPXAgOg&index=4">
@@ -101,13 +109,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
 @ Kingsway Hall, <br>
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
-<img src="/assets/img/albums/munch-berlioz-sf.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
 </p>
 
 <p class="alb">

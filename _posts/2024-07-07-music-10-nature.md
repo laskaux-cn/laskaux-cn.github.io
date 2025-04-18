@@ -46,7 +46,7 @@ Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=n0d9mZ9lUmg&list=OLAK5uy_mVq6LXSayWIKrX7ABMMzPBYm_wsPlwU-w&index=3&">
+<a href="https://www.youtube.com/watch?v=n0d9mZ9lUmg&list=OLAK5uy_mVq6LXSayWIKrX7ABMMzPBYm_wsPlwU-w&index=3">
 <img src="/assets/img/albums/haitink-mahler3.png" width="480"> </a> <br>
 @ Concertgebouw, <br>
 Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1966.05
@@ -127,6 +127,47 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.03 
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=SIFIi1bxPfY&list=OLAK5uy_mN2dvLEwe9n2kb_jvFDDqV31OLle7XlWU&index=39">
+<img src="/assets/img/albums/leonhardt-bach-st-matthew.png" width="480"> </a> <br>
+@ Doopsgezinde Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1989.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=TsVLyfWld-4&list=OLAK5uy_n6eLEgNQcA6WWb1HmFtOjR4AbwXPcueLI&index=3">
+<img src="/assets/img/albums/karajan-strauss-4songs.png" width="480"> </a> <br>
+@ Berliner Philharmonie, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1985.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ynwS6Pf6Sug&list=OLAK5uy_mZr4qx2gN8hj8Vn4koAIRIuXT3EjCyELA&index=8">
+<img src="/assets/img/albums/savall-bach-viol.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2000.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=y7Xzi2judC0&list=PL8AhTXrM6LH0E8IFUrfHQNJKcYECUgOyz&index=2">
+<img src="/assets/img/albums/rudin-schubert.png" width="480"> </a> <br>
+@ Schaumansali, <br>
+Jakobstad/Pietarsaari &nbsp;<img src="/assets/img/flags/fi.png" height="10.5" width="16"/>&nbsp; 2019.09
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jEe5mMwop-4&list=OLAK5uy_kLiOk1ak3heAFQS8E0pOPxMBKeQdISM4E&index=2">
+<img src="/assets/img/albums/queyras-schubert.png" width="480"> </a> <br>
+@ Ircam: Salle modulable, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2006.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=UpHaTDx4Xno&list=OLAK5uy_laSq-Rv7SoCOK7Z-aHsz6tuGcUlsAtR68&index=28">
+<img src="/assets/img/albums/turovsky-saint-saens.png" width="480"> </a> <br>
+@ Église de La-Nativité-de-la-Sainte-Vierge, <br>
+La Prairie &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1993.08
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
@@ -258,6 +299,13 @@ Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nb
 <img src="/assets/img/albums/antonini-vivaldi-mandolin.png" width="480"> </a> <br>
 @ Auditorio Stelio Molo, <br>
 Lugano, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1992.04–05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=WNnzidJdUVk&list=OLAK5uy_n0zusU8vsj5TFgKpOzx05YJs07YxEFYcU&index=1">
+<img src="/assets/img/albums/kondrashin-scheherazade.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1979.06
 </p>
 
 <p class="alb">
