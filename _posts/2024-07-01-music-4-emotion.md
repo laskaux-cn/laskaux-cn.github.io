@@ -37,12 +37,6 @@ Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3QCnZFRoZGE&t=4s">
-<img src="/assets/img/albums/guettler-grossi.png" width="480"> </a> <br>
-@ Lukaskirche, <br>
-Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1986.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=fF1EjSS67tY&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=63">

@@ -135,10 +135,17 @@ Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbs
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=TsVLyfWld-4&list=OLAK5uy_n6eLEgNQcA6WWb1HmFtOjR4AbwXPcueLI&index=3">
-<img src="/assets/img/albums/karajan-strauss-4songs.png" width="480"> </a> <br>
-@ Berliner Philharmonie, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1985.11
+<a href="https://www.youtube.com/watch?v=3LSi053VMqw&list=PL8AhTXrM6LH22mwvMCG1b44I1KJvrOnsM&index=3&t=5s">
+<img src="/assets/img/albums/norman-strauss-4songs.png" width="480"> </a> <br>
+@ Paul-Gerhardt-Kirche, <br>
+Leipzig &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1982.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
+<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
 </p>
 
 <p class="alb">
@@ -169,12 +176,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 La Prairie &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&nbsp; 1993.08
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=IciDireCk9c&list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&index=5">
-<img src="/assets/img/albums/schneiderhan-starker-brahms.png" width="480"> </a> <br>
-@ Jesus-Christus-Kirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1961.06
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=Rt7NPe4S0YU&list=PL8AhTXrM6LH09obWX_rAlHrUkgyIxxZNZ&index=4">
@@ -212,6 +213,12 @@ Lugano, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11
 <img src="/assets/img/albums/rousset-royer.png" width="480"> </a> <br>
 @ Église Saint-Hippolyte de Lagriffoul, <br>
 Castres, Tarn &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1989.06 / 1991.08
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=WDGybBoA008&list=OLAK5uy_nsYGt3kcJyFIMtyJaUazaRjpT4zOqRwtY&index=1"> <img src="/assets/img/albums/neumann-mahler2.png" width="480"> </a> <br>
+@ Rudolfinum / Dům umělců: <br>Dvořákova síň, 
+Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp; 1980.06
 </p>
 
 <p class="alb">
@@ -276,19 +283,6 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1974.06
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
-<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
-@ Salle de l&rsquo;Alcazar, <br>
-Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
-<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
-@ Halle aux Grains, <br>
-Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
-</p>
 
 <br>
 

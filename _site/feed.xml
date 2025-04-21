@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 18 Apr 2025 14:20:37 -0700</pubDate>
+    <pubDate>Mon, 21 Apr 2025 03:16:36 -0700</pubDate>
     
       <item>
         <title>音乐笔记 13 &amp;colon; 喧嚣与孤独</title>
@@ -226,10 +226,17 @@ Haarlem &amp;nbsp;&lt;img src=&quot;/assets/img/flags/nl.png&quot; height=&quot;
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=TsVLyfWld-4&amp;amp;list=OLAK5uy_n6eLEgNQcA6WWb1HmFtOjR4AbwXPcueLI&amp;amp;index=3&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/karajan-strauss-4songs.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Berliner Philharmonie, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1985.11
+&lt;a href=&quot;https://www.youtube.com/watch?v=3LSi053VMqw&amp;amp;list=PL8AhTXrM6LH22mwvMCG1b44I1KJvrOnsM&amp;amp;index=3&amp;amp;t=5s&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/norman-strauss-4songs.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Paul-Gerhardt-Kirche, &lt;br /&gt;
+Leipzig &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ddr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1982.08
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=IciDireCk9c&amp;amp;list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/schneiderhan-starker-brahms.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Jesus-Christus-Kirche, &lt;br /&gt;
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -258,13 +265,6 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;img src=&quot;/assets/img/albums/turovsky-saint-saens.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Église de La-Nativité-de-la-Sainte-Vierge, &lt;br /&gt;
 La Prairie &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ca.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1993.08
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=IciDireCk9c&amp;amp;list=OLAK5uy_l_s0j9iXXfNm20-9dq8-P3JmlKILCDiwo&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/schneiderhan-starker-brahms.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Jesus-Christus-Kirche, &lt;br /&gt;
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1961.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -301,6 +301,12 @@ Lugano, Ticino &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height
 &lt;img src=&quot;/assets/img/albums/rousset-royer.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Église Saint-Hippolyte de Lagriffoul, &lt;br /&gt;
 Castres, Tarn &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1989.06 / 1991.08
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=WDGybBoA008&amp;amp;list=OLAK5uy_nsYGt3kcJyFIMtyJaUazaRjpT4zOqRwtY&amp;amp;index=1&quot;&gt; &lt;img src=&quot;/assets/img/albums/neumann-mahler2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Rudolfinum / Dům umělců: &lt;br /&gt;Dvořákova síň, 
+Praha &amp;nbsp;&lt;img src=&quot;/assets/img/flags/cs.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1980.06
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -360,20 +366,6 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 &lt;img src=&quot;/assets/img/albums/copland-copland-movies.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Abbey Road Studios, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1974.06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=92MwW_7v2HE&amp;amp;list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&amp;amp;index=8&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/francois-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Salle de l&amp;rsquo;Alcazar, &lt;br /&gt;
-Monte-Carlo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/mc.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1969.05
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=4NrzUri8IJo&amp;amp;list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&amp;amp;index=6&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/plasson-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Halle aux Grains, &lt;br /&gt;
-Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.07 / 1988.07
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -572,10 +564,43 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/munch-berlioz-sf.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Symphony Hall, &lt;br /&gt;
-Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1962.04
+&lt;a href=&quot;https://www.youtube.com/watch?v=aVjuZ6Bb2vQ&amp;amp;list=PL9yl-ZQyD9w8y8cAgBD5H21Lao6fKL5qN&amp;amp;index=60&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/jacobs-don-giovanni.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Teldex Studio, &lt;br /&gt;   
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2016.11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=19TwojJgkUE&amp;amp;list=OLAK5uy_niFTM2L8CLDvc5oCjybD9G4QQYTr_GJcY&amp;amp;index=51&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/fasolis-vivaldi-juditha.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Auditorio Stelio Molo, &lt;br /&gt;
+Lugano, Ticino &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 2002.01
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=gMu_mBUV3H0&amp;amp;list=OLAK5uy_nDm3a-wlq4Xh4yW3zuBwrqWpBe4v6vqpM&amp;amp;index=11&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/flores-cavalli.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Notre-Dame de Centeilles, &lt;br /&gt;
+Siran, Hérault &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.05–06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ODZ1laysiFI&amp;amp;list=OLAK5uy_k8WbHLZHHLRat6gmDDMCtzOQ2YAGqovxc&amp;amp;index=6&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/haim-monteverdi-poppea.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Chapelle de l’hôpital Notre-Dame &lt;br /&gt; de Bon Secours, Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2007.02 / 2008.05
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=CjiP32iI5uk&amp;amp;list=OLAK5uy_l5EjXhjg9AXGdwozUQOpVrchui3C40m7E&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/erik-van-nevel-isaac.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Jezuïetenkerk, Leuven / Sound Recording &lt;br /&gt; Centre Steurbaut, Ghent  &amp;nbsp;&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990/1994
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=nvoqiWSCEx4&amp;amp;list=OLAK5uy_l5Y9E5mLb7hcfH-9JHTY_f0rivyzOZDvI&amp;amp;index=21&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/lunaisiens-marseillaise.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Cité de la Musique, &lt;br /&gt;
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2010.07
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -586,16 +611,30 @@ Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=eW6iW8lwAXY&amp;amp;list=OLAK5uy_lNCQOvsY2UqS-ygnpvDvFdRiSs2VyukGU&amp;amp;index=4&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/bernstein-shostakovich5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fAL5eYB_PH8&amp;amp;list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/munch-berlioz-sf.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Symphony Hall, &lt;br /&gt;
-Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.10
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1962.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Pwb5kJEvbu0&amp;amp;list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&amp;amp;index=5&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/davis-berg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Herkulessaal, &lt;br /&gt;
+München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.12
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=TSDr8Xxd5h0&amp;amp;list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&amp;amp;index=1&amp;amp;t=1s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/agafonnikov-red-army.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Москва &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ru.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=bAGjet-bNaw&amp;amp;list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&amp;amp;index=1&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/jansons-shostakovich7.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Oslo Konserthus, &lt;br /&gt;
+Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.04
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -611,6 +650,13 @@ Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;1
 &lt;img src=&quot;/assets/img/albums/collegium-aureum-beethoven7.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Schloss Kirchheim: Zedernsaal, &lt;br /&gt;   
 Kirchheim, Stuttgart &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1976.06 / 1981.06
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=kfMktoROvLI&amp;amp;list=OLAK5uy_k-UQhp_3tpT9WE91VZP5ehsvYcGip3Qow&amp;amp;index=47&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/janowski-gotterdammerung.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Lukaskirche, &lt;br /&gt;
+Dresden &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ddr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.01–04
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -653,6 +699,13 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Iu4Zma6F1yY&amp;amp;list=OLAK5uy_k7onn_KTDN-6c-XyYCyZsVgSELc3DNQhQ&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/sanderling-borodin2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Lukaskirche, &lt;br /&gt;
+Dresden &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ddr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1960.12
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=QzGoYkqhf0k&amp;amp;list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&amp;amp;index=6&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/mravinsky-tchaikovsky5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Großer Musikvereinssaal, &lt;br /&gt;
@@ -664,6 +717,13 @@ Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.
 &lt;img src=&quot;/assets/img/albums/ormandy-rachmaninov2.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Philadelphia City Hall, &lt;br /&gt;
 Philadelphia &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.04
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=4NrzUri8IJo&amp;amp;list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&amp;amp;index=6&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/plasson-debussy.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Halle aux Grains, &lt;br /&gt;
+Toulouse &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1987.07 / 1988.07
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -905,7 +965,7 @@ Philadelphia &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&
 &lt;a href=&quot;https://www.youtube.com/watch?v=VgGzYr0WWzQ&amp;amp;list=OLAK5uy_lkM5nlxigGoztb6lRkdwJI7z_ENQa7ck0&amp;amp;index=19&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/harnoncourt-aida.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Großer Musikvereinssaal, &lt;br /&gt;
-Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2001.01–04
+Wien &amp;nbsp;&lt;img src=&quot;/assets/img/flags/at.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp;  2001.01–04
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -923,6 +983,20 @@ Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;1
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=GpcdsAIdKhg&amp;amp;list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&amp;amp;index=8&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/ozawa-pini-roma.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1977.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=eW6iW8lwAXY&amp;amp;list=OLAK5uy_lNCQOvsY2UqS-ygnpvDvFdRiSs2VyukGU&amp;amp;index=4&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/bernstein-shostakovich5.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Symphony Hall, &lt;br /&gt;
+Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1959.10
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=11b3AUHeoZ8&amp;amp;list=OLAK5uy_loqdEejUcfirQYxF1wpZTXRtmAJPXAgOg&amp;amp;index=4&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/slatkin-copland3.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Powell Hall, &lt;br /&gt;
@@ -932,65 +1006,6 @@ St. Louis &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quo
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;ttl&quot;&gt; – 2 – &lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=CjiP32iI5uk&amp;amp;list=OLAK5uy_l5EjXhjg9AXGdwozUQOpVrchui3C40m7E&amp;amp;index=8&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/erik-van-nevel-isaac.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Jezuïetenkerk, Leuven / Sound Recording &lt;br /&gt; Centre Steurbaut, Ghent  &amp;nbsp;&lt;img src=&quot;/assets/img/flags/be.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990/1994
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=d2wWrkqplzg&amp;amp;list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&amp;amp;index=27&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/rousset-lully-alceste.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Salle Gaveau, &lt;br /&gt; 
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.07
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=xrdJXTypDTA&amp;amp;list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&amp;amp;index=6&amp;amp;t=495s&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/abbado-rossini-overtures.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Kingsway Hall, &lt;br /&gt;
-London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1978.05
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&amp;amp;list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&amp;amp;index=12&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/markevitch-bizet.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Maison de la Chimie, &lt;br /&gt; 
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1965.05–06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Pwb5kJEvbu0&amp;amp;list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&amp;amp;index=5&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/davis-berg.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Herkulessaal, &lt;br /&gt;
-München &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1983.12
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=7TxDFCUtgK8&amp;amp;list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&amp;amp;index=3&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/mtt-ives-holidays.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Medinah Temple, &lt;br /&gt;
-Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1986.05
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=GpcdsAIdKhg&amp;amp;list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&amp;amp;index=8&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/ozawa-pini-roma.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Symphony Hall, &lt;br /&gt;
-Boston &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1977.10
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=bAGjet-bNaw&amp;amp;list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&amp;amp;index=1&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/jansons-shostakovich7.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Oslo Konserthus, &lt;br /&gt;
-Oslo &amp;nbsp;&lt;img src=&quot;/assets/img/flags/no.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1988.04
-&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=5j7lz9GH7zY&amp;amp;list=OLAK5uy_lzItwnVWXBxNMa7uGvqP6jJglrS7l7jDM&amp;amp;index=32&quot;&gt;
@@ -1048,7 +1063,7 @@ London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;1
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 3 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=7o59GZkmHms&amp;amp;list=OLAK5uy_l06zSRjh6SdkNCMd5tUF_-I6Q4lkCi3lI&amp;amp;index=19&amp;amp;t=368s&quot;&gt;
@@ -1127,7 +1142,7 @@ Sant Martí Sarroca, Barcelona &amp;nbsp;&lt;img src=&quot;/assets/img/flags/es.
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 4 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=OK2qe4g2i20&amp;amp;list=OLAK5uy_lfUFCvz5SruvH53-dWGTvs6wAw_XWkU0g&amp;amp;index=13&quot;&gt; &lt;img src=&quot;/assets/img/albums/alla-francesca-troubadours.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
@@ -1204,7 +1219,14 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; – 6 – &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 5 – &lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=vxULv7UZJc0&amp;amp;list=OLAK5uy_nRcse4D1X71BROW1sxWkxmiTrRcgRbqRE&amp;amp;index=29&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/jacobs-cavalieri.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Teldex Studio, &lt;br /&gt;   
+Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.05
+&lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=9Ph_CyEGIV8&amp;amp;list=OLAK5uy_mDkQJnolH8w-UNpNl1wV4EzGh8IoTwKjw&amp;amp;index=1&quot;&gt;
@@ -1291,20 +1313,13 @@ Sala Simón Bolivar, Caracas &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ve.pn
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;ttl&quot;&gt; – 7 – &lt;/p&gt;
+&lt;p class=&quot;ttl&quot;&gt; – 6 – &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=FmlxP8fswbM&amp;amp;list=OLAK5uy_k81XqeNzkVVX2Rwd1XTDJjuAKs1z4hU9E&amp;amp;index=8&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/jaffee-landini.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Vanguard 23rd Street Studio, &lt;br /&gt;
 New York &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1973.06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=vxULv7UZJc0&amp;amp;list=OLAK5uy_nRcse4D1X71BROW1sxWkxmiTrRcgRbqRE&amp;amp;index=29&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/jacobs-cavalieri.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Teldex Studio, &lt;br /&gt;   
-Berlin &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2014.05
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -1729,13 +1744,6 @@ Kaiserslautern &amp;nbsp;&lt;img src=&quot;/assets/img/flags/de.png&quot; height
 &lt;img src=&quot;/assets/img/albums/pinnock-handel-op4.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Henry Wood Hall, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1991.06
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=3QCnZFRoZGE&amp;amp;t=4s&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/guettler-grossi.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Lukaskirche, &lt;br /&gt;
-Dresden &amp;nbsp;&lt;img src=&quot;/assets/img/flags/ddr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1986.05
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
@@ -2277,6 +2285,13 @@ Grenoble &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=d2wWrkqplzg&amp;amp;list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&amp;amp;index=27&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/rousset-lully-alceste.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Salle Gaveau, &lt;br /&gt; 
+Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 2017.07
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=_aDfQ8VRyUk&amp;amp;t=0s&quot;&gt;
 &lt;img src=&quot;/assets/img/albums/dorati-milhaud.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Watford Town Hall Assembly Rooms, &lt;br /&gt;
@@ -2355,13 +2370,6 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;img src=&quot;/assets/img/albums/salonen-stravinsky-octet.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Abbey Road Studios, &lt;br /&gt;
 London &amp;nbsp;&lt;img src=&quot;/assets/img/flags/uk.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1990.04
-&lt;/p&gt;
-
-&lt;p class=&quot;alb&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=LGSm_PT2-1Y&amp;amp;list=OLAK5uy_n14npA2CkLkj0dNsL7btd-5UL0E0-91Zc&amp;amp;index=40&quot;&gt;
-&lt;img src=&quot;/assets/img/albums/boulez-webern.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
-@ Ircam: Espace de projection, &lt;br /&gt;
-Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1992.10
 &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -3124,6 +3132,13 @@ Paris &amp;nbsp;&lt;img src=&quot;/assets/img/flags/fr.png&quot; height=&quot;10
 &lt;img src=&quot;/assets/img/albums/ansermet-stravinsky-petrouchka.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
 @ Victoria Hall, &lt;br /&gt;
 Genève &amp;nbsp;&lt;img src=&quot;/assets/img/flags/sw.png&quot; height=&quot;11.5&quot; width=&quot;11.5&quot; /&gt;&amp;nbsp; 1957.10–11
+&lt;/p&gt;
+
+&lt;p class=&quot;alb&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=7TxDFCUtgK8&amp;amp;list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&amp;amp;index=3&quot;&gt;
+&lt;img src=&quot;/assets/img/albums/mtt-ives-holidays.png&quot; width=&quot;480&quot; /&gt; &lt;/a&gt; &lt;br /&gt;
+@ Medinah Temple, &lt;br /&gt;
+Chicago &amp;nbsp;&lt;img src=&quot;/assets/img/flags/us.png&quot; height=&quot;10.5&quot; width=&quot;16&quot; /&gt;&amp;nbsp; 1986.05
 &lt;/p&gt;
 
 &lt;p class=&quot;alb&quot;&gt;

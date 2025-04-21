@@ -98,14 +98,12 @@ Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1991.01
 </p>
 
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ID9q6XjwlXQ&t=424s">
 <img src="/assets/img/albums/kuijken-couperin.png" width="480"> </a> <br>
 @ Singelkerk, <br>
 Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1974.11
 </p>
-
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NVX2FPzzHB8&list=OLAK5uy_mC29OA3l3QM_qEOiN4RWWCab7CAfOE4to&index=27">
@@ -237,6 +235,13 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <img src="/assets/img/albums/ansermet-stravinsky-petrouchka.png" width="480"> </a> <br>
 @ Victoria Hall, <br>
 Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1957.10–11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
+<img src="/assets/img/albums/mtt-ives-holidays.png" width="480"> </a> <br>
+@ Medinah Temple, <br>
+Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986.05
 </p>
 
 <p class="alb">

@@ -62,7 +62,7 @@ Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/
 <a href="https://www.youtube.com/watch?v=VgGzYr0WWzQ&list=OLAK5uy_lkM5nlxigGoztb6lRkdwJI7z_ENQa7ck0&index=19">
 <img src="/assets/img/albums/harnoncourt-aida.png" width="480"> </a> <br>
 @ Großer Musikvereinssaal, <br>
-Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 2001.01–04
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp;  2001.01–04
 </p>
 
 <p class="alb">
@@ -79,6 +79,19 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1973.01/03
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=GpcdsAIdKhg&list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&index=8">
+<img src="/assets/img/albums/ozawa-pini-roma.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1977.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=eW6iW8lwAXY&list=OLAK5uy_lNCQOvsY2UqS-ygnpvDvFdRiSs2VyukGU&index=4">
+<img src="/assets/img/albums/bernstein-shostakovich5.png" width="480"> </a> <br>
+@ Symphony Hall, <br>
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.10
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=11b3AUHeoZ8&list=OLAK5uy_loqdEejUcfirQYxF1wpZTXRtmAJPXAgOg&index=4">
@@ -90,65 +103,6 @@ St. Louis &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&n
 <br>
 
 <p class="ttl"> – 2 – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=CjiP32iI5uk&list=OLAK5uy_l5EjXhjg9AXGdwozUQOpVrchui3C40m7E&index=8">
-<img src="/assets/img/albums/erik-van-nevel-isaac.png" width="480"> </a> <br>
-@ Jezuïetenkerk, Leuven / Sound Recording <br> Centre Steurbaut, Ghent  &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 1990/1994
-</p> 
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=d2wWrkqplzg&list=OLAK5uy_mtyaN3zq63TKIBNdqRbsnOhhLwpbI51W0&index=27">
-<img src="/assets/img/albums/rousset-lully-alceste.png" width="480"> </a> <br>
-@ Salle Gaveau, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2017.07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
-<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
-@ Kingsway Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">
-<img src="/assets/img/albums/markevitch-bizet.png" width="480"> </a> <br>
-@ Maison de la Chimie, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1965.05–06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Pwb5kJEvbu0&list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&index=5">
-<img src="/assets/img/albums/davis-berg.png" width="480"> </a> <br>
-@ Herkulessaal, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1983.12
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=7TxDFCUtgK8&list=OLAK5uy_n2MCNLWs2ZZqo9mgSzN_GLnsQQDMOxJl4&index=3">
-<img src="/assets/img/albums/mtt-ives-holidays.png" width="480"> </a> <br>
-@ Medinah Temple, <br>
-Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1986.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=GpcdsAIdKhg&list=PLwCr9cqVvxlZrQ0sSBGW2Pg_6v-qS-Wft&index=8">
-<img src="/assets/img/albums/ozawa-pini-roma.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1977.10
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=bAGjet-bNaw&list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&index=1">
-<img src="/assets/img/albums/jansons-shostakovich7.png" width="480"> </a> <br>
-@ Oslo Konserthus, <br>
-Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1988.04
-</p>
-
-<br>
-
-<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=5j7lz9GH7zY&list=OLAK5uy_lzItwnVWXBxNMa7uGvqP6jJglrS7l7jDM&index=32">
@@ -207,7 +161,7 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 <br>
 
-<p class="ttl"> – 4 – </p>
+<p class="ttl"> – 3 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=7o59GZkmHms&list=OLAK5uy_l06zSRjh6SdkNCMd5tUF_-I6Q4lkCi3lI&index=19&t=368s">
@@ -288,7 +242,7 @@ Sant Martí Sarroca, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height=
 
 
 
-<p class="ttl"> – 5 – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=OK2qe4g2i20&list=OLAK5uy_lfUFCvz5SruvH53-dWGTvs6wAw_XWkU0g&index=13"> <img src="/assets/img/albums/alla-francesca-troubadours.png" width="480"> </a> <br>
@@ -365,7 +319,14 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – 6 – </p>
+<p class="ttl"> – 5 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=vxULv7UZJc0&list=OLAK5uy_nRcse4D1X71BROW1sxWkxmiTrRcgRbqRE&index=29">
+<img src="/assets/img/albums/jacobs-cavalieri.png" width="480"> </a> <br>
+@ Teldex Studio, <br>   
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2014.05
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=9Ph_CyEGIV8&list=OLAK5uy_mDkQJnolH8w-UNpNl1wV4EzGh8IoTwKjw&index=1">
@@ -452,20 +413,13 @@ Sala Simón Bolivar, Caracas &nbsp;<img src="/assets/img/flags/ve.png" height="1
 
 <br>
 
-<p class="ttl"> – 7 – </p>
+<p class="ttl"> – 6 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=FmlxP8fswbM&list=OLAK5uy_k81XqeNzkVVX2Rwd1XTDJjuAKs1z4hU9E&index=8">
 <img src="/assets/img/albums/jaffee-landini.png" width="480"> </a> <br>
 @ Vanguard 23rd Street Studio, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1973.06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=vxULv7UZJc0&list=OLAK5uy_nRcse4D1X71BROW1sxWkxmiTrRcgRbqRE&index=29">
-<img src="/assets/img/albums/jacobs-cavalieri.png" width="480"> </a> <br>
-@ Teldex Studio, <br>   
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2014.05
 </p>
 
 <p class="alb">

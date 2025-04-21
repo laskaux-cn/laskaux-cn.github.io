@@ -8,6 +8,14 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
+<img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
+@ Salle de l&rsquo;Alcazar, <br>
+Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
+</p>
+
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=JcmQOzaDoyo&list=OLAK5uy_nMC6f8MMlpgOH4LlA4mgx1ozo-lHlvA_s&index=10">
 <img src="/assets/img/albums/frana-chant.png" width="480"> </a> <br>
 @ Kostel Panny Marie pod řetězem, <br>
@@ -119,6 +127,27 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1992.10
 </p>
 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=_qdRwCZSvcc&list=OLAK5uy_k5Eh54KsjINx40r-gg-j5YAeQ9fQ1fSF4&index=16">
+<img src="/assets/img/albums/jacobs-cavalli-giasone.png" width="480"> </a> <br>
+@ Innsbruck &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1988.05
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
+<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
+@ Kingsway Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">
+<img src="/assets/img/albums/markevitch-bizet.png" width="480"> </a> <br>
+@ Maison de la Chimie, <br> 
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1965.05–06
+</p>
 
 
 <p class="alb">

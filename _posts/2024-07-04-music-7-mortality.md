@@ -16,10 +16,43 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
-<img src="/assets/img/albums/munch-berlioz-sf.png" width="480"> </a> <br>
-@ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+<a href="https://www.youtube.com/watch?v=aVjuZ6Bb2vQ&list=PL9yl-ZQyD9w8y8cAgBD5H21Lao6fKL5qN&index=60">
+<img src="/assets/img/albums/jacobs-don-giovanni.png" width="480"> </a> <br>
+@ Teldex Studio, <br>   
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2016.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=19TwojJgkUE&list=OLAK5uy_niFTM2L8CLDvc5oCjybD9G4QQYTr_GJcY&index=51">
+<img src="/assets/img/albums/fasolis-vivaldi-juditha.png" width="480"> </a> <br>
+@ Auditorio Stelio Molo, <br>
+Lugano, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2002.01
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=gMu_mBUV3H0&list=OLAK5uy_nDm3a-wlq4Xh4yW3zuBwrqWpBe4v6vqpM&index=11">
+<img src="/assets/img/albums/flores-cavalli.png" width="480"> </a> <br>
+@ Notre-Dame de Centeilles, <br>
+Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2014.05–06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=ODZ1laysiFI&list=OLAK5uy_k8WbHLZHHLRat6gmDDMCtzOQ2YAGqovxc&index=6">
+<img src="/assets/img/albums/haim-monteverdi-poppea.png" width="480"> </a> <br>
+@ Chapelle de l’hôpital Notre-Dame <br> de Bon Secours, Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2007.02 / 2008.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=CjiP32iI5uk&list=OLAK5uy_l5EjXhjg9AXGdwozUQOpVrchui3C40m7E&index=8">
+<img src="/assets/img/albums/erik-van-nevel-isaac.png" width="480"> </a> <br>
+@ Jezuïetenkerk, Leuven / Sound Recording <br> Centre Steurbaut, Ghent  &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 1990/1994
+</p> 
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=nvoqiWSCEx4&list=OLAK5uy_l5Y9E5mLb7hcfH-9JHTY_f0rivyzOZDvI&index=21">
+<img src="/assets/img/albums/lunaisiens-marseillaise.png" width="480"> </a> <br>
+@ Cité de la Musique, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2010.07
 </p>
 
 <p class="alb">
@@ -30,16 +63,30 @@ Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=eW6iW8lwAXY&list=OLAK5uy_lNCQOvsY2UqS-ygnpvDvFdRiSs2VyukGU&index=4">
-<img src="/assets/img/albums/bernstein-shostakovich5.png" width="480"> </a> <br>
+<a href="https://www.youtube.com/watch?v=fAL5eYB_PH8&list=OLAK5uy_mxL1AdW5F7mQuxUjTkhhokPEJPGp4Wwpo&index=4">
+<img src="/assets/img/albums/munch-berlioz-sf.png" width="480"> </a> <br>
 @ Symphony Hall, <br>
-Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.10
+Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=Pwb5kJEvbu0&list=OLAK5uy_mVnay7dmh7Q40QBq1cbS1JUZqmTqyMZjc&index=5">
+<img src="/assets/img/albums/davis-berg.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1983.12
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1&t=1s">
 <img src="/assets/img/albums/agafonnikov-red-army.png" width="480"> </a> <br>
 @ Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1992
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=bAGjet-bNaw&list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&index=1">
+<img src="/assets/img/albums/jansons-shostakovich7.png" width="480"> </a> <br>
+@ Oslo Konserthus, <br>
+Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1988.04
 </p>
 
 <br>
@@ -57,6 +104,13 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/collegium-aureum-beethoven7.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>   
 Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=kfMktoROvLI&list=OLAK5uy_k-UQhp_3tpT9WE91VZP5ehsvYcGip3Qow&index=47">
+<img src="/assets/img/albums/janowski-gotterdammerung.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1983.01–04
 </p>
 
 <p class="alb">
@@ -101,6 +155,13 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=Iu4Zma6F1yY&list=OLAK5uy_k7onn_KTDN-6c-XyYCyZsVgSELc3DNQhQ&index=3">
+<img src="/assets/img/albums/sanderling-borodin2.png" width="480"> </a> <br>
+@ Lukaskirche, <br>
+Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1960.12
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=QzGoYkqhf0k&list=PLNk0_qYUtcL6EJq-ig1kq_L9StNFqwRIc&index=6">
 <img src="/assets/img/albums/mravinsky-tchaikovsky5.png" width="480"> </a> <br>
 @ Großer Musikvereinssaal, <br>
@@ -112,6 +173,13 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <img src="/assets/img/albums/ormandy-rachmaninov2.png" width="480"> </a> <br>
 @ Philadelphia City Hall, <br>
 Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
+<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
 </p>
 
 <br>
