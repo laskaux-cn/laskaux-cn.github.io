@@ -50,14 +50,14 @@ Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="1
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=nvoqiWSCEx4&list=OLAK5uy_l5Y9E5mLb7hcfH-9JHTY_f0rivyzOZDvI&index=21">
-<img src="/assets/img/albums/lunaisiens-marseillaise.png" width="480"> </a> <br>
+<img src="/assets/img/albums/lunaisiens-la-marseillaise.png" width="480"> </a> <br>
 @ Cité de la Musique, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2010.07
 </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=g0osep19iU0&list=OLAK5uy_khywdt24gQpPVA4Fo2CpvlSQTlsZfaR-E&index=8">
-<img src="/assets/img/albums/plasson-berlioz-marseillaise.png" width="480"> </a> <br>
+<img src="/assets/img/albums/plasson-la-marseillaise.png" width="480"> </a> <br>
 @ Halle aux Grains, <br>
 Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1988.06
 </p>
@@ -77,17 +77,18 @@ München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nb
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1&t=1s">
-<img src="/assets/img/albums/agafonnikov-red-army.png" width="480"> </a> <br>
-@ Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1992
-</p>
-
-<p class="alb">
 <a href="https://www.youtube.com/watch?v=bAGjet-bNaw&list=PL8AhTXrM6LH0XOOSrECUxvE3zO_MWJxOS&index=1">
 <img src="/assets/img/albums/jansons-shostakovich7.png" width="480"> </a> <br>
 @ Oslo Konserthus, <br>
 Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 1988.04
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=TSDr8Xxd5h0&list=OLAK5uy_nYRRIsnFlKBTWoaeJ9FC6_Cjq0IyvxcNk&index=1&t=1s">
+<img src="/assets/img/albums/agafonnikov-red-army.png" width="480"> </a> <br>
+@ Москва &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1992
+</p>
+
 
 <br>
 
@@ -104,6 +105,12 @@ Oslo &nbsp;<img src="/assets/img/flags/no.png" height="10.5" width="16"/>&nbsp; 
 <img src="/assets/img/albums/collegium-aureum-beethoven7.png" width="480"> </a> <br>
 @ Schloss Kirchheim: Zedernsaal, <br>   
 Kirchheim, Stuttgart &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.06 / 1981.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=pAOQidz0j-Q&list=OLAK5uy_kLas1FT-IA_ORZ-Otr5dh2rcmq7eEU6_w&index=10"> <img src="/assets/img/albums/gardiner-purcell.png" width="480"> </a> <br>
+@ St Jude-on-the-Hill, Hampstead, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1976.02 
 </p>
 
 <p class="alb">
@@ -171,15 +178,15 @@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NmZTRk-FxAY&list=OLAK5uy_kI1VMovWURKgy2x1OsCkT8C5MKLbP5eKw&index=3">
 <img src="/assets/img/albums/ormandy-rachmaninov2.png" width="480"> </a> <br>
-@ Philadelphia City Hall, <br>
+@ City Hall, <br>
 Philadelphia &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1959.04
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
-<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
-@ Halle aux Grains, <br>
-Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+<a href="https://www.youtube.com/watch?v=e-hQa2a3ffs&list=OLAK5uy_lzm9T-ZTM7XoziTr7Phm-NdCXynzhvxYc&index=8">
+<img src="/assets/img/albums/cluytens-ravel-pavane.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1962.09
 </p>
 
 <br>
@@ -196,14 +203,63 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=7tI2_JIoCtQ&list=OLAK5uy_kyI-8cw8j_UvGgaka3zYeIDJFzMwX2juc&index=3">
+<img src="/assets/img/albums/harnoncourt-mozart40.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Amsterdam &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1983.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=MYePUkbr4h4&list=OLAK5uy_key4jnScYW7hIJnP2DsmgZrN8h9phfSY0&index=12">
+<img src="/assets/img/albums/mackerras-schubert9.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.10
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=xnKi1ru-Sog&list=OLAK5uy_nEv1U8_02ZJxrKGA15g9wtfZHEgZH7yNo&index=7">
 <img src="/assets/img/albums/sawallisch-schumann.png" width="480"> </a> <br>
 @ Lukaskirche, <br>
 Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1972.09
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=k1s28gmLicc&list=OLAK5uy_npslr4yvxPAqRFkVOkJsTIc4cNEJW8ni4&index=1">
+<img src="/assets/img/albums/dutoit-saint-saens.png" width="480"> </a> <br>
+@ Kingsway Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1980.06
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=v7HPFePzQbQ&list=OLAK5uy_m_ibcxFel3QcnWJB-hBiuikkT13VIA7UE&index=14">
+<img src="/assets/img/albums/ansermet-falla-brujo.png" width="480"> </a> <br>
+@ Victoria Hall, <br>
+Genève &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 1955.10
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=22ljduG_EKs&list=OLAK5uy_mDDGNmS3ixTXhHlCXiATmzd48kB4i5hQo&index=3">
+<img src="/assets/img/albums/kleiber-la-traviata.png" width="480"> </a> <br>
+@ Bürgerbräukeller, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1976.05
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jYR3A_TszCo&list=OLAK5uy_nCCLmrzQCRIeoN9Wq8bp2LqxrNm_Q0GmU&index=14">
+<img src="/assets/img/albums/immerseel-cb.png" width="480"> </a> <br>
+@ Concertgebouw, <br>
+Brugge &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2014.02
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=fOIs8cFPzQI&list=OLAK5uy_k4btzHBaJYoVuq4x3XjIoT9omYRxhw3vw&index=2">
+<img src="/assets/img/albums/petrenko-shostakovich13.png" width="480"> </a> <br>
+@ Philharmonic Hall, <br>
+Liverpool &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2013.09
+</p>
 
 <br>
+
 
 
 
@@ -221,6 +277,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 <img src="/assets/img/albums/suitner-mozart41.png" width="480"> </a> <br>
 @ Lukaskirche, <br>
 Dresden &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1975.03
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=sqAuURYBcRo&list=OLAK5uy_n__sn_yshZ_Bf0YfDkH91qneCmCENsSr4&index=43">
+<img src="/assets/img/albums/jochum-bruckner5.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.02
 </p>
 
 <p class="alb">
@@ -248,7 +311,15 @@ New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nb
 
 
 
+
 <p class="ttl"> – 6 – </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=C8pKh70eDls&list=OLAK5uy_nUlvK67it48AmD5i9MviPF3WXp1JrTsJ0&index=7">
+<img src="/assets/img/albums/brautigam-eroica.png" width="480"> </a> <br>
+@ Österåkers kyrka, <br>   
+Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=BciDM85sHgs&list=OLAK5uy_kRnmmscweYiEF2zDgZN2XkluWCQKmaKKg&index=55">
@@ -264,16 +335,9 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1980.06
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=C8pKh70eDls&list=OLAK5uy_nUlvK67it48AmD5i9MviPF3WXp1JrTsJ0&index=7">
-<img src="/assets/img/albums/brautigam-eroica.png" width="480"> </a> <br>
-@ Österåkers kyrka, <br>   
-Österåker, Stockholm &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 2010.08
-</p>
-
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12">
+<a href="https://www.youtube.com/watch?v=2-n0SruJN_U&list=OLAK5uy_lOz3APMrkGitcbrwU7G0JnRM-_gvb_oGY&index=12&t=2s">
 <img src="/assets/img/albums/bream-cutting.png" width="480"> </a> <br>
 @ Wardour Chapel, <br>
 Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1972.06–07
@@ -284,13 +348,6 @@ Tisbury, Wiltshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width
 <img src="/assets/img/albums/marville-farnaby.png" width="480"> </a> <br>
 @ Fondation Tibor Varga, <br>
 Sion &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2006.07
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
-<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
-@ Castell de Cardona: Església de Sant Vicenç, <br>
-Cardona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
 </p>
 
 <p class="alb">
@@ -308,11 +365,40 @@ Sion, Valais &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
-<img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
-@ Grunewaldkirche, <br>
-Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
+<a href="https://www.youtube.com/watch?v=HpVah-JbvxM&list=OLAK5uy_nwnZc1W2zZoKkvWggkugHfRx3qsI_7bYc&index=9&t=4s">
+<img src="/assets/img/albums/alban-berg-haydn-op76.png" width="480"> </a> <br>
+@ Bayrischer Hof, <br>
+Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1974.03
 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=jXgd_bzQtfo&list=OLAK5uy_l1SDV9FQDShhnrtDu60rLahp52Q3WPmrY&index=4"> <img src="/assets/img/albums/latry-la-marseillaise.png" width="480"> </a> <br>
+@ Notre-Dame de Paris, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2013.01 
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=OiMJWU2_RTQ&list=OLAK5uy_lHgl5xNg4sWwgx2S6cUsAKJr2GFOMomxc&index=1">
+<img src="/assets/img/albums/ericsson-ives.png" width="480"> </a> <br>
+@ Luleå domkyrka, <br>   
+Luleå, Norrbotten &nbsp;<img src="/assets/img/flags/sv.png" height="10.5" width="16"/>&nbsp; 1991.01
+</p>
+
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=U1-Vjq7S_gk&list=OLAK5uy_l8b1kBkWEJxxfgY5IA97XBPuxR8qNSre8&index=78">
+<img src="/assets/img/albums/longhini-monteverdi8.png" width="480"> </a> <br>
+@ Chiesa di San Briccio, <br>
+Verona &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 2005.06–07
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ttybRNhj3M&list=OLAK5uy_k_pb0kJV-meLND3L2jzxbQogWhZZqOX0s&index=7">
+<img src="/assets/img/albums/savall-falconieri-folias.png" width="480"> </a> <br>
+@ Església de Sant Vicenç, <br>
+Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width="16"/>&nbsp; 2005.02–03
+</p>
+
 
 <p class="alb" style="margin-bottom:-1.8em">
 <a href="https://www.youtube.com/watch?v=nTfJK9J1aRY&list=OLAK5uy_lu_WDC06Z5-sxuGY1760LXq777VAd4gnE&index=8">
@@ -325,6 +411,12 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=uOYELHlIJ6g&list=OLAK5uy_nAopJqhKjcxbS9AkqVK6oN8I9HoM-ippI&index=1">
+<img src="/assets/img/albums/kempe-strauss-don-quixote.png" width="480"> </a> <br>
+@ Grunewaldkirche, <br>
+Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1958.04
+</p>
 
 
 <br>
@@ -340,19 +432,7 @@ Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1992.12 
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=LfGZM7a7UVY&list=OLAK5uy_nBPi0jsArSVqTuMMtiuNncQN8QVsiD4kw&index=1">
-<img src="/assets/img/albums/herreweghe-schumann1.png" width="480"> </a> <br>
-@ Herkulessaal, <br>
-München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2006.12
-</p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=3ZF4n7lshik&list=OLAK5uy_kE2nUJWiQY4a4W-OeNl0PKnpp5NWZoKZI&index=4">
-<img src="/assets/img/albums/bernstein-dvorak9.png" width="480"> </a> <br>
-@ Manhattan Center, <br>
-New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=kwDqFmh2bjU&list=OLAK5uy_l4R-78Tto8N8qADgmux6P_3qyY9FuCvqI&index=3">

@@ -8,12 +8,32 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=LfGZM7a7UVY&list=OLAK5uy_nBPi0jsArSVqTuMMtiuNncQN8QVsiD4kw&index=1">
+<img src="/assets/img/albums/herreweghe-schumann1.png" width="480"> </a> <br>
+@ Herkulessaal, <br>
+München &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 2006.12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=3ZF4n7lshik&list=OLAK5uy_kE2nUJWiQY4a4W-OeNl0PKnpp5NWZoKZI&index=4">
+<img src="/assets/img/albums/bernstein-dvorak9.png" width="480"> </a> <br>
+@ Manhattan Center, <br>
+New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1962.04
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=92MwW_7v2HE&list=OLAK5uy_neAw8-a80bpm3vwtJ2lA8mDiDBOKnzNt0&index=8">
 <img src="/assets/img/albums/francois-debussy.png" width="480"> </a> <br>
 @ Salle de l&rsquo;Alcazar, <br>
 Monte-Carlo &nbsp;<img src="/assets/img/flags/mc.png" height="10.5" width="16"/>&nbsp; 1969.05
 </p>
 
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=4NrzUri8IJo&list=OLAK5uy_m0qhNMXn_LGh-e8PuhmBtglJkBm6f8VIY&index=6">
+<img src="/assets/img/albums/plasson-debussy.png" width="480"> </a> <br>
+@ Halle aux Grains, <br>
+Toulouse &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1987.07 / 1988.07
+</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=JcmQOzaDoyo&list=OLAK5uy_nMC6f8MMlpgOH4LlA4mgx1ozo-lHlvA_s&index=10">
@@ -135,12 +155,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
-<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
-@ Kingsway Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">

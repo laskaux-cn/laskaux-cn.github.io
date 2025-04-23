@@ -107,6 +107,13 @@ Deventer, Overijssel &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" wid
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=xrdJXTypDTA&list=OLAK5uy_ncsdO1RflcpaYiIYWU1aS300-8M5ULk2Y&index=6&t=495s">
+<img src="/assets/img/albums/abbado-rossini-overtures.png" width="480"> </a> <br>
+@ Kingsway Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1978.05
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=yjbr5ZlqEoE&list=OLAK5uy_lpgnSmFtw8t62fM-NpXrcGZlaCkL7jT4g&index=14">
 <img src="/assets/img/albums/martinon-debussy-iberia.png" width="480"> </a> <br>
 @ Salle Wagram, <br>
@@ -136,7 +143,7 @@ Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbs
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=323drhAPiwI&list=OLAK5uy_l6iU4hU2YAoCwnJ8ilWbD00f5To7pFEqE&index=6">
-<img src="/assets/img/albums/cluytens-ravel.png" width="480"> </a> <br>
+<img src="/assets/img/albums/cluytens-ravel-re.png" width="480"> </a> <br>
 @ Salle Wagram, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1961.11
 </p>
@@ -183,7 +190,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=s6PUgHKl78A&list=OLAK5uy_kYrIR5_DTEDqij0T9-IAqOEcn9yfg18yE&index=7">
 <img src="/assets/img/albums/van-waas-gluck.png" width="480"> </a> <br>
-@ La Salle Philharmonique, <br>
+@ Salle Philharmonique, <br>
 Liège &nbsp;<img src="/assets/img/flags/be.png" height="10.5" width="16"/>&nbsp; 2012.07
 </p> 
 
@@ -218,7 +225,7 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 4 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=MAVwxtP50l4&t=794s">
@@ -293,14 +300,14 @@ Siran, Hérault &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="1
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=NIYRrRYWJ80&list=OLAK5uy_nMpVshYbatvr5ufRlsy7dXHhghMLcF4E8&index=5">
 <img src="/assets/img/albums/queyras-marais.png" width="480"> </a> <br>
-@ Arsenal: La Grande Salle, <br>
+@ Arsenal: Grande Salle, <br>
 Metz &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 2022.08
 </p>
 
 
 <br>
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 5 – </p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=hxJ3c85KOh4&list=OLAK5uy_nw8V0s5UFyeFewW84P3xCUVdC35KbV3SE&index=5">
@@ -363,14 +370,11 @@ El Escorial, Madriad &nbsp;<img src="/assets/img/flags/es.png" height="10.5" wid
 London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1994.05
 </p>
 
-
-
-
 <br>
 
 
 
-<p class="ttl"> – X – </p>
+<p class="ttl"> – 6 – </p>
 
 
 <p class="alb">
