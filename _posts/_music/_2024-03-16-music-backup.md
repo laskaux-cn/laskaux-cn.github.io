@@ -155,15 +155,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=6M9UJ2Zw1Cs&list=OLAK5uy_l6P0Pap1pbQS9DMwQD4_jBJu31QZojKMw&index=12">
-<img src="/assets/img/albums/markevitch-bizet.png" width="480"> </a> <br>
-@ Maison de la Chimie, <br> 
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1965.05–06
-</p>
-
-
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=u5VeZwBnHpg&list=OLAK5uy_malfn2RSAP3hoxRh93dwsQrZoo_lbLFsA&index=1">
 <img src="/assets/img/albums/toennesen-grieg.png" width="480"> </a> <br>
