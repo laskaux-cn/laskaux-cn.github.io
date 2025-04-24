@@ -8,6 +8,19 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
+<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
+@ Lutherse Kerk, <br>
+Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.11
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=FykCvAEt92k&list=OLAK5uy_njEXlnuORzqlP_DZ94gzmPjMIOjngPCzA&index=12"> <img src="/assets/img/albums/levin-beethoven-pc3-4.png" width="480"> </a> <br>
+@ Colosseum, <br>
+Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1997.11 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=LfGZM7a7UVY&list=OLAK5uy_nBPi0jsArSVqTuMMtiuNncQN8QVsiD4kw&index=1">
 <img src="/assets/img/albums/herreweghe-schumann1.png" width="480"> </a> <br>
 @ Herkulessaal, <br>

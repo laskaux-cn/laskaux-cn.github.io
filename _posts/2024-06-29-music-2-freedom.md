@@ -146,6 +146,13 @@ Roma &nbsp;<img src="/assets/img/flags/it.png" height="10.5" width="16"/>&nbsp; 
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=x1nXLkpr6hw&t=4s">
+<img src="/assets/img/albums/marcon-vivaldi-arsilda.png" width="480"> </a> <br>
+@ Martinskirche, <br>
+Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2024.06
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Vvj1Qnx7u3s&list=OLAK5uy_lTXmRJpPzrRAOl3FO1rEJGLCNXONk0wNA&index=1">
 <img src="/assets/img/albums/rousset-rameau-zais.png" width="480"> </a> <br>
 @ Chapelle royale, <br>
@@ -180,6 +187,26 @@ Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" w
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=gdVh3EKSzXc&list=PLj7bE2U1PRX9y6mv98rfG46nJWMAp7ZWJ&index=30">
+<img src="/assets/img/albums/sinopoli-tannhauser.png" width="480"> </a> <br>
+@ Colosseum, <br>
+Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1988.04
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=gXyS-ednXzY&list=OLAK5uy_nizrpGNDD_POKDUWYtWPlq-CMO4IEqiFw&index=1">
+<img src="/assets/img/albums/ashkenazy-1812.png" width="480"> </a> <br>
+@ Большой зал Санкт-Петербургской <br>филармонии, 
+Санкт-Петербург &nbsp;<img src="/assets/img/flags/ru.png" height="10.5" width="16"/>&nbsp; 1996.11–12
+</p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=l4WXI2RKTJ8&list=OLAK5uy_lndPgeRA0NVo_pYblziPmaVLy-M_TgYww&index=9"> <img src="/assets/img/albums/mtt-ives-question.png" width="480"> </a> <br>
+@ Davies Symphony Hall, <br>
+San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.09–10 
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=pyklI8D2tkc&list=OLAK5uy_nJfR-E4Gachq_FRZ3PNH6Xyf-jfWFBhoc&index=6">
 <img src="/assets/img/albums/svetlanov-debussy.png" width="480"> </a> <br>
 @ St Augustine’s, Kilburn, <br>
@@ -198,33 +225,6 @@ Boston &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="ttl"> – 4 – </p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=x1nXLkpr6hw&t=4s">
-<img src="/assets/img/albums/marcon-vivaldi-arsilda.png" width="480"> </a> <br>
-@ Martinskirche, <br>
-Basel &nbsp;<img src="/assets/img/flags/sw.png" height="11.5" width="11.5"/>&nbsp; 2024.06
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=55A3gfYObzU&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=50">
-<img src="/assets/img/albums/bilson-mozart-pc20-24.png" width="480"> </a> <br>
-@ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.04 / 1988.05
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
-<img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
-@ Lutherse Kerk, <br>
-Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1981.11
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=FykCvAEt92k&list=OLAK5uy_njEXlnuORzqlP_DZ94gzmPjMIOjngPCzA&index=12"> <img src="/assets/img/albums/levin-beethoven-pc3-4.png" width="480"> </a> <br>
-@ Colosseum, <br>
-Watford, Hertfordshire &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1997.11 
-</p>
 
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=ncP6VVNrlD0&list=OLAK5uy_lFIIzfis8pTbZnE2gyeBRXtSSssa1Y1wE&index=8">
