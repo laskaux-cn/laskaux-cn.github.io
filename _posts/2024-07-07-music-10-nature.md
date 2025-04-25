@@ -134,11 +134,15 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 Haarlem &nbsp;<img src="/assets/img/flags/nl.png" height="10.5" width="16"/>&nbsp; 1989.03
 </p>
 
+<p class="alb" style="margin-bottom:-1.8em">
+<a href="https://www.youtube.com/watch?v=t5n0DqFlpMY&list=OLAK5uy_mLinz01lBut9tTJSTM_3GECc_TdQAnAJk&index=5">
+<img src="/assets/img/albums/janowitz-strauss-4songs.png" width="480"> </a> <br> </p>
+
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=3LSi053VMqw&list=PL8AhTXrM6LH22mwvMCG1b44I1KJvrOnsM&index=3&t=5s">
-<img src="/assets/img/albums/norman-strauss-4songs.png" width="480"> </a> <br>
-@ Paul-Gerhardt-Kirche, <br>
-Leipzig &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1982.08
+<a href="https://www.youtube.com/watch?v=TsVLyfWld-4&list=OLAK5uy_n6eLEgNQcA6WWb1HmFtOjR4AbwXPcueLI&index=3&t=98s">
+<img src="/assets/img/albums/tomowa-sintow-strauss-4songs.png" width="480"> </a> <br>
+@ Jesus-Christus-Kirche / Philharmonie, <br>
+Berlin &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1973.02 / 1985.11
 </p>
 
 <p class="alb">

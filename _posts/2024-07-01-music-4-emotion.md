@@ -17,10 +17,10 @@ Manchester &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
-<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="480"> </a> <br>
-@ Abbey Road Studios, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.02
+<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
+<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
+@ Henry Wood Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
 </p>
 
 <p class="alb">
@@ -31,18 +31,16 @@ Kaiserslautern &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=SFScmpAllxs&list=OLAK5uy_k1uG2eAAArt43lTUMjxdMX4oD1Z2zAMk4&index=21">
-<img src="/assets/img/albums/pinnock-handel-op4.png" width="480"> </a> <br>
-@ Henry Wood Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1991.06
+<a href="https://www.youtube.com/watch?v=kaWo866elOc&list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&index=23">
+<img src="/assets/img/albums/haebler-jcbach.png" width="480"> </a> <br>
+@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1972.10
 </p>
 
-
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=fF1EjSS67tY&list=OLAK5uy_n7eY8svgTcspZfk4KAo9J7EO5KfZTzwkI&index=63">
-<img src="/assets/img/albums/bilson-mozart-pc25-26.png" width="480"> </a> <br>
-@ St John&rsquo;s, Smith Square, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1986.10
+<a href="https://www.youtube.com/watch?v=ndQp5AGIeG0&list=PL8AhTXrM6LH34C8v1QRjkbrMNZ-KBOJbN&index=1">
+<img src="/assets/img/albums/wallfisch-haydn-sc.png" width="480"> </a> <br>
+@ Abbey Road Studios, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1990.02
 </p>
 
 <p class="alb">
@@ -59,24 +57,10 @@ Praha &nbsp;<img src="/assets/img/flags/cs.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1">
+<a href="https://www.youtube.com/watch?v=_FKv9moORv0&list=OLAK5uy_lQzryU9UoS0WPJm5Pk1QcTwPKYggek1II&index=1&t=3s">
 <img src="/assets/img/albums/orpheus-prokofiev1.png" width="480"> </a> <br>
 @ Performing Arts Center, <br>
 Purchase, New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1987.12
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=38MMIUE-m2o&list=PL8AhTXrM6LH0Z7Yhobrt3LfuPBdlwaQA0&index=2&t=10s">
-<img src="/assets/img/albums/mackerras-mozart41.png" width="480"> </a> <br>
-@ City Halls, <br>
-Glasgow &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 2007.08
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=Upwuyfc_42o&t=2s">
-<img src="/assets/img/albums/szell-beethoven3.png" width="480"> </a> <br>
-@ Severance Hall, <br>
-Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1957.02
 </p>
 
 <br>
@@ -114,6 +98,13 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 </p>
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=323drhAPiwI&list=OLAK5uy_l6iU4hU2YAoCwnJ8ilWbD00f5To7pFEqE&index=6">
+<img src="/assets/img/albums/cluytens-ravel-re.png" width="480"> </a> <br>
+@ Salle Wagram, <br>
+Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1961.11
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=yjbr5ZlqEoE&list=OLAK5uy_lpgnSmFtw8t62fM-NpXrcGZlaCkL7jT4g&index=14">
 <img src="/assets/img/albums/martinon-debussy-iberia.png" width="480"> </a> <br>
 @ Salle Wagram, <br>
@@ -132,20 +123,6 @@ Montréal &nbsp;<img src="/assets/img/flags/ca.png" height="10.5" width="16"/>&n
 <img src="/assets/img/albums/bernstein-copland-mexico.png" width="480"> </a> <br>
 @ Manhattan Center, <br>
 New York &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1961.03
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=9bGk-zinJ4E&list=OLAK5uy_khP-YpYr_K8Y0_aPTaDNMzoxL-yJ86e9I&index=4">
-<img src="/assets/img/albums/gould-nielsen.png" width="480"> </a> <br>
-@ Orchestral Hall, <br>
-Chicago &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1966.04
-</p>
-
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=323drhAPiwI&list=OLAK5uy_l6iU4hU2YAoCwnJ8ilWbD00f5To7pFEqE&index=6">
-<img src="/assets/img/albums/cluytens-ravel-re.png" width="480"> </a> <br>
-@ Salle Wagram, <br>
-Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1961.11
 </p>
 
 <p class="alb">
@@ -385,9 +362,10 @@ London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp
 
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=kaWo866elOc&list=OLAK5uy_m0Y6vcev_nZ7tf3S3GW6c3_5HbliXKvtk&index=23">
-<img src="/assets/img/albums/haebler-jcbach.png" width="480"> </a> <br>
-@ Wien &nbsp;<img src="/assets/img/flags/at.png" height="10.5" width="16"/>&nbsp; 1972.10
+<a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
+<img src="/assets/img/albums/levin-mozart-pc17.png" width="480"> </a> <br>
+@ Walthamstow Assembly Hall, <br>
+London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
 </p>
 
 <p class="alb">
@@ -411,12 +389,6 @@ Los Angeles &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1967.12
 </p>
 
-<p class="alb">
-<a href="https://www.youtube.com/watch?v=kUhR3Xf0ihI&list=PLKNeKDMjgWYieluoSCxU_kA-Z2ikjFEAM&index=2">
-<img src="/assets/img/albums/levin-mozart-pc17.png" width="480"> </a> <br>
-@ Walthamstow Assembly Hall, <br>
-London &nbsp;<img src="/assets/img/flags/uk.png" height="10.5" width="16"/>&nbsp; 1996.08
-</p>
-
 <br>
+
 

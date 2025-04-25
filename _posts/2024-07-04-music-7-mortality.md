@@ -157,7 +157,7 @@ Morbio Inferiore, Ticino &nbsp;<img src="/assets/img/flags/sw.png" height="11.5"
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=2cnOnRLBqOQ&list=OLAK5uy_laePA1RfQrAv4MytLWo7CC6LFrAkGLRC0&index=4">
 <img src="/assets/img/albums/haitink-mahler5.png" width="480"> </a> <br>
-@ Berliner Philharmonie, <br>
+@ Philharmonie, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1988.05
 </p>
 
@@ -407,7 +407,7 @@ Cardona, Barcelona &nbsp;<img src="/assets/img/flags/es.png" height="10.5" width
 <p class="alb">
 <a href="https://www.youtube.com/watch?v=MmhIL8V5mVI&list=OLAK5uy_k20d85hY2nzf2ar6wnUJriVFWCsN1yStE&index=48">
 <img src="/assets/img/albums/karajan-webern.png" width="480"> </a> <br>
-@ Berliner Philharmonie, <br>
+@ Philharmonie, <br>
 Berlin &nbsp;<img src="/assets/img/flags/de.png" height="10.5" width="16"/>&nbsp; 1974.02
 </p>
 

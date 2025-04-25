@@ -8,6 +8,13 @@ tags: music
 ---
 
 <p class="alb">
+<a href="https://www.youtube.com/watch?v=3LSi053VMqw&list=PL8AhTXrM6LH22mwvMCG1b44I1KJvrOnsM&index=3&t=5s">
+<img src="/assets/img/albums/norman-strauss-4songs.png" width="480"> </a> <br>
+@ Paul-Gerhardt-Kirche, <br>
+Leipzig &nbsp;<img src="/assets/img/flags/ddr.png" height="10.5" width="16"/>&nbsp; 1982.08
+</p>
+
+<p class="alb">
 <a href="https://www.youtube.com/watch?v=Umwz_O2iHWs&list=OLAK5uy_mX8GLn1D8x1eB2KPPAs3KtFdR_6wIXSUE&index=5">
 <img src="/assets/img/albums/leonhardt-cpe-bach.png" width="480"> </a> <br>
 @ Lutherse Kerk, <br>
@@ -213,8 +220,6 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 @ Maison de la Radio: Studio 104, <br>
 Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp; 1970.09
 </p>
-
-
 
 
 <p style="text-align:center">

@@ -127,9 +127,10 @@ Paris &nbsp;<img src="/assets/img/flags/fr.png" height="10.5" width="16"/>&nbsp;
 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=Ux6U6mPcqrM&list=OLAK5uy_lndPgeRA0NVo_pYblziPmaVLy-M_TgYww&index=17"> <img src="/assets/img/albums/mtt-ives-question.png" width="480"> </a> <br>
-@ Davies Symphony Hall, <br>
-San Francisco &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1999.10 
+<a href="https://drive.google.com/file/d/1E7NVcwfjZFo8O7GCHvTEwDVaCTbHBMup/view?usp=sharing">
+<img src="/assets/img/albums/dohnanyi-ives.png" width="480"> </a> <br>
+@ Severance Hall, <br>
+Cleveland &nbsp;<img src="/assets/img/flags/us.png" height="10.5" width="16"/>&nbsp; 1994.02
 </p>
 
 <br>
