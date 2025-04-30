@@ -1,0 +1,130 @@
+---
+layout: post
+title: 我为何返回学术界
+subtitle: 
+excerpt: <br>
+
+tags: random
+---
+
+<p style="margin-top:-0.75em"> </p>
+
+><p class="poem-ns">
+>My only love sprung from my only hate! </p>
+><p class="poem-ns">
+>Too early seen unknown, and known too late! </p>
+><p class="poem-ns">
+>Prodigious birth of love it is to me, </p>
+><p class="poem-last">
+>That I must love a loathed enemy. </p>
+>
+><p align="right" class="quote-ttl" style="margin-bottom:-0.5em">  
+>―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
+
+
+<p style="margin-bottom:2em"> </p>
+
+
+去年夏天做出了个不算轻松的决定——辞去了开始不到两年、体验良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的美国东北（新英格兰）地区，独闯人文环境和生活方式迥异的西部世界。自从在新的学校与城市安顿下来，一晃已有半年多；前些日子翻出了搬家前存下的几篇博客草稿，最近打算趁夜深人静时慢慢写完，且作人生新阶段的一点自我记录。
+
+坦白说，作为一个惯于谨慎甚至多虑的人，我很难用三言两语概括自己由暂别到回归学术界前后的完整心路历程；其中的一些具体话题，例如两种职业路线的对比借鉴，我计划用两篇后续博文单独探讨——标题暂定为[「基础科学有前途吗」]()和[「我从工业界学到了什么」]()<span style="margin-left:-0.33em">。</span>但是，在这些实际考量外，驱动我做出这两次选择的还有相当多的偶然因素，乃至超出理性的机缘巧合；特别是从大学校园的暂时离开反而使我有更多机会质问自己一些过去无意或有意回避的「大问题」——我为什么要做学术？我想做怎样的学术？我向往怎样的生活？如何理解学术事业[^science]对于个人和社会的长期意义？等等。
+
+[^science]: 	&ensp;严格地说，本文及后续博客文章中探讨的「学术」主要指基础自然科学，但希望其中的一部分讨论对其它相关知识领域也能有少许借鉴意义。
+
+最后，我觉得自己暂时找到了答案，尽管已不再能记清当初的全部疑问。以下是我的一些回忆片段——谨以此为正在或曾经面对类似选择的同路人提供一份真实的样本。
+
+
+
+<p class="ttl"> 一 </p>
+
+从大学本科开始直至博士毕业前，我都把学术路线作为自己未来规划的绝对首选，甚至几乎从未认真考虑过其它职业选项。最简单直接的原因是：在整个学生时代，高度专注的学习与思考给我带来的本能快感无法被任何其它事情取代。在教育经历方面，客观地说我也比较顺利：先后在中国和美国最顶尖的大学读书，本科期间及时发现了自己喜欢的前沿研究领域，并在这一领域的世界学术中心接受博士科研训练，做出了一点自认为质量还不错的原创工作；更重要的是，我有幸在正确的引导和健康的压力下度过了读博的全过程，被不少小伙伴评价为拥有博士生中少见的积极心态。于是，在毕业后继续深耕、经过博士后研究竞争大学或科研机构的教职，似乎应该是我最自然的轨迹。
+
+在当下的美国——尤其是社会风貌疲敝、矛盾激化的后疫情时代<span style="margin-right:-0.33em">，</span>「学术劝退」已然成为扩散于学生和年轻学者中间的一股有很强说服力的潮流。具体地说，十分有限的教职岗位导致学术人才的极度内卷；不稳定的经费支持时常为科学家制造职业危机和精神焦虑；与工业界、金融以及专业服务行业 <span class='reg'>(professional services)</span> 明显的收入差距使得许多科研人员怀疑自身工作的价值；各种物质、时间与精神压力也对不少年轻学者的个人与家庭生活造成了可见的负面影响。因此从理智上讲，除了极少数的学术明星、少数商业化前景明朗的研究方向和实在没有其它选择的特殊案例，对于大多数的博士生，在获得学位后转做一份自己喜欢且稳定的非学术工作都是现实收益更高的合理选项。
+
+一直以来，我对上述「劝退理论」总体是认同的——因为它的核心论据基本都是客观事实。不过，我在读博期间完全没有想过去践行这套理论——除了学习与研究乐在其中，我还认为自身的某些特质可有助于「豁免」学术路线的个别劝退点：比如，长期的低物质欲望和简单生活模式使我对普通教职的薪资水准颇为接纳，反而很少羡慕高收入行业；再比如，我很乐于探索未知世界，现实中不排斥在不同的城市或国家间穿梭辗转，因而也不太介意学术生涯前期的各种不确定性。总之，天真的乐观心态使我倾向于暂时搁置关于未来的纠结而专注于当下最享受的事：
+
+> <p class="quote">
+> — Qu’est-ce qu’optimisme ? disait Cacambo. — Hélas ! dit Candide, c’est la rage de soutenir que tout est bien quand on est mal. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>“What is optimism?” said Cacambo. “Alas!” said Candide, “it is the obstinacy of insisting that everything is good when it is bad.” </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―Voltaire, <nobr> <a href="https://fr.wikisource.org/wiki/Page%3AVoltaire_-_%C5%92uvres_compl%C3%A8tes_Garnier_tome21.djvu/206"> <i>Candide</i> </a> </nobr> </p>
+
+
+
+<p class="ttl"> 二 </p>
+
+然而，我却在博士毕业年的求职季末带着歉意放弃了所有已经通过面试的博士后职位，接受了最初出于好奇申请的唯一一份工业界工作。这次突然的转向让不少了解我的人（包括导师、同事、好友）都颇感意外。我当时如此选择大致有以下几个原因：
+
+首先是研究领域的演化趋势。我的博士周期恰逢超导量子电路 <span class='reg'>(superconducting quantum circuits)</span> 开始得到广泛关注并迅速扩展的阶段；到了毕业前夕，领域的整体面貌已和我与之初遇时大为不同：核心实验方法基本成熟和标准化，科研模式逐渐由思路发散的基础探索向目标导向的工程风格转型；工业界实验室借助资源优势占据了系统级实验的大部分前沿；小型的学术团队虽也能在许多具体问题上有所突破，但试图像往日一样对领域产生根本方向性影响的可能性逐渐减小。博士阶段的经历已使我基本明确：偏重工程化思维的科研并非我真正的兴趣所在；相较之下，我期待能在更加自由开放的新领域中开启日后的独立学术生涯。于是我在思考下一步的方向时，首先排除了在相同领域做博士后的选项。
+
+我将重点聚焦在了超导量子技术与基础实验物理的交叉。但这类实验室不仅数量少，最令我心动的几个几乎都在美国之外。这一度很令我兴奋——彼时的我仿佛正在经历和美国的「七年之痒」<span style="margin-left:-0.33em">，</span>对这片土地的好感处于自本科首次交换留学以来的低谷期；与此同时，我在博士期间赴欧洲访问、旅行的美好回忆和与欧洲同行交流的良好体验使我很愿意在大西洋另一侧度过无论长短的下一阶段。
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=xQzNjsI18yY&list=OLAK5uy_k9Uf5DSb9UIyBUhO7ftiMqNXkwu00Hu0Y&index=2"> <img src="/assets/img/albums/bernstein-gershwin.png" width="480"> </a>
+</p>
+
+不巧的是，<span class='num'>2022</span> 年是中国公民跨国旅行格外困难的一年，对于旅居美国但没有长期身份的留学生尤其如此。我先是以完全远程的方式通过了几个欧洲实验室的面试，随后在准备签证申请和规划行程时意识到了在毕业后的夏天横跨大西洋的现实困难。不得已，我只好暂时搁置了前往欧洲的计划。接下来在美国做什么呢？相较于立刻在另一所大学开始未必非常符合自己学术理想的博士后研究，我更愿意换一个不一样的环境、收获一些传统科研职位不常有的体验。
+
+
+
+<p class="ttl"> 三 </p>
+
+于是我毕业后向北移居波士顿，加入了一家总部位于瑞士的小型跨国公司。至于第一家面试就选择签约的原因，除了与我的专业知识高度匹配，更重要的是一种「气质相投」<span style="margin-left:-0.33em">：</span>我所在的小团队以及需要合作对接的其他同事（包括公司创始人）无论是否担任技术岗位，大多数都有博士学位和扎实的科研经历；在一轮面试中，某位已经出任管理工作多年的公司前辈[^ion]与我自发讨论起了双缝干涉、退相干 <span class='reg'>(decoherence)</span> 这类基本量子物理概念——这一般是与我导师这样的老派学者才会开启的话题；在其余的面试与交流环节中，学生与博士后阶段来自瑞士、法国、奥地利、美国多个知名实验室的各位前辈都真诚地分享了过去面对职业选择时的心得，以及对我非常诚恳的建议。这种无意间找到同类的欣喜让我果断开始了自己的第一份工业界工作。
+
+[^ion]: 	&ensp;这位前辈于 <span class='num'>15–20</span> 年前攻读博士期间在离子阱 <span class='reg'>(ion trap)</span> 量子计算实验系统中做出过很精彩的工作。
+
+新工作非常吸引我的另一点是广泛的对外交流机会——因为产品与服务在领域内颇有影响，公司与众多大学、国家实验室和工业界实验室建立了业务往来与合作关系。
+
+<p class="ttl"> 四 </p>
+
+<p class="alb">
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a>
+</p>
+
+
+<p class="ttl"> 五 </p>
+
+<p class="alb">
+<a href="https://youtu.be/Tsux27kMwjc?si=9yaMuVbJSCnjl3MN&t=1337s">
+<img src="/assets/img/albums/gould-solitude.png" width="480"> </a> 
+</p>
+
+> <p class="play">
+> MARIANNE SCHROEDER.&nbsp; It did seem like a very romantic place to me. And this was one of the reasons why I wanted to go north, because considering a place romantic means that one doesn’t know too much about it. </p>
+
+> <p class="play">
+> W. V. MACLEAN.&nbsp; He’s sitting there sort of away from the madding crowd that’s stampeding up and down the aisle. And actually he’s trying to sort of isolate himself because in fact, shortly he will be isolated for a long period of time in the lonely north. <nobr>. . .</nobr> The person that makes the trip more often, of course, is going to realize that before long, he’s going to be up against himself. Not against his fellow travelers. No so much, but he’s going to have to be up against his own sad self.  </p>
+
+> <p class="play">
+> FRANK VALLEE.&nbsp; You are excluding the rest of the world that will never understand, and you have made your own world with these other people. And probably what you will never know and nobody else will ever know is whether you are kidding yourself or not—have you really made your peace with these other people, or have you made a peace because the only alternative to the peace is a kind of crack-up. </p>
+
+> <p class="play" markdown="1">
+> W. V. MACLEAN.[^maclean]&nbsp; There’s no moral equivalent, said William James, no moral equivalent of war. That is that there’s nothing like war for providing something for you to be against. Apparently very few of us can afford to be <i>for</i> something; apparently all of us can afford to be <i>against</i> something. <nobr>. . .</nobr> So I go on to say that the north is the war, that you can afford to be against Monther Nature, if only humans make it possible. <nobr>. . .</nobr> No longer do humans combine to defy or to measure or to read or to understand or to live with the thing we call Mother Nature. Our number one enemy instead of being Mother Nature is of course <i>human nature</i>. <nobr>. . .</nobr> So we’re up against this William James. <nobr>. . .</nobr> I suppose he meant really that not war, the moral equivalent for us is going north. </p>
+
+[^maclean]: 	&ensp;<span class='reg'>W.V. Maclean</span> 
+
+
+<p class="ttl"> 六 </p>
+
+> <p class="quote">
+> Savoir se libérer n’est rien ; l’ardu, c’est savoir être libre. </p>
+>
+> <p class="quote-transl">
+> Transl.&nbsp; <i>Knowing to free oneself is nothing; the arduous thing is to know what to do with one’s freedom. </i> </p>
+>
+><p align="right" class="quote-ttl"> 
+> ―André Gide, <nobr> <a href="https://fr.wikisource.org/wiki/Page%3AGide_-_L%E2%80%99Immoraliste.djvu/26"> <i>L’immoraliste</i> </a> </nobr> </p>
+
+
+
+<br>
+
+
+
+
+
+
+
