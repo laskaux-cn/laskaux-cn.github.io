@@ -32,7 +32,7 @@ tags: music-notes
 > Die Musik weckt die Zeit, sie weckt uns zum feinsten Genusse der Zeit, sie weckt <nobr>. . .</nobr> insofern ist sie sittlich. Die Kunst ist sittlich, sofern sie weckt. Aber wie, wenn sie das Gegenteil tut? Wenn sie betäubt, einschläfert, der Aktivität und dem Fortschritt entgegenarbeitet? Auch das kann die Musik, auch auf die Wirkung der Opiate versteht sie sich aus dem Grunde. </p>
 >
 > <p class="quote-transl">
-> Transl.&nbsp; <i>Music awakens time, awakens us to our finest enjoyment of time. Music awakens—and in that sense it is moral. Art is moral, insofar as it awakens. But what if it were to do the opposite? If it were to numb us, put us asleep, counteract all activity and progress? And music can do that as well. It knows all too well the effect that opiates have.” </i> </p>
+> Transl.&nbsp; <i>Music awakens time, awakens us to our finest enjoyment of time. Music awakens—and in that sense it is moral. Art is moral, insofar as it awakens. But what if it were to do the opposite? If it were to numb us, put us asleep, counteract all activity and progress? And music can do that as well. It knows all too well the effect that opiates have. </i> </p>
 >
 ><p align="right" class="quote-ttl"> 
 > ―Thomas Mann, <nobr> <a href="https://archive.org/details/derzauberberg0000thom_e5f8/page/104/mode/2up"> <i>Der Zauberberg</i> </a> </nobr> </p>

@@ -19,13 +19,13 @@ tags: random
 >That I must love a loathed enemy. </p>
 >
 ><p align="right" class="quote-ttl" style="margin-bottom:-0.5em">  
->―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145 </a> </p>
+>―<a href="https://en.wikisource.org/wiki/Page%3ARomeo_and_Juliet_(1917)_Yale.djvu/41"><i>Romeo and Juliet</i>, 1.5.142–145</a></p>
 
 
 <p style="margin-bottom:2em"> </p>
 
 
-前段时间做了一个并不轻松的选择——辞去了开始不到两年、体验十分良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书、工作超过九年的美东新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿下来，借机重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
+去年夏天做了一个并不轻松的决定——辞去了开始不到两年、体验十分良好的工业界职位，以普通博士后身份重返大学，继续基础研究；随之还离开了读书和工作总共超过九年的美东新英格兰地区，独闯人文环境和生活方式迥异的西部世界。最近在新的城市与学校稍稍安顿下来，借机重启闲置多年的中文博客，且作人生新阶段的一点自我记录。
 
 新版博客计划将按几个不同的主题系列更新，其中标签为 [<span class='reg'>#random</span>](/tags#random) 的随笔会不设约束地自由探讨一些关于学术、知识、社会的零杂话题，写且仅写我最真实的想法。作为首篇，我想认真谈一谈自己之前为何暂时离开学术界、现在又为何决定回归。
 
@@ -118,7 +118,7 @@ tags: random
 <p class="ttl"> 四 </p>
 
 <p class="alb">
-<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/tilson-thomas-copland-appalachian.png" width="480"> </a>
+<a href="https://www.youtube.com/watch?v=XiMI0c41ycM&list=OLAK5uy_n8t9nTdBqatT-J9YEFmowe91wjeksT-Ps&index=2&t=1129s"> <img src="/assets/img/albums/mtt-copland-appalachian.png" width="480"> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=ccHfDX9GChc&list=OLAK5uy_njqc-matMrey91PLHScbAOkh_NGsaKMtg&index=6"> <span class='reg'>“Simple Gifts”</span> </a>
@@ -147,8 +147,6 @@ tags: random
 > <p class="play">
 > W. V. MACLEAN.&nbsp; There’s no moral equivalent, said William James, no moral equivalent of war. That is that there’s nothing like war for providing something for you to be against. Apparently very few of us can afford to be <i>for</i> something; apparently all of us can afford to be <i>against</i> something. <nobr>. . .</nobr> So I go on to say that the north is the war, that you can afford to be against Monther Nature, if only humans make it possible. <nobr>. . .</nobr> No longer do humans combine to defy or to measure or to read or to understand or to live with the thing we call Mother Nature. Our number one enemy instead of being Mother Nature is of course <i>human nature</i>. <nobr>. . .</nobr> So we’re up against this William James. <nobr>. . .</nobr> I suppose he meant really that not war, the moral equivalent for us is going north. </p>
 
-> <p class="play">
-> W. V. MACLEAN.&nbsp; There’s no moral equivalent, said William James, no moral equivalent of war. That is that there’s nothing like war for providing something for you to be against. Apparently very few of us can afford to be <i>for</i> something; apparently all of us can afford to be <i>against</i> something. <nobr>. . .</nobr> So I go on to say that the north is the war, that you can afford to be against Monther Nature, if only humans make it possible. <nobr>. . .</nobr> No longer do humans combine to defy or to measure or to read or to understand or to live with the thing we call Mother Nature. Our number one enemy instead of being Mother Nature is of course <i>human nature</i>. <nobr>. . .</nobr> So we’re up against this William James. <nobr>. . .</nobr> I suppose he meant really that not war, the moral equivalent for us is going north. </p>
 
 
 
