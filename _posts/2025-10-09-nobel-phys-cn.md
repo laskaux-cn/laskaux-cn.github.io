@@ -2,7 +2,7 @@
 layout: post
 title: 从人造原子到量子机器
 subtitle: 解读 <span class="num">2025</span> 年诺贝尔物理学奖
-excerpt: <br>
+excerpt: 知识与实践也许会有界限，但不应被穷尽的是人类面对自然规律的求知欲和基于科学方法的创造力。我想这大概也是诺贝尔物理学奖希望向世界传递的信息。 <br>
 
 tags: science
 ---
