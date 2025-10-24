@@ -7,7 +7,7 @@ excerpt: 知识与实践也许会有界限，但不应被穷尽的是人类面�
 tags: science
 ---
 
-<center><img src="/assets/img/nobel/nobel-phys-2025.jpeg" width="750"></center>
+<center><img src="/assets/img/nobel/nobel-phys-2025.webp" width="750"></center>
 <p class="alb" style="margin-top:0.25em; font-size:0.82em; text-align:center; color: #9B9B9B">
 Illustration: Niklas Elmehed © Nobel Prize Outreach <br> 
 </p>
