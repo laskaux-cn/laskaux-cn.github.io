@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从人造原子到量子机器
-subtitle: 解读 <span class="num">2025</span> 年诺贝尔物理学奖
+subtitle: 解读 <span class="reg">2025</span> 年诺贝尔物理学奖
 excerpt: 知识与实践也许会有边界，但不应被穷尽的是人类面对自然规律的求知欲和基于科学方法的创造力。我想这大概也是诺贝尔物理学奖希望向世界传递的信息。 <br>
 
 tags: science
@@ -13,10 +13,10 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 </p>
 
 <p style="font-size: 0.95em; color:gray">
-<b>作者注：</b>本文由「正文」与「后记」两部分组成——其中正文为 <span class="num">2025</span> 年诺贝尔物理学奖的通俗简介（英文版已于加州大学圣巴巴拉分校的合作媒体平台 <span class="reg">The Conversation</span> 在线发表）<span style="margin-left:-0.5em">；</span>后记部分则通过原始文献与口述历史对此次获奖工作的历史意义和现实影响稍作探讨。读者可根据兴趣选择阅读其中的部分或全部内容。
+<b>作者注：</b>本文由「正文」与「后记」两部分组成——其中正文为 <span class="reg">2025</span> 年诺贝尔物理学奖的通俗简介（英文版已于加州大学圣巴巴拉分校的合作媒体平台 <span class="reg">The Conversation</span> 在线发表）<span style="margin-left:-0.5em">；</span>后记部分则通过原始文献与口述历史对此次获奖工作的历史意义和现实影响稍作探讨。读者可根据兴趣选择阅读其中的部分或全部内容。
 </p>
 
-<br><span class="num">10</span> 月 <span class="num">7</span> 日，瑞典皇家科学院宣布将 <span class="num">2025</span> 年诺贝尔物理学奖授予三位首先在人造电路中发现**宏观尺度**量子力学现象的物理学家——
+<br><span class="reg">10</span> 月 <span class="reg">7</span> 日，瑞典皇家科学院宣布将 <span class="reg">2025</span> 年诺贝尔物理学奖授予首先在人造电路中发现**宏观尺度量子力学**的三位物理学家——
 
 <p style="text-align:center;">
 <span class="reg" style="margin-left:2em">John Clarke</span> &ensp; 约翰·克拉克<br>
@@ -24,7 +24,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 <span class="reg" style="margin-left:0.7em">John M. Martinis</span> &ensp; 约翰·马蒂尼斯
 </p>
 
-今年适逢量子力学理论创立一百周年。诺贝尔物理学奖也在继 <span class="num">2012</span> 年与 <span class="num">2022</span> 年后再次表彰当代量子物理前沿领域的奠基性实验工作。
+今年适逢量子力学理论创立一百周年。诺贝尔物理学奖也在继 <span class="reg">2012</span> 年与 <span class="reg">2022</span> 年后再次表彰当代量子物理前沿领域的奠基性实验工作。
 
 
 
@@ -45,7 +45,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 
 ### <br> 宏观超导量子电路
 
-<span class="num">1985</span> 年 <span class="num">10</span> 月，彼时正于加州大学伯克利分校工作的三位年轻科学家（也是今年的三位诺贝尔物理学奖得主）发表了一组极具开创性研究结果——通过严格实验，他们在**超导电路**中首次发现了遵循量子力学定律的宏观物理变量。
+<span class="reg">1985</span> 年 <span class="reg">10</span> 月，彼时正于加州大学伯克利分校工作的三位年轻科学家（也是今年的三位诺贝尔物理学奖得主）发表了一组极具开创性研究结果——通过严格实验，他们在**超导电路**中首次发现了遵循量子力学定律的宏观物理变量。
 
 超导是一种物质在低温或高压下的特殊状态，它最为人熟知的性质是「消失」的直流电阻。在超导体中，原本独立运动的电子两两结合成为**库珀对** <span class="reg">(Cooper pair)</span>，它们是超导电流的微观载体；数以亿万计的库珀对会凝聚于一个**宏观基态**，其波函数拥有一个相位变量，能够描述大量库珀对的集体运动。
 
@@ -53,7 +53,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 
 为了观察验证超导相位变量的宏观量子特性，三位科学家选择使用了一种叫做**约瑟夫森结** <span class="reg">(Josephson junction)</span> 的电路元件——它由两侧的超导体和中间一层纳米厚度的绝缘体组成；由于库珀对的量子隧穿效应，约瑟夫森结不仅能够传导超导电流，还可以产生可控的**非线性**电压—电流关系——这是能在宏观尺度检验量子力学的关键。
 
-在实验中，三人小组通过仔细设计的滤波电路将一个电流偏置的约瑟夫森结与周边电磁环境尽量隔离，并借助稀释制冷技术使其处于极低温下（最低可低于 <span class="num">−273.13 °C</span> 或者绝对零度以上 <span class="num">0.02</span> 摄氏度）<span style="margin-left:-0.5em">。</span>他们清晰地测量到了约瑟夫森结两侧规范不变相位差的**宏观量子隧穿**或**逃逸**现象——通俗地说，就是量子力学允许物体无需越过运动路径上势能的最高点即可出现在其另一侧。需要特别注意的是：这种宏观量子隧穿与前段提到的库珀对穿过约瑟夫森结中间的绝缘薄层是两个**截然不同**的物理过程——后者是纳米尺度的微观量子现象，而前者则是宏观物理变量（运动自由度）的量子行为。
+在实验中，三人小组通过仔细设计的滤波电路将一个电流偏置的约瑟夫森结与周边电磁环境尽量隔离，并借助稀释制冷技术使其处于极低温下（最低可低于 <span class="reg">−273.13 °C</span> 或者绝对零度以上 <span class="reg">0.02</span> 摄氏度）<span style="margin-left:-0.5em">。</span>他们清晰地测量到了约瑟夫森结两侧规范不变相位差的**宏观量子隧穿**或**逃逸**现象——通俗地说，就是量子力学允许物体无需越过运动路径上势能的最高点即可出现在其另一侧。需要特别注意的是：这种宏观量子隧穿与前段提到的库珀对穿过约瑟夫森结中间的绝缘薄层是两个**截然不同**的物理过程——后者是纳米尺度的微观量子现象，而前者则是宏观物理变量（运动自由度）的量子行为。
 
 <center><img src="/assets/img/nobel/MQT_I=0.35_JJ.webp" width="400"></center>
 
@@ -91,11 +91,11 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 <p align="center"> ∗ &emsp; ∗ &emsp; ∗ </p>
 
 
-那么，量子力学有可能也适用于宏观世界吗？<span class="num">1935</span> 年，<span class="reg">Erwin Schrödinger</span> 提出了著名的**猫佯谬** <span class="reg">(cat paradox)</span>，用近乎诙谐的方式展示了将量子理论简单推广至宏观物体乃至高等生物后会导致的荒谬结果。让一只猫处于生与死两种状态的量子叠加显然是不现实的；但另一方面，<span class="reg">Schrödinger</span> 的思想实验（及其各种衍生版本）却也吸引了一些物理学家去尺度远大于原子、分子的系统中探寻量子力学的踪迹。
+那么，量子力学有可能也适用于宏观世界吗？<span class="reg">1935</span> 年，<span class="reg">Erwin Schrödinger</span> 提出了著名的**猫佯谬** <span class="reg">(cat paradox)</span>，用近乎诙谐的方式展示了将量子理论简单推广至宏观物体乃至高等生物后会导致的荒谬结果。让一只猫处于生与死两种状态的量子叠加显然是不现实的；但另一方面，<span class="reg">Schrödinger</span> 的思想实验（及其各种衍生版本）却也吸引了一些物理学家去尺度远大于原子、分子的系统中探寻量子力学的踪迹。
 
 上世纪中叶，科学家寻找「薛定谔猫」的努力开始取得一些进展——人们在超导体 <span class="reg">(superconductor)</span>、超流体 <span class="reg">(superfluid)</span> 等低温下的特殊物质状态中观察到了诸如磁通量子化 <span class="reg">(flux quantization)</span> 等**宏观量子现象**。如正文中解释，这些效应起源于超导与超流体中大量微观粒子凝聚形成的宏观基态。那我们能否由此宣称量子力学在宏观尺度必定成立呢？
 
-七十年代末至八十年代，彼时已因解释 <span class="reg"><sup>3</sup>He</span> 超流现象而闻名学界（并后来因此获得 <span class="num">2003</span> 年诺贝尔物理学奖）的理论物理学家 <span class="reg">Anthony Leggett</span> 在一系列报告与论文 <span class="reg"><a href="https://jphyscol.journaldephysique.org/en/articles/jphyscol/abs/1978/06/jphyscol197839C6555/jphyscol197839C6555.html"> [Leggett, 1978;</a> <a href="https://academic.oup.com/ptps/article/doi/10.1143/PTP.69.80/1896307">1980;</a> <a href="https://archive.org/details/essaysintheoreti0000unse/page/94/mode/2up?q=%22all+that%22">1984a;</a> <a href="https://www.tandfonline.com/doi/abs/10.1080/00107518408210731">1984b;</a> <a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">1987]</a></span> 中提出了一个犀利而深刻的观点：他认为此前人们在超导、超流等体系中发现的所谓「宏观量子现象」与真正意义上的宏观量子力学存在**本质区别**——前者仅是微观量子物理机制的宏观累积，而后者的确凿验证需要在具体实验中观测到一个**宏观物理变量**无歧义的量子力学行为——例如**宏观量子隧穿** <span class="reg">(macroscopic quantum tunneling)</span> 或者**宏观量子相干** <span class="reg">(macroscopic quantum coherence)</span>。
+七十年代末至八十年代，彼时已因解释 <span class="reg"><sup>3</sup>He</span> 超流现象而闻名学界（并后来因此获得 <span class="reg">2003</span> 年诺贝尔物理学奖）的理论物理学家 <span class="reg">Anthony Leggett</span> 在一系列报告与论文 <span class="reg"><a href="https://jphyscol.journaldephysique.org/en/articles/jphyscol/abs/1978/06/jphyscol197839C6555/jphyscol197839C6555.html"> [Leggett, 1978;</a> <a href="https://academic.oup.com/ptps/article/doi/10.1143/PTP.69.80/1896307">1980;</a> <a href="https://archive.org/details/essaysintheoreti0000unse/page/94/mode/2up?q=%22all+that%22">1984a;</a> <a href="https://www.tandfonline.com/doi/abs/10.1080/00107518408210731">1984b;</a> <a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">1987]</a></span> 中提出了一个犀利而深刻的观点：他认为此前人们在超导、超流等体系中发现的所谓「宏观量子现象」与真正意义上的宏观量子力学存在**本质区别**——前者仅是微观量子物理机制的宏观累积，而后者的确凿验证需要在具体实验中观测到一个**宏观物理变量**无歧义的量子力学行为——例如**宏观量子隧穿** <span class="reg">(macroscopic quantum tunneling)</span> 或者**宏观量子相干** <span class="reg">(macroscopic quantum coherence)</span>。
 
 > <p class="quote">
 > [...] the phenomena in superfluid systems which are conventionally cited as evidence for the validity of quantum mechanics on the macroscopic scale do not in themselves require the introduction of high-<i>D</i> (disconnectivity) states. To put it another way, the explanation of these phenomena in the standard quantum-mechanical way requires only that one- and two-particle correlations are predicted correctly by Schrödinger’s equation; it does <i>not</i> require that <i>N</i>-particle correlations are correctly predicted, except in so far as they are factorizable in terms of 1- and 2-particle correlations.&nbsp; <a href="https://academic.oup.com/ptps/article/doi/10.1143/PTP.69.80/1896307"> [Leggett, 1980] </a> </p>
@@ -111,7 +111,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 
 <span class="reg">Leggett</span> 的新颖提议引起了当时任教于加州大学伯克利分校的 <span class="reg">John Clarke</span> 及其实验室博士后 <span class="reg">Michel Devoret</span> 和博士生 <span class="reg">John Martinis</span> 的极大兴趣。<span class="reg">Clarke</span> 的研究组在超导约瑟夫森电路的制备与测量方面有丰富的经验，而彼时刚从法国取得博士学位的 <span class="reg">Devoret</span> 则带来了此前于低温核磁共振研究中积累的稀释制冷与微波电子学技术。三人当即决定在伯克利的实验室开始这项令人期待的研究。
 
-首先，三位科学家选择了一个与 <span class="reg">Leggett</span> 的最初设想方案稍有不同的实验系统——外加偏置电流的约瑟夫森结。所有可行方案的共同点是：实验电路必须具备**非线性** <span class="reg">(nonlinearity)</span> 或**失谐性** <span class="reg">(anharmonicity)</span> 方允许研究者通过相对简单的物理测量对量子力学与经典物理规律作出明确区分——这条规则至今仍在人造原子或量子比特的设计中被普遍沿用。
+首先，三位科学家选择了一个与 <span class="reg">Leggett</span> 的最初设想方案稍有不同的实验系统——外加偏置电流的约瑟夫森结。所有可行方案的共同点是：实验电路必须具备**非线性** <span class="reg">(nonlinearity)</span> 或**非谐性** <span class="reg">(anharmonicity)</span> 方允许研究者通过相对简单的物理测量对量子力学与经典物理规律作出明确区分——这条规则至今仍在人造原子或量子比特的设计中被普遍沿用。
 
 > <p class="quote">
 > [...] it is of central importance that the well be anharmonic. The quadratic potential of a simple harmonic oscillator leads to spacing between energy levels that is independent of level number for all quantum numbers. Conversely, transitions between levels of an anharmonic well with small quantum numbers can be straightforwardly resolved, unlike for large quantum numbers where Bohr’s correspondence principle should always hold. As Leggett has emphasized so eloquently, the use of an anharmonic oscillator enables one “to evade the correspondence limit”.&nbsp; <a href="https://www.nature.com/articles/s41567-020-0829-5"> [Martinis <i>et al.</i>, 2020] </a></p>
@@ -121,13 +121,13 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 > <p class="quote">
 > Quantum effects are usually unobservable on the macroscopic scale because they involve microscopic quantities. Macroscopic quantum tunneling is a particularly sensitive technique to reveal them because a single tunneling event switches the system from the zero voltage state [...] to the gap voltage state [...] As in a Geiger counter, these states are easily distinguished; the only competing classical process giving “false counts” is thermal activation, which can be “frozen out” in a well-understood way by cooling to a sufficiently low temperature.&nbsp; <a href="https://archive.org/details/introductiontosu0000mich/page/260/mode/2up?q=geiger"> [Tinkham, 1996] </a></p>
 
-最后，量子物理实验往往需要苛刻的环境条件——对于人造量子电路，两项最核心的要求是**电磁屏蔽**与**低温**，目的都是尽量隔绝外部环境对量子系统各种形式的噪声干扰。其中，实验温度对应的热噪声需要远低于量子化能级之间的跃迁能量——现实中一般在 <span class="num">10</span><span class="reg"> mK</span> 量级，能且仅能通过**稀释制冷** <span class="reg">(dilution refrigeration)</span> 技术连续维持。今天的超导量子计算实验仍旧遵循相同的温度要求（注：它除了必须远低于电路材料自身的超导临界温度外与后者并无直接关联）<span style="margin-left:-0.5em">。</span>
+最后，量子物理实验往往需要苛刻的环境条件——对于人造量子电路，两项最核心的要求是**电磁屏蔽**与**低温**，目的都是尽量隔绝外部环境对量子系统各种形式的噪声干扰。其中，实验温度对应的热噪声需要远低于量子化能级之间的跃迁能量——现实中一般在 <span class="reg">10</span><span class="reg"> mK</span> 量级，能且仅能通过**稀释制冷** <span class="reg">(dilution refrigeration)</span> 技术连续维持。今天的超导量子计算实验仍旧遵循相同的温度要求（注：它除了必须远低于电路材料自身的超导临界温度外与后者并无直接关联）<span style="margin-left:-0.5em">。</span>
 
 > <p class="quote">
 > Our usual observations on a billiard ball or Brownian particle reveal classical behavior because Planck’s constant <i>ħ</i> is so tiny. However, at least in principle there is nothing to prevent us from designing an experiment in which these objects are quantum mechanical. To do so we have to satisfy two criteria: (i) the thermal energy must be small compared with the separation of the quantized energy levels, and (ii) the macroscopic degree of freedom must be sufficiently decoupled from all other degrees of freedom if the lifetime of the quantum states is to be longer than the characteristic time scale of the system.&nbsp; <a href="https://www.science.org/doi/10.1126/science.239.4843.992"> [Clarke <i>et al.</i>, 1988] </a> </p>
 
 明确以上主要设计思路后，三人小组在余下的两年时间内完成了实验搭建、样品制备以及所有关键结果的测量与分析，并用两篇实验论文
-<span class="reg"> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.55.1908">[Devoret <i>et al.</i>, 1985;</a> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.55.1543">Martinis <i>et al.</i>, 1985]</a></span> 汇报了宏观量子隧穿与能级量子化的发现。他们随后在 <span class="num">1987</span> 年发表的另一篇总结性论文中如此概述自己的研究动机与结论——
+<span class="reg"> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.55.1908">[Devoret <i>et al.</i>, 1985;</a> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.55.1543">Martinis <i>et al.</i>, 1985]</a></span> 汇报了宏观量子隧穿与能级量子化的发现。他们随后在 <span class="reg">1987</span> 年发表的另一篇总结性论文中如此概述自己的研究动机与结论——
 
 > <p class="quote">
 > Do macroscopic degrees of freedom obey quantum mechanics? Until recently, the answer to this question was beyond the reach of experimentalists. Quantum mechanics survived at the macroscopic level only through collective phenomena such as superfluidity, superconductivity, flux quantization, or the Josephson effect. Although these phenomena are conventionally described as being “macroscopic,” they are in fact manifestations on a macroscopic scale of the coherent addition of <i>microscopic</i> variables each governed by quantum mechanics. [...] This paper describes experiments on a system that, although it contains a large number of atomic constituents, is atomlike in the sense that it has such a single degree of freedom behaving quantum mechanically.&nbsp; <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.35.4682"> [Martinis <i>et al.</i>, 1987] </a></p>
@@ -151,22 +151,22 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 
 简言之，科学家从此可以基于超导人造原子开发更多具有基础研究或实际应用价值的量子电路；但至于量子力学的宏观检验，这项发现仅仅是一个起始——为了充分理解经典物理与量子物理的边界，我们还必须找到量子力学在宏观尺度有效性的**局限证据**，例如观测到物体不同经典状态有限时间寿命的量子相干叠加。
 
-<span class="num">2000</span> 年前后，日本、欧洲、
+<span class="reg">2000</span> 年前后，日本、欧洲、
 美国的多个实验室陆续在几类不同构型的超导人造原子中观察到了宏观量子相干现象。此后，超导人造原子有了另一个更为人熟知的名字——**超导量子比特** <span class="reg">(superconducting qubit)</span>。
 
-<span class="num">2004</span> 年，耶鲁大学的研究团队首次在超导电路中观察到了量子比特与微波光子的量子化相互作用；这一实验体系及其物理原理被命名为**电路量子电动力学** <span class="reg">(circuit quantum electrodynamics)</span>。
+<span class="reg">2004</span> 年，耶鲁大学的研究团队首次在超导电路中观察到了量子比特与微波光子的量子化相互作用；这一实验体系及其物理原理被命名为**电路量子电动力学** <span class="reg">(circuit quantum electrodynamics)</span>。
 
-超导量子比特与电路量子电动力学的发明开启了量子信息技术的新篇章——光子与人造原子从此可以在固态电路系统中被灵活地设计与组合，作为宏观量子机器的两类基本元件；科学家们也开始严肃思考下一个更宏伟的实验目标——**超导量子计算机**。
+超导量子比特与电路量子电动力学的发明开启了量子信息技术的新篇章——光子与人造原子从此可以在固态电路系统中被灵活地设计与组合，作为宏观量子机器的两类基本元件；科学家们也开始严肃思考下一个更长远的研究目标——**超导量子计算机**。
 
 量子计算与人造原子的概念设想几乎同时起源于八十年代初，但两个研究领域直至九十年代末才发生明显的交汇——超导量子电路作为量子计算的潜在硬件平台开始受到广泛关注。谈及量子计算，信息科学背景的研究者也许会首先被其解决特定问题的算法优势所吸引；但在物理学的视角下，量子计算机本质是一个高度复杂的人造量子系统，它的物理实现会将针对量子力学适用范围的实验检验引向新的维度。
 
-<span class="num">2007</span> 年 <span class="num">5</span> 月，<span class="reg">Devoret</span> 在出任法兰西学院 <span class="reg">(Collège de France)</span> 介观物理学讲席教授的就任演讲 <span class="reg">(leçon inaugurale)</span> 最后阐述了人造量子机器对于人们探索量子力学复杂性前沿的特别意义——
+<span class="reg">2007</span> 年 <span class="reg">5</span> 月，<span class="reg">Devoret</span> 在出任法兰西学院 <span class="reg">(Collège de France)</span> 介观物理学讲席教授的就任演讲 <span class="reg">(leçon inaugurale)</span> 最后阐述了人造量子机器对于人们探索量子力学复杂性前沿的特别意义——
 
 > <p class="quote">
 > Je voudrais terminer sur une question donc très hasardeuse, mais qui a motivé en fait une partie des expériences initiales en physique mésoscopique : en préparant des systèmes de très grande complexité, il serait peut-être possible de découvrir un nouvel axe — un axe dans le suivant lequel la mécanique quantique cesserait d’être valable. De nombreux physiciens sont complètement en désaccord avec cette idée ; ils considèrent que la mécanique quantique est le socle de base sur lequel doit être construite toute la physique et ne peut pas être remis en question. D’autres physiciens pensent au contraire que c’est une théorie préliminaire provisoire, un peu comme l’élasticité l’était au début de ce siècle.&nbsp; <a href="https://youtu.be/4Ln1BzTD38M?si=oisEdUilgldbDYzH&t=3369"> [Devoret, 2008]</a></p>
 >
 > <p class="quote-transl">
-> Transl.&nbsp; <i>I would like to end with a therefore very uncertain question, which, in reality, nevertheless motivated some of the initial experiments in mesoscopic physics: by preparing systems of very high complexity, it might be possible to discover a new axis—an axis along which quantum mechanics would cease to be valid. Many physicists completely disagree with this idea; they consider quantum mechanics as the basic foundation which all physics must be built on and cannot be questioned. Other physicists, on the contrary, regard it as a provisional, preliminary theory, somewhat like elasticity was at the beginning of this century. </i> </p>
+> Transl.&nbsp; <i>I would like to end with a therefore very uncertain question, which, in reality, nevertheless motivated some of the initial experiments in mesoscopic physics: by preparing systems of very high complexity, it might be possible to discover a new axis—an axis along which quantum mechanics would cease to be valid. Many physicists completely disagree with this idea; they consider quantum mechanics as the basic foundation which all physics must be built on and cannot be questioned. Other physicists, on the contrary, regard it as a provisional, preliminary theory, somewhat like elasticity was at the beginning of this century.</i>  </p>
 
 换言之，作为应用研究目标的量子机器同时也是探究量子理论基本问题的强大实验工具——在此意义下，基础科学的未知边界需要通过工程方法得以扩展乃至重新定义。
 
@@ -174,16 +174,15 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 <p align="center"> ∗ &emsp; ∗ &emsp; ∗ </p>
 
 
-<span class="num">2010</span> 年代以来，量子计算正逐渐从纯粹的学术研究过渡向需要**学术界**与**工业界**互相协作的系统工程。最近十年间，<span class="reg">Martinis</span> 与 <span class="reg">Devoret</span> 都不同程度地领导或参与了工业界实验室的量子计算项目。可当被问及对于量子计算机的兴趣与展望，两位超导量子电路的共同发明人最多提及的还是在复杂人造系统中检验、突破量子力学宏观极限的「初心」——
+<span class="reg">2010</span> 年代以来，量子计算正逐渐从纯粹的学术研究过渡向需要**学术界**与**工业界**互相协作的系统工程。最近十年间，<span class="reg">Martinis</span> 与 <span class="reg">Devoret</span> 都不同程度地领导或参与了工业界实验室的量子计算项目。可当被问及对于量子计算机的兴趣与展望，两位超导量子电路的共同发明人最多提及的还是在复杂人造系统中检验、突破量子力学宏观极限的「初心」——
 
 > <p class="quote">
 > At the scientific level, we were testing in a practical manner whether the ideas of quantum mechanics and computing were really correct at a huge scale. Physicists expected it to work, especially the theorists, but the job of experimentalists is to test whether it actually works. [...] So, for me, the most important part is the test of quantum mechanics. That’s the real practical reason I wanted to do the experiment.&nbsp;<a href="https://repository.aip.org/node/129661"> [Martinis, 2021]</a> </p>
 >
 > <p class="quote">
-> Although there are experiments that test the fundamental principles of quantum mechanics and agree with theoretical predictions at the level of many decimals, it’s not impossible that there are some limitations in the postulates of quantum theory that will manifest themselves in new, specially designed experiments, for instance those testing large-scale entanglement. [...] Large-scale quantum computers are prime tools
-in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [Devoret, 2021]</a> </p>
+> Although there are experiments that test the fundamental principles of quantum mechanics and agree with theoretical predictions at the level of many decimals, it’s not impossible that there are some limitations in the postulates of quantum theory that will manifest themselves in new, specially designed experiments, for instance those testing large-scale entanglement. [...] Large-scale quantum computers are prime tools in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [Devoret, 2021]</a> </p>
 
-从 <span class="num">1985</span> 年至今，超导量子电路的理论设计与实验方法都已历经了若干代的演化改进。目前人们能够证实：在包含几十到上百个人造原子的量子电路实验中，标准形式的量子力学大概率仍是成立的。但它在更大规模的量子系统中也一定成立吗？为了给出确定回答，人们需要不断测试越来越复杂的量子机器——直至现有的量子理论出现与实验结果无法调和的困难为止。
+从 <span class="reg">1985</span> 年至今，超导量子电路的理论设计与实验方法都已历经了若干代的演化改进。目前人们基本能够证实：在包含几十到上百个人造原子的量子电路中，标准形式的量子力学大概率仍是成立的。但它在更大规模的量子系统中也一定成立吗？为了给出确定回答，人们需要不断测试越来越复杂的量子机器——直至现有的量子理论出现与实验结果无法调和的困难为止。
 
 在这条探索道路上，设计、制造大型量子机器的技术挑战是显然的；但我们同时应该看到：更现实的挑战并不止于技术层面。如今，比较复杂的量子计算实验经常需要几十到几百名研究人员共同参与；在可预见的将来，这一数字以及相应的资源需求还将继续增长，甚至有可能接近所谓的「大科学」规模。上世纪以来某些研究领域（例如实验高能物理）的历史经验告诉我们：对于以**规模扩展** <span class="reg">(scaling-up)</span> 为主要度量指标的科研方向，它们的发展极限往往更直接受制于有限的经济资源——这本质上是现代科学公共社会属性的一种具体呈现。
 
@@ -194,7 +193,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 我想这大概也是诺贝尔物理学奖希望向世界传递的信息。量子力学的下一个百年，让我们一起努力。
 
 
-<p align="right"><span class="num">2025</span> 年 <span class="num">10</span> 月于圣巴巴拉和纽约<br><br>  </p>
+<p align="right"><span class="reg">2025</span> 年 <span class="reg">10</span> 月于圣巴巴拉和纽约<br><br></p>
 
 ---
 #### 原始文献列表
@@ -213,7 +212,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 <p class="cite">
-	<a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">[Devoret <i>et al.</i>, 1987]</a> &ensp;M.H. Devoret, J.M. Martinis, D. Estève, & J. Clarke, “Experimental observation of the quantum behavoir of a macroscopic degree of freedom” in <i>Le hasard et la matiére / Chance and Matter</i>, École d’été de physique théorique, Les Houches, Session XLVI, 1986, edited by J. Souletie, J. Vannimenus, & R. Stora (Amsterdam: North-Holland, 1987), pp. 509–523.
+	<a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">[Devoret <i>et al.</i>, 1987]</a> &ensp;M.H. Devoret, J.M. Martinis, D. Estève, & J. Clarke, “Experimental observation of the quantum behavoir of a macroscopic degree of freedom” in <i>Le hasard et la matiére / Chance and Matter</i>, École d’été de physique théorique, Les Houches, Session XLVI, 1986, eds. J. Souletie, J. Vannimenus, & R. Stora (Amsterdam: North-Holland, 1987), pp. 509–523.
 </p>
 
 <p class="cite">
@@ -221,7 +220,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 <p class="cite">
-	<a href="https://repository.aip.org/node/129778">[Devoret, 2021]</a> &ensp;M.H. Devoret, interview by D. Zierler, 18 December 2024, Oral History Interviews, Niels Bohr Library & Archives, American Institute of Physics (2021).
+	<a href="https://repository.aip.org/node/129778">[Devoret, 2021]</a> &ensp;M.H. Devoret, interview by D. Zierler, 7 April 2021, Oral History Interviews, Niels Bohr Library and Archives, American Institute of Physics.
 </p>
 
 <p class="cite">
@@ -233,7 +232,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 <p class="cite">
-	<a href="https://archive.org/details/essaysintheoreti0000unse/page/94/mode/2up?q=%22all+that%22">[Leggett, 1984a]</a> &ensp;A.J. Leggett, “Macroscopic quantum tunnelling and all that” in <i>Essays in Theoretical Physics: In Honour of Dirk ter Haar</i>, edited by W.E. Parry (Oxford: Pergamon, 1984), pp. 95–127.
+	<a href="https://archive.org/details/essaysintheoreti0000unse/page/94/mode/2up?q=%22all+that%22">[Leggett, 1984a]</a> &ensp;A.J. Leggett, “Macroscopic quantum tunnelling and all that” in <i>Essays in Theoretical Physics: In Honour of Dirk ter Haar</i>, ed. W.E. Parry (Oxford: Pergamon, 1984), pp. 95–127.
 </p>
 
 <p class="cite">
@@ -241,7 +240,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 <p class="cite">
-	<a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">[Leggett, 1987]</a> &ensp;A.J. Leggett, “Quantum mechanics at the macroscopic level” in <i>Le hasard et la matiére / Chance and Matter</i>, École d’été de physique théorique, Les Houches, Session XLVI, 1986, edited by J. Souletie, J. Vannimenus, & R. Stora (Amsterdam: North-Holland, 1987), pp. 395–506.
+	<a href="https://www.google.com/books/edition/Chance_and_Matter/b47vAAAAMAAJ?hl=en">[Leggett, 1987]</a> &ensp;A.J. Leggett, “Quantum mechanics at the macroscopic level” in <i>Le hasard et la matiére / Chance and Matter</i>, École d’été de physique théorique, Les Houches, Session XLVI, 1986, eds. J. Souletie, J. Vannimenus, & R. Stora (Amsterdam: North-Holland, 1987), pp. 395–506.
 </p>
 
 <p class="cite">
@@ -257,7 +256,7 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 <p class="cite">
-	<a href="https://repository.aip.org/node/129661">[Martinis, 2021]</a> &ensp;J.M. Martinis, interview by D. Zierler, 18 December 2024, Oral History Interviews, Niels Bohr Library & Archives, American Institute of Physics (2021).
+	<a href="https://repository.aip.org/node/129661">[Martinis, 2021]</a> &ensp;J.M. Martinis, interview by D. Zierler, 4 May 2021, Oral History Interviews, Niels Bohr Library and Archives, American Institute of Physics.
 </p>
 
 <p class="cite">
@@ -265,6 +264,6 @@ in this endeavor [...]&nbsp;<a href="https://repository.aip.org/node/129778"> [D
 </p>
 
 ---
-本文作者为清华大学本科校友；<span class="num">2022</span> 年于耶鲁大学应用物理系取得博士学位；现为加州大学圣巴巴拉分校物理系博士后研究员。 <br><br>
+本文作者为清华大学本科校友；<span class="reg">2022</span> 年于耶鲁大学应用物理系取得博士学位；现为加州大学圣巴巴拉分校物理系博士后研究员。 <br><br>
 
 

@@ -12,7 +12,7 @@ article,
 
 article {
   .subtitle {
-    font-size: 1.35em;
+    font-size: 1.3em;
     font-weight: normal;
     margin: 0.67em;
   }
@@ -77,11 +77,42 @@ p {
 .num {
   letter-spacing: 0px;
 }
+
+.toc {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.toc-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.toc-cnt {
+  text-align:left;
+  letter-spacing: 0px;
+  font-family: Noto Sans; 
+  line-height: 1.5;
+}
+.toc-lbl {
+  text-align:right;
+  letter-spacing: 0px;
+  font-family: Noto Sans; 
+  line-height: 1.5;
+}
+
 p.quote {
   letter-spacing: 0px;
   font-size:0.95em;
   font-family: Noto Sans;
   line-height: 1.5;
+  margin-bottom: 1.0em; 
+}
+
+p.quote-cn {
+  letter-spacing: 0.25px;
+  font-size:0.98em;
+  line-height: 1.6;
   margin-bottom: 1.0em; 
 }
 
@@ -101,6 +132,15 @@ p.quote-transl {
   margin-bottom: 1.1em; 
 }
 
+p.quote-transl-ttl {
+  letter-spacing: 0px;
+  font-family: Noto Sans;
+  font-size:0.87em;
+  line-height: 1.5;
+  margin-bottom: 1.1em; 
+  margin-top: 1.2em; 
+}
+
 p.play {
   margin-bottom: -0.25em; 
   letter-spacing: 0px;
@@ -108,6 +148,66 @@ p.play {
   font-family: Noto Sans; 
   margin-left: 1em; 
   text-indent:-1em;
+  line-height: 1.5;
+}
+
+p.playlist {
+  margin-bottom: 1.0em; 
+  letter-spacing: 0px;
+  font-size:.95em; 
+  font-family: Noto Sans; 
+  margin-left: 1.25em; 
+  text-indent: -1.25em;
+  line-height: 1.5;
+}
+
+p.playlist-ttl {
+  margin-bottom: 1.0em; 
+  margin-top: 3em;
+  letter-spacing: 0px;
+  font-size:1.0em; 
+  font-family: Noto Sans; 
+  line-height: 1.5;
+}
+
+p.playlist-sub {
+  margin-bottom: 1.0em; 
+  letter-spacing: 0px;
+  font-size:.95em; 
+  font-family: Noto Sans; 
+  margin-left: 1.25em; 
+  text-indent: 0em;
+  line-height: 1.5;
+}
+
+p.concert {
+  margin-top: 2.0em; 
+  margin-bottom: 1.0em; 
+  letter-spacing: 0px;
+  font-size:1.0em; 
+  font-family: Noto Sans; 
+  margin-left: 1.25em; 
+  text-indent:-1.25em;
+  line-height: 1.5;
+}
+
+p.concert-hall {
+  margin-top: 1.0em; 
+  margin-bottom: 0.5em; 
+  letter-spacing: 0px;
+  font-size:1.0em; 
+  font-family: Noto Sans; 
+  line-height: 1.5;
+}
+
+p.concert-info {
+  margin-top: -0.75em; 
+  margin-bottom: 1.0em; 
+  color: gray;
+  letter-spacing: 0px;
+  font-size:0.9em; 
+  font-family: Noto Sans; 
+  margin-left: 1.2em; 
   line-height: 1.5;
 }
 
@@ -158,10 +258,10 @@ p.cn {
 }
 p.ttl-ctr {
   text-align:center;
-  font-size:1.05em;
+  font-size:1.15em;
   font-weight: 600;
-  margin-bottom:1.2em;
-  margin-top:3em;
+  margin-bottom:1.0em;
+  margin-top:2.0em;
 }
 p.ttl-lft {
   font-size:1.05em;
@@ -232,8 +332,8 @@ p.note-cn {
   letter-spacing: 0.25px;
   margin-top:2em; 
   margin-bottom:2em;
-  margin-left:0.5em; 
-  margin-right:0.5em;
+  margin-left:0.0em; 
+  margin-right:0.0em;
   line-height: 1.5;
 }
 p.quote-list {
