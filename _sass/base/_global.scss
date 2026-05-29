@@ -27,6 +27,8 @@ body {
   font-size: $font-size;
   word-wrap: break-word;
   letter-spacing: 0.25px;
+  max-width: 900px;
+  margin: auto;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
