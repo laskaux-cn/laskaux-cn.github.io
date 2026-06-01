@@ -47,7 +47,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 
 <span class="reg" style="margin-right:-0.03em">1985</span> 年 <span class="reg" style="margin-right:-0.03em;margin-left:-0.03em">10</span> 月，彼时正于加州大学伯克利分校工作的三位年轻科学家（也是今年的三位诺贝尔物理学奖得主）发表了一组极具开创性研究结果<span style="margin-right:0.165em;margin-left: 0.165em">——</span>通过严格实验，他们在**超导电路**中首次发现了遵循量子力学定律的宏观物理变量。
 
-超导是一种物质在低温或高压下的特殊状态，它最为人熟知的性质是「消失」的直流电阻。在超导体中，原本独立运动的电子两两结合成为**库珀对** <span class="reg" style="margin-right:0.05em;margin-left: -0.0em">(Cooper pair)</span><span style="margin-right:0.0em;margin-left: 0.0em">——</span>它们是超导电流的微观载体；数以亿万计的库珀对会凝聚于一个**宏观基态**，其波函数拥有一个相位变量，能够描述大量库珀对的集体运动。
+超导是一种物质在低温或高压下的特殊状态，它最为人熟知的性质是「消失」的直流电阻。在超导体中，原本独立运动的电子两两结合成为**库珀对** <span class="reg" style="margin-right:0.15em;margin-left:-0.1em">(Cooper pair)</span><span style="margin-right:0.0em;margin-left: 0.0em">——</span>它们是超导电流的微观载体；数以亿万计的库珀对会凝聚于一个**宏观基态**，其波函数拥有一个相位变量，能够描述大量库珀对的集体运动。
 
 在日常经验里，我们对这种表现微观粒子集体运动的宏观变量其实并不陌生。一个简单的例子是质心运动<span style="margin-right:0.165em;margin-left: 0.165em">——</span>小球、摆锤之类的宏观物体都由微观尺度的原子组成；但在许多经典力学问题中，人们往往只关心物体质心所代表的原子集体运动模式，而不会追踪每个原子的单独轨迹或者众多原子之间的相对移动。因此在直观上，库珀对凝聚体的相位变量可以类比于小球或摆锤的质心坐标<span style="margin-right:0.165em;margin-left:0.165em">——</span>二者本质皆为大量微观粒子集体行为的宏观表述。
 
@@ -114,7 +114,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach <br>
 > <p class="quote">
 > [...] it is of central importance that the well be anharmonic. The quadratic potential of a simple harmonic oscillator leads to spacing between energy levels that is independent of level number for all quantum numbers. Conversely, transitions between levels of an anharmonic well with small quantum numbers can be straightforwardly resolved, unlike for large quantum numbers where Bohr’s correspondence principle should always hold. As Leggett has emphasized so eloquently, the use of an anharmonic oscillator enables one “to evade the correspondence limit”.&nbsp; <a href="https://www.nature.com/articles/s41567-020-0829-5"> [Martinis <i>et al.</i>, 2020] </a></p>
 
-在此基础之上，偏置电流 <span class="reg">(bias current)</span> 的设置为实验系统引入了巧妙的**测量机制**<span style="margin-right:0.165em;margin-left: 0.165em">——</span>超导相位变量差的逃逸或隧穿被转换和「放大」为一个更容易直接测量的宏观电压信号。测量方法的不断创新改进也成为超导量子电路四十年来的发展主线之一。
+在此基础之上，偏置电流 <span class="reg" style="margin-left:0.195em;margin-right:0.195em">(bias current)</span> 的设置为实验系统引入了巧妙的**测量机制**<span style="margin-right:0.165em;margin-left: 0.165em">——</span>超导相位变量差的逃逸或隧穿被转换和「放大」为一个更容易直接测量的宏观电压信号。测量方法的不断创新改进也成为超导量子电路四十年来的发展主线之一。
 
 > <p class="quote">
 > Quantum effects are usually unobservable on the macroscopic scale because they involve microscopic quantities. Macroscopic quantum tunneling is a particularly sensitive technique to reveal them because a single tunneling event switches the system from the zero voltage state [...] to the gap voltage state [...] As in a Geiger counter, these states are easily distinguished; the only competing classical process giving “false counts” is thermal activation, which can be “frozen out” in a well-understood way by cooling to a sufficiently low temperature.&nbsp; <a href="https://archive.org/details/introductiontosu0000mich/page/260/mode/2up?q=geiger"> [Tinkham, 1996] </a></p>

@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 31 May 2026 22:04:00 -0700</pubDate>
+    <pubDate>Mon, 01 Jun 2026 00:38:36 -0700</pubDate>
     
       <item>
         <title>A–Z</title>
@@ -184,7 +184,7 @@
 &lt;p&gt;离开大学校园后，&lt;span class=&quot;reg&quot; style=&quot;margin-left:-0.14em;margin-right:-0.02em&quot;&gt;Trevor&lt;/span&gt; 开始全职写作，试图用更加面向大众的方式实践自己的人文教育理想。他的书与文章涉及文学、艺术、科技、政治等很多话题，但最动人的部分还是对美国高等教育和学术体系的反思&lt;span style=&quot;margin-left:0.165em;margin-right: 0.165em&quot;&gt;——&lt;/span&gt;我可以感受到那些理智文字背后的澎湃心绪与难舍眷恋。他在一篇回忆自己教职经历的文章最后写道：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p class=&quot;quote&quot;&gt;
+  &lt;p class=&quot;quote&quot; style=&quot;font-size:0.93em&quot;&gt;
 My story is a personal disappointment; the larger story is a tragedy. &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -648,7 +648,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach &lt;br /&gt;
 
 &lt;p&gt;&lt;span class=&quot;reg&quot; style=&quot;margin-right:-0.03em&quot;&gt;1985&lt;/span&gt; 年 &lt;span class=&quot;reg&quot; style=&quot;margin-right:-0.03em;margin-left:-0.03em&quot;&gt;10&lt;/span&gt; 月，彼时正于加州大学伯克利分校工作的三位年轻科学家（也是今年的三位诺贝尔物理学奖得主）发表了一组极具开创性研究结果&lt;span style=&quot;margin-right:0.165em;margin-left: 0.165em&quot;&gt;——&lt;/span&gt;通过严格实验，他们在&lt;strong&gt;超导电路&lt;/strong&gt;中首次发现了遵循量子力学定律的宏观物理变量。&lt;/p&gt;
 
-&lt;p&gt;超导是一种物质在低温或高压下的特殊状态，它最为人熟知的性质是「消失」的直流电阻。在超导体中，原本独立运动的电子两两结合成为&lt;strong&gt;库珀对&lt;/strong&gt; &lt;span class=&quot;reg&quot; style=&quot;margin-right:0.05em;margin-left: -0.0em&quot;&gt;(Cooper pair)&lt;/span&gt;&lt;span style=&quot;margin-right:0.0em;margin-left: 0.0em&quot;&gt;——&lt;/span&gt;它们是超导电流的微观载体；数以亿万计的库珀对会凝聚于一个&lt;strong&gt;宏观基态&lt;/strong&gt;，其波函数拥有一个相位变量，能够描述大量库珀对的集体运动。&lt;/p&gt;
+&lt;p&gt;超导是一种物质在低温或高压下的特殊状态，它最为人熟知的性质是「消失」的直流电阻。在超导体中，原本独立运动的电子两两结合成为&lt;strong&gt;库珀对&lt;/strong&gt; &lt;span class=&quot;reg&quot; style=&quot;margin-right:0.15em;margin-left:-0.1em&quot;&gt;(Cooper pair)&lt;/span&gt;&lt;span style=&quot;margin-right:0.0em;margin-left: 0.0em&quot;&gt;——&lt;/span&gt;它们是超导电流的微观载体；数以亿万计的库珀对会凝聚于一个&lt;strong&gt;宏观基态&lt;/strong&gt;，其波函数拥有一个相位变量，能够描述大量库珀对的集体运动。&lt;/p&gt;
 
 &lt;p&gt;在日常经验里，我们对这种表现微观粒子集体运动的宏观变量其实并不陌生。一个简单的例子是质心运动&lt;span style=&quot;margin-right:0.165em;margin-left: 0.165em&quot;&gt;——&lt;/span&gt;小球、摆锤之类的宏观物体都由微观尺度的原子组成；但在许多经典力学问题中，人们往往只关心物体质心所代表的原子集体运动模式，而不会追踪每个原子的单独轨迹或者众多原子之间的相对移动。因此在直观上，库珀对凝聚体的相位变量可以类比于小球或摆锤的质心坐标&lt;span style=&quot;margin-right:0.165em;margin-left:0.165em&quot;&gt;——&lt;/span&gt;二者本质皆为大量微观粒子集体行为的宏观表述。&lt;/p&gt;
 
@@ -711,7 +711,7 @@ Illustration: Niklas Elmehed © Nobel Prize Outreach &lt;br /&gt;
 [...] it is of central importance that the well be anharmonic. The quadratic potential of a simple harmonic oscillator leads to spacing between energy levels that is independent of level number for all quantum numbers. Conversely, transitions between levels of an anharmonic well with small quantum numbers can be straightforwardly resolved, unlike for large quantum numbers where Bohr’s correspondence principle should always hold. As Leggett has emphasized so eloquently, the use of an anharmonic oscillator enables one “to evade the correspondence limit”.&amp;nbsp; &lt;a href=&quot;https://www.nature.com/articles/s41567-020-0829-5&quot;&gt; [Martinis &lt;i&gt;et al.&lt;/i&gt;, 2020] &lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;在此基础之上，偏置电流 &lt;span class=&quot;reg&quot;&gt;(bias current)&lt;/span&gt; 的设置为实验系统引入了巧妙的&lt;strong&gt;测量机制&lt;/strong&gt;&lt;span style=&quot;margin-right:0.165em;margin-left: 0.165em&quot;&gt;——&lt;/span&gt;超导相位变量差的逃逸或隧穿被转换和「放大」为一个更容易直接测量的宏观电压信号。测量方法的不断创新改进也成为超导量子电路四十年来的发展主线之一。&lt;/p&gt;
+&lt;p&gt;在此基础之上，偏置电流 &lt;span class=&quot;reg&quot; style=&quot;margin-left:0.195em;margin-right:0.195em&quot;&gt;(bias current)&lt;/span&gt; 的设置为实验系统引入了巧妙的&lt;strong&gt;测量机制&lt;/strong&gt;&lt;span style=&quot;margin-right:0.165em;margin-left: 0.165em&quot;&gt;——&lt;/span&gt;超导相位变量差的逃逸或隧穿被转换和「放大」为一个更容易直接测量的宏观电压信号。测量方法的不断创新改进也成为超导量子电路四十年来的发展主线之一。&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p class=&quot;quote&quot;&gt;
